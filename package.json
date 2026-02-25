@@ -1,0 +1,17 @@
+{
+  "name": "votinginfo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "US Voter Registration Requirements for all 50 states + DC",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "build": "npx @11ty/eleventy",
+    "deploy": "npm run build && wrangler deploy --assets=./_site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  },
+  "dependencies": {
+    "wrangler": "^4.68.1"
+  }
+}

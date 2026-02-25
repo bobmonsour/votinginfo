@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+title: "US Voter Registration and Voting Requirements"
+---
+<div class="home">
+	<p class="intro">Voter registration requirements for all 50 US states and Washington DC. Search by state name or use the filters below.</p>
+
+	<div class="controls">
+		<div class="search-wrap">
+			<label for="state-search" class="sr-only">Search states</label>
+			<input type="search" id="state-search" placeholder="Search by state name or abbreviation..." autocomplete="off">
+		</div>
+		<div class="filter-buttons" role="group" aria-label="Filter states">
+			<button class="filter-btn" data-filter="same-day" aria-pressed="false">Same-Day Registration</button>
+			<button class="filter-btn" data-filter="online" aria-pressed="false">Online Registration</button>
+			<button class="filter-btn" data-filter="early" aria-pressed="false">Early Voting</button>
+			<button class="filter-btn" data-filter="no-excuse" aria-pressed="false">No-Excuse Mail-In</button>
+			<button class="filter-btn" data-filter="mail-in" aria-pressed="false">All Mail-In</button>
+		</div>
+	</div>
+
+	<p class="result-count" aria-live="polite">Showing <span id="visible-count">{{ states | length }}</span> of {{ states | length }} (50 states + DC)</p>
+
+	<div class="card-grid">
+		{%- for state in states %}
+		{% include "state-card.njk" %}
+		{%- endfor %}
+	</div>
+</div>

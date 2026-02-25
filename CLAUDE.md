@@ -1,0 +1,42 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Commands
+
+```bash
+npm start          # Dev server with hot reload (eleventy --serve --quiet)
+npm run build      # Build to _site/
+npm run deploy     # Build + deploy to Cloudflare Workers (wrangler deploy)
+```
+
+There are no tests or linting configured.
+
+## Architecture
+
+This is a static site built with **Eleventy 3** (Nunjucks templates) that provides voter registration and voting requirements for all 50 US states + DC. It deploys to **Cloudflare Workers** via Wrangler.
+
+### Data flow
+
+`_data/states.json` is the single source of truth — a 51-entry array where each object has fields like `abbreviation`, `sameDayRegistration`, `registrationMethods`, `earlyVoting`, `mailInVoting`, etc.
+
+Eleventy reads this at build time and feeds it into two template paths:
+
+1. **Home page** (`content/index.njk`) — iterates all 51 states, rendering `_includes/state-card.njk` for each. Each card embeds key data as `data-*` attributes on the DOM element for client-side filtering.
+2. **State detail pages** (`content/states.njk`) — uses Eleventy pagination with `size: 1` to generate 51 pages at `/states/{abbr}/`, each rendered with `_includes/layouts/state.njk`.
+
+### Client-side filtering
+
+`public/js/filter.js` provides search and filtering on the home page without any network calls. It reads `data-*` attributes on `.state-card` elements, combines text search (by state name/abbreviation) with toggle filters using AND logic, and sets `card.hidden` to control visibility. The visible count updates via an `aria-live` region.
+
+### Eleventy config
+
+In `eleventy.config.js`: input is `content/`, includes are `_includes/`, data is `_data/`, output is `_site/`. The `public/` directory is copied through as static assets. A custom `lower` filter is registered for Nunjucks.
+
+### State flags
+
+State cards and detail pages show flag images. The 50 states use `flagcdn.com/w40/us-{abbr}.png` (w80 on detail pages). DC uses a local SVG at `/img/flags/dc.svg`. The source switch is a Nunjucks conditional on `state.abbreviation == "DC"`.
+
+### CSS
+
+Vanilla CSS in `public/css/style.css` using custom properties (e.g. `--navy`, `--green`, `--radius`). Mobile-first responsive: single column cards → 2-col at 640px → auto-fill grid at 1024px. State detail uses flexbox column→row with a sticky sidebar on desktop.

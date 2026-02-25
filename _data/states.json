@@ -1,0 +1,1680 @@
+[
+  {
+    "state": "Alabama",
+    "abbreviation": "AL",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "Driver's license number or last 4 of SSN. If neither, state assigns a unique voter ID number. REAL ID-compliant \"Star\" license satisfies citizenship verification. Naturalized citizens must provide Certificate of Naturalization number, which is verified with USCIS.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "15 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": false,
+      "details": "Alabama does not offer early voting."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Rights restored after completion of sentence, including parole and probation, for most felonies. Some felonies involving moral turpitude require a pardon.",
+    "documentationNeeded": [
+      "Proof of citizenship",
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.alabamavotes.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Alaska",
+    "abbreviation": "AK",
+    "eligibilityAge": "18 (may pre-register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "Alaska driver's license, state ID number, or SSN. Online registration requires a valid AK DL/state ID matching DMV records. Without any of these, must submit a paper form with a copy of a current photo ID, passport, or birth certificate.",
+      "toVote": "ID requested but not strictly required; voters can sign a sworn statement"
+    },
+    "registrationDeadline": "30 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 15 days before election day at designated locations."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting. Any registered voter may request a mail ballot.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon completion of sentence, including incarceration, probation, and parole.",
+    "documentationNeeded": [
+      "Proof of prior prior residence",
+      "Valid ID or sworn statement"
+    ],
+    "officialUrl": "https://www.elections.alaska.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": "Alaska uses a top-four ranked-choice voting system for general elections."
+  },
+  {
+    "state": "Arizona",
+    "abbreviation": "AZ",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "AZ driver's license or non-operating ID number (issued after 10/1/1996), or last 4 of SSN. Documentary proof of citizenship (DPOC) required: AZ DL/ID (post-1996) serves as automatic DPOC; also accepted are U.S. birth certificate, passport, naturalization documents, tribal Certificate of Indian Blood, BIA card, or tribal enrollment number. Without DPOC, registrants using the federal form become \"federal-only\" voters (limited to federal races).",
+      "toVote": "Photo ID required (two forms of non-photo ID also accepted)"
+    },
+    "registrationDeadline": "29 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 27 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse mail-in voting. Voters can join the Active Early Voting List (AEVL) to automatically receive a ballot each election.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon completion of sentence for first-time felony offenders. Two or more felonies require court restoration.",
+    "documentationNeeded": [
+      "Proof of citizenship",
+      "Valid photo ID or two non-photo IDs"
+    ],
+    "officialUrl": "https://azsos.gov/elections",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Arkansas",
+    "abbreviation": "AR",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "Driver's license number or last 4 of SSN. If neither, check the box on the form and the state assigns an ID number. Must present ID when voting for the first time.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "30 days before election",
+    "registrationMethods": {
+      "online": false,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 15 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including any probation or parole, and payment of all fines and fees.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.sos.arkansas.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "California",
+    "abbreviation": "CA",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "CA driver's license or state ID number, or last 4 of SSN. If neither, leave blank and the county assigns a unique number. First-time mail registrants without a verifiable number must show ID when voting (utility bill, bank statement, government document, student ID, or passport accepted).",
+      "toVote": "First-time voters who registered by mail without ID may need to show ID"
+    },
+    "registrationDeadline": "15 days before election (conditional registration available through election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Vote centers open up to 29 days before election day, depending on county."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All registered voters automatically receive a mail ballot. No excuse required.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of prison term. People on probation or parole may vote.",
+    "documentationNeeded": [
+      "Driver's license or state ID number",
+      "Last 4 of SSN if no DL"
+    ],
+    "officialUrl": "https://www.sos.ca.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": "California automatically registers eligible citizens through the DMV (motor voter)."
+  },
+  {
+    "state": "Colorado",
+    "abbreviation": "CO",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "CO driver's license or state ID number, or last 4 of SSN. If neither, check the box on the form; marked \"ID deficient\" and must provide acceptable ID when first voting (passport, military ID, birth certificate, CO ID, or government document). Online registration requires a CO DL or state ID.",
+      "toVote": "ID required for in-person voting; mail ballots verified by signature"
+    },
+    "registrationDeadline": "8 days before election (same-day registration available through election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "All elections conducted primarily by mail. Ballot drop-offs and vote centers available starting 22 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All-mail election state. Every registered voter automatically receives a mail ballot.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of incarceration and parole.",
+    "documentationNeeded": [
+      "Colorado DL or ID number",
+      "Last 4 of SSN if no CO ID"
+    ],
+    "officialUrl": "https://www.coloradosos.gov/pubs/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": "Colorado is a vote-by-mail state; all voters receive ballots by mail."
+  },
+  {
+    "state": "Connecticut",
+    "abbreviation": "CT",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "CT driver's license number or last 4 of SSN. If neither, leave blank; must show ID when first voting (any valid photo ID, or utility bill, bank statement, paycheck, or government document with name and address).",
+      "toVote": "ID requested; voters without ID may sign an affidavit"
+    },
+    "registrationDeadline": "7 days before election (same-day registration available on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting available starting 14 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of incarceration (people on probation or parole may vote).",
+    "documentationNeeded": [
+      "Valid ID or affidavit",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://portal.ct.gov/sots/election-services",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Delaware",
+    "abbreviation": "DE",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "DE driver's license or state ID number, or last 4 of SSN. Must also submit a copy of a supporting document with the registration application: DL/state ID, utility bill, bank statement, paycheck, or government document showing name and address.",
+      "toVote": "ID requested; voters without ID may sign an affidavit"
+    },
+    "registrationDeadline": "24 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting available for 10 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon completion of sentence, including probation and parole. Exceptions for certain offenses.",
+    "documentationNeeded": [
+      "Valid ID or affidavit",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://elections.delaware.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Florida",
+    "abbreviation": "FL",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "FL driver's license or state ID number AND last 4 of SSN. Online registration requires both. If neither, write \"NONE\" and register by paper form; must provide ID before first vote. Florida is considering legislation to require documentary proof of citizenship for new registrants.",
+      "toVote": "Photo and signature ID required"
+    },
+    "registrationDeadline": "29 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting runs for at least 8 days, from 10 to 3 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse mail-in voting (vote-by-mail). Ballot requests valid for one election cycle.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically for most felonies upon completion of all terms of sentence. People convicted of murder or felony sexual offenses must seek clemency.",
+    "documentationNeeded": [
+      "Valid photo and signature ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://dos.fl.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Georgia",
+    "abbreviation": "GA",
+    "eligibilityAge": "18 (may pre-register at 17 and a half)",
+    "idRequirements": {
+      "toRegister": "GA driver's license or state ID number, or last 4 of SSN. If neither, must provide a copy of an acceptable ID document (utility bill, bank statement, paycheck, or government document with name and address). Proof-of-citizenship law exists in statute but has not been implemented.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "29 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Mandatory early voting period of at least 17 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole, and payment of all fines.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of citizenship and residency"
+    ],
+    "officialUrl": "https://sos.ga.gov/elections",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Hawaii",
+    "abbreviation": "HI",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "HI driver's license or state ID number, or last 4 of SSN. Online registration requires a Hawaii DL/state ID. Without any of these, must complete a paper form with a copy of a current photo ID, utility bill, bank statement, or government document with name and address.",
+      "toVote": "ID required for in-person voting; mail ballots verified by signature"
+    },
+    "registrationDeadline": "Same-day registration available through election day (online deadline 29 days before)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "All elections conducted primarily by mail. Voter service centers open 10 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All-mail election state. Every registered voter automatically receives a mail ballot.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon release from incarceration.",
+    "documentationNeeded": [
+      "Hawaii ID number or last 4 of SSN",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://elections.hawaii.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": "Hawaii is a vote-by-mail state."
+  },
+  {
+    "state": "Idaho",
+    "abbreviation": "ID",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "ID driver's license or state ID number, or last 4 of SSN. All in-person registrations (including Election Day) require both a photo ID AND proof of residency. Accepted photo IDs: ID DL, state ID, U.S. passport, tribal photo ID, student photo ID from an Idaho school, concealed weapons license, or military ID. Free state ID cards available from the DMV.",
+      "toVote": "Photo ID required or signed affidavit with personal information"
+    },
+    "registrationDeadline": "25 days before election (same-day registration available on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person absentee voting available at county clerk offices before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon completion of sentence, including probation and parole.",
+    "documentationNeeded": [
+      "Photo ID or affidavit",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://sos.idaho.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Illinois",
+    "abbreviation": "IL",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "IL driver's license or state ID number, or last 4 of SSN. If neither, check the box on the form. For grace period and Election Day registration, two forms of ID required (at least one showing current address). Otherwise, must show ID when first voting in a federal election.",
+      "toVote": "ID required for same-day registration; not required for regular voters"
+    },
+    "registrationDeadline": "28 days before election (grace period registration and same-day registration available)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 40 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse mail-in voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from incarceration. People on probation or parole may vote.",
+    "documentationNeeded": [
+      "Two forms of ID for same-day registration",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.elections.il.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Indiana",
+    "abbreviation": "IN",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "IN driver's license number (BMV-issued) or last 4 of SSN. Online registration requires a valid IN DL or state ID. If neither, must provide a current photo ID or a document with name and address (utility bill, bank statement, paycheck, government document). DL/SSN is matched against state records.",
+      "toVote": "Strict photo ID required (government-issued)"
+    },
+    "registrationDeadline": "29 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 28 days before election day at county election offices."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Rights restored automatically upon release from incarceration.",
+    "documentationNeeded": [
+      "Government-issued photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.in.gov/sos/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": "Indiana has one of the strictest photo ID requirements in the country."
+  },
+  {
+    "state": "Iowa",
+    "abbreviation": "IA",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "IA driver's license or non-operator ID number, or last 4 of SSN. Online registration requires both an IA DL/ID number AND the last 5 digits of SSN (uniquely, five digits rather than four). If neither, county auditor assigns a PIN; must show ID when voting.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "15 days before election (same-day registration available on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 20 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon completion of sentence, including probation, parole, and any special sentence (as of 2020 executive order for most felonies).",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://sos.iowa.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Kansas",
+    "abbreviation": "KS",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "KS driver's license or state ID number, or last 4 of SSN. Kansas has a documentary proof of citizenship requirement (SAFE Act): accepted documents include birth certificate, U.S. passport, naturalization documents, military records showing U.S. birth, and BIA/tribal documents. This law has been subject to extensive litigation. Free photo IDs available from the Division of Vehicles.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "21 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person advance voting begins 20 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse advance mail voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://sos.ks.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Kentucky",
+    "abbreviation": "KY",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "KY driver's license or state ID number, or last 4 of SSN. If neither, leave blank; must show ID when first voting. Free state-issued voter ID available for those without other photo ID.",
+      "toVote": "Photo ID required (free voter ID available)"
+    },
+    "registrationDeadline": "29 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Three days of early voting before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Rights not automatically restored. Must apply for restoration from the governor after completion of sentence.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://elect.ky.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Louisiana",
+    "abbreviation": "LA",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "LA driver's license or special ID card number, or last 4 of SSN (full SSN may be provided voluntarily). First-time mail registrants without DL/SSN must attach a copy of a photo ID or a document showing name and address (utility bill, bank statement, paycheck, government document). Louisiana passed a proof-of-citizenship law in 2024 but has not yet fully implemented it.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "30 days before election (online: 20 days before)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting runs from 14 to 7 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Rights restored 5 years after completion of sentence (incarceration, probation, and parole) without a new felony conviction.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.sos.la.gov/ElectionsAndVoting/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Maine",
+    "abbreviation": "ME",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "ME driver's license number or last 4 of SSN. Without either, can register with other proof of identity: passport, military ID, certified birth certificate, Social Security card, student photo ID from a Maine school, or a document showing name and address (utility bill, bank statement, government document). Proof of both identity AND residency required when registering.",
+      "toVote": "No ID required (first-time voters who registered by mail may need to show ID)"
+    },
+    "registrationDeadline": "Same-day registration available through election day",
+    "registrationMethods": {
+      "online": false,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person absentee voting available at town clerk offices 30–45 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "No disenfranchisement. People in prison may vote (Maine never revokes voting rights for felony conviction).",
+    "documentationNeeded": [
+      "Proof of identity and residency for same-day registration"
+    ],
+    "officialUrl": "https://www.maine.gov/sos/cec/elec/",
+    "lastVerified": "2026-02-24",
+    "notes": "Maine allows incarcerated individuals to vote. Uses ranked-choice voting for federal and gubernatorial elections."
+  },
+  {
+    "state": "Maryland",
+    "abbreviation": "MD",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "MD driver's license or MVA ID card number, or last 4 of SSN. Online registration requires a MD DL or state ID. If neither, leave blank; first-time voters who registered by mail must show photo ID or a document with name and address when voting.",
+      "toVote": "No photo ID required for most voters; first-time voters who registered by mail may need ID"
+    },
+    "registrationDeadline": "21 days before election (same-day registration available during early voting and on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting runs for 8 days, ending the Thursday before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse mail-in voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon release from incarceration.",
+    "documentationNeeded": [
+      "MD DL number or last 4 of SSN",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://elections.maryland.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Massachusetts",
+    "abbreviation": "MA",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "MA driver's license or state ID number, or last 4 of SSN. If neither, leave blank and a number is assigned. First-time registrants advised to include a copy of ID showing name and address; if not provided, must show it at first vote.",
+      "toVote": "ID not generally required; first-time voters who registered by mail may need ID"
+    },
+    "registrationDeadline": "10 days before election (same-day registration available on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting available for general elections, beginning at least 17 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse mail-in voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from incarceration (not while imprisoned for a felony).",
+    "documentationNeeded": [
+      "DL number or last 4 of SSN",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://www.sec.state.ma.us/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Michigan",
+    "abbreviation": "MI",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "MI driver's license or state ID number, or last 4 of SSN. Without these, include a copy of a photo ID, utility bill, bank statement, or government document with name and address. For same-day/Election Day registration, proof of residency required in person. Voters without photo ID may sign an affidavit.",
+      "toVote": "Photo ID requested; voters without ID may sign an affidavit"
+    },
+    "registrationDeadline": "15 days before election (same-day registration available through election day with proof of residency)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "9 days of early voting before election day at designated early voting sites."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from incarceration. People on probation or parole may vote.",
+    "documentationNeeded": [
+      "Photo ID or affidavit",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://mvic.sos.state.mi.us/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Minnesota",
+    "abbreviation": "MN",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "MN driver's license or state ID number, or last 4 of SSN. For Election Day registration, proof of residence required: MN DL/ID with current address, tribal ID (with name, address, photo, and signature), utility bill within 30 days, valid student ID (if college provided housing list), or a registered voter from the same precinct can vouch for residence.",
+      "toVote": "ID required for election-day registration; registered voters not required to show ID"
+    },
+    "registrationDeadline": "21 days before election (same-day registration available on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person absentee voting available 46 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of any incarceration (people on probation, parole, or supervised release may vote).",
+    "documentationNeeded": [
+      "Valid ID or voucher for same-day registration",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.sos.state.mn.us/elections-voting/",
+    "lastVerified": "2026-02-24",
+    "notes": "Minnesota has had same-day registration since 1974."
+  },
+  {
+    "state": "Mississippi",
+    "abbreviation": "MS",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by general election)",
+    "idRequirements": {
+      "toRegister": "MS driver's license or state ID number, or last 4 of SSN. If neither, leave blank and a number is assigned. No online voter registration available. Must show photo ID when voting.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "30 days before election",
+    "registrationMethods": {
+      "online": false,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": false,
+      "details": "Mississippi does not offer early voting."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Disenfranchised for certain felonies listed in the state constitution. Restoration requires a pardon or legislative bill.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.sos.ms.gov/elections",
+    "lastVerified": "2026-02-24",
+    "notes": "Mississippi is one of the few states with no online voter registration and no early voting."
+  },
+  {
+    "state": "Missouri",
+    "abbreviation": "MO",
+    "eligibilityAge": "18 (may register at 17 and a half)",
+    "idRequirements": {
+      "toRegister": "MO driver's license or state ID number, or last 4 of SSN. If neither, leave blank; must show ID when voting. No online voter registration available (paper form only). Voters without photo ID may cast a provisional ballot counted if signature matches registration.",
+      "toVote": "Photo ID required (Missouri or US government-issued)"
+    },
+    "registrationDeadline": "27 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "No-excuse in-person absentee voting available two weeks before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required. No-excuse mail-in option available but ballot must be notarized.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.sos.mo.gov/elections",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Montana",
+    "abbreviation": "MT",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "MT driver's license, state ID number, or last 4 of SSN. Without these, can provide: military ID, tribal photo ID, U.S. passport, MT concealed carry permit, or any other photo ID (including student ID) plus a document showing name and address (utility bill, bank statement, paycheck, government document).",
+      "toVote": "ID required (photo or non-photo with name and address)"
+    },
+    "registrationDeadline": "30 days before election (late registration available through election day at county office)",
+    "registrationMethods": {
+      "online": false,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person absentee voting available at county election offices before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting. Counties with fewer than 800 voters may conduct all-mail elections.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence. People on probation may vote; people on parole for state felonies may not until discharge.",
+    "documentationNeeded": [
+      "Valid ID with name",
+      "Proof of residency for late registration"
+    ],
+    "officialUrl": "https://sosmt.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Nebraska",
+    "abbreviation": "NE",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "NE driver's license or state ID number (required for online registration), or last 4 of SSN. Without DL/SSN, must register by paper form with a copy of a photo ID or a document dated within 60 days showing name and address (utility bill, bank statement, paycheck, government document).",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "18 days before election (11 days before for in-person registration)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person early voting available at county election offices 30 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse early (absentee) voting by mail available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored 2 years after completion of sentence, including probation and parole.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://sos.nebraska.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Nevada",
+    "abbreviation": "NV",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "NV driver's license or state ID number, last 4 of SSN, or tribal ID number (for in-person registration). Tribal ID number is explicitly accepted as a primary alternative to DL/SSN. If none, county clerk assigns a unique ID number. Online registration requires a NV DL or state ID.",
+      "toVote": "ID not required for most voters; first-time voters who registered by mail without ID verification must show ID"
+    },
+    "registrationDeadline": "28 days before election (same-day registration available through election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 17 days before election day and ends 4 days before."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All registered voters automatically receive a mail ballot. No excuse required.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon release from prison.",
+    "documentationNeeded": [
+      "NV DL number or last 4 of SSN",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://www.nvsos.gov/sos/elections",
+    "lastVerified": "2026-02-24",
+    "notes": "Nevada automatically mails ballots to all registered voters."
+  },
+  {
+    "state": "New Hampshire",
+    "abbreviation": "NH",
+    "eligibilityAge": "18",
+    "idRequirements": {
+      "toRegister": "Proof of identity required (not just an ID number): driver's license, government-issued photo ID, passport, or naturalization papers. Under HB 1569 (effective Nov 2024), all first-time registrants must provide hard-copy documentary proof of U.S. citizenship: U.S. passport, birth certificate, or naturalization papers. Proof of domicile also required. Affidavits no longer accepted. Law currently under legal challenge.",
+      "toVote": "Photo ID required; voters without ID may sign a challenged voter affidavit"
+    },
+    "registrationDeadline": "Same-day registration available on election day",
+    "registrationMethods": {
+      "online": false,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": false,
+      "details": "New Hampshire does not offer early voting."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "No disenfranchisement for felony conviction. People in prison may not vote, but rights are not formally revoked and are available immediately upon release.",
+    "documentationNeeded": [
+      "Photo ID or affidavit",
+      "Proof of domicile"
+    ],
+    "officialUrl": "https://www.sos.nh.gov/elections",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "New Jersey",
+    "abbreviation": "NJ",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "NJ driver's license or MVC non-driver ID number, or last 4 of SSN. If neither, leave blank; must show ID before first vote (photo ID, utility bill, bank statement, paycheck, or government document with name and address). Online registration requires a NJ MVC-issued ID.",
+      "toVote": "ID not required for registered voters; first-time voters who registered by mail may need ID"
+    },
+    "registrationDeadline": "21 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person early voting available for 9 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse mail-in voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence (including parole and probation). People currently incarcerated cannot vote.",
+    "documentationNeeded": [
+      "Driver's license number or last 4 of SSN"
+    ],
+    "officialUrl": "https://nj.gov/state/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "New Mexico",
+    "abbreviation": "NM",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "NM driver's license or state ID number, or last 4 of SSN. NM is one of five states that may collect the full 9-digit SSN. First-time mail registrants without verified ID must submit a copy of a photo ID, utility bill, bank statement, paycheck, student ID, or tribal/pueblo-issued ID showing name and address.",
+      "toVote": "ID or verbal/written statement of name, address, and birth year"
+    },
+    "registrationDeadline": "28 days before election (same-day registration available during early voting and on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 28 days before election day at county clerk offices."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon completion of sentence (incarceration). People on parole or probation may vote.",
+    "documentationNeeded": [
+      "DL number or last 4 of SSN",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://www.sos.nm.gov/voting-and-elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "New York",
+    "abbreviation": "NY",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "NY driver's license or DMV-issued state ID number, or last 4 of SSN. If neither, include a copy of a photo ID, utility bill, bank statement, paycheck, or government document with name and address. Online registration requires a NY DMV-issued ID.",
+      "toVote": "ID not generally required; first-time voters who registered by mail without ID verification must show ID"
+    },
+    "registrationDeadline": "25 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting runs for 9 days, ending 2 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from prison (people on parole may vote as of 2021 executive order/law).",
+    "documentationNeeded": [
+      "DL number or last 4 of SSN",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.elections.ny.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "North Carolina",
+    "abbreviation": "NC",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "NC driver's license or NCDMV ID number, or last 4 of SSN. If neither, check the box on the form; must present alternative ID (photo ID from any business, government, or nonprofit including student ID, or a utility bill, bank statement, paycheck, or government document with name and address).",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "25 days before election (same-day registration available during early voting)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "One-stop early voting begins 19 days before election, with same-day registration."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available by request.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including probation, parole, and post-release supervision.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://www.ncsbe.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "North Dakota",
+    "abbreviation": "ND",
+    "eligibilityAge": "18",
+    "idRequirements": {
+      "toRegister": "No voter registration required (only state without registration). Must present valid ID at the polls showing name, current ND residential address, and date of birth: ND driver's license, ND state ID, tribal government-issued ID (including BIA-issued), or long-term care facility certificate. Supplemental documents (utility bill, bank statement, government document) accepted if ID lacks current address.",
+      "toVote": "Valid ID with name, address, and date of birth required"
+    },
+    "registrationDeadline": "No registration required (ID needed at polls)",
+    "registrationMethods": {
+      "online": false,
+      "mail": false,
+      "inPerson": false
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person early voting available at county auditor offices at least 15 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available. Application required.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from incarceration (people on probation or parole may vote).",
+    "documentationNeeded": [
+      "Valid ID with name, date of birth, and residential address"
+    ],
+    "officialUrl": "https://vip.sos.nd.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": "North Dakota is the only US state with no voter registration requirement."
+  },
+  {
+    "state": "Ohio",
+    "abbreviation": "OH",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "OH driver's license or state ID number, or last 4 of SSN. If neither, write \"NONE\" and a unique ID is assigned. BMV registrations require documentary proof of citizenship (birth certificate, passport, or naturalization document); other registration channels (mail, online, board of elections) require only a citizenship attestation. BMV requirement is under legal challenge.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "30 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person early voting begins 29 days before election day at county boards of elections."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting by mail available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from prison.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://www.ohiosos.gov/elections-voting/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Oklahoma",
+    "abbreviation": "OK",
+    "eligibilityAge": "18 (may register at 17 and a half)",
+    "idRequirements": {
+      "toRegister": "OK driver's license or state ID number, or last 4 of SSN. If neither, leave blank. Upon registration approval, the County Election Board mails a free Voter Identification Card usable at the polls. Online registration requires a current OK DL or state ID with signature on file.",
+      "toVote": "Proof of identity required (voter registration card, government-issued photo ID, or other accepted documents)"
+    },
+    "registrationDeadline": "25 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person early voting available on Thursday and Friday before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of full sentence, or after any period of incarceration if not a repeat offender.",
+    "documentationNeeded": [
+      "Valid ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://oklahoma.gov/elections.html",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Oregon",
+    "abbreviation": "OR",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "OR driver's license or state ID number, or last 4 of SSN. Without these, must provide a copy of acceptable ID showing name and address (photo ID, utility bill, bank statement, paycheck, government document). Oregon's automatic voter registration (Motor Voter) only registers those who provided proof of citizenship during DMV transactions.",
+      "toVote": "Signatures verified on mail ballots; no ID needed at drop sites"
+    },
+    "registrationDeadline": "21 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "All elections conducted entirely by mail. Ballots mailed 14–18 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All-mail election state. Every registered voter automatically receives a mail ballot.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically upon release from incarceration.",
+    "documentationNeeded": [
+      "Oregon DL number or last 4 of SSN"
+    ],
+    "officialUrl": "https://sos.oregon.gov/voting/Pages/default.aspx",
+    "lastVerified": "2026-02-24",
+    "notes": "Oregon pioneered vote-by-mail in 1998. Automatic voter registration through the DMV."
+  },
+  {
+    "state": "Pennsylvania",
+    "abbreviation": "PA",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "PA driver's license or PennDOT ID card number, or last 4 of SSN. If neither, check the box; first-time voters must show ID when voting (PA DL, any US government-issued ID, passport, military ID, student ID from PA institution, employee ID, utility bill, bank statement, paycheck, or government document with name and address).",
+      "toVote": "ID required for first-time voters at a new polling place; not required for subsequent visits"
+    },
+    "registrationDeadline": "15 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": false,
+      "details": "Pennsylvania does not offer traditional early voting. In-person mail ballot voting available at county election offices."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse mail-in voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from prison. People on probation or parole may vote.",
+    "documentationNeeded": [
+      "PA DL number or last 4 of SSN",
+      "ID for first-time voters at polling place"
+    ],
+    "officialUrl": "https://www.vote.pa.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Rhode Island",
+    "abbreviation": "RI",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "RI driver's license or DMV-issued ID number, or last 4 of SSN. If not verified, must present ID at registration (if in person) or when first voting. Free voter photo ID card available from the Board of Elections.",
+      "toVote": "Photo ID required (free voter ID available); voters without ID may cast provisional ballot"
+    },
+    "registrationDeadline": "30 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person early voting available at local boards of canvassers 20 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse mail ballot voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from prison. People on probation or parole may vote.",
+    "documentationNeeded": [
+      "Valid photo ID or free voter ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://vote.ri.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "South Carolina",
+    "abbreviation": "SC",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "SC driver's license or state ID number, plus SSN. SC is one of five states that may collect the full 9-digit SSN (last 4 also accepted). First-time county mail registrants must submit proof of ID: photo ID or document showing name and county address (utility bill, bank statement, paycheck, government document).",
+      "toVote": "Photo ID required (free voter registration card with photo available)"
+    },
+    "registrationDeadline": "30 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person absentee voting available at county election offices two weeks before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including prison, probation, and parole.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://scvotes.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "South Dakota",
+    "abbreviation": "SD",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "SD driver's license or non-driver ID number; if no DL, last 4 of SSN. If neither, applicant must provide a personal identification affidavit facilitated by the registration examiner.",
+      "toVote": "Photo ID required (free voter ID available)"
+    },
+    "registrationDeadline": "15 days before election",
+    "registrationMethods": {
+      "online": false,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person absentee voting available at county auditor offices 46 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting by mail available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence (incarceration). People on parole or probation for a felony may not vote.",
+    "documentationNeeded": [
+      "Valid photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://sdsos.gov/elections-voting/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Tennessee",
+    "abbreviation": "TN",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "TN driver's license or state ID number; if no DL/ID, the full SSN is requested. TN is one of five states that may collect the full 9-digit SSN. If neither, must show ID when first voting. Online registration requires SSN plus either a TN DL or TN Dept of Safety ID.",
+      "toVote": "Photo ID required (state or federal government-issued)"
+    },
+    "registrationDeadline": "30 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting runs from 20 to 5 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Restoration process varies by felony type and conviction date. Generally must apply for restoration after completion of sentence and payment of restitution.",
+    "documentationNeeded": [
+      "Valid government-issued photo ID",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://sos.tn.gov/elections",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Texas",
+    "abbreviation": "TX",
+    "eligibilityAge": "18 (may register at 17 years and 10 months)",
+    "idRequirements": {
+      "toRegister": "TX driver's license or state ID number, or last 4 of SSN. If neither, can still register but must show ID when voting. Free Election Identification Certificate (EIC) available from the DPS. No online voter registration. Secretary of State cross-references DPS citizenship data with voter rolls.",
+      "toVote": "Photo ID required (7 approved forms)"
+    },
+    "registrationDeadline": "30 days before election",
+    "registrationMethods": {
+      "online": false,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting runs from 17 to 4 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required (age 65+, disability, absence from county, or confinement).",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including prison, parole, and probation.",
+    "documentationNeeded": [
+      "One of 7 approved photo IDs",
+      "Supporting ID form if photo ID unavailable"
+    ],
+    "officialUrl": "https://www.sos.texas.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": "Texas does not offer online voter registration."
+  },
+  {
+    "state": "Utah",
+    "abbreviation": "UT",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "UT driver's license or state ID number (required for online registration), or last 4 of SSN. Without these, register by paper form mailed to county clerk with alternative ID. Under HB 300 (effective Nov 2025), mail ballot returns must include last 4 digits of DL/ID/SSN.",
+      "toVote": "Valid ID required (photo or non-photo with name and address)"
+    },
+    "registrationDeadline": "11 days before election (same-day registration available through election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "All elections conducted primarily by mail. In-person voting available 14 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All-mail election state. Every registered voter automatically receives a mail ballot.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon release from incarceration (people on probation or parole may vote).",
+    "documentationNeeded": [
+      "Valid ID",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://vote.utah.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": "Utah conducts elections primarily by mail."
+  },
+  {
+    "state": "Vermont",
+    "abbreviation": "VT",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "VT driver's license or state ID number, or last 4 of SSN. Without these, first-time mail/online registrants must include a copy of a valid photo ID or a document showing name and residential address (utility bill, bank statement, government document). No ID required to vote.",
+      "toVote": "No ID required (first-time voters who registered by mail may be asked for ID)"
+    },
+    "registrationDeadline": "Same-day registration available on election day (online/mail deadline: day before election)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person early voting available at town clerk offices 45 days before election. Ballots mailed to all registered voters."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All registered voters automatically receive a mail ballot. No excuse required.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "No disenfranchisement. Incarcerated individuals may vote (Vermont never revokes voting rights for criminal conviction).",
+    "documentationNeeded": [
+      "Driver's license number or last 4 of SSN"
+    ],
+    "officialUrl": "https://sos.vermont.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": "Vermont allows incarcerated individuals to vote, along with Maine and DC."
+  },
+  {
+    "state": "Virginia",
+    "abbreviation": "VA",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "Full 9-digit Social Security Number required (mandatory; application denied without it). VA driver's license number also requested but SSN is the primary identifier. Virginia is one of five states requiring the full SSN, mandated by the state constitution.",
+      "toVote": "Acceptable ID required (photo or non-photo); free voter ID available"
+    },
+    "registrationDeadline": "22 days before election (same-day registration available during early voting and on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person early voting available at registrar offices 45 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights not automatically restored. Must apply to the governor for restoration after completion of sentence.",
+    "documentationNeeded": [
+      "Valid ID (photo or non-photo accepted)",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://www.elections.virginia.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Washington",
+    "abbreviation": "WA",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "WA driver's license or state ID number, or last 4 of SSN. Without these, can still register but provisionally; ballot not counted until qualifying ID provided to county elections office. Online registration requires a WA DL or state ID. Automatic voter registration through state agencies requires proof of citizenship during the qualifying transaction.",
+      "toVote": "Signatures verified on mail ballots; no ID needed at ballot drop sites"
+    },
+    "registrationDeadline": "8 days before election (same-day registration available through election day in person)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "All elections conducted by mail. Ballots mailed 18 days before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All-mail election state. Every registered voter automatically receives a mail ballot.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored automatically once no longer under Department of Corrections supervision.",
+    "documentationNeeded": [
+      "WA DL number or last 4 of SSN"
+    ],
+    "officialUrl": "https://www.sos.wa.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": "Washington conducts all elections by mail."
+  },
+  {
+    "state": "West Virginia",
+    "abbreviation": "WV",
+    "eligibilityAge": "18 (may pre-register at 17)",
+    "idRequirements": {
+      "toRegister": "WV DMV ID number or last 4 of SSN. If neither, write \"NONE\" and a voter ID number is assigned. First-time voters must show ID with registration or when first voting. WV accepts out-of-state driver's licenses for voting. Online registration requires a WV DMV-issued ID.",
+      "toVote": "ID required (photo or non-photo with name and address)"
+    },
+    "registrationDeadline": "21 days before election",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": false,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 13 days before election and ends 3 days before."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "Absentee ballot available; excuse required.",
+      "noExcuseRequired": false
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole.",
+    "documentationNeeded": [
+      "Valid ID (photo or non-photo)",
+      "Proof of residency"
+    ],
+    "officialUrl": "https://sos.wv.gov/elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Wisconsin",
+    "abbreviation": "WI",
+    "eligibilityAge": "18",
+    "idRequirements": {
+      "toRegister": "WI driver's license or state ID number; if DL/ID does not show current address, last 4 of SSN. Proof of Residence required for ALL registrations (mail, in-person, Election Day): WI DL/ID with current address, employer ID with photo, utility bill within 90 days, bank statement, paycheck, government document, or university/college ID with enrollment verification. A registered voter in the same municipality may serve as a corroborating witness.",
+      "toVote": "Photo ID required"
+    },
+    "registrationDeadline": "20 days before election by mail (same-day registration available at polling place on election day)",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person absentee voting available at municipal clerk offices up to 14 days before election."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting by mail available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence, including incarceration, probation, parole, and extended supervision.",
+    "documentationNeeded": [
+      "Acceptable photo ID",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://elections.wi.gov/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "Wyoming",
+    "abbreviation": "WY",
+    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "idRequirements": {
+      "toRegister": "WY driver's license number; if no current WY DL, last 4 of SSN. Documentary proof of U.S. citizenship required (effective July 2025): WY DL/state ID, U.S. passport, naturalization certificate, birth certificate with official seal, military draft record, tribal ID, or driver's license from another state. Proof of residency also required (utility bill, bank statement, pay stub, or signed residency attestation). Law is under legal challenge.",
+      "toVote": "ID required (Wyoming DL, passport, military ID, or other government-issued ID)"
+    },
+    "registrationDeadline": "14 days before election (same-day registration available on election day)",
+    "registrationMethods": {
+      "online": false,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "In-person absentee voting available at county clerk offices before election day."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "No-excuse absentee voting available for all registered voters.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "Rights restored upon completion of sentence. Non-violent first-time felony offenders may have rights automatically restored; others must apply.",
+    "documentationNeeded": [
+      "Valid government-issued ID",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://sos.wyo.gov/Elections/",
+    "lastVerified": "2026-02-24",
+    "notes": ""
+  },
+  {
+    "state": "District of Columbia",
+    "abbreviation": "DC",
+    "eligibilityAge": "18 (may pre-register at 16)",
+    "idRequirements": {
+      "toRegister": "DC driver's license or DMV-issued ID number, or last 4 of SSN. If neither, leave blank; must show ID when first voting (government-issued photo ID, utility bill within 90 days, bank statement, paycheck, or government document with name and address). For same-day registration, proof of residency required (university housing statements and off-campus leases explicitly accepted).",
+      "toVote": "ID not required for registered voters (first-time voters who registered by mail may need ID)"
+    },
+    "registrationDeadline": "Same-day registration available through election day",
+    "registrationMethods": {
+      "online": true,
+      "mail": true,
+      "inPerson": true
+    },
+    "sameDayRegistration": true,
+    "earlyVoting": {
+      "available": true,
+      "details": "Early voting begins 8 days before election day at designated vote centers."
+    },
+    "mailInVoting": {
+      "available": true,
+      "details": "All registered voters automatically receive a mail ballot. No excuse required.",
+      "noExcuseRequired": true
+    },
+    "felonyVotingRules": "No disenfranchisement. Incarcerated individuals may vote (DC restored voting rights for all citizens regardless of conviction status in 2020).",
+    "documentationNeeded": [
+      "DC DMV ID number or last 4 of SSN",
+      "Proof of residency for same-day registration"
+    ],
+    "officialUrl": "https://www.dcboe.org/",
+    "lastVerified": "2026-02-24",
+    "notes": "DC allows incarcerated individuals to vote. As a federal district, DC residents have no voting representation in Congress."
+  }
+]

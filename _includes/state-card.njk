@@ -1,0 +1,37 @@
+<div class="state-card" data-state="{{ state.state | lower }}" data-abbr="{{ state.abbreviation | lower }}" data-same-day="{{ state.sameDayRegistration }}" data-online="{{ state.registrationMethods.online }}" data-early="{{ state.earlyVoting.available }}" data-mail-in="{{ state.mailInVoting.available }}" data-no-excuse="{{ state.mailInVoting.noExcuseRequired }}">
+	<div class="card-header">
+		<h2 class="card-title">
+			{% if state.abbreviation == "DC" %}
+			<img class="state-flag" src="/img/flags/dc.svg" alt="{{ state.state }} flag" loading="lazy" width="36" height="24">
+			{% else %}
+			<img class="state-flag" src="https://flagcdn.com/w40/us-{{ state.abbreviation | lower }}.png" alt="{{ state.state }} flag" loading="lazy" width="40" height="24">
+			{% endif %}
+			<a href="/states/{{ state.abbreviation | lower }}/">{{ state.state }}</a>
+			<span class="card-abbr">{{ state.abbreviation }}</span>
+		</h2>
+	</div>
+	<div class="card-badges">
+		<span class="badge {{ 'badge-yes' if state.sameDayRegistration else 'badge-no' }}">{{ "✓" if state.sameDayRegistration else "✗" }} Same-Day</span>
+		<span class="badge {{ 'badge-yes' if state.registrationMethods.online else 'badge-no' }}">{{ "✓" if state.registrationMethods.online else "✗" }} Online</span>
+		<span class="badge {{ 'badge-yes' if state.earlyVoting.available else 'badge-no' }}">{{ "✓" if state.earlyVoting.available else "✗" }} Early</span>
+		{% if state.mailInVoting.noExcuseRequired %}
+		<span class="badge badge-yes">✓ No-Excuse Mail-In</span>
+		{% elif state.mailInVoting.available %}
+		<span class="badge badge-no">✗ Excuse Required Mail-In</span>
+		{% else %}
+		<span class="badge badge-no">✗ Mail-In</span>
+		{% endif %}
+	</div>
+	<p class="card-deadline"><strong>Deadline:</strong> {{ state.registrationDeadline }}</p>
+	<div class="card-details">
+		<dl>
+			<dt>ID to Vote</dt>
+			<dd>{{ state.idRequirements.toVote }}</dd>
+			<dt>Early Voting</dt>
+			<dd>{{ state.earlyVoting.details }}</dd>
+			<dt>Mail-In Voting</dt>
+			<dd>{{ state.mailInVoting.details }}</dd>
+		</dl>
+		<a href="/states/{{ state.abbreviation | lower }}/" class="card-full-link">Full details &rarr;</a>
+	</div>
+</div>

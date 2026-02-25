@@ -1,0 +1,14 @@
+---js
+{
+	pagination: {
+		data: "states",
+		size: 1,
+		alias: "state"
+	},
+	permalink: "/states/{{ state.abbreviation | lower }}/",
+	layout: "layouts/state.njk",
+	eleventyComputed: {
+		title: (data) => `${data.state.state} Voter Registration and Voting Requirements`
+	}
+}
+---

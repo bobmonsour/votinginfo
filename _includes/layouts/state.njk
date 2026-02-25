@@ -1,0 +1,108 @@
+---
+layout: layouts/base.njk
+---
+<article class="state-detail">
+	<div class="state-detail-header">
+		<a href="/" class="back-link" aria-label="Back to all states">&larr; All States</a>
+		<h1>
+			{% if state.abbreviation == "DC" %}
+			<img class="state-flag state-flag-lg" src="/img/flags/dc.svg" alt="{{ state.state }} flag" loading="lazy" width="60" height="40">
+			{% else %}
+			<img class="state-flag state-flag-lg" src="https://flagcdn.com/w80/us-{{ state.abbreviation | lower }}.png" alt="{{ state.state }} flag" loading="lazy" width="80" height="40">
+			{% endif %}
+			{{ state.state }} <span class="state-abbr">({{ state.abbreviation }})</span>
+		</h1>
+	</div>
+
+	<div class="state-detail-grid">
+		<aside class="state-sidebar">
+			<h2>Key Facts</h2>
+			<dl class="key-facts">
+				<dt>Registration Deadline</dt>
+				<dd>{{ state.registrationDeadline }}</dd>
+				<dt>Same-Day Registration</dt>
+				<dd>{{ "Yes" if state.sameDayRegistration else "No" }}</dd>
+				<dt>Online Registration</dt>
+				<dd>{{ "Yes" if state.registrationMethods.online else "No" }}</dd>
+				<dt>Early Voting</dt>
+				<dd>{{ "Yes" if state.earlyVoting.available else "No" }}</dd>
+				<dt>Mail-In Voting</dt>
+				<dd>{% if state.mailInVoting.noExcuseRequired %}No excuse required{% elif state.mailInVoting.available %}Excuse required{% else %}No{% endif %}</dd>
+			</dl>
+			<div class="state-badges">
+				<span class="badge {{ 'badge-yes' if state.sameDayRegistration else 'badge-no' }}">
+					{{ "✓" if state.sameDayRegistration else "✗" }} Same-Day Reg
+				</span>
+				<span class="badge {{ 'badge-yes' if state.registrationMethods.online else 'badge-no' }}">
+					{{ "✓" if state.registrationMethods.online else "✗" }} Online Reg
+				</span>
+				<span class="badge {{ 'badge-yes' if state.earlyVoting.available else 'badge-no' }}">
+					{{ "✓" if state.earlyVoting.available else "✗" }} Early Voting
+				</span>
+				{% if state.mailInVoting.noExcuseRequired %}
+				<span class="badge badge-yes">✓ No-Excuse Mail-In</span>
+				{% elif state.mailInVoting.available %}
+				<span class="badge badge-no">✗ Excuse Required Mail-In</span>
+				{% else %}
+				<span class="badge badge-no">✗ Mail-In</span>
+				{% endif %}
+			</div>
+			<a href="{{ state.officialUrl }}" class="official-link" target="_blank" rel="noopener noreferrer">Official Election Website &rarr;</a>
+		</aside>
+
+		<div class="state-main">
+			<section>
+				<h2>Eligibility</h2>
+				<p><strong>Age:</strong> {{ state.eligibilityAge }}</p>
+			</section>
+
+			<section>
+				<h2>ID Requirements</h2>
+				<p><strong>To Register:</strong> {{ state.idRequirements.toRegister }}</p>
+				<p><strong>To Vote:</strong> {{ state.idRequirements.toVote }}</p>
+			</section>
+
+			<section>
+				<h2>Registration Methods</h2>
+				<ul class="method-list">
+					<li class="{{ 'available' if state.registrationMethods.online else 'unavailable' }}">Online: {{ "Available" if state.registrationMethods.online else "Not available" }}</li>
+					<li class="{{ 'available' if state.registrationMethods.mail else 'unavailable' }}">Mail: {{ "Available" if state.registrationMethods.mail else "Not available" }}</li>
+					<li class="{{ 'available' if state.registrationMethods.inPerson else 'unavailable' }}">In Person: {{ "Available" if state.registrationMethods.inPerson else "Not available" }}</li>
+				</ul>
+			</section>
+
+			<section>
+				<h2>Early Voting</h2>
+				<p>{{ state.earlyVoting.details }}</p>
+			</section>
+
+			<section>
+				<h2>Mail-In / Absentee Voting</h2>
+				<p>{{ state.mailInVoting.details }}</p>
+			</section>
+
+			<section>
+				<h2>Felony Voting Rules</h2>
+				<p>{{ state.felonyVotingRules }}</p>
+			</section>
+
+			<section>
+				<h2>Documentation Needed</h2>
+				<ul>
+					{%- for doc in state.documentationNeeded %}
+					<li>{{ doc }}</li>
+					{%- endfor %}
+				</ul>
+			</section>
+
+			{% if state.notes %}
+			<section>
+				<h2>Additional Notes</h2>
+				<p>{{ state.notes }}</p>
+			</section>
+			{% endif %}
+		</div>
+	</div>
+
+	<p class="last-verified">Last verified: {{ state.lastVerified }}</p>
+</article>
