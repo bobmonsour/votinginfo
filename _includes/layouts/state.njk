@@ -95,6 +95,15 @@ layout: layouts/base.njk
 				</ul>
 			</section>
 
+			<section>
+				<h2>Sources</h2>
+				<ul>
+					{%- for source in state.sources %}
+					<li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a></li>
+					{%- endfor %}
+				</ul>
+			</section>
+
 			{% if state.notes %}
 			<section>
 				<h2>Additional Notes</h2>

@@ -21,18 +21,8 @@ title: "About — US Voting Requirements"
 			<li><strong><a href="https://www.ncsl.org/elections-and-campaigns" target="_blank" rel="noopener">National Conference of State Legislatures (NCSL)</a></strong> — comprehensive databases on voter ID laws, registration policies, and election procedures</li>
 			<li><strong>Vote.org</strong> — state-specific voter information and registration resources</li>
 		</ul>
-		<p>Each state's data is manually verified against these sources. When sources conflict, the official state election website takes precedence.</p>
-		<p>Because election laws change frequently at the state level, this research is reviewed on a regular basis to keep the information current. When a state updates its voting requirements, we re-verify and update the affected data as soon as possible.</p>
-	</section>
-
-	<section>
-		<h2>Confidence Levels Explained</h2>
-		<p>Each state entry is assigned a confidence level indicating how recently and thoroughly the data has been verified:</p>
-		<ul class="confidence-list">
-			<li><span class="badge-confidence badge-high">High</span> — Data has been recently verified against official sources and is believed to be current and accurate.</li>
-			<li><span class="badge-confidence badge-medium">Medium</span> — Data has been reviewed but may not reflect the most recent changes. Verification is in progress.</li>
-			<li><span class="badge-confidence badge-low">Low</span> — Data needs re-verification. Information may be outdated. Please check official sources directly.</li>
-		</ul>
+		<p>Each state's data is verified against these sources. When sources conflict, the official state election website takes precedence.</p>
+		<p>Because election laws change frequently at the state level, this research will be reviewed periodically and updated as needed.</p>
 	</section>
 
 	<section>
@@ -42,7 +32,6 @@ title: "About — US Voting Requirements"
 				<thead>
 					<tr>
 						<th>State</th>
-						<th>Confidence</th>
 						<th>Sources</th>
 					</tr>
 				</thead>
@@ -50,9 +39,6 @@ title: "About — US Voting Requirements"
 					{%- for state in states %}
 					<tr>
 						<td>{{ state.state }}</td>
-						<td>
-							<span class="badge-confidence badge-{{ state.confidenceLevel | lower }}">{{ state.confidenceLevel }}</span>
-						</td>
 						<td>
 							{%- for source in state.sources %}
 							<a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %} · {% endif %}
