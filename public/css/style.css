@@ -621,7 +621,7 @@ h3 {
 .sources-table {
 	width: 100%;
 	border-collapse: collapse;
-	font-size: 0.9rem;
+	font-size: 1.05rem;
 }
 
 .sources-table th,
@@ -632,7 +632,7 @@ h3 {
 }
 
 .sources-table th {
-	font-size: 0.8rem;
+	font-size: 0.9rem;
 	color: var(--gray-500);
 	text-transform: uppercase;
 	letter-spacing: 0.03em;
@@ -647,7 +647,7 @@ h3 {
 }
 
 .sources-table a {
-	font-size: 0.85rem;
+	font-size: 1rem;
 }
 
 .last-updated {
