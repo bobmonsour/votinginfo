@@ -7,7 +7,9 @@
       "WebSearch",
       "WebFetch(domain:flagpedia.net)",
       "WebFetch(domain:flagcdn.com)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(npm run:*)",
+      "Bash(git add:*)"
     ]
   }
 }

@@ -26,8 +26,7 @@
     "felonyVotingRules": "Rights restored after completion of sentence, including parole and probation, for most felonies. Some felonies involving moral turpitude require a pardon.",
     "documentationNeeded": [
       "Proof of citizenship",
-      "Valid photo ID",
-      "Proof of residency"
+      "Valid photo ID"
     ],
     "officialUrl": "https://www.alabamavotes.gov/",
     "lastVerified": "2026-02-24",
@@ -59,7 +58,7 @@
     },
     "felonyVotingRules": "Rights restored automatically upon completion of sentence, including incarceration, probation, and parole.",
     "documentationNeeded": [
-      "Proof of prior prior residence",
+      "Proof of residency",
       "Valid ID or sworn statement"
     ],
     "officialUrl": "https://www.elections.alaska.gov/",
@@ -125,8 +124,7 @@
     },
     "felonyVotingRules": "Rights restored upon completion of sentence, including any probation or parole, and payment of all fines and fees.",
     "documentationNeeded": [
-      "Valid photo ID",
-      "Proof of residency"
+      "Valid photo ID"
     ],
     "officialUrl": "https://www.sos.arkansas.gov/elections/",
     "lastVerified": "2026-02-24",
@@ -290,8 +288,7 @@
     },
     "felonyVotingRules": "Rights restored automatically for most felonies upon completion of all terms of sentence. People convicted of murder or felony sexual offenses must seek clemency.",
     "documentationNeeded": [
-      "Valid photo and signature ID",
-      "Proof of residency"
+      "Valid photo and signature ID"
     ],
     "officialUrl": "https://dos.fl.gov/elections/",
     "lastVerified": "2026-02-24",
@@ -323,8 +320,7 @@
     },
     "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole, and payment of all fines.",
     "documentationNeeded": [
-      "Valid photo ID",
-      "Proof of citizenship and residency"
+      "Valid photo ID"
     ],
     "officialUrl": "https://sos.ga.gov/elections",
     "lastVerified": "2026-02-24",
@@ -390,7 +386,7 @@
     "felonyVotingRules": "Rights restored automatically upon completion of sentence, including probation and parole.",
     "documentationNeeded": [
       "Photo ID or affidavit",
-      "Proof of residency for same-day registration"
+      "Photo ID and proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.idaho.gov/elections/",
     "lastVerified": "2026-02-24",
@@ -422,8 +418,7 @@
     },
     "felonyVotingRules": "Rights restored upon release from incarceration. People on probation or parole may vote.",
     "documentationNeeded": [
-      "Two forms of ID for same-day registration",
-      "Proof of residency"
+      "Two forms of ID for same-day registration (one must show current address)"
     ],
     "officialUrl": "https://www.elections.il.gov/",
     "lastVerified": "2026-02-24",
@@ -521,8 +516,7 @@
     },
     "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole.",
     "documentationNeeded": [
-      "Valid photo ID",
-      "Proof of residency"
+      "Valid photo ID"
     ],
     "officialUrl": "https://sos.ks.gov/elections/",
     "lastVerified": "2026-02-24",
@@ -554,8 +548,7 @@
     },
     "felonyVotingRules": "Rights not automatically restored. Must apply for restoration from the governor after completion of sentence.",
     "documentationNeeded": [
-      "Valid photo ID",
-      "Proof of residency"
+      "Valid photo ID or voter affirmation form"
     ],
     "officialUrl": "https://elect.ky.gov/",
     "lastVerified": "2026-02-24",
@@ -751,8 +744,8 @@
     },
     "felonyVotingRules": "Rights restored upon completion of any incarceration (people on probation, parole, or supervised release may vote).",
     "documentationNeeded": [
-      "Valid ID or voucher for same-day registration",
-      "Proof of residency"
+      "MN DL number or last 4 of SSN",
+      "Valid ID with proof of residency or voucher for same-day registration"
     ],
     "officialUrl": "https://www.sos.state.mn.us/elections-voting/",
     "lastVerified": "2026-02-24",
@@ -784,8 +777,7 @@
     },
     "felonyVotingRules": "Disenfranchised for certain felonies listed in the state constitution. Restoration requires a pardon or legislative bill.",
     "documentationNeeded": [
-      "Valid photo ID",
-      "Proof of residency"
+      "Valid photo ID or affidavit ballot"
     ],
     "officialUrl": "https://www.sos.ms.gov/elections",
     "lastVerified": "2026-02-24",
@@ -817,7 +809,7 @@
     },
     "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole.",
     "documentationNeeded": [
-      "Valid photo ID",
+      "Valid photo ID or non-photo ID with affidavit",
       "Proof of residency"
     ],
     "officialUrl": "https://www.sos.mo.gov/elections",
@@ -1048,7 +1040,7 @@
     "felonyVotingRules": "Rights restored upon release from prison (people on parole may vote as of 2021 executive order/law).",
     "documentationNeeded": [
       "DL number or last 4 of SSN",
-      "Proof of residency"
+      "ID for first-time mail registrants without verified DL/SSN"
     ],
     "officialUrl": "https://www.elections.ny.gov/",
     "lastVerified": "2026-02-24",
@@ -1146,7 +1138,7 @@
     "felonyVotingRules": "Rights restored upon release from prison.",
     "documentationNeeded": [
       "Valid photo ID",
-      "Proof of residency"
+      "OH DL number or last 4 of SSN"
     ],
     "officialUrl": "https://www.ohiosos.gov/elections-voting/",
     "lastVerified": "2026-02-24",
@@ -1178,8 +1170,7 @@
     },
     "felonyVotingRules": "Rights restored upon completion of full sentence, or after any period of incarceration if not a repeat offender.",
     "documentationNeeded": [
-      "Valid ID",
-      "Proof of residency"
+      "Voter ID card or government-issued photo ID"
     ],
     "officialUrl": "https://oklahoma.gov/elections.html",
     "lastVerified": "2026-02-24",
@@ -1277,7 +1268,7 @@
     "felonyVotingRules": "Rights restored upon release from prison. People on probation or parole may vote.",
     "documentationNeeded": [
       "Valid photo ID or free voter ID",
-      "Proof of residency"
+      "RI DL number or last 4 of SSN"
     ],
     "officialUrl": "https://vote.ri.gov/",
     "lastVerified": "2026-02-24",
@@ -1342,8 +1333,7 @@
     },
     "felonyVotingRules": "Rights restored upon completion of sentence (incarceration). People on parole or probation for a felony may not vote.",
     "documentationNeeded": [
-      "Valid photo ID",
-      "Proof of residency"
+      "Valid photo ID or signed affidavit"
     ],
     "officialUrl": "https://sdsos.gov/elections-voting/",
     "lastVerified": "2026-02-24",
@@ -1375,8 +1365,7 @@
     },
     "felonyVotingRules": "Restoration process varies by felony type and conviction date. Generally must apply for restoration after completion of sentence and payment of restitution.",
     "documentationNeeded": [
-      "Valid government-issued photo ID",
-      "Proof of residency"
+      "Valid state or federal government-issued photo ID"
     ],
     "officialUrl": "https://sos.tn.gov/elections",
     "lastVerified": "2026-02-24",
@@ -1571,8 +1560,7 @@
     },
     "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole.",
     "documentationNeeded": [
-      "Valid ID (photo or non-photo)",
-      "Proof of residency"
+      "Valid photo ID"
     ],
     "officialUrl": "https://sos.wv.gov/elections/",
     "lastVerified": "2026-02-24",
@@ -1605,7 +1593,7 @@
     "felonyVotingRules": "Rights restored upon completion of sentence, including incarceration, probation, parole, and extended supervision.",
     "documentationNeeded": [
       "Acceptable photo ID",
-      "Proof of residency for same-day registration"
+      "Proof of residency for voter registration"
     ],
     "officialUrl": "https://elections.wi.gov/",
     "lastVerified": "2026-02-24",
@@ -1638,7 +1626,8 @@
     "felonyVotingRules": "Rights restored upon completion of sentence. Non-violent first-time felony offenders may have rights automatically restored; others must apply.",
     "documentationNeeded": [
       "Valid government-issued ID",
-      "Proof of residency for same-day registration"
+      "Documentary proof of U.S. citizenship",
+      "Proof of residency"
     ],
     "officialUrl": "https://sos.wyo.gov/Elections/",
     "lastVerified": "2026-02-24",
