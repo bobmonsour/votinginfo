@@ -98,6 +98,11 @@ h3 {
 	color: var(--gray-200);
 }
 
+.site-header nav {
+	display: flex;
+	gap: 1rem;
+}
+
 .site-header nav a {
 	color: var(--gray-200);
 	text-decoration: none;
@@ -571,6 +576,150 @@ h3 {
 		flex: 1;
 		min-width: 0;
 	}
+}
+
+/* === About Page === */
+.about-content {
+	max-width: 860px;
+	padding: 2rem 0;
+}
+
+.about-content h1 {
+	font-size: 2rem;
+	margin: 0 0 1.5rem;
+}
+
+.about-content section {
+	background: var(--white);
+	border-radius: var(--radius);
+	box-shadow: var(--shadow-sm);
+	padding: 1.5rem;
+	margin-bottom: 1rem;
+}
+
+.about-content section h2 {
+	font-size: 1.1rem;
+	margin: 0 0 0.75rem;
+	padding-bottom: 0.5rem;
+	border-bottom: 2px solid var(--gray-200);
+}
+
+.about-content p {
+	margin: 0.5rem 0;
+}
+
+.about-content ul {
+	margin: 0.5rem 0;
+	padding-left: 1.25rem;
+}
+
+.about-content li {
+	margin-bottom: 0.3rem;
+}
+
+.sources-table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 0.9rem;
+}
+
+.sources-table th,
+.sources-table td {
+	text-align: left;
+	padding: 0.6rem 0.75rem;
+	border-bottom: 1px solid var(--gray-200);
+}
+
+.sources-table th {
+	font-size: 0.8rem;
+	color: var(--gray-500);
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+	background: var(--gray-100);
+	position: sticky;
+	top: 0;
+}
+
+.sources-table td:first-child {
+	font-weight: 600;
+	white-space: nowrap;
+}
+
+.sources-table a {
+	font-size: 0.85rem;
+}
+
+.badge-confidence {
+	display: inline-block;
+	padding: 0.2rem 0.55rem;
+	border-radius: 2rem;
+	font-size: 0.75rem;
+	font-weight: 700;
+	white-space: nowrap;
+}
+
+.badge-high {
+	background: var(--green-light);
+	color: var(--green);
+}
+
+.badge-medium {
+	background: #fff3e0;
+	color: #e65100;
+}
+
+.badge-low {
+	background: var(--red-light);
+	color: var(--red);
+}
+
+.confidence-list {
+	list-style: none;
+	padding: 0;
+}
+
+.confidence-list li {
+	padding: 0.4rem 0;
+}
+
+/* Responsive: scroll table on small screens */
+.table-wrap {
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
+/* === Change Log === */
+.change-log h2 {
+	margin-bottom: 0.75rem;
+}
+
+.change-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.change-list li {
+	display: flex;
+	gap: 0.75rem;
+	padding: 0.5rem 0;
+	border-bottom: 1px solid var(--gray-200);
+}
+
+.change-list li:last-child {
+	border-bottom: none;
+}
+
+.change-list time {
+	flex-shrink: 0;
+	font-size: 0.85rem;
+	font-weight: 600;
+	color: var(--gray-500);
+	min-width: 6.5em;
+}
+
+.change-list span {
+	font-size: 0.95rem;
 }
 
 /* === Focus Styles === */

@@ -101,6 +101,20 @@ layout: layouts/base.njk
 				<p>{{ state.notes }}</p>
 			</section>
 			{% endif %}
+
+			{% if state.changes.length %}
+			<section class="change-log">
+				<h2>Change Log</h2>
+				<ul class="change-list">
+					{%- for change in state.changes | reverse %}
+					<li>
+						<time datetime="{{ change.date }}">{{ change.date }}</time>
+						<span>{{ change.description }}</span>
+					</li>
+					{%- endfor %}
+				</ul>
+			</section>
+			{% endif %}
 		</div>
 	</div>
 

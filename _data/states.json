@@ -30,7 +30,23 @@
     ],
     "officialUrl": "https://www.alabamavotes.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Alabama Official Election Website",
+        "url": "https://www.alabamavotes.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/al/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Alaska",
@@ -63,7 +79,23 @@
     ],
     "officialUrl": "https://www.elections.alaska.gov/",
     "lastVerified": "2026-02-24",
-    "notes": "Alaska uses a top-four ranked-choice voting system for general elections."
+    "notes": "Alaska uses a top-four ranked-choice voting system for general elections.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Alaska Official Election Website",
+        "url": "https://www.elections.alaska.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ak/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Arizona",
@@ -96,7 +128,23 @@
     ],
     "officialUrl": "https://azsos.gov/elections",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Arizona Official Election Website",
+        "url": "https://azsos.gov/elections"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/az/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Arkansas",
@@ -128,7 +176,23 @@
     ],
     "officialUrl": "https://www.sos.arkansas.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Arkansas Official Election Website",
+        "url": "https://www.sos.arkansas.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ar/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "California",
@@ -161,7 +225,23 @@
     ],
     "officialUrl": "https://www.sos.ca.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": "California automatically registers eligible citizens through the DMV (motor voter)."
+    "notes": "California automatically registers eligible citizens through the DMV (motor voter).",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "California Official Election Website",
+        "url": "https://www.sos.ca.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ca/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Colorado",
@@ -194,7 +274,23 @@
     ],
     "officialUrl": "https://www.coloradosos.gov/pubs/elections/",
     "lastVerified": "2026-02-24",
-    "notes": "Colorado is a vote-by-mail state; all voters receive ballots by mail."
+    "notes": "Colorado is a vote-by-mail state; all voters receive ballots by mail.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Colorado Official Election Website",
+        "url": "https://www.coloradosos.gov/pubs/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/co/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Connecticut",
@@ -227,7 +323,23 @@
     ],
     "officialUrl": "https://portal.ct.gov/sots/election-services",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Connecticut Official Election Website",
+        "url": "https://portal.ct.gov/sots/election-services"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ct/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Delaware",
@@ -260,7 +372,23 @@
     ],
     "officialUrl": "https://elections.delaware.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Delaware Official Election Website",
+        "url": "https://elections.delaware.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/de/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Florida",
@@ -292,7 +420,23 @@
     ],
     "officialUrl": "https://dos.fl.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Florida Official Election Website",
+        "url": "https://dos.fl.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/fl/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Georgia",
@@ -324,7 +468,23 @@
     ],
     "officialUrl": "https://sos.ga.gov/elections",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Georgia Official Election Website",
+        "url": "https://sos.ga.gov/elections"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ga/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Hawaii",
@@ -357,7 +517,23 @@
     ],
     "officialUrl": "https://elections.hawaii.gov/",
     "lastVerified": "2026-02-24",
-    "notes": "Hawaii is a vote-by-mail state."
+    "notes": "Hawaii is a vote-by-mail state.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Hawaii Official Election Website",
+        "url": "https://elections.hawaii.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/hi/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Idaho",
@@ -390,7 +566,23 @@
     ],
     "officialUrl": "https://sos.idaho.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Idaho Official Election Website",
+        "url": "https://sos.idaho.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/id/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Illinois",
@@ -422,7 +614,23 @@
     ],
     "officialUrl": "https://www.elections.il.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Illinois Official Election Website",
+        "url": "https://www.elections.il.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/il/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Indiana",
@@ -455,7 +663,23 @@
     ],
     "officialUrl": "https://www.in.gov/sos/elections/",
     "lastVerified": "2026-02-24",
-    "notes": "Indiana has one of the strictest photo ID requirements in the country."
+    "notes": "Indiana has one of the strictest photo ID requirements in the country.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Indiana Official Election Website",
+        "url": "https://www.in.gov/sos/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/in/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Iowa",
@@ -488,7 +712,23 @@
     ],
     "officialUrl": "https://sos.iowa.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Iowa Official Election Website",
+        "url": "https://sos.iowa.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ia/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Kansas",
@@ -520,7 +760,23 @@
     ],
     "officialUrl": "https://sos.ks.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Kansas Official Election Website",
+        "url": "https://sos.ks.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ks/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Kentucky",
@@ -552,7 +808,23 @@
     ],
     "officialUrl": "https://elect.ky.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Kentucky Official Election Website",
+        "url": "https://elect.ky.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ky/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Louisiana",
@@ -585,7 +857,23 @@
     ],
     "officialUrl": "https://www.sos.la.gov/ElectionsAndVoting/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Louisiana Official Election Website",
+        "url": "https://www.sos.la.gov/ElectionsAndVoting/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/la/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Maine",
@@ -617,7 +905,23 @@
     ],
     "officialUrl": "https://www.maine.gov/sos/cec/elec/",
     "lastVerified": "2026-02-24",
-    "notes": "Maine allows incarcerated individuals to vote. Uses ranked-choice voting for federal and gubernatorial elections."
+    "notes": "Maine allows incarcerated individuals to vote. Uses ranked-choice voting for federal and gubernatorial elections.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Maine Official Election Website",
+        "url": "https://www.maine.gov/sos/cec/elec/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/me/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Maryland",
@@ -650,7 +954,23 @@
     ],
     "officialUrl": "https://elections.maryland.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Maryland Official Election Website",
+        "url": "https://elections.maryland.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/md/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Massachusetts",
@@ -683,7 +1003,23 @@
     ],
     "officialUrl": "https://www.sec.state.ma.us/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Massachusetts Official Election Website",
+        "url": "https://www.sec.state.ma.us/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ma/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Michigan",
@@ -716,7 +1052,23 @@
     ],
     "officialUrl": "https://mvic.sos.state.mi.us/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Michigan Official Election Website",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/mi/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Minnesota",
@@ -749,7 +1101,23 @@
     ],
     "officialUrl": "https://www.sos.state.mn.us/elections-voting/",
     "lastVerified": "2026-02-24",
-    "notes": "Minnesota has had same-day registration since 1974."
+    "notes": "Minnesota has had same-day registration since 1974.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Minnesota Official Election Website",
+        "url": "https://www.sos.state.mn.us/elections-voting/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/mn/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Mississippi",
@@ -781,7 +1149,23 @@
     ],
     "officialUrl": "https://www.sos.ms.gov/elections",
     "lastVerified": "2026-02-24",
-    "notes": "Mississippi is one of the few states with no online voter registration and no early voting."
+    "notes": "Mississippi is one of the few states with no online voter registration and no early voting.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Mississippi Official Election Website",
+        "url": "https://www.sos.ms.gov/elections"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ms/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Missouri",
@@ -814,7 +1198,23 @@
     ],
     "officialUrl": "https://www.sos.mo.gov/elections",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Missouri Official Election Website",
+        "url": "https://www.sos.mo.gov/elections"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/mo/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Montana",
@@ -847,7 +1247,23 @@
     ],
     "officialUrl": "https://sosmt.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Montana Official Election Website",
+        "url": "https://sosmt.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/mt/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Nebraska",
@@ -880,7 +1296,23 @@
     ],
     "officialUrl": "https://sos.nebraska.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Nebraska Official Election Website",
+        "url": "https://sos.nebraska.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ne/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Nevada",
@@ -913,7 +1345,23 @@
     ],
     "officialUrl": "https://www.nvsos.gov/sos/elections",
     "lastVerified": "2026-02-24",
-    "notes": "Nevada automatically mails ballots to all registered voters."
+    "notes": "Nevada automatically mails ballots to all registered voters.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Nevada Official Election Website",
+        "url": "https://www.nvsos.gov/sos/elections"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/nv/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "New Hampshire",
@@ -946,7 +1394,23 @@
     ],
     "officialUrl": "https://www.sos.nh.gov/elections",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "New Hampshire Official Election Website",
+        "url": "https://www.sos.nh.gov/elections"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/nh/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "New Jersey",
@@ -978,7 +1442,23 @@
     ],
     "officialUrl": "https://nj.gov/state/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "New Jersey Official Election Website",
+        "url": "https://nj.gov/state/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/nj/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "New Mexico",
@@ -1011,7 +1491,23 @@
     ],
     "officialUrl": "https://www.sos.nm.gov/voting-and-elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "New Mexico Official Election Website",
+        "url": "https://www.sos.nm.gov/voting-and-elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/nm/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "New York",
@@ -1044,7 +1540,23 @@
     ],
     "officialUrl": "https://www.elections.ny.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "New York Official Election Website",
+        "url": "https://www.elections.ny.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ny/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "North Carolina",
@@ -1077,7 +1589,23 @@
     ],
     "officialUrl": "https://www.ncsbe.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "North Carolina Official Election Website",
+        "url": "https://www.ncsbe.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/nc/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "North Dakota",
@@ -1109,7 +1637,23 @@
     ],
     "officialUrl": "https://vip.sos.nd.gov/",
     "lastVerified": "2026-02-24",
-    "notes": "North Dakota is the only US state with no voter registration requirement."
+    "notes": "North Dakota is the only US state with no voter registration requirement.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "North Dakota Official Election Website",
+        "url": "https://vip.sos.nd.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/nd/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Ohio",
@@ -1142,7 +1686,23 @@
     ],
     "officialUrl": "https://www.ohiosos.gov/elections-voting/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Ohio Official Election Website",
+        "url": "https://www.ohiosos.gov/elections-voting/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/oh/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Oklahoma",
@@ -1174,7 +1734,23 @@
     ],
     "officialUrl": "https://oklahoma.gov/elections.html",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Oklahoma Official Election Website",
+        "url": "https://oklahoma.gov/elections.html"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ok/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Oregon",
@@ -1206,7 +1782,23 @@
     ],
     "officialUrl": "https://sos.oregon.gov/voting/Pages/default.aspx",
     "lastVerified": "2026-02-24",
-    "notes": "Oregon pioneered vote-by-mail in 1998. Automatic voter registration through the DMV."
+    "notes": "Oregon pioneered vote-by-mail in 1998. Automatic voter registration through the DMV.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Oregon Official Election Website",
+        "url": "https://sos.oregon.gov/voting/Pages/default.aspx"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/or/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Pennsylvania",
@@ -1239,7 +1831,23 @@
     ],
     "officialUrl": "https://www.vote.pa.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Pennsylvania Official Election Website",
+        "url": "https://www.vote.pa.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/pa/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Rhode Island",
@@ -1272,7 +1880,23 @@
     ],
     "officialUrl": "https://vote.ri.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Rhode Island Official Election Website",
+        "url": "https://vote.ri.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ri/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "South Carolina",
@@ -1305,7 +1929,23 @@
     ],
     "officialUrl": "https://scvotes.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "South Carolina Official Election Website",
+        "url": "https://scvotes.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/sc/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "South Dakota",
@@ -1337,7 +1977,23 @@
     ],
     "officialUrl": "https://sdsos.gov/elections-voting/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "South Dakota Official Election Website",
+        "url": "https://sdsos.gov/elections-voting/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/sd/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Tennessee",
@@ -1369,7 +2025,23 @@
     ],
     "officialUrl": "https://sos.tn.gov/elections",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Tennessee Official Election Website",
+        "url": "https://sos.tn.gov/elections"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/tn/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Texas",
@@ -1402,7 +2074,23 @@
     ],
     "officialUrl": "https://www.sos.texas.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": "Texas does not offer online voter registration."
+    "notes": "Texas does not offer online voter registration.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Texas Official Election Website",
+        "url": "https://www.sos.texas.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/tx/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Utah",
@@ -1435,7 +2123,23 @@
     ],
     "officialUrl": "https://vote.utah.gov/",
     "lastVerified": "2026-02-24",
-    "notes": "Utah conducts elections primarily by mail."
+    "notes": "Utah conducts elections primarily by mail.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Utah Official Election Website",
+        "url": "https://vote.utah.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/ut/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Vermont",
@@ -1467,7 +2171,23 @@
     ],
     "officialUrl": "https://sos.vermont.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": "Vermont allows incarcerated individuals to vote, along with Maine and DC."
+    "notes": "Vermont allows incarcerated individuals to vote, along with Maine and DC.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Vermont Official Election Website",
+        "url": "https://sos.vermont.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/vt/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Virginia",
@@ -1500,7 +2220,23 @@
     ],
     "officialUrl": "https://www.elections.virginia.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Virginia Official Election Website",
+        "url": "https://www.elections.virginia.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/va/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Washington",
@@ -1532,7 +2268,23 @@
     ],
     "officialUrl": "https://www.sos.wa.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": "Washington conducts all elections by mail."
+    "notes": "Washington conducts all elections by mail.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Washington Official Election Website",
+        "url": "https://www.sos.wa.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/wa/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "West Virginia",
@@ -1564,7 +2316,23 @@
     ],
     "officialUrl": "https://sos.wv.gov/elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "West Virginia Official Election Website",
+        "url": "https://sos.wv.gov/elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/wv/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Wisconsin",
@@ -1597,7 +2365,23 @@
     ],
     "officialUrl": "https://elections.wi.gov/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Wisconsin Official Election Website",
+        "url": "https://elections.wi.gov/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/wi/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "Wyoming",
@@ -1631,7 +2415,23 @@
     ],
     "officialUrl": "https://sos.wyo.gov/Elections/",
     "lastVerified": "2026-02-24",
-    "notes": ""
+    "notes": "",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "Wyoming Official Election Website",
+        "url": "https://sos.wyo.gov/Elections/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/wy/"
+      }
+    ],
+    "changes": []
   },
   {
     "state": "District of Columbia",
@@ -1664,6 +2464,22 @@
     ],
     "officialUrl": "https://www.dcboe.org/",
     "lastVerified": "2026-02-24",
-    "notes": "DC allows incarcerated individuals to vote. As a federal district, DC residents have no voting representation in Congress."
+    "notes": "DC allows incarcerated individuals to vote. As a federal district, DC residents have no voting representation in Congress.",
+    "confidenceLevel": "High",
+    "sources": [
+      {
+        "name": "District of Columbia Official Election Website",
+        "url": "https://www.dcboe.org/"
+      },
+      {
+        "name": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/elections-and-campaigns"
+      },
+      {
+        "name": "Vote.org",
+        "url": "https://www.vote.org/state/district-of-columbia/"
+      }
+    ],
+    "changes": []
   }
 ]

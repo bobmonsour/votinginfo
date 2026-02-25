@@ -1,0 +1,37 @@
+---
+layout: layouts/base.njk
+title: "Changes — US Voting Requirements"
+---
+
+<div class="about-content">
+	<h1>Data Changes</h1>
+
+	{% set hasChanges = false %}
+	{%- for state in states %}
+		{%- if state.changes.length %}
+			{% set hasChanges = true %}
+		{%- endif %}
+	{%- endfor %}
+
+	{% if hasChanges %}
+		{%- for state in states %}
+			{%- if state.changes.length %}
+			<section>
+				<h2><a href="/states/{{ state.abbreviation | lower }}/">{{ state.state }}</a></h2>
+				<ul class="change-list">
+					{%- for change in state.changes | reverse %}
+					<li>
+						<time datetime="{{ change.date }}">{{ change.date }}</time>
+						<span>{{ change.description }}</span>
+					</li>
+					{%- endfor %}
+				</ul>
+			</section>
+			{%- endif %}
+		{%- endfor %}
+	{% else %}
+		<section>
+			<p>No changes have been recorded yet. As state data is researched and updated, changes will be logged here.</p>
+		</section>
+	{% endif %}
+</div>
