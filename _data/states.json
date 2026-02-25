@@ -119,8 +119,8 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting available for all registered voters.",
-      "noExcuseRequired": true
+      "details": "Absentee ballot available; excuse required. No-excuse early in-person voting is available.",
+      "noExcuseRequired": false
     },
     "felonyVotingRules": "Rights restored upon completion of sentence, including any probation or parole, and payment of all fines and fees.",
     "documentationNeeded": [
@@ -187,7 +187,7 @@
       "details": "All-mail election state. Every registered voter automatically receives a mail ballot.",
       "noExcuseRequired": true
     },
-    "felonyVotingRules": "Rights restored upon completion of incarceration and parole.",
+    "felonyVotingRules": "Rights restored upon release from incarceration. People on parole and probation may vote.",
     "documentationNeeded": [
       "Colorado DL or ID number",
       "Last 4 of SSN if no CO ID"
@@ -217,8 +217,8 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting available for all registered voters.",
-      "noExcuseRequired": true
+      "details": "Absentee ballot available; excuse required. A constitutional amendment for no-excuse absentee voting was approved in 2024, but enabling legislation is pending.",
+      "noExcuseRequired": false
     },
     "felonyVotingRules": "Rights restored upon completion of incarceration (people on probation or parole may vote).",
     "documentationNeeded": [
@@ -334,7 +334,7 @@
       "toRegister": "HI driver's license or state ID number, or last 4 of SSN. Online registration requires a Hawaii DL/state ID. Without any of these, must complete a paper form with a copy of a current photo ID, utility bill, bank statement, or government document with name and address.",
       "toVote": "ID required for in-person voting; mail ballots verified by signature"
     },
-    "registrationDeadline": "Same-day registration available through election day (online deadline 29 days before)",
+    "registrationDeadline": "Same-day registration available through election day (paper registration deadline 10 days before)",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -597,7 +597,7 @@
     },
     "registrationDeadline": "Same-day registration available through election day",
     "registrationMethods": {
-      "online": false,
+      "online": true,
       "mail": true,
       "inPerson": true
     },
@@ -660,13 +660,13 @@
       "toRegister": "MA driver's license or state ID number, or last 4 of SSN. If neither, leave blank and a number is assigned. First-time registrants advised to include a copy of ID showing name and address; if not provided, must show it at first vote.",
       "toVote": "ID not generally required; first-time voters who registered by mail may need ID"
     },
-    "registrationDeadline": "10 days before election (same-day registration available on election day)",
+    "registrationDeadline": "10 days before election",
     "registrationMethods": {
       "online": true,
       "mail": true,
       "inPerson": true
     },
-    "sameDayRegistration": true,
+    "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
       "details": "Early voting available for general elections, beginning at least 17 days before election day."
@@ -807,7 +807,7 @@
       "details": "Absentee ballot available; excuse required. No-excuse mail-in option available but ballot must be notarized.",
       "noExcuseRequired": false
     },
-    "felonyVotingRules": "Rights restored upon completion of sentence, including probation and parole.",
+    "felonyVotingRules": "Rights restored upon final discharge from sentence, including completion of any probation or parole term. People on probation or parole for a felony may not vote.",
     "documentationNeeded": [
       "Valid photo ID or non-photo ID with affidavit",
       "Proof of residency"
@@ -840,7 +840,7 @@
       "details": "No-excuse absentee voting. Counties with fewer than 800 voters may conduct all-mail elections.",
       "noExcuseRequired": true
     },
-    "felonyVotingRules": "Rights restored upon completion of sentence. People on probation may vote; people on parole for state felonies may not until discharge.",
+    "felonyVotingRules": "Rights restored upon release from incarceration. People on probation and parole may vote.",
     "documentationNeeded": [
       "Valid ID with name",
       "Proof of residency for late registration"
@@ -873,7 +873,7 @@
       "details": "No-excuse early (absentee) voting by mail available for all registered voters.",
       "noExcuseRequired": true
     },
-    "felonyVotingRules": "Rights restored 2 years after completion of sentence, including probation and parole.",
+    "felonyVotingRules": "Rights restored immediately upon completion of sentence, including any parole term. The previous 2-year waiting period was eliminated by LB20 in 2024.",
     "documentationNeeded": [
       "Valid photo ID",
       "Proof of residency"
@@ -921,7 +921,7 @@
     "eligibilityAge": "18",
     "idRequirements": {
       "toRegister": "Proof of identity required (not just an ID number): driver's license, government-issued photo ID, passport, or naturalization papers. Under HB 1569 (effective Nov 2024), all first-time registrants must provide hard-copy documentary proof of U.S. citizenship: U.S. passport, birth certificate, or naturalization papers. Proof of domicile also required. Affidavits no longer accepted. Law currently under legal challenge.",
-      "toVote": "Photo ID required; voters without ID may sign a challenged voter affidavit"
+      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569."
     },
     "registrationDeadline": "Same-day registration available on election day",
     "registrationMethods": {
@@ -1021,7 +1021,7 @@
       "toRegister": "NY driver's license or DMV-issued state ID number, or last 4 of SSN. If neither, include a copy of a photo ID, utility bill, bank statement, paycheck, or government document with name and address. Online registration requires a NY DMV-issued ID.",
       "toVote": "ID not generally required; first-time voters who registered by mail without ID verification must show ID"
     },
-    "registrationDeadline": "25 days before election",
+    "registrationDeadline": "10 days before election (in-person); mail registration must be postmarked 15 days before",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -1477,7 +1477,7 @@
       "toRegister": "Full 9-digit Social Security Number required (mandatory; application denied without it). VA driver's license number also requested but SSN is the primary identifier. Virginia is one of five states requiring the full SSN, mandated by the state constitution.",
       "toVote": "Acceptable ID required (photo or non-photo); free voter ID available"
     },
-    "registrationDeadline": "22 days before election (same-day registration available during early voting and on election day)",
+    "registrationDeadline": "11 days before election (same-day registration available during early voting and on election day)",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -1540,7 +1540,7 @@
     "eligibilityAge": "18 (may pre-register at 17)",
     "idRequirements": {
       "toRegister": "WV DMV ID number or last 4 of SSN. If neither, write \"NONE\" and a voter ID number is assigned. First-time voters must show ID with registration or when first voting. WV accepts out-of-state driver's licenses for voting. Online registration requires a WV DMV-issued ID.",
-      "toVote": "ID required (photo or non-photo with name and address)"
+      "toVote": "Photo ID required (WV DL/state ID, U.S. passport, government employee photo ID, WV student photo ID, U.S. military photo ID, or voter registration card with photo). Voters without photo ID may cast a provisional ballot."
     },
     "registrationDeadline": "21 days before election",
     "registrationMethods": {
