@@ -27,6 +27,7 @@
 body {
 	margin: 0;
 	font-family: var(--font);
+	font-size: 1.125rem;
 	color: var(--gray-700);
 	background: var(--gray-100);
 	line-height: 1.6;
@@ -598,7 +599,7 @@ h3 {
 }
 
 .about-content section h2 {
-	font-size: 1.1rem;
+	font-size: 1.35rem;
 	margin: 0 0 0.75rem;
 	padding-bottom: 0.5rem;
 	border-bottom: 2px solid var(--gray-200);
@@ -647,6 +648,11 @@ h3 {
 
 .sources-table a {
 	font-size: 0.85rem;
+}
+
+.last-updated {
+	font-size: 0.8rem;
+	color: var(--gray-500);
 }
 
 .badge-confidence {

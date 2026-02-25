@@ -1,0 +1,69 @@
+---
+layout: layouts/base.njk
+title: "About — US Voting Requirements"
+---
+
+<div class="about-content">
+	<h1>About This Site</h1>
+
+	<section>
+		<h2>Why This Site Exists</h2>
+		<p>This site was inspired by the discussion of voter ID requirements during President Trump's State of the Union address on February 23, 2026. That conversation highlighted how confusing and fragmented voting requirements can be across the United States.</p>
+		<p>Every state has its own rules for voter registration, ID requirements, early voting, and mail-in ballots. Finding accurate, up-to-date information often means navigating dozens of different state websites with varying levels of clarity.</p>
+		<p>This site aims to bring all of that information together in one place, making it easy for any citizen to understand what's required to register and to vote in their state.</p>
+	</section>
+
+	<section>
+		<h2>Research Methodology</h2>
+		<p>The data on this site is compiled by cross-referencing multiple authoritative sources for each state:</p>
+		<ul>
+			<li><strong>Official state election websites</strong> — the primary source for each state's current requirements</li>
+			<li><strong><a href="https://www.ncsl.org/elections-and-campaigns" target="_blank" rel="noopener">National Conference of State Legislatures (NCSL)</a></strong> — comprehensive databases on voter ID laws, registration policies, and election procedures</li>
+			<li><strong>Vote.org</strong> — state-specific voter information and registration resources</li>
+		</ul>
+		<p>Each state's data is manually verified against these sources. When sources conflict, the official state election website takes precedence.</p>
+		<p>Because election laws change frequently at the state level, this research is reviewed on a regular basis to keep the information current. When a state updates its voting requirements, we re-verify and update the affected data as soon as possible.</p>
+	</section>
+
+	<section>
+		<h2>Confidence Levels Explained</h2>
+		<p>Each state entry is assigned a confidence level indicating how recently and thoroughly the data has been verified:</p>
+		<ul class="confidence-list">
+			<li><span class="badge-confidence badge-high">High</span> — Data has been recently verified against official sources and is believed to be current and accurate.</li>
+			<li><span class="badge-confidence badge-medium">Medium</span> — Data has been reviewed but may not reflect the most recent changes. Verification is in progress.</li>
+			<li><span class="badge-confidence badge-low">Low</span> — Data needs re-verification. Information may be outdated. Please check official sources directly.</li>
+		</ul>
+	</section>
+
+	<section>
+		<h2>Sources by State</h2>
+		<div class="table-wrap">
+			<table class="sources-table">
+				<thead>
+					<tr>
+						<th>State</th>
+						<th>Confidence</th>
+						<th>Sources</th>
+					</tr>
+				</thead>
+				<tbody>
+					{%- for state in states %}
+					<tr>
+						<td>{{ state.state }}</td>
+						<td>
+							<span class="badge-confidence badge-{{ state.confidenceLevel | lower }}">{{ state.confidenceLevel }}</span>
+						</td>
+						<td>
+							{%- for source in state.sources %}
+							<a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %} · {% endif %}
+							{%- endfor %}
+							<br><span class="last-updated">Last updated: {{ state.lastVerified }}</span>
+						</td>
+					</tr>
+					{%- endfor %}
+				</tbody>
+			</table>
+		</div>
+	</section>
+
+</div>
