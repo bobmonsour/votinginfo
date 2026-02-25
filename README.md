@@ -1,6 +1,6 @@
 # US Voting Info
 
-## (soon to be at [usvoter-info.com](https://us-voterinfo.com))
+## (soon to be at [us-voterinfo.com](https://us-voterinfo.com))
 
 A static website providing voter registration and voting requirements for all 50 US states plus Washington DC. Built with [Eleventy](https://www.11ty.dev/) and deployed on [Cloudflare Workers](https://workers.cloudflare.com/).
 
