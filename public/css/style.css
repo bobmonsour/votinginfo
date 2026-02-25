@@ -108,6 +108,16 @@ h3 {
 	color: var(--white);
 }
 
+/* === Site Banner === */
+.site-banner {
+	background: #fff3e0;
+	color: #4e2a00;
+	border-left: 5px solid #f57c00;
+	padding: 1rem 0;
+	font-size: 1.15rem;
+	line-height: 1.5;
+}
+
 /* === Footer === */
 .site-footer {
 	background: var(--navy);
