@@ -1,0 +1,14 @@
+---js
+{
+	pagination: {
+		data: "states",
+		size: 1,
+		alias: "state"
+	},
+	permalink: "/states/{{ state.abbreviation | lower }}/all-news/",
+	layout: "layouts/state-news.njk",
+	eleventyComputed: {
+		title: (data) => `All News — ${data.state.state}`
+	}
+}
+---

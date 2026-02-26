@@ -1,0 +1,35 @@
+---
+layout: layouts/base.njk
+---
+<article class="state-detail">
+	<div class="state-detail-header">
+		<a href="/states/{{ state.abbreviation | lower }}/" class="back-link" aria-label="Back to {{ state.state }} details">&larr; Back to {{ state.state }} details</a>
+		<h1>All News &mdash; {{ state.state }}</h1>
+	</div>
+
+	{% set allItems = [] %}
+	{% set seenUrls = [] %}
+	{% for run in stateNews.runs %}
+		{% set items = run.states[state.abbreviation] if run.states[state.abbreviation] else [] %}
+		{% for item in items %}
+			{% if item.url not in seenUrls %}
+				{% set seenUrls = (seenUrls.push(item.url), seenUrls) %}
+				{% set allItems = (allItems.push(item), allItems) %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+	{% if allItems.length %}
+	<ul class="news-list">
+		{%- for item in allItems | sort(true, false, "date") %}
+		<li>
+			<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+			<span class="news-meta">{{ item.source }} · {{ item.date | formatDate }}</span>
+			<p>{{ item.summary }}</p>
+		</li>
+		{%- endfor %}
+	</ul>
+	{% else %}
+	<p>No news items have been captured for {{ state.state }} yet.</p>
+	{% endif %}
+</article>

@@ -110,7 +110,7 @@ layout: layouts/base.njk
 			<section class="recent-news" id="recent-news">
 				<h2>Recent News</h2>
 				<ul class="news-list">
-					{%- for item in news %}
+					{%- for item in news | sort(true, false, "date") %}
 					<li>
 						<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
 						<span class="news-meta">{{ item.source }} · {{ item.date | formatDate }}</span>
@@ -118,6 +118,7 @@ layout: layouts/base.njk
 					</li>
 					{%- endfor %}
 				</ul>
+				<a href="/states/{{ state.abbreviation | lower }}/all-news/" class="all-news-link">View all news &rarr;</a>
 			</section>
 			{% endif %}
 
@@ -175,7 +176,7 @@ layout: layouts/base.njk
 			<li>
 				<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
 				{% if change.field %}<code>{{ change.field }}</code>{% endif %}
-				<span>{{ change.description }}{% if change.field == "Recent News" %} (<a href="#recent-news">view</a>){% endif %}</span>
+				<span>{{ change.description }}</span>
 			</li>
 			{%- endfor %}
 		</ul>
