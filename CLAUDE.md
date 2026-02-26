@@ -20,10 +20,13 @@ This is a static site built with **Eleventy 3** (Nunjucks templates) that provid
 
 `_data/states.json` is the single source of truth — a 51-entry array where each object has fields like `abbreviation`, `sameDayRegistration`, `registrationMethods`, `earlyVoting`, `mailInVoting`, `recentLegislation`, `pendingLegislation`, `changes`, etc.
 
-Eleventy reads this at build time and feeds it into two template paths:
+Eleventy reads this at build time and feeds it into these template paths:
 
 1. **Home page** (`content/index.njk`) — iterates all 51 states, rendering `_includes/state-card.njk` for each. Each card embeds key data as `data-*` attributes on the DOM element for client-side filtering.
 2. **State detail pages** (`content/states.njk`) — uses Eleventy pagination with `size: 1` to generate 51 pages at `/states/{abbr}/`, each rendered with `_includes/layouts/state.njk`.
+3. **Glossary page** (`content/glossary.njk`) — definitions of voting-related terms used across the site.
+4. **Change log page** (`content/changes.njk`) — per-state change tracking with "By State" and "By Date" toggle views.
+5. **About page** (`content/about.njk`) — site background and research methodology.
 
 ### Client-side filtering
 
@@ -37,9 +40,21 @@ In `eleventy.config.js`: input is `content/`, includes are `_includes/`, data is
 
 Each state entry has `recentLegislation` and `pendingLegislation` arrays. Each item has `bill`, `year`, `description`, `status`, `dateAdded`, and `active` (boolean toggle for display). State detail pages (`_includes/layouts/state.njk`) conditionally render these as sections between Sources and Additional Notes.
 
+### Navigation
+
+The header nav order is: Home | Glossary | Change Log | About. All footer links open in new tabs.
+
 ### Change log
 
 Each state entry has a `changes` array with `date`, `field` (human-readable label like "Same-Day Registration"), and `description`. The change log page (`content/changes.njk`) offers "By State" and "By Date" toggle views. The by-date view is built client-side from `data-*` attributes on the by-state list items. Dates display in `Mon D, YYYY` format via the `formatDate` filter (Nunjucks) and a JS `fmtDate` helper.
+
+### Glossary
+
+The glossary page (`content/glossary.njk`) defines 13 voting-related terms using a `<dl>` definition list with the `.glossary` class. Styled with bold navy terms and gray definitions.
+
+### Skills
+
+The project includes a `/voting-research` skill (`.claude/skills/voting-research/SKILL.md`) for periodic deep-dive verification of all state data against authoritative sources. It produces a report at `docs/periodic-research-MM-DD-YYYY.md` and presents findings before making changes.
 
 ### State flags
 
