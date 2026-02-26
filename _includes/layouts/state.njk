@@ -162,22 +162,23 @@ layout: layouts/base.njk
 			</section>
 			{% endif %}
 
-			{% if state.changes.length %}
-			<section class="change-log">
-				<h2>Change Log</h2>
-				<ul class="change-list">
-					{%- for change in state.changes | reverse %}
-					<li>
-						<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
-						{% if change.field %}<code>{{ change.field }}</code>{% endif %}
-						<span>{{ change.description }}{% if change.field == "Recent News" %} (<a href="#recent-news">view</a>){% endif %}</span>
-					</li>
-					{%- endfor %}
-				</ul>
-			</section>
-			{% endif %}
 		</div>
 	</div>
 
 	<p class="last-verified">Last verified: {{ state.lastVerified | formatDate }}</p>
+
+	{% if state.changes.length %}
+	<section class="change-log">
+		<h2>Change Log</h2>
+		<ul class="change-list">
+			{%- for change in state.changes | reverse %}
+			<li>
+				<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
+				{% if change.field %}<code>{{ change.field }}</code>{% endif %}
+				<span>{{ change.description }}{% if change.field == "Recent News" %} (<a href="#recent-news">view</a>){% endif %}</span>
+			</li>
+			{%- endfor %}
+		</ul>
+	</section>
+	{% endif %}
 </article>

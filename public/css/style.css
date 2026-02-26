@@ -856,6 +856,17 @@ h3 {
 }
 
 /* === Change Log === */
+.state-detail > .change-log {
+	background: var(--gray-200);
+	border-radius: var(--radius);
+	padding: 1.5rem;
+	margin-top: 1rem;
+}
+
+.state-detail > .change-log h2 {
+	font-size: 0.95rem;
+}
+
 .change-log h2 {
 	margin-bottom: 0.75rem;
 }
