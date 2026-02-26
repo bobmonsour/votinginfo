@@ -3,17 +3,17 @@ layout: layouts/base.njk
 ---
 <article class="state-detail">
 	<div class="state-detail-header">
-		<a href="/states/{{ state.abbreviation | lower }}/" class="back-link" aria-label="Back to {{ state.state }} details">&larr; Back to {{ state.state }} details</a>
+		<a href="/states/{{ state.abbreviation | lower }}/" class="back-btn" aria-label="Back to {{ state.state }} details">&larr; Back to {{ state.state }}</a>
 		<h1>All News &mdash; {{ state.state }}</h1>
 	</div>
 
 	{% set allItems = [] %}
-	{% set seenUrls = [] %}
-	{% for run in stateNews.runs %}
+	{% set seenTitles = [] %}
+	{% for run in stateNews.runs | reverse %}
 		{% set items = run.states[state.abbreviation] if run.states[state.abbreviation] else [] %}
 		{% for item in items %}
-			{% if item.url not in seenUrls %}
-				{% set seenUrls = (seenUrls.push(item.url), seenUrls) %}
+			{% if item.title not in seenTitles %}
+				{% set seenTitles = (seenTitles.push(item.title), seenTitles) %}
 				{% set allItems = (allItems.push(item), allItems) %}
 			{% endif %}
 		{% endfor %}

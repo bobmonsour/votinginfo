@@ -3,7 +3,7 @@ layout: layouts/base.njk
 ---
 <article class="state-detail">
 	<div class="state-detail-header">
-		<a href="/" class="back-link" aria-label="Back to all states">&larr; All States</a>
+		<a href="/" class="back-btn" aria-label="Back to all states">&larr; All States</a>
 		<h1>
 			{% if state.abbreviation == "DC" %}
 			<img class="state-flag state-flag-lg" src="/img/flags/dc.svg" alt="{{ state.state }} flag" loading="lazy" width="60" height="40">
@@ -109,14 +109,16 @@ layout: layouts/base.njk
 				<h2>Recent News</h2>
 				<ul class="news-list">
 					{%- for item in news | sort(true, false, "date") %}
+					{% if loop.index <= 4 %}
 					<li>
 						<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
 						<span class="news-meta">{{ item.source }} · {{ item.date | formatDate }}</span>
 						<p>{{ item.summary }}</p>
 					</li>
+					{% endif %}
 					{%- endfor %}
 				</ul>
-				<a href="/states/{{ state.abbreviation | lower }}/all-news/" class="all-news-link">View all news &rarr;</a>
+				<a href="/states/{{ state.abbreviation | lower }}/all-news/" class="back-btn">View all news &rarr;</a>
 			</section>
 			{% endif %}
 
