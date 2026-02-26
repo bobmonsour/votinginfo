@@ -95,14 +95,12 @@ layout: layouts/base.njk
 				</ul>
 			</section>
 
+			{% if state.notes %}
 			<section>
-				<h2>Sources</h2>
-				<ul>
-					{%- for source in state.sources %}
-					<li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a></li>
-					{%- endfor %}
-				</ul>
+				<h2>Additional Notes</h2>
+				<p>{{ state.notes }}</p>
 			</section>
+			{% endif %}
 
 			{% set latestRun = stateNews.runs | last %}
 			{% set news = latestRun.states[state.abbreviation] if latestRun else [] %}
@@ -121,6 +119,15 @@ layout: layouts/base.njk
 				<a href="/states/{{ state.abbreviation | lower }}/all-news/" class="all-news-link">View all news &rarr;</a>
 			</section>
 			{% endif %}
+
+			<section>
+				<h2>Sources</h2>
+				<ul>
+					{%- for source in state.sources %}
+					<li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a></li>
+					{%- endfor %}
+				</ul>
+			</section>
 
 			{% if state.recentLegislation.length %}
 			<section class="legislation">
@@ -153,13 +160,6 @@ layout: layouts/base.njk
 					{% endif %}
 					{%- endfor %}
 				</ul>
-			</section>
-			{% endif %}
-
-			{% if state.notes %}
-			<section>
-				<h2>Additional Notes</h2>
-				<p>{{ state.notes }}</p>
 			</section>
 			{% endif %}
 
