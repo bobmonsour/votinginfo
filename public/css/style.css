@@ -594,8 +594,8 @@ h3 {
 	background: var(--white);
 	border-radius: var(--radius);
 	box-shadow: var(--shadow-sm);
-	padding: 1.5rem;
-	margin-bottom: 1rem;
+	padding: 1.5rem 1.5rem 0.25rem;
+	margin-bottom: 0;
 }
 
 .about-content section h2 {

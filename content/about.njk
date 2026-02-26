@@ -8,9 +8,10 @@ title: "About — US Voting Requirements"
 
 	<section>
 		<h2>Why this Site Exists</h2>
-		<p>This site was inspired by the discussion of voter ID requirements during President Trump's State of the Union address on February 23, 2026. That conversation highlighted how confusing and fragmented voting requirements can be across the United States.</p>
-		<p>Every state has its own rules for voter registration, ID requirements, early voting, and mail-in ballots. Finding accurate, up-to-date information often means navigating dozens of different state websites with varying levels of clarity.</p>
+		<p>This site was inspired by the discussion of voter ID requirements during President Trump's State of the Union address on February 23, 2026.</p>
+		<p>Every state has its own rules for voter registration, ID requirements, early voting, and mail-in ballots. Finding accurate, up-to-date information can sometimes mean navigating multiple different websites with varying levels of clarity.</p>
 		<p>This site aims to bring all of that information together in one place, making it easy for any citizen to understand what's required to register and to vote in their state.</p>
+    <p>In addition, state voting laws are changing rapidly, with new legislation being introduced and passed in many states. This site also provides news updates on recent changes to voting laws, so visitors can stay informed about the evolving landscape of voting rights in the US.</p>
 	</section>
 
 	<section>
@@ -27,31 +28,14 @@ title: "About — US Voting Requirements"
 		<p>Because election laws change frequently at the state level, this research will be reviewed periodically and updated as needed.</p>
 	</section>
 
-	{# <section>
-		<h2>Primary Sources by State</h2>
-		<div class="table-wrap">
-			<table class="sources-table">
-				<thead>
-					<tr>
-						<th>State</th>
-						<th>Sources</th>
-					</tr>
-				</thead>
-				<tbody>
-					{%- for state in states %}
-					<tr>
-						<td>{{ state.state }}</td>
-						<td>
-							{%- for source in state.sources %}
-							<a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %} · {% endif %}
-							{%- endfor %}
-							<br><span class="last-updated">Last updated: {{ state.lastVerified | formatDate }}</span>
-						</td>
-					</tr>
-					{%- endfor %}
-				</tbody>
-			</table>
-		</div>
-	</section> #}
+	<section>
+		<h2>Who is Behind this Site</h2>
+		<p>The site was built by <a href="https://bobmonsour.com" target="_blank" rel="noopener">Bob Monsour</a>, a retired technology executive and software engineer, with the use of <a href="https://claude.com/product/claude-code" target="_blank" rel="noopener">Claude Code</a>.</p>
+    <p>As someone who follows politics, I have found it particularly distressing to see all of the talk about voter suppression and the erosion of voting rights. This is occurring at all levels of government, from the state level and all the way up to the Supreme Court with it's relatively recent "gutting" of the Voting Rights Act in two decisions (<a href="https://en.wikipedia.org/wiki/Shelby_County_v._Holder">Shelby County v. Holder</a>, and <a href="https://en.wikipedia.org/wiki/Brnovich_v._Democratic_National_Committee">Brnovich v. Democratic National Committee</a>).</p>
+    <p>It is my sincere hope that this site can provide voters with information to help them get registered to vote and to make their voice heard at the ballot box as well as to help them see what is happening with regard to emerging legislation and other efforts to change the voting laws in their state.</p>
+    <p>The effort to build this site began during the recent State of the Union address on February 23, 2026. After a few hours of using Claude Code, the initial site was completed. Over the following days, additional research was done to verify the information, capture the corrections made, and log those corrections. There is an active <a href="/change-log">Change Log</a> identifying updates to all of the states, and changes to each state's requirements are added to the details for that state. In addition, recent news items have been captured for each state to provide visibility into the ongoing legislative activity around voting laws. Changes to voter registration requirements, voting requirements, and news items will be updated periodically.</p>
+		<p>Because election laws change frequently at the state level, this research will be reviewed periodically and updated as needed.</p>
+    <p><em><strong>A note about data integrity:</strong> All of the voter registration requirements, voting requirements, and news items presented on this site have been gathered using AI as a research tool. As a result, it is possible that some of the information provided on this site is not accurate. The site provides direct links to the official state election websites for each state. Visitors to this site are encouraged to use those official sites as the ultimate source of truth for the voter registration and voting requirements in their state.</em></p>
+	</section>
 
 </div>
