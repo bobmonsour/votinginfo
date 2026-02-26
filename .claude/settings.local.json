@@ -48,7 +48,8 @@
       "WebFetch(domain:www.eac.gov)",
       "WebFetch(domain:aceproject.org)",
       "WebFetch(domain:www.idea.int)",
-      "Bash(head:*)"
+      "Bash(head:*)",
+      "Bash(ls:*)"
     ]
   }
 }
