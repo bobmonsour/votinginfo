@@ -766,6 +766,29 @@ h3 {
 	color: var(--red);
 }
 
+/* === Changes Page === */
+#changes-by-state section,
+#changes-by-date section {
+	padding: 0.75rem;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+#changes-by-state section h2,
+#changes-by-date section h2 {
+	margin: 0 0 0.5rem;
+}
+
+#changes-by-state .change-list,
+#changes-by-date .change-list {
+	margin: 0;
+}
+
+#changes-by-state .change-list li:last-child,
+#changes-by-date .change-list li:last-child {
+	padding-bottom: 0;
+}
+
 /* === Changes Page Controls === */
 .changes-controls {
 	display: flex;
