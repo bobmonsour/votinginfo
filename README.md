@@ -1,16 +1,17 @@
 # US Voting Info
 
-## Currently live at [US Voter Registration and Voting Requirements](https://votinginfo.bob-monsour.workers.dev/)
-
-### (soon to be at [us-voterinfo.com](https://us-voterinfo.com))
+## [us-voterinfo.com](https://us-voterinfo.com)
 
 A static website providing voter registration and voting requirements for all 50 US states plus Washington DC. Built with [Eleventy](https://www.11ty.dev/) and deployed on [Cloudflare Workers](https://workers.cloudflare.com/).
 
 ## Features
 
 - **51 jurisdictions** — Detailed voting info for every state and DC
-- **Search and filter** — Real-time client-side search by state name/abbreviation, with combinable filters (same-day registration, online registration, early voting, mail-in voting)
-- **Individual state pages** — Full details including eligibility, ID requirements, registration methods, early/mail-in voting rules, felony voting rules, and links to official election websites
+- **Search and filter** — Real-time client-side search by state name/abbreviation, with combinable filters (same-day registration, online registration, early voting, no-excuse mail-in, excuse-required mail-in, all mail-in)
+- **Individual state pages** — Full details including eligibility, ID requirements, registration methods, early/mail-in voting rules, felony voting rules, sourced links, and links to official election websites
+- **About page** — Research methodology and a sources-by-state table with last-verified dates
+- **Change log** — Per-state change tracking for data updates
+- **Data verification banner** — Site-wide notice while data is being verified state by state
 - **State flags** — Flag images on cards and detail pages (via flagcdn.com, with a local SVG for DC)
 - **Responsive design** — Mobile-first layout with CSS grid
 - **Accessible** — Skip link, ARIA labels, semantic HTML, keyboard navigation
@@ -26,7 +27,7 @@ A static website providing voter registration and voting requirements for all 50
 ## Project Structure
 
 ```
-content/            Page templates (home, state pages via pagination)
+content/            Page templates (home, state pages, about, change log)
   _data/
     states.json     Voting data for all 51 jurisdictions
     metadata.js     Site metadata
@@ -37,6 +38,7 @@ public/
   css/style.css     All styles
   js/filter.js      Search and filter logic
   img/              Flags, OG image
+docs/               Project documentation and accuracy reports
 ```
 
 ## Getting Started
@@ -55,6 +57,6 @@ npm run deploy  # Build + deploy to Cloudflare Workers
 
 ## Data
 
-All voting information lives in `content/_data/states.json`. Each entry includes registration deadlines, ID requirements, registration methods, early voting details, mail-in voting rules, felony voting rules, required documentation, and a link to the official state election website.
+All voting information lives in `content/_data/states.json`. Each entry includes registration deadlines, ID requirements, registration methods, early voting details, mail-in voting rules, felony voting rules, required documentation, confidence levels, last-verified dates, per-state sources, change history, and a link to the official state election website.
 
-Sources include NCSL, Vote.org, and official state election websites.
+Sources include NCSL, Vote.org, and official state election websites. Each state's detail page links to its specific sources, and the About page provides a full sources-by-state reference table.
