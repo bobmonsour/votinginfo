@@ -124,6 +124,25 @@ h3 {
 	line-height: 1.5;
 }
 
+.site-banner .container {
+	position: relative;
+	padding-right: 2.5rem;
+}
+
+.banner-dismiss {
+	position: absolute;
+	right: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	background: none;
+	border: none;
+	color: #7f1d1d;
+	font-size: 1.5rem;
+	cursor: pointer;
+	padding: 0.25rem 0.5rem;
+	line-height: 1;
+}
+
 /* === Footer === */
 .site-footer {
 	background: var(--navy);
