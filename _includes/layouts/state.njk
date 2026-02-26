@@ -104,6 +104,23 @@ layout: layouts/base.njk
 				</ul>
 			</section>
 
+			{% set latestRun = stateNews.runs | last %}
+			{% set news = latestRun.states[state.abbreviation] if latestRun else [] %}
+			{% if news and news.length %}
+			<section class="recent-news" id="recent-news">
+				<h2>Recent News</h2>
+				<ul class="news-list">
+					{%- for item in news %}
+					<li>
+						<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+						<span class="news-meta">{{ item.source }} · {{ item.date | formatDate }}</span>
+						<p>{{ item.summary }}</p>
+					</li>
+					{%- endfor %}
+				</ul>
+			</section>
+			{% endif %}
+
 			{% if state.recentLegislation.length %}
 			<section class="legislation">
 				<h2>Recent Legislation</h2>
@@ -153,7 +170,7 @@ layout: layouts/base.njk
 					<li>
 						<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
 						{% if change.field %}<code>{{ change.field }}</code>{% endif %}
-						<span>{{ change.description }}</span>
+						<span>{{ change.description }}{% if change.field == "Recent News" %} (<a href="#recent-news">view</a>){% endif %}</span>
 					</li>
 					{%- endfor %}
 				</ul>

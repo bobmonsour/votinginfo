@@ -8,7 +8,8 @@ A static website providing voter registration and voting requirements for all 50
 
 - **51 jurisdictions** — Detailed voting info for every state and DC
 - **Search and filter** — Real-time client-side search by state name/abbreviation, with combinable filters (same-day registration, online registration, early voting, no-excuse mail-in, excuse-required mail-in, all mail-in)
-- **Individual state pages** — Full details including eligibility, ID requirements, registration methods, early/mail-in voting rules, felony voting rules, recent and pending legislation, sourced links, and links to official election websites
+- **Individual state pages** — Full details including eligibility, ID requirements, registration methods, early/mail-in voting rules, felony voting rules, recent news, recent and pending legislation, sourced links, and links to official election websites
+- **Recent news** — Per-state election news with linked sources, gathered periodically from reputable outlets (Brennan Center, NCSL, AP, state newspapers, etc.)
 - **Glossary** — Definitions of 13 voting-related terms used across the site
 - **About page** — Site background and research methodology
 - **Change log** — Per-state change tracking with human-readable field labels and a "By Date" toggle view
@@ -31,6 +32,7 @@ A static website providing voter registration and voting requirements for all 50
 content/            Page templates (home, state pages, glossary, change log, about)
   _data/
     states.json     Voting data for all 51 jurisdictions
+    stateNews.json  Per-state election news captured by research skill
     metadata.js     Site metadata
   _includes/
     layouts/        Base and state detail layouts
@@ -60,4 +62,6 @@ npm run deploy  # Build + deploy to Cloudflare Workers
 
 All voting information lives in `content/_data/states.json`. Each entry includes registration deadlines, ID requirements, registration methods, early voting details, mail-in voting rules, felony voting rules, required documentation, confidence levels, last-verified dates, per-state sources, change history, recent legislation, pending legislation, and a link to the official state election website.
 
-Sources include official state election websites, NCSL, Ballotpedia, Vote.org, and recent news coverage. Each state's detail page links to its specific sources.
+Per-state election news is stored in `content/_data/stateNews.json`, organized by research run date. Each run captures up to 5 news items per state with title, source, URL, date, and summary.
+
+Sources include official state election websites, NCSL, Ballotpedia, Vote.org, Brennan Center, AP News, Reuters, and state newspapers. Each state's detail page links to its specific sources.

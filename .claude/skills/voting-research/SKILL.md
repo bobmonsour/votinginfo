@@ -7,13 +7,24 @@ allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *)
 
 # Research and Verify State Voting Data
 
-Perform a comprehensive review of all 51 entries (50 states + DC) in `_data/states.json` to identify any data that has changed or needs updating.
+## Run mode
+
+Before doing any work, ask the user which mode to run:
+
+- **Full run** — perform the comprehensive data verification below AND gather news items
+- **News only** — skip data verification, only gather recent news items for each state
+
+Then proceed with the appropriate sections below.
 
 ## Data file
 
 The single source of truth is `_data/states.json`. Read this file first to understand current values.
 
-## Fields to verify for each state
+## Data verification (Full run only)
+
+Perform a comprehensive review of all 51 entries (50 states + DC) in `_data/states.json` to identify any data that has changed or needs updating.
+
+### Fields to verify for each state
 
 - **eligibilityAge** — minimum age to register/vote
 - **idRequirements** — what ID is needed to vote
@@ -27,7 +38,7 @@ The single source of truth is `_data/states.json`. Read this file first to under
 - **recentLegislation** — recently enacted laws affecting voting
 - **pendingLegislation** — bills currently under consideration
 
-## Authoritative sources to check
+### Authoritative sources to check
 
 For each state, cross-reference against:
 
@@ -37,7 +48,7 @@ For each state, cross-reference against:
 4. **Vote.org** — state-specific voter information
 5. **Recent news** — newly enacted or pending legislation
 
-## Research process
+### Research process
 
 1. Read `_data/states.json` in full.
 2. For each state, use WebSearch and WebFetch to check current data against the authoritative sources listed above.
@@ -48,7 +59,7 @@ For each state, cross-reference against:
 4. Work through states in alphabetical order. Use parallel research agents where possible to speed up the process.
 5. Keep a running summary of all discrepancies found.
 
-## Research report
+### Research report
 
 Save the report as a markdown file in the `docs/` directory named `periodic-research-MM-DD-YYYY.md`, where MM-DD-YYYY is today's date. For example: `docs/periodic-research-02-25-2026.md`.
 
@@ -63,7 +74,7 @@ The report should include:
   - **Source URL** supporting the change
 - States where no changes were found (brief list)
 
-## After research is complete
+### After research is complete
 
 Present the full report of findings to the user and ask for confirmation before making any changes to `states.json`.
 
@@ -73,3 +84,61 @@ If changes are approved:
 3. Add entries to the state's `changes` array with `date` (today, YYYY-MM-DD format), `field` (human-readable label), and `description` (what changed)
 4. Update `recentLegislation` and `pendingLegislation` as appropriate
 5. Update source URLs if any have changed
+
+## News capture (Both modes)
+
+For each state, search for up to 5 recent election-related news items from reputable sources:
+
+- Brennan Center for Justice
+- NCSL (ncsl.org)
+- State newspapers and local news outlets
+- AP News, Reuters
+- Ballotpedia
+- Stateline (Pew)
+
+### What to capture per news item
+
+- **title** — article headline
+- **source** — publication name (e.g. "Brennan Center for Justice")
+- **url** — full URL to the article
+- **date** — publication date in YYYY-MM-DD format
+- **summary** — 1-2 sentence summary of the article's relevance to voting in the state
+
+### Writing news data
+
+1. Read the existing `_data/stateNews.json` file.
+2. Append a new entry to the `runs` array with today's date and all states that had news items found. States with no news are omitted from that run.
+3. Write the updated file back, preserving all previous runs.
+
+Structure of a run entry:
+
+```json
+{
+  "date": "YYYY-MM-DD",
+  "states": {
+    "AL": [
+      {
+        "title": "Article title",
+        "source": "Source name",
+        "url": "https://...",
+        "date": "YYYY-MM-DD",
+        "summary": "Brief summary."
+      }
+    ]
+  }
+}
+```
+
+Each state key holds up to 5 news items per run.
+
+### Change log entries for news
+
+After writing news items to `stateNews.json`, for each state that received news items, add an entry to that state's `changes` array in `_data/states.json`:
+
+```json
+{
+  "date": "YYYY-MM-DD",
+  "field": "Recent News",
+  "description": "Added recent news items"
+}
+```

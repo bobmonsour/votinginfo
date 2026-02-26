@@ -42,7 +42,13 @@
         "url": "https://www.vote.org/state/al/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -94,6 +100,11 @@
         "date": "2026-02-25",
         "field": "Same-Day Registration",
         "description": "Corrected same-day registration from universally available to only available during presidential elections per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -142,7 +153,13 @@
         "url": "https://www.vote.org/state/az/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -193,6 +210,11 @@
         "date": "2026-02-25",
         "field": "Online Registration",
         "description": "Corrected online registration from unavailable to available per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -241,7 +263,13 @@
         "url": "https://www.vote.org/state/ca/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [
       {
         "bill": "SB 1174",
@@ -297,7 +325,13 @@
         "url": "https://www.vote.org/state/co/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -349,6 +383,11 @@
         "date": "2026-02-25",
         "field": "Registration Deadline",
         "description": "Corrected registration deadline from 7 days to 18 days before election per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -411,6 +450,11 @@
         "date": "2026-02-25",
         "field": "Mail-In Voting",
         "description": "Corrected mail-in voting from no-excuse to excuse-required per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -458,7 +502,13 @@
         "url": "https://www.vote.org/state/fl/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": [
       {
@@ -513,7 +563,13 @@
         "url": "https://www.vote.org/state/ga/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [
       {
         "bill": "SB 189",
@@ -569,7 +625,13 @@
         "url": "https://www.vote.org/state/hi/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -616,7 +678,13 @@
         "url": "https://www.vote.org/state/id/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -662,7 +730,13 @@
         "url": "https://www.vote.org/state/il/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -714,6 +788,11 @@
         "date": "2026-02-25",
         "field": "Voter ID",
         "description": "Added note about SB 10 (2025) banning student IDs as voter identification per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -771,7 +850,13 @@
         "url": "https://www.vote.org/state/ia/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -822,6 +907,11 @@
         "date": "2026-02-25",
         "field": "Registration ID",
         "description": "Clarified that the SAFE Act documentary proof of citizenship requirement has been invalidated by courts per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -878,7 +968,13 @@
         "url": "https://www.vote.org/state/ky/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -925,7 +1021,13 @@
         "url": "https://www.vote.org/state/la/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [
       {
         "bill": "SB 436",
@@ -980,7 +1082,13 @@
         "url": "https://www.vote.org/state/me/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1027,7 +1135,13 @@
         "url": "https://www.vote.org/state/md/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1074,7 +1188,13 @@
         "url": "https://www.vote.org/state/ma/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1121,7 +1241,13 @@
         "url": "https://www.vote.org/state/mi/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1168,7 +1294,13 @@
         "url": "https://www.vote.org/state/mn/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1214,7 +1346,13 @@
         "url": "https://www.vote.org/state/ms/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1261,7 +1399,13 @@
         "url": "https://www.vote.org/state/mo/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1313,6 +1457,11 @@
         "date": "2026-02-25",
         "field": "Voter ID",
         "description": "Updated voter ID requirement from photo or non-photo to photo ID only effective May 2025 per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1370,7 +1519,13 @@
         "url": "https://www.vote.org/state/ne/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [
       {
         "bill": "LB 514",
@@ -1426,7 +1581,13 @@
         "url": "https://www.vote.org/state/nv/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1473,7 +1634,13 @@
         "url": "https://www.vote.org/state/nh/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [
       {
         "bill": "HB 1569",
@@ -1528,7 +1695,13 @@
         "url": "https://www.vote.org/state/nj/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1575,7 +1748,13 @@
         "url": "https://www.vote.org/state/nm/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1622,7 +1801,13 @@
         "url": "https://www.vote.org/state/ny/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1669,7 +1854,13 @@
         "url": "https://www.vote.org/state/nc/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1715,7 +1906,13 @@
         "url": "https://www.vote.org/state/nd/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1767,6 +1964,11 @@
         "date": "2026-02-25",
         "field": "Mail-In Voting",
         "description": "Added note about SB 293 elimination of absentee ballot grace period per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1823,7 +2025,13 @@
         "url": "https://www.vote.org/state/ok/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1869,7 +2077,13 @@
         "url": "https://www.vote.org/state/or/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1916,7 +2130,13 @@
         "url": "https://www.vote.org/state/pa/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -1963,7 +2183,13 @@
         "url": "https://www.vote.org/state/ri/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -2010,7 +2236,13 @@
         "url": "https://www.vote.org/state/sc/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -2056,7 +2288,13 @@
         "url": "https://www.vote.org/state/sd/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": [
       {
@@ -2111,7 +2349,13 @@
         "url": "https://www.vote.org/state/tn/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -2158,7 +2402,13 @@
         "url": "https://www.vote.org/state/tx/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -2210,6 +2460,11 @@
         "date": "2026-02-25",
         "field": "Mail-In Voting",
         "description": "Added note about HB 300 phase-out of universal vote-by-mail by 2029 per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2266,7 +2521,13 @@
         "url": "https://www.vote.org/state/vt/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -2318,6 +2579,11 @@
         "date": "2026-02-25",
         "field": "Registration Deadline",
         "description": "Corrected registration deadline from 11 days to 22 days before election for non-provisional registration per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2365,7 +2631,13 @@
         "url": "https://www.vote.org/state/wa/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   },
@@ -2416,6 +2688,11 @@
         "date": "2026-02-25",
         "field": "Voter ID",
         "description": "Updated voter ID requirements to reflect stricter photo-only requirement under HB 3016 (2025) per recent review"
+      },
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2473,7 +2750,13 @@
         "url": "https://www.vote.org/state/wi/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [
       {
         "bill": "Constitutional Amendment",
@@ -2530,7 +2813,13 @@
         "url": "https://www.vote.org/state/wy/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [
       {
         "bill": "HB 156",
@@ -2586,7 +2875,13 @@
         "url": "https://www.vote.org/state/district-of-columbia/"
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "date": "2026-02-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      }
+    ],
     "recentLegislation": [],
     "pendingLegislation": []
   }

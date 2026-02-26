@@ -29,7 +29,7 @@ title: "Changes — US Voting Requirements"
 					<li data-date="{{ change.date }}" data-state="{{ state.state }}" data-abbr="{{ state.abbreviation | lower }}" data-field="{{ change.field }}" data-desc="{{ change.description }}">
 						<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
 						{% if change.field %}<code>{{ change.field }}</code>{% endif %}
-						<span>{{ change.description }}</span>
+						<span>{{ change.description }}{% if change.field == "Recent News" %} (<a href="/states/{{ state.abbreviation | lower }}/#recent-news">view</a>){% endif %}</span>
 					</li>
 					{%- endfor %}
 				</ul>
@@ -74,7 +74,9 @@ title: "Changes — US Voting Requirements"
 					html += '<li>';
 					html += '<a href="/states/' + entry.abbr + '/" class="change-state-link">' + entry.state + '</a>';
 					if (entry.field) html += '<code>' + entry.field + '</code>';
-					html += '<span>' + entry.desc + '</span>';
+					var descHtml = entry.desc;
+				if (entry.field === 'Recent News') descHtml += ' (<a href="/states/' + entry.abbr + '/#recent-news">view</a>)';
+				html += '<span>' + descHtml + '</span>';
 					html += '</li>';
 				});
 				html += '</ul></section>';
