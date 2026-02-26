@@ -45,7 +45,7 @@ title: "About — US Voting Requirements"
 							{%- for source in state.sources %}
 							<a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %} · {% endif %}
 							{%- endfor %}
-							<br><span class="last-updated">Last updated: {{ state.lastVerified }}</span>
+							<br><span class="last-updated">Last updated: {{ state.lastVerified | formatDate }}</span>
 						</td>
 					</tr>
 					{%- endfor %}
