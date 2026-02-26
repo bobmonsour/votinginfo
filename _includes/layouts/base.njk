@@ -30,9 +30,10 @@
 	<div class="site-banner" role="alert" id="site-banner">
 		<div class="container">
 			<strong>Note (Feb 25, 2026):</strong> This site is new and data is currently being verified on a state-by-state basis. Please confirm details with your state's official election website before relying on this information.
-			<button class="banner-dismiss" aria-label="Dismiss notice" onclick="document.getElementById('site-banner').remove()">&times;</button>
+			<button class="banner-dismiss" aria-label="Dismiss notice" onclick="document.getElementById('site-banner').remove();sessionStorage.setItem('bannerDismissed','1')">&times;</button>
 		</div>
 	</div>
+	<script>if(sessionStorage.getItem('bannerDismissed'))document.getElementById('site-banner').remove()</script>
 	<main id="main-content" class="container">
 		{{ content | safe }}
 	</main>
