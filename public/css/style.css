@@ -15,7 +15,7 @@
 	--gray-100: #f5f7fa;
 	--gray-200: #e8ecf1;
 	--gray-300: #cdd5de;
-	--gray-500: #6b7a8d;
+	--gray-500: #5a6a7b;
 	--gray-700: #3d4f5f;
 	--white: #ffffff;
 	--shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
@@ -326,7 +326,7 @@ h3 {
 
 .badge-no {
 	background: var(--gray-200);
-	color: var(--gray-500);
+	color: var(--gray-700);
 }
 
 .badge-caution {
