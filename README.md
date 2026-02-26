@@ -1,6 +1,6 @@
 # US Voting Info
 
-## [us-voterinfo.com](https://us-voterinfo.com)
+Currently live at [US Voter Registration and Voting Requirements](https://votinginfo.bob-monsour.workers.dev/), with a custom domain coming soon.
 
 A static website providing voter registration and voting requirements for all 50 US states plus Washington DC. Built with [Eleventy](https://www.11ty.dev/) and deployed on [Cloudflare Workers](https://workers.cloudflare.com/).
 
