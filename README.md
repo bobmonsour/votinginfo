@@ -8,9 +8,9 @@ A static website providing voter registration and voting requirements for all 50
 
 - **51 jurisdictions** — Detailed voting info for every state and DC
 - **Search and filter** — Real-time client-side search by state name/abbreviation, with combinable filters (same-day registration, online registration, early voting, no-excuse mail-in, excuse-required mail-in, all mail-in)
-- **Individual state pages** — Full details including eligibility, ID requirements, registration methods, early/mail-in voting rules, felony voting rules, sourced links, and links to official election websites
-- **About page** — Research methodology and a sources-by-state table with last-verified dates
-- **Change log** — Per-state change tracking for data updates
+- **Individual state pages** — Full details including eligibility, ID requirements, registration methods, early/mail-in voting rules, felony voting rules, recent and pending legislation, sourced links, and links to official election websites
+- **About page** — Research methodology (including Ballotpedia and news coverage sources) and a primary-sources-by-state table with last-verified dates
+- **Change log** — Per-state change tracking with human-readable field labels and a "By Date" toggle view
 - **Data verification banner** — Site-wide notice while data is being verified state by state
 - **State flags** — Flag images on cards and detail pages (via flagcdn.com, with a local SVG for DC)
 - **Responsive design** — Mobile-first layout with CSS grid
@@ -57,6 +57,6 @@ npm run deploy  # Build + deploy to Cloudflare Workers
 
 ## Data
 
-All voting information lives in `content/_data/states.json`. Each entry includes registration deadlines, ID requirements, registration methods, early voting details, mail-in voting rules, felony voting rules, required documentation, confidence levels, last-verified dates, per-state sources, change history, and a link to the official state election website.
+All voting information lives in `content/_data/states.json`. Each entry includes registration deadlines, ID requirements, registration methods, early voting details, mail-in voting rules, felony voting rules, required documentation, confidence levels, last-verified dates, per-state sources, change history, recent legislation, pending legislation, and a link to the official state election website.
 
-Sources include NCSL, Vote.org, and official state election websites. Each state's detail page links to its specific sources, and the About page provides a full sources-by-state reference table.
+Sources include official state election websites, NCSL, Ballotpedia, Vote.org, and recent news coverage. Each state's detail page links to its specific sources, and the About page provides a primary-sources-by-state reference table.

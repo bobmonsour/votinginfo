@@ -14,14 +14,21 @@ title: "Changes — US Voting Requirements"
 	{%- endfor %}
 
 	{% if hasChanges %}
+	<div class="changes-controls">
+		<button class="filter-btn" aria-pressed="true" data-sort="state">By State</button>
+		<button class="filter-btn" aria-pressed="false" data-sort="date">By Date</button>
+	</div>
+
+	<div id="changes-by-state">
 		{%- for state in states %}
 			{%- if state.changes.length %}
 			<section>
 				<h2><a href="/states/{{ state.abbreviation | lower }}/">{{ state.state }}</a></h2>
 				<ul class="change-list">
 					{%- for change in state.changes | reverse %}
-					<li>
-						<time datetime="{{ change.date }}">{{ change.date }}</time>
+					<li data-date="{{ change.date }}" data-state="{{ state.state }}" data-abbr="{{ state.abbreviation | lower }}" data-field="{{ change.field }}" data-desc="{{ change.description }}">
+						<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
+						{% if change.field %}<code>{{ change.field }}</code>{% endif %}
 						<span>{{ change.description }}</span>
 					</li>
 					{%- endfor %}
@@ -29,6 +36,66 @@ title: "Changes — US Voting Requirements"
 			</section>
 			{%- endif %}
 		{%- endfor %}
+	</div>
+
+	<div id="changes-by-date" hidden></div>
+
+	<script>
+	(function() {
+		var btns = document.querySelectorAll('.changes-controls .filter-btn');
+		var byState = document.getElementById('changes-by-state');
+		var byDate = document.getElementById('changes-by-date');
+		var built = false;
+
+		var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+		function fmtDate(str) {
+			var p = str.split('-');
+			return months[parseInt(p[1],10)-1] + ' ' + parseInt(p[2],10) + ', ' + p[0];
+		}
+
+		function buildByDate() {
+			var items = byState.querySelectorAll('li[data-date]');
+			var dateMap = {};
+			items.forEach(function(li) {
+				var d = li.dataset.date;
+				if (!dateMap[d]) dateMap[d] = [];
+				dateMap[d].push({
+					state: li.dataset.state,
+					abbr: li.dataset.abbr,
+					field: li.dataset.field,
+					desc: li.dataset.desc
+				});
+			});
+			var dates = Object.keys(dateMap).sort().reverse();
+			var html = '';
+			dates.forEach(function(date) {
+				html += '<section><h2>' + fmtDate(date) + '</h2><ul class="change-list">';
+				dateMap[date].forEach(function(entry) {
+					html += '<li>';
+					html += '<a href="/states/' + entry.abbr + '/" class="change-state-link">' + entry.state + '</a>';
+					if (entry.field) html += '<code>' + entry.field + '</code>';
+					html += '<span>' + entry.desc + '</span>';
+					html += '</li>';
+				});
+				html += '</ul></section>';
+			});
+			byDate.innerHTML = html;
+			built = true;
+		}
+
+		btns.forEach(function(btn) {
+			btn.addEventListener('click', function() {
+				var sort = btn.dataset.sort;
+				btns.forEach(function(b) { b.setAttribute('aria-pressed', 'false'); });
+				btn.setAttribute('aria-pressed', 'true');
+				if (sort === 'date' && !built) buildByDate();
+				byState.hidden = sort !== 'state';
+				byDate.hidden = sort !== 'date';
+			});
+		});
+	})();
+	</script>
+
 	{% else %}
 		<section>
 			<p>No changes have been recorded yet. As state data is researched and updated, changes will be logged here.</p>

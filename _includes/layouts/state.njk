@@ -104,6 +104,40 @@ layout: layouts/base.njk
 				</ul>
 			</section>
 
+			{% if state.recentLegislation.length %}
+			<section class="legislation">
+				<h2>Recent Legislation</h2>
+				<ul class="legislation-list">
+					{%- for item in state.recentLegislation %}
+					{% if item.active %}
+					<li>
+						<strong>{{ item.bill }} ({{ item.year }})</strong>
+						<span>{{ item.description }}</span>
+						<span class="legislation-status">{{ item.status }}</span>
+					</li>
+					{% endif %}
+					{%- endfor %}
+				</ul>
+			</section>
+			{% endif %}
+
+			{% if state.pendingLegislation.length %}
+			<section class="legislation legislation-pending">
+				<h2>Pending Legislation</h2>
+				<ul class="legislation-list">
+					{%- for item in state.pendingLegislation %}
+					{% if item.active %}
+					<li>
+						<strong>{{ item.bill }} ({{ item.year }})</strong>
+						<span>{{ item.description }}</span>
+						<span class="legislation-status">{{ item.status }}</span>
+					</li>
+					{% endif %}
+					{%- endfor %}
+				</ul>
+			</section>
+			{% endif %}
+
 			{% if state.notes %}
 			<section>
 				<h2>Additional Notes</h2>
@@ -117,7 +151,8 @@ layout: layouts/base.njk
 				<ul class="change-list">
 					{%- for change in state.changes | reverse %}
 					<li>
-						<time datetime="{{ change.date }}">{{ change.date }}</time>
+						<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
+						{% if change.field %}<code>{{ change.field }}</code>{% endif %}
 						<span>{{ change.description }}</span>
 					</li>
 					{%- endfor %}

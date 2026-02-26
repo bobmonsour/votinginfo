@@ -18,7 +18,7 @@ This is a static site built with **Eleventy 3** (Nunjucks templates) that provid
 
 ### Data flow
 
-`_data/states.json` is the single source of truth — a 51-entry array where each object has fields like `abbreviation`, `sameDayRegistration`, `registrationMethods`, `earlyVoting`, `mailInVoting`, etc.
+`_data/states.json` is the single source of truth — a 51-entry array where each object has fields like `abbreviation`, `sameDayRegistration`, `registrationMethods`, `earlyVoting`, `mailInVoting`, `recentLegislation`, `pendingLegislation`, `changes`, etc.
 
 Eleventy reads this at build time and feeds it into two template paths:
 
@@ -31,7 +31,15 @@ Eleventy reads this at build time and feeds it into two template paths:
 
 ### Eleventy config
 
-In `eleventy.config.js`: input is `content/`, includes are `_includes/`, data is `_data/`, output is `_site/`. The `public/` directory is copied through as static assets. A custom `lower` filter is registered for Nunjucks.
+In `eleventy.config.js`: input is `content/`, includes are `_includes/`, data is `_data/`, output is `_site/`. The `public/` directory is copied through as static assets. Custom Nunjucks filters: `lower` (lowercase strings) and `formatDate` (converts `YYYY-MM-DD` to `Mon D, YYYY` format).
+
+### Legislation tracking
+
+Each state entry has `recentLegislation` and `pendingLegislation` arrays. Each item has `bill`, `year`, `description`, `status`, `dateAdded`, and `active` (boolean toggle for display). State detail pages (`_includes/layouts/state.njk`) conditionally render these as sections between Sources and Additional Notes.
+
+### Change log
+
+Each state entry has a `changes` array with `date`, `field` (human-readable label like "Same-Day Registration"), and `description`. The change log page (`content/changes.njk`) offers "By State" and "By Date" toggle views. The by-date view is built client-side from `data-*` attributes on the by-state list items. Dates display in `Mon D, YYYY` format via the `formatDate` filter (Nunjucks) and a JS `fmtDate` helper.
 
 ### State flags
 

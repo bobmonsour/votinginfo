@@ -694,6 +694,89 @@ h3 {
 	-webkit-overflow-scrolling: touch;
 }
 
+/* === Legislation === */
+.legislation h2 {
+	margin-bottom: 0.75rem;
+}
+
+.legislation-pending h2 {
+	color: #e65100;
+}
+
+.legislation-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.legislation-list li {
+	display: flex;
+	flex-direction: column;
+	gap: 0.25rem;
+	padding: 0.75rem 0;
+	border-bottom: 1px solid var(--gray-200);
+}
+
+.legislation-list li:last-child {
+	border-bottom: none;
+}
+
+.legislation-list strong {
+	color: var(--navy);
+	font-size: 0.95rem;
+}
+
+.legislation-list > li > span {
+	font-size: 0.95rem;
+}
+
+.legislation-status {
+	display: inline-block;
+	padding: 0.2rem 0.6rem;
+	border-radius: 2rem;
+	font-size: 0.8rem;
+	font-weight: 600;
+	background: #fff3e0;
+	color: #e65100;
+	align-self: flex-start;
+}
+
+.legislation-pending .legislation-status {
+	background: var(--red-light);
+	color: var(--red);
+}
+
+/* === Changes Page Controls === */
+.changes-controls {
+	display: flex;
+	gap: 0.5rem;
+	margin-bottom: 1.5rem;
+}
+
+.change-state-link {
+	flex-shrink: 0;
+	font-weight: 600;
+	font-size: 0.9rem;
+	min-width: 8em;
+	text-decoration: none;
+}
+
+.change-state-link:hover {
+	text-decoration: underline;
+}
+
+/* === Change Log: field label === */
+.change-list code {
+	font-size: 0.8rem;
+	padding: 0.2rem 0.5rem;
+	border-radius: 3px;
+	background: var(--gray-200);
+	color: var(--navy);
+	font-family: var(--font);
+	font-weight: 600;
+	white-space: nowrap;
+}
+
 /* === Change Log === */
 .change-log h2 {
 	margin-bottom: 0.75rem;
@@ -706,8 +789,10 @@ h3 {
 }
 
 .change-list li {
-	display: flex;
+	display: grid;
+	grid-template-columns: 6.5em 14em 1fr;
 	gap: 0.75rem;
+	align-items: baseline;
 	padding: 0.5rem 0;
 	border-bottom: 1px solid var(--gray-200);
 }
@@ -716,12 +801,11 @@ h3 {
 	border-bottom: none;
 }
 
-.change-list time {
-	flex-shrink: 0;
+.change-list time,
+.change-list .change-state-link {
 	font-size: 0.85rem;
 	font-weight: 600;
 	color: var(--gray-500);
-	min-width: 6.5em;
 }
 
 .change-list span {

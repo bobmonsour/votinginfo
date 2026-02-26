@@ -40,13 +40,11 @@
       {
         "name": "Vote.org - Alabama",
         "url": "https://www.vote.org/state/al/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Alaska",
@@ -62,7 +60,7 @@
       "mail": true,
       "inPerson": true
     },
-    "sameDayRegistration": true,
+    "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
       "details": "Early voting begins 15 days before election day at designated locations."
@@ -78,8 +76,8 @@
       "Valid ID or sworn statement"
     ],
     "officialUrl": "https://www.elections.alaska.gov/",
-    "lastVerified": "2026-02-24",
-    "notes": "Alaska uses a top-four ranked-choice voting system for general elections.",
+    "lastVerified": "2026-02-25",
+    "notes": "Alaska uses a top-four ranked-choice voting system for general elections. Same-day registration is available only during presidential elections, not all elections.",
     "confidenceLevel": "High",
     "sources": [
       {
@@ -89,13 +87,17 @@
       {
         "name": "Vote.org - Alaska",
         "url": "https://www.vote.org/state/ak/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Same-Day Registration",
+        "description": "Corrected same-day registration from universally available to only available during presidential elections per recent review"
+      }
+    ],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Arizona",
@@ -138,13 +140,11 @@
       {
         "name": "Vote.org - Arizona",
         "url": "https://www.vote.org/state/az/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Arkansas",
@@ -156,7 +156,7 @@
     },
     "registrationDeadline": "30 days before election",
     "registrationMethods": {
-      "online": false,
+      "online": true,
       "mail": true,
       "inPerson": true
     },
@@ -175,7 +175,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://www.sos.arkansas.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -186,13 +186,17 @@
       {
         "name": "Vote.org - Arkansas",
         "url": "https://www.vote.org/state/ar/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Online Registration",
+        "description": "Corrected online registration from unavailable to available per recent review"
+      }
+    ],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "California",
@@ -235,13 +239,20 @@
       {
         "name": "Vote.org - California",
         "url": "https://www.vote.org/state/ca/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [
+      {
+        "bill": "SB 1174",
+        "year": 2024,
+        "description": "Prohibits local jurisdictions from adopting voter ID requirements",
+        "status": "Enacted",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Colorado",
@@ -284,13 +295,11 @@
       {
         "name": "Vote.org - Colorado",
         "url": "https://www.vote.org/state/co/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Connecticut",
@@ -300,7 +309,7 @@
       "toRegister": "CT driver's license number or last 4 of SSN. If neither, leave blank; must show ID when first voting (any valid photo ID, or utility bill, bank statement, paycheck, or government document with name and address).",
       "toVote": "ID requested; voters without ID may sign an affidavit"
     },
-    "registrationDeadline": "7 days before election (same-day registration available on election day)",
+    "registrationDeadline": "18 days before election (same-day registration available on election day and during early voting)",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -322,7 +331,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://portal.ct.gov/sots/election-services",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -333,13 +342,26 @@
       {
         "name": "Vote.org - Connecticut",
         "url": "https://www.vote.org/state/ct/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Registration Deadline",
+        "description": "Corrected registration deadline from 7 days to 18 days before election per recent review"
+      }
+    ],
+    "recentLegislation": [
+      {
+        "bill": "Constitutional Amendment",
+        "year": 2024,
+        "description": "Approved constitutional amendment for no-excuse absentee voting; enabling legislation still pending",
+        "status": "Amendment approved Nov 2024; enabling legislation pending",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Delaware",
@@ -362,8 +384,8 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting available for all registered voters.",
-      "noExcuseRequired": true
+      "details": "Absentee ballot available; excuse required. In-person early voting is available without excuse. Constitutional amendments for no-excuse absentee voting have been re-introduced but not yet passed.",
+      "noExcuseRequired": false
     },
     "felonyVotingRules": "Rights restored automatically upon completion of sentence, including probation and parole. Exceptions for certain offenses.",
     "documentationNeeded": [
@@ -371,7 +393,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://elections.delaware.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -382,13 +404,17 @@
       {
         "name": "Vote.org - Delaware",
         "url": "https://www.vote.org/state/de/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Mail-In Voting",
+        "description": "Corrected mail-in voting from no-excuse to excuse-required per recent review"
+      }
+    ],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Florida",
@@ -430,13 +456,20 @@
       {
         "name": "Vote.org - Florida",
         "url": "https://www.vote.org/state/fl/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": [
+      {
+        "bill": "HB 991",
+        "year": 2026,
+        "description": "Would require documentary proof of U.S. citizenship to register to vote",
+        "status": "Passed FL House Feb 25, 2026; pending Senate action",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Georgia",
@@ -478,13 +511,20 @@
       {
         "name": "Vote.org - Georgia",
         "url": "https://www.vote.org/state/ga/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [
+      {
+        "bill": "SB 189",
+        "year": 2024,
+        "description": "Changes to ballot counting deadlines, QR code bans, and voter challenge provisions",
+        "status": "Enacted May 2024",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Hawaii",
@@ -527,13 +567,11 @@
       {
         "name": "Vote.org - Hawaii",
         "url": "https://www.vote.org/state/hi/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Idaho",
@@ -576,13 +614,11 @@
       {
         "name": "Vote.org - Idaho",
         "url": "https://www.vote.org/state/id/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Illinois",
@@ -624,13 +660,11 @@
       {
         "name": "Vote.org - Illinois",
         "url": "https://www.vote.org/state/il/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Indiana",
@@ -638,7 +672,7 @@
     "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
     "idRequirements": {
       "toRegister": "IN driver's license number (BMV-issued) or last 4 of SSN. Online registration requires a valid IN DL or state ID. If neither, must provide a current photo ID or a document with name and address (utility bill, bank statement, paycheck, government document). DL/SSN is matched against state records.",
-      "toVote": "Strict photo ID required (government-issued)"
+      "toVote": "Strict photo ID required (government-issued). Note: University-issued student IDs are no longer accepted as voter ID per SB 10 (2025); this law is currently under federal litigation."
     },
     "registrationDeadline": "29 days before election",
     "registrationMethods": {
@@ -662,7 +696,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.in.gov/sos/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "Indiana has one of the strictest photo ID requirements in the country.",
     "confidenceLevel": "High",
     "sources": [
@@ -673,13 +707,26 @@
       {
         "name": "Vote.org - Indiana",
         "url": "https://www.vote.org/state/in/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Voter ID",
+        "description": "Added note about SB 10 (2025) banning student IDs as voter identification per recent review"
+      }
+    ],
+    "recentLegislation": [
+      {
+        "bill": "SB 10",
+        "year": 2025,
+        "description": "Bans university-issued student IDs as voter identification",
+        "status": "Enacted, federal litigation in progress",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Iowa",
@@ -722,20 +769,18 @@
       {
         "name": "Vote.org - Iowa",
         "url": "https://www.vote.org/state/ia/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Kansas",
     "abbreviation": "KS",
     "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
     "idRequirements": {
-      "toRegister": "KS driver's license or state ID number, or last 4 of SSN. Kansas has a documentary proof of citizenship requirement (SAFE Act): accepted documents include birth certificate, U.S. passport, naturalization documents, military records showing U.S. birth, and BIA/tribal documents. This law has been subject to extensive litigation. Free photo IDs available from the Division of Vehicles.",
+      "toRegister": "KS driver's license or state ID number, or last 4 of SSN. Kansas previously had a documentary proof of citizenship requirement (SAFE Act), but it has been invalidated by the courts and is currently not enforced. Standard registration requires only the information above. Free photo IDs available from the Division of Vehicles.",
       "toVote": "Photo ID required"
     },
     "registrationDeadline": "21 days before election",
@@ -759,7 +804,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.ks.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -770,13 +815,26 @@
       {
         "name": "Vote.org - Kansas",
         "url": "https://www.vote.org/state/ks/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Registration ID",
+        "description": "Clarified that the SAFE Act documentary proof of citizenship requirement has been invalidated by courts per recent review"
+      }
+    ],
+    "recentLegislation": [
+      {
+        "bill": "SAFE Act",
+        "year": 2024,
+        "description": "Documentary proof of citizenship requirement for voter registration invalidated by courts",
+        "status": "Court-struck; 2026 ballot measure proposed to reinstate",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Kentucky",
@@ -818,13 +876,11 @@
       {
         "name": "Vote.org - Kentucky",
         "url": "https://www.vote.org/state/ky/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Louisiana",
@@ -867,13 +923,20 @@
       {
         "name": "Vote.org - Louisiana",
         "url": "https://www.vote.org/state/la/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [
+      {
+        "bill": "SB 436",
+        "year": 2025,
+        "description": "Requires proof of citizenship to register to vote",
+        "status": "Effective Jan 1, 2025; implementation guidance not yet issued",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Maine",
@@ -915,13 +978,11 @@
       {
         "name": "Vote.org - Maine",
         "url": "https://www.vote.org/state/me/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Maryland",
@@ -964,13 +1025,11 @@
       {
         "name": "Vote.org - Maryland",
         "url": "https://www.vote.org/state/md/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Massachusetts",
@@ -1013,13 +1072,11 @@
       {
         "name": "Vote.org - Massachusetts",
         "url": "https://www.vote.org/state/ma/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Michigan",
@@ -1062,13 +1119,11 @@
       {
         "name": "Vote.org - Michigan",
         "url": "https://www.vote.org/state/mi/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Minnesota",
@@ -1111,13 +1166,11 @@
       {
         "name": "Vote.org - Minnesota",
         "url": "https://www.vote.org/state/mn/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Mississippi",
@@ -1159,13 +1212,11 @@
       {
         "name": "Vote.org - Mississippi",
         "url": "https://www.vote.org/state/ms/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Missouri",
@@ -1208,13 +1259,11 @@
       {
         "name": "Vote.org - Missouri",
         "url": "https://www.vote.org/state/mo/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Montana",
@@ -1222,7 +1271,7 @@
     "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
     "idRequirements": {
       "toRegister": "MT driver's license, state ID number, or last 4 of SSN. Without these, can provide: military ID, tribal photo ID, U.S. passport, MT concealed carry permit, or any other photo ID (including student ID) plus a document showing name and address (utility bill, bank statement, paycheck, government document).",
-      "toVote": "ID required (photo or non-photo with name and address)"
+      "toVote": "Photo ID required (effective May 2025). Non-photo ID is no longer accepted."
     },
     "registrationDeadline": "30 days before election (late registration available through election day at county office)",
     "registrationMethods": {
@@ -1246,7 +1295,7 @@
       "Proof of residency for late registration"
     ],
     "officialUrl": "https://sosmt.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1257,13 +1306,26 @@
       {
         "name": "Vote.org - Montana",
         "url": "https://www.vote.org/state/mt/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Voter ID",
+        "description": "Updated voter ID requirement from photo or non-photo to photo ID only effective May 2025 per recent review"
+      }
+    ],
+    "recentLegislation": [
+      {
+        "bill": "Photo ID Law",
+        "year": 2025,
+        "description": "Requires photo ID only for voting; non-photo ID no longer accepted",
+        "status": "Effective May 2025",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Nebraska",
@@ -1306,13 +1368,20 @@
       {
         "name": "Vote.org - Nebraska",
         "url": "https://www.vote.org/state/ne/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [
+      {
+        "bill": "LB 514",
+        "year": 2024,
+        "description": "Requires photo ID for voting",
+        "status": "Effective May 2024",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Nevada",
@@ -1355,13 +1424,11 @@
       {
         "name": "Vote.org - Nevada",
         "url": "https://www.vote.org/state/nv/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "New Hampshire",
@@ -1404,13 +1471,20 @@
       {
         "name": "Vote.org - New Hampshire",
         "url": "https://www.vote.org/state/nh/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [
+      {
+        "bill": "HB 1569",
+        "year": 2024,
+        "description": "Requires proof of citizenship to register to vote",
+        "status": "Enacted; federal trial concluded Feb 2026, ruling pending",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "New Jersey",
@@ -1452,13 +1526,11 @@
       {
         "name": "Vote.org - New Jersey",
         "url": "https://www.vote.org/state/nj/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "New Mexico",
@@ -1501,13 +1573,11 @@
       {
         "name": "Vote.org - New Mexico",
         "url": "https://www.vote.org/state/nm/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "New York",
@@ -1550,13 +1620,11 @@
       {
         "name": "Vote.org - New York",
         "url": "https://www.vote.org/state/ny/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "North Carolina",
@@ -1599,13 +1667,11 @@
       {
         "name": "Vote.org - North Carolina",
         "url": "https://www.vote.org/state/nc/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "North Dakota",
@@ -1647,13 +1713,11 @@
       {
         "name": "Vote.org - North Dakota",
         "url": "https://www.vote.org/state/nd/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Ohio",
@@ -1676,7 +1740,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting by mail available for all registered voters.",
+      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (Dec 2025) eliminated the post-Election Day grace period — absentee ballots must now be received by close of polls on Election Day.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon release from prison.",
@@ -1685,7 +1749,7 @@
       "OH DL number or last 4 of SSN"
     ],
     "officialUrl": "https://www.ohiosos.gov/elections-voting/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1696,13 +1760,26 @@
       {
         "name": "Vote.org - Ohio",
         "url": "https://www.vote.org/state/oh/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Mail-In Voting",
+        "description": "Added note about SB 293 elimination of absentee ballot grace period per recent review"
+      }
+    ],
+    "recentLegislation": [
+      {
+        "bill": "SB 293",
+        "year": 2025,
+        "description": "Eliminated post-Election Day grace period for absentee ballot receipt",
+        "status": "Enacted, effective Dec 2025",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Oklahoma",
@@ -1744,13 +1821,11 @@
       {
         "name": "Vote.org - Oklahoma",
         "url": "https://www.vote.org/state/ok/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Oregon",
@@ -1792,13 +1867,11 @@
       {
         "name": "Vote.org - Oregon",
         "url": "https://www.vote.org/state/or/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Pennsylvania",
@@ -1841,13 +1914,11 @@
       {
         "name": "Vote.org - Pennsylvania",
         "url": "https://www.vote.org/state/pa/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Rhode Island",
@@ -1890,13 +1961,11 @@
       {
         "name": "Vote.org - Rhode Island",
         "url": "https://www.vote.org/state/ri/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "South Carolina",
@@ -1939,13 +2008,11 @@
       {
         "name": "Vote.org - South Carolina",
         "url": "https://www.vote.org/state/sc/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "South Dakota",
@@ -1987,13 +2054,20 @@
       {
         "name": "Vote.org - South Dakota",
         "url": "https://www.vote.org/state/sd/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": [
+      {
+        "bill": "SB 175",
+        "year": 2026,
+        "description": "Would require documentary proof of citizenship for voter registration",
+        "status": "Passed Senate 28-6 on Feb 20, 2026; pending House action",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Tennessee",
@@ -2035,13 +2109,11 @@
       {
         "name": "Vote.org - Tennessee",
         "url": "https://www.vote.org/state/tn/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Texas",
@@ -2084,13 +2156,11 @@
       {
         "name": "Vote.org - Texas",
         "url": "https://www.vote.org/state/tx/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Utah",
@@ -2113,7 +2183,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "All-mail election state. Every registered voter automatically receives a mail ballot.",
+      "details": "All-mail election state. Every registered voter automatically receives a mail ballot. Under HB 300, universal vote-by-mail will be phased out by 2029; voters will need to opt in starting Jan 1, 2029.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon release from incarceration (people on probation or parole may vote).",
@@ -2122,8 +2192,8 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://vote.utah.gov/",
-    "lastVerified": "2026-02-24",
-    "notes": "Utah conducts elections primarily by mail.",
+    "lastVerified": "2026-02-25",
+    "notes": "Utah conducts elections primarily by mail. HB 300 (effective Nov 2025) requires mail ballot returns to include last 4 digits of DL/ID/SSN and phases out universal vote-by-mail by 2029.",
     "confidenceLevel": "High",
     "sources": [
       {
@@ -2133,13 +2203,26 @@
       {
         "name": "Vote.org - Utah",
         "url": "https://www.vote.org/state/ut/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Mail-In Voting",
+        "description": "Added note about HB 300 phase-out of universal vote-by-mail by 2029 per recent review"
+      }
+    ],
+    "recentLegislation": [
+      {
+        "bill": "HB 300",
+        "year": 2025,
+        "description": "Requires ID number on returned mail ballots and phases out universal vote-by-mail by 2029",
+        "status": "Enacted, mail ballot ID effective Nov 2025; full phase-out by Jan 2029",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Vermont",
@@ -2181,13 +2264,11 @@
       {
         "name": "Vote.org - Vermont",
         "url": "https://www.vote.org/state/vt/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Virginia",
@@ -2197,7 +2278,7 @@
       "toRegister": "Full 9-digit Social Security Number required (mandatory; application denied without it). VA driver's license number also requested but SSN is the primary identifier. Virginia is one of five states requiring the full SSN, mandated by the state constitution.",
       "toVote": "Acceptable ID required (photo or non-photo); free voter ID available"
     },
-    "registrationDeadline": "11 days before election (same-day registration available during early voting and on election day)",
+    "registrationDeadline": "22 days before election (same-day provisional registration available through election day)",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -2219,7 +2300,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.elections.virginia.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2230,13 +2311,17 @@
       {
         "name": "Vote.org - Virginia",
         "url": "https://www.vote.org/state/va/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Registration Deadline",
+        "description": "Corrected registration deadline from 11 days to 22 days before election for non-provisional registration per recent review"
+      }
+    ],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "Washington",
@@ -2278,13 +2363,11 @@
       {
         "name": "Vote.org - Washington",
         "url": "https://www.vote.org/state/wa/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   },
   {
     "state": "West Virginia",
@@ -2292,7 +2375,7 @@
     "eligibilityAge": "18 (may pre-register at 17)",
     "idRequirements": {
       "toRegister": "WV DMV ID number or last 4 of SSN. If neither, write \"NONE\" and a voter ID number is assigned. First-time voters must show ID with registration or when first voting. WV accepts out-of-state driver's licenses for voting. Online registration requires a WV DMV-issued ID.",
-      "toVote": "Photo ID required (WV DL/state ID, U.S. passport, government employee photo ID, WV student photo ID, U.S. military photo ID, or voter registration card with photo). Voters without photo ID may cast a provisional ballot."
+      "toVote": "Photo ID required per HB 3016 (effective July 11, 2025). Accepted: WV driver's license or state ID, U.S. passport, U.S. military photo ID, or tribal photo ID. Voters without photo ID may cast a provisional ballot."
     },
     "registrationDeadline": "21 days before election",
     "registrationMethods": {
@@ -2315,7 +2398,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.wv.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-25",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2326,13 +2409,26 @@
       {
         "name": "Vote.org - West Virginia",
         "url": "https://www.vote.org/state/wv/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [
+      {
+        "date": "2026-02-25",
+        "field": "Voter ID",
+        "description": "Updated voter ID requirements to reflect stricter photo-only requirement under HB 3016 (2025) per recent review"
+      }
+    ],
+    "recentLegislation": [
+      {
+        "bill": "HB 3016",
+        "year": 2025,
+        "description": "Tightened voter ID to photo-only requirement with narrowed list of acceptable IDs",
+        "status": "Effective July 11, 2025",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Wisconsin",
@@ -2375,13 +2471,20 @@
       {
         "name": "Vote.org - Wisconsin",
         "url": "https://www.vote.org/state/wi/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [
+      {
+        "bill": "Constitutional Amendment",
+        "year": 2025,
+        "description": "Enshrined photo ID requirement in the state constitution (approved by 63% of voters)",
+        "status": "Approved April 2025",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Wyoming",
@@ -2425,13 +2528,20 @@
       {
         "name": "Vote.org - Wyoming",
         "url": "https://www.vote.org/state/wy/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [
+      {
+        "bill": "HB 156",
+        "year": 2025,
+        "description": "Requires documentary proof of U.S. citizenship to register to vote",
+        "status": "Became law without governor's signature; under legal challenge",
+        "dateAdded": "2026-02-25",
+        "active": true
+      }
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "District of Columbia",
@@ -2474,12 +2584,10 @@
       {
         "name": "Vote.org - District of Columbia",
         "url": "https://www.vote.org/state/district-of-columbia/"
-      },
-      {
-        "name": "National Conference of State Legislatures (NCSL)",
-        "url": "https://www.ncsl.org/elections-and-campaigns"
       }
     ],
-    "changes": []
+    "changes": [],
+    "recentLegislation": [],
+    "pendingLegislation": []
   }
 ]
