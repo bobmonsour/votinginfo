@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Red circle background -->
+  <circle cx="32" cy="32" r="30" fill="#B22234"/>
+  
+  <!-- White inner circle -->
+  <circle cx="32" cy="32" r="25" fill="#FFFFFF"/>
+  
+  <!-- Blue top half arc -->
+  <path d="M7,32 A25,25 0 0,1 57,32" fill="#3C3B6E"/>
+  
+  <!-- White star in blue area -->
+  <polygon points="32,12 35,20 43,20.5 37,25 39,33 32,28.5 25,33 27,25 21,20.5 29,20" fill="#FFFFFF"/>
+  
+  <!-- Bold checkmark in white area -->
+  <path d="M20,42 L28,50 L46,34" fill="none" stroke="#B22234" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

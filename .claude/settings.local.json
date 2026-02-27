@@ -49,7 +49,8 @@
       "WebFetch(domain:aceproject.org)",
       "WebFetch(domain:www.idea.int)",
       "Bash(head:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(grep:*)"
     ]
   }
 }
