@@ -290,7 +290,9 @@ h3 {
 }
 
 .card-title a {
-	text-decoration: none;
+	text-decoration: underline;
+	text-decoration-color: color-mix(in srgb, currentColor 30%, transparent);
+	text-underline-offset: 0.15em;
 }
 
 .card-title a:hover {
