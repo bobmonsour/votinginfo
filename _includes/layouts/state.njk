@@ -18,15 +18,35 @@ layout: layouts/base.njk
 		<aside class="state-sidebar">
 			<h2>Key Facts</h2>
 			<dl class="key-facts">
-				<dt>Registration Deadline</dt>
+				<dt>
+					Registration Deadline
+					<button class="info-btn" aria-label="Definition of Registration Deadline" aria-expanded="false">ⓘ</button>
+					<div class="info-popover" role="tooltip">{{ glossary["Registration Deadline"].definition }}</div>
+				</dt>
 				<dd>{{ state.registrationDeadline }}</dd>
-				<dt>Same-Day Registration</dt>
+				<dt>
+					Same-Day Registration
+					<button class="info-btn" aria-label="Definition of Same-Day Registration" aria-expanded="false">ⓘ</button>
+					<div class="info-popover" role="tooltip">{{ glossary["Same-Day Registration"].definition }}</div>
+				</dt>
 				<dd>{{ "Yes" if state.sameDayRegistration else "No" }}</dd>
-				<dt>Online Registration</dt>
+				<dt>
+					Online Registration
+					<button class="info-btn" aria-label="Definition of Online Registration" aria-expanded="false">ⓘ</button>
+					<div class="info-popover" role="tooltip">{{ glossary["Online Registration"].definition }}</div>
+				</dt>
 				<dd>{{ "Yes" if state.registrationMethods.online else "No" }}</dd>
-				<dt>Early Voting</dt>
+				<dt>
+					Early Voting
+					<button class="info-btn" aria-label="Definition of Early Voting" aria-expanded="false">ⓘ</button>
+					<div class="info-popover" role="tooltip">{{ glossary["Early Voting"].definition }}</div>
+				</dt>
 				<dd>{{ "Yes" if state.earlyVoting.available else "No" }}</dd>
-				<dt>Mail-In Voting</dt>
+				<dt>
+					Mail-In Voting
+					<button class="info-btn" aria-label="Definition of Mail-In Voting" aria-expanded="false">ⓘ</button>
+					<div class="info-popover" role="tooltip">{{ glossary["Mail-In Voting"].definition }}</div>
+				</dt>
 				<dd>{% if state.mailInVoting.noExcuseRequired %}No excuse required{% elif state.mailInVoting.available %}Excuse required{% else %}No{% endif %}</dd>
 			</dl>
 			<div class="state-badges">
@@ -65,24 +85,36 @@ layout: layouts/base.njk
 			<section>
 				<h2>Registration Methods</h2>
 				<ul class="method-list">
-					<li class="{{ 'available' if state.registrationMethods.online else 'unavailable' }}">Online: {{ "Available" if state.registrationMethods.online else "Not available" }}</li>
-					<li class="{{ 'available' if state.registrationMethods.mail else 'unavailable' }}">Mail: {{ "Available" if state.registrationMethods.mail else "Not available" }}</li>
-					<li class="{{ 'available' if state.registrationMethods.inPerson else 'unavailable' }}">In Person: {{ "Available" if state.registrationMethods.inPerson else "Not available" }}</li>
+					<li class="{{ 'available' if state.registrationMethods.online else 'unavailable' }}"><strong>Online:</strong> {{ glossary["Online Registration"].available if state.registrationMethods.online else glossary["Online Registration"].unavailable }}</li>
+					<li class="{{ 'available' if state.registrationMethods.mail else 'unavailable' }}"><strong>Mail:</strong> {{ glossary["Mail Registration"].available if state.registrationMethods.mail else glossary["Mail Registration"].unavailable }}</li>
+					<li class="{{ 'available' if state.registrationMethods.inPerson else 'unavailable' }}"><strong>In Person:</strong> {{ glossary["In-Person Registration"].available if state.registrationMethods.inPerson else glossary["In-Person Registration"].unavailable }}</li>
 				</ul>
 			</section>
 
 			<section>
-				<h2>Early Voting</h2>
+				<h2>
+					Early Voting
+					<button class="info-btn" aria-label="Definition of Early Voting" aria-expanded="false">ⓘ</button>
+					<div class="info-popover" role="tooltip">{{ glossary["Early Voting"].definition }}</div>
+				</h2>
 				<p>{{ state.earlyVoting.details }}</p>
 			</section>
 
 			<section>
-				<h2>Mail-In / Absentee Voting</h2>
+				<h2>
+					Mail-In / Absentee Voting
+					<button class="info-btn" aria-label="Definition of Mail-In Voting" aria-expanded="false">ⓘ</button>
+					<div class="info-popover" role="tooltip">{{ glossary["Mail-In Voting"].definition }}</div>
+				</h2>
 				<p>{{ state.mailInVoting.details }}</p>
 			</section>
 
 			<section>
-				<h2>Felony Voting Rules</h2>
+				<h2>
+					Felony Voting Rules
+					<button class="info-btn" aria-label="Definition of Felony Voting Rules" aria-expanded="false">ⓘ</button>
+					<div class="info-popover" role="tooltip">{{ glossary["Felony Voting Rules"].definition }}</div>
+				</h2>
 				<p>{{ state.felonyVotingRules }}</p>
 			</section>
 

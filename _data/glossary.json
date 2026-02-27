@@ -1,0 +1,53 @@
+{
+	"Registration Deadline": {
+		"definition": "The last date by which eligible voters must register before an election in order to participate. Deadlines vary by state and may differ for in-person, online, and mail-in registration."
+	},
+	"Same-Day Registration": {
+		"definition": "A policy that allows eligible citizens to register to vote and cast a ballot on the same day, including on Election Day itself. Not all states offer this option."
+	},
+	"Online Registration": {
+		"definition": "The ability to submit a voter registration application electronically through a state's website, rather than by mail or in person.",
+		"available": "Residents can submit a voter registration application electronically through the state's website, rather than by mail or in person.",
+		"unavailable": "This state does not offer online voter registration. Residents must register by mail or in person."
+	},
+	"Mail Registration": {
+		"definition": "The ability to register to vote by completing a paper registration form and submitting it by mail to the appropriate election office.",
+		"available": "Residents can register to vote by completing a paper registration form and submitting it by mail to the appropriate election office.",
+		"unavailable": "This state does not offer voter registration by mail. Residents must register online or in person."
+	},
+	"In-Person Registration": {
+		"definition": "The ability to register to vote by visiting a designated government office, such as a county clerk's office or DMV, and completing a registration form on site.",
+		"available": "Residents can register to vote by visiting a designated government office, such as a county clerk's office or DMV, and completing a registration form on site.",
+		"unavailable": "This state does not offer in-person voter registration at government offices. Residents must register online or by mail."
+	},
+	"Early Voting": {
+		"definition": "A period before Election Day during which voters can cast their ballots in person at designated polling locations. The length of the early voting period varies by state."
+	},
+	"Absentee Voting": {
+		"definition": "A method that allows voters to request and submit a ballot by mail before Election Day. Some states require voters to provide a valid reason (excuse) for voting absentee."
+	},
+	"Mail-In Voting": {
+		"definition": "A voting method where ballots are automatically mailed to all registered voters without requiring a specific request. States that use this approach conduct elections primarily or entirely by mail."
+	},
+	"Voter ID Requirements": {
+		"definition": "The identification documents a voter must present at the polls in order to cast a ballot. Requirements range from no ID needed to strict photo ID, depending on the state."
+	},
+	"No Excuse Required": {
+		"definition": "A policy where voters can request an absentee or mail-in ballot without needing to provide a reason, such as illness, travel, or disability."
+	},
+	"Excuse Required Mail-In": {
+		"definition": "A policy where voters must provide a qualifying reason, such as being out of the county on Election Day or having a physical disability, in order to vote by mail."
+	},
+	"Felony Voting Rules": {
+		"definition": "State laws governing whether and when people with felony convictions can vote. Policies range from no restrictions to permanent disenfranchisement, with most states restoring rights at some point after sentencing."
+	},
+	"Proof of Residency": {
+		"definition": "Documentation that verifies a voter's current address within the state or jurisdiction where they are registering. Common forms include utility bills, bank statements, or government-issued documents."
+	},
+	"Proof of Citizenship": {
+		"definition": "Documentation that confirms a voter is a U.S. citizen. While all states require citizenship to vote, only some require documentary proof such as a birth certificate or passport during registration."
+	},
+	"Valid Photo ID": {
+		"definition": "A government-issued identification card that includes a photograph of the holder. Examples include a driver's license, state ID card, passport, or military ID."
+	}
+}

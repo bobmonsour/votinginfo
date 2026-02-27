@@ -951,6 +951,55 @@ h3 {
 	font-size: 0.95rem;
 }
 
+/* === Info Popovers === */
+.info-btn {
+	background: none;
+	border: none;
+	color: var(--navy);
+	cursor: pointer;
+	font-size: 0.85em;
+	padding: 0 0.15em;
+	vertical-align: super;
+	line-height: 1;
+	opacity: 0.8;
+	transition: opacity 0.2s;
+}
+
+.info-btn:hover {
+	opacity: 1;
+}
+
+.key-facts dt,
+.state-main h2 {
+	position: relative;
+}
+
+.info-popover {
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 100%;
+	z-index: 10;
+	background: var(--white);
+	color: var(--gray-700);
+	border: 1px solid var(--gray-300);
+	border-radius: var(--radius);
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	padding: 0.75rem 1rem;
+	font-size: 0.85rem;
+	font-weight: 400;
+	text-transform: none;
+	letter-spacing: normal;
+	line-height: 1.5;
+	width: max-content;
+	max-width: min(360px, 90vw);
+	margin-top: 0.25rem;
+}
+
+.info-popover.active {
+	display: block;
+}
+
 /* === Focus Styles === */
 a:focus-visible,
 button:focus-visible,
