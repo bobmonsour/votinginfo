@@ -71,7 +71,7 @@ description: "See a log of recent changes to the voting requirements data for ea
 			var dates = Object.keys(dateMap).sort().reverse();
 			var html = '';
 			dates.forEach(function(date) {
-				html += '<section><h2>' + fmtDate(date) + '</h2><ul class="change-list">';
+				html += '<details class="date-group"><summary>' + fmtDate(date) + '</summary><ul class="change-list">';
 				dateMap[date].forEach(function(entry) {
 					html += '<li>';
 					html += '<a href="/states/' + entry.abbr + '/" class="change-state-link">' + entry.state + '</a>';
@@ -81,9 +81,21 @@ description: "See a log of recent changes to the voting requirements data for ea
 				html += '<span>' + descHtml + '</span>';
 					html += '</li>';
 				});
-				html += '</ul></section>';
+				html += '</ul></details>';
 			});
 			byDate.innerHTML = html;
+
+			// Accordion: only one date open at a time
+			byDate.querySelectorAll('.date-group').forEach(function(det) {
+				det.addEventListener('toggle', function() {
+					if (det.open) {
+						byDate.querySelectorAll('.date-group').forEach(function(other) {
+							if (other !== det) other.removeAttribute('open');
+						});
+					}
+				});
+			});
+
 			built = true;
 		}
 
