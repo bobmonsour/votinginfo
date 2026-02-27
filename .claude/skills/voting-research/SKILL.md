@@ -104,11 +104,19 @@ For each state, search for up to 5 recent election-related news items from reput
 - **date** — publication date in YYYY-MM-DD format
 - **summary** — 1-2 sentence summary of the article's relevance to voting in the state
 
-### Writing news data
+### Filtering out old news
+
+Before adding news items to a new run, filter out items that are not newer than what has already been captured:
 
 1. Read the existing `_data/stateNews.json` file.
-2. Append a new entry to the `runs` array with today's date and all states that had news items found. States with no news are omitted from that run.
-3. Write the updated file back, preserving all previous runs.
+2. For each state, find the most recent news item date across all previous runs. Scan every run's entry for that state and take the latest `date` value.
+3. Discard any newly found news items whose `date` is on or before that most recent date. Only items with a strictly later date are kept.
+4. If a state has no prior news items in any previous run, keep all found items (there is no date threshold).
+
+### Writing news data
+
+1. Append a new entry to the `runs` array with today's date and all states that had news items remaining after filtering. States with no qualifying news items are omitted from that run.
+2. Write the updated file back, preserving all previous runs.
 
 Structure of a run entry:
 
