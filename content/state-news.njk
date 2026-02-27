@@ -8,7 +8,8 @@
 	permalink: "/states/{{ state.abbreviation | lower }}/all-news/",
 	layout: "layouts/state-news.njk",
 	eleventyComputed: {
-		title: (data) => `All News — ${data.state.state}`
+		title: (data) => `All News — ${data.state.state}`,
+    description: (data) => `Recent news related to voter registration and voting requirements in ${data.state.state}.`
 	}
 }
 ---
