@@ -2,7 +2,7 @@
 name: voting-research
 description: Deep dive research across all 51 state entries to verify voting data accuracy against authoritative sources and gather recent election-related news items for each state and Washington DC.
 disable-model-invocation: true
-allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *)
+allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *), Bash(git *)
 ---
 
 # Research and Verify State Voting Data
@@ -15,6 +15,14 @@ Before doing any work, ask the user which mode to run:
 - **News only** — skip data verification, only gather recent news items for each state
 
 Then proceed with the appropriate sections below.
+
+## Branch creation
+
+Before making any changes, create a working branch so all modifications can be reviewed before merging into main.
+
+1. Ensure the working tree is clean (`git status`). If there are uncommitted changes, stop and ask the user how to proceed.
+2. Create and switch to a new branch named `research/YYYY-MM-DD` (using today's date). If that branch already exists (e.g. from an earlier run the same day), append a numeric suffix: `research/YYYY-MM-DD-2`, `research/YYYY-MM-DD-3`, etc.
+3. Confirm the branch name to the user before continuing.
 
 ## Data file
 
@@ -153,3 +161,14 @@ After writing news items to `stateNews.json`, for each state that received news 
   "description": "Added recent news items"
 }
 ```
+
+## Commit and finish
+
+After all file changes are complete:
+
+1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, and any report in `docs/`).
+2. Commit with a descriptive message, e.g. `Research run: data verification and news capture for YYYY-MM-DD` (full run) or `Research run: news capture for YYYY-MM-DD` (news only).
+3. Do **not** merge into main or deploy. Tell the user the branch is ready for review and suggest next steps:
+   - Review the changes: `git diff main..research/YYYY-MM-DD`
+   - If satisfied, merge and deploy: `git checkout main && git merge research/YYYY-MM-DD && npm run deploy`
+   - If not satisfied, discard: `git checkout main && git branch -D research/YYYY-MM-DD`
