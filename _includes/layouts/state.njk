@@ -134,20 +134,17 @@ layout: layouts/base.njk
 			</section>
 			{% endif %}
 
-			{% set latestRun = stateNews.runs | last %}
-			{% set news = latestRun.states[state.abbreviation] if latestRun else [] %}
-			{% if news and news.length %}
+			{% set news = stateNews.runs | recentNews(state.abbreviation) %}
+			{% if news.length %}
 			<section class="recent-news" id="recent-news">
 				<h2>Recent News</h2>
 				<ul class="news-list">
-					{%- for item in news | sort(true, false, "date") %}
-					{% if loop.index <= 4 %}
+					{%- for item in news %}
 					<li>
 						<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
 						<span class="news-meta">{{ item.source }} · {{ item.date | formatDate }}</span>
 						<p>{{ item.summary }}</p>
 					</li>
-					{% endif %}
 					{%- endfor %}
 				</ul>
 				<a href="/states/{{ state.abbreviation | lower }}/all-news/" class="back-btn">View all news &rarr;</a>
@@ -205,15 +202,20 @@ layout: layouts/base.njk
 	{% if state.changes.length %}
 	<section class="change-log">
 		<h2>Change Log</h2>
-		<ul class="change-list">
-			{%- for change in state.changes | reverse %}
-			<li>
-				<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
-				{% if change.field %}<code>{{ change.field }}</code>{% endif %}
-				<span>{{ change.description }}</span>
-			</li>
-			{%- endfor %}
-		</ul>
+		{% set changesByDate = state.changes | groupByDate %}
+		{%- for group in changesByDate %}
+		<details class="date-group"{% if loop.first %} open{% endif %}>
+			<summary>{{ group.date | formatDate }}</summary>
+			<ul class="change-list">
+				{%- for change in group.items %}
+				<li>
+					{% if change.field %}<code>{{ change.field }}</code>{% endif %}
+					<span>{{ change.description }}</span>
+				</li>
+				{%- endfor %}
+			</ul>
+		</details>
+		{%- endfor %}
 	</section>
 	{% endif %}
 </article>

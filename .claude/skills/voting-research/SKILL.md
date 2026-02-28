@@ -11,8 +11,9 @@ allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *),
 
 Before doing any work, ask the user which mode to run:
 
-- **Full run** — perform the comprehensive data verification below AND gather news items
-- **News only** — skip data verification, only gather recent news items for each state
+- **Full run** — perform both a requirements update and news update
+- **Requirements update** — verify and update state voting data against authoritative sources (no news update)
+- **News update** — gather recent news items for each state (no data verification)
 
 Then proceed with the appropriate sections below.
 
@@ -28,7 +29,7 @@ Before making any changes, create a working branch so all modifications can be r
 
 The single source of truth is `_data/states.json`. Read this file first to understand current values.
 
-## Data verification (Full run only)
+## Data verification (Full run and Requirements update)
 
 Perform a comprehensive review of all 51 entries (50 states + DC) in `_data/states.json` to identify any data that has changed or needs updating.
 
@@ -93,7 +94,7 @@ If changes are approved:
 4. Update `recentLegislation` and `pendingLegislation` as appropriate
 5. Update source URLs if any have changed
 
-## News capture (Both modes)
+## News capture (Full run and News update)
 
 For each state, search for up to 5 recent election-related news items from reputable sources, including but not limited to those listed below.
 
@@ -167,7 +168,7 @@ After writing news items to `stateNews.json`, for each state that received news 
 After all file changes are complete:
 
 1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, and any report in `docs/`).
-2. Commit with a descriptive message, e.g. `Research run: data verification and news capture for YYYY-MM-DD` (full run) or `Research run: news capture for YYYY-MM-DD` (news only).
+2. Commit with a descriptive message, e.g. `Research run: data verification and news update for YYYY-MM-DD` (full run), `Research run: requirements update for YYYY-MM-DD` (requirements update), or `Research run: news update for YYYY-MM-DD` (news only).
 3. Do **not** merge into main or deploy. Tell the user the branch is ready for review and suggest next steps:
    - Review the changes: `git diff main..research/YYYY-MM-DD`
    - If satisfied, merge and deploy: `git checkout main && git merge research/YYYY-MM-DD && npm run deploy`
