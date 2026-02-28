@@ -1401,6 +1401,953 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-02-28",
+      "states": {
+        "AK": [
+          {
+            "title": "Breakdown of the 2026 Anchorage election ballot",
+            "source": "Alaska's News Source (KTUU)",
+            "url": "https://www.alaskasnewssource.com/2026/02/24/breakdown-2026-anchorage-election-ballot/",
+            "date": "2026-02-24",
+            "summary": "Alaska's News Source detailed the full Anchorage municipal ballot for the April 7, 2026 at-home election, which includes 12 bond and tax propositions and 16 Assembly candidates running across six district races."
+          },
+          {
+            "title": "Here are the 12 bond and tax propositions on Anchorage's upcoming municipal election ballot",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/alaska-news/anchorage/2026/02/22/heres-what-bonds-to-expect-on-anchorages-upcoming-municipal-election-ballot/",
+            "date": "2026-02-22",
+            "summary": "The Anchorage Daily News outlined 12 ballot propositions for the April 7, 2026 municipal election, a mail-in election covering school facility bonds, road and drainage projects, transit, and charter amendments."
+          }
+        ],
+        "AL": [
+          {
+            "title": "Chambers, Lee county voters to choose new state representative in special election",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2026/02/03/chambers-lee-county-voters-to-choose-new-state-representative-in-special-election/",
+            "date": "2026-02-03",
+            "summary": "Voters in Chambers and Lee counties were set to choose a new state House representative in a special election for House District 38, one of several special legislative elections occurring in Alabama in early 2026."
+          },
+          {
+            "title": "University of Alabama freshman draws state's court-ordered Senate map",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2025/11/21/alabamas-court-ordered-senate-map-was-drawn-by-a-ua-freshman/",
+            "date": "2025-11-21",
+            "summary": "The court-imposed remedial Alabama Senate map was drawn by a University of Alabama freshman, adjusting two Montgomery-area districts to unpack Black voters from the overly concentrated District 26 into the adjacent District 25, to take effect for the 2026 elections."
+          },
+          {
+            "title": "Federal judge orders new Alabama Senate map after ruling found racial gerrymandering",
+            "source": "WBHM 90.3",
+            "url": "https://wbhm.org/2025/judge-orders-new-alabama-senate-map-after-ruling-found-racial-gerrymandering/",
+            "date": "2025-11-17",
+            "summary": "A federal court ordered Alabama to use a court-selected remedial state Senate map for 2026 and 2030 elections after finding the legislature's map violated the Voting Rights Act by packing Black voters into a single Montgomery-area district."
+          },
+          {
+            "title": "Alabama Senate bill would set special primaries for changed legislative, congressional districts",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2025/11/12/alabama-senate-bill-would-set-special-primaries-for-changed-legislative-congressional-districts/",
+            "date": "2025-11-12",
+            "summary": "Senate Bill 23 was pre-filed to allow special primary elections in Alabama legislative and congressional districts changed by the legislature or a court order, a direct response to ongoing redistricting litigation affecting multiple districts ahead of 2026."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "DOJ sues Arizona to produce unredacted voter rolls",
+            "source": "Courthouse News Service",
+            "url": "https://www.courthousenews.com/doj-sues-arizona-to-produce-unredacted-voter-rolls/",
+            "date": "2025-12-22",
+            "summary": "The Department of Justice sued Arizona Secretary of State Fontes for refusing to produce the state's full unredacted voter registration list."
+          },
+          {
+            "title": "Arizona proposal would end automatic mail ballots for early-voter list",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2025/11/18/early-voter-list-abolished-alex-kolodin-legislation-ballot-measure/",
+            "date": "2025-11-18",
+            "summary": "A Republican-backed Arizona legislative proposal would abolish the Permanent Early Voting List, which automatically mails ballots to over 3 million registered voters."
+          },
+          {
+            "title": "Arizona voter proof-of-citizenship laws blocked by federal appeals court",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2025/02/25/voter-proof-of-citizenship-laws-blocked-by-9th-circuit/",
+            "date": "2025-10-25",
+            "summary": "The 9th U.S. Circuit Court of Appeals ruled Arizona laws requiring proof of citizenship to vote for president and by mail are unconstitutional."
+          },
+          {
+            "title": "Arizona county suspends 1,100 voter registrations over citizenship proof error",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2025/10/22/pinal-maricopa-county-proof-of-citizenship-voter-registration/",
+            "date": "2025-10-22",
+            "summary": "Pinal County suspended 1,106 voter registrations belonging to longtime residents caught in a state citizenship-tracking error who attempted to update their registration without providing proof of citizenship."
+          }
+        ],
+        "CA": [
+          {
+            "title": "With midterm elections looming, California lawmakers focus on protecting polling sites from immigration enforcement",
+            "source": "Orange County Register",
+            "url": "https://www.ocregister.com/2026/02/24/with-midterm-elections-looming-california-lawmakers-focus-on-protecting-polling-sites-from-immigration-enforcement/",
+            "date": "2026-02-24",
+            "summary": "California lawmakers introduced Senate Bill 884, which would prohibit immigration enforcement within 200 feet of polling sites."
+          },
+          {
+            "title": "DOJ and California go to court over new congressional map designed to favor Democrats",
+            "source": "PBS NewsHour",
+            "url": "https://www.pbs.org/newshour/politics/doj-and-california-go-to-court-over-new-congressional-map-designed-to-favor-democrats",
+            "date": "2026-02-01",
+            "summary": "The Department of Justice sued California challenging the voter-approved Proposition 50 redistricting map."
+          },
+          {
+            "title": "A federal judge dismisses the DOJ's effort to get voter data from California",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/01/15/nx-s1-5678969/doj-voter-data-california-dismissal",
+            "date": "2026-01-15",
+            "summary": "A federal district court dismissed the Department of Justice's lawsuit seeking California's unredacted voter file."
+          },
+          {
+            "title": "California voters OK new congressional lines, boosting Democrats ahead of midterms",
+            "source": "NPR",
+            "url": "https://www.npr.org/2025/11/04/nx-s1-5587742/election-results-california-proposition-50-redistricting",
+            "date": "2025-11-04",
+            "summary": "California voters approved Proposition 50 with about 64% of the vote, suspending the independent Citizens Redistricting Commission and authorizing the legislature and governor to adopt a new congressional map."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Colorado group files 6 ballot measures to counter redistricting proposals backed by Democrats",
+            "source": "Colorado Politics",
+            "url": "https://www.coloradopolitics.com/2026/02/24/colorado-group-files-6-ballot-measures-to-counter-redistricting-proposals-backed-by-democrats/",
+            "date": "2026-02-24",
+            "summary": "A Republican-aligned Colorado advocacy group filed six competing ballot measures to counter Democratic redistricting proposals."
+          },
+          {
+            "title": "National redistricting fight reaches Colorado with ballot measures targeting GOP-held congressional districts",
+            "source": "Colorado Politics",
+            "url": "https://www.coloradopolitics.com/2026/02/18/national-redistricting-fight-reaches-colorado-with-ballot-measures-targeting-gop-held-congressional-districts/",
+            "date": "2026-02-18",
+            "summary": "A Democratic-aligned group filed ballot measures to suspend Colorado's independent redistricting commission and redraw congressional maps."
+          },
+          {
+            "title": "How the SAVE America Act would affect the 2026 elections",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/2026/02/16/save-america-act-passes-house-proof-of-citizenship-register-vote-photo-id/",
+            "date": "2026-02-16",
+            "summary": "Votebeat analyzed how the House-passed SAVE America Act would significantly disrupt Colorado's mail-voting system and online voter registration infrastructure."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Trump attacks: 'Connecticut is a very corrupt voting place'",
+            "source": "Hartford Courant",
+            "url": "https://www.courant.com/2026/02/12/trump-attacks-connecticut-is-a-very-corrupt-voting-place/",
+            "date": "2026-02-12",
+            "summary": "President Trump publicly attacked Connecticut's election administration, putting a national spotlight on the state's ongoing efforts to reform its election oversight."
+          },
+          {
+            "title": "CT bill aims to make it easier for incarcerated people to vote",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2025/05/08/ct-incarcerated-voting-absentee-ballots/",
+            "date": "2025-07-01",
+            "summary": "A Connecticut bill that cleared committee would require the Secretary of the State to provide absentee ballot application forms to eligible incarcerated individuals."
+          },
+          {
+            "title": "Following Bridgeport ballot fraud scandal, CT fails to pass new laws",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2025/06/26/ct-bridgeport-ballot-fraud-new-laws/",
+            "date": "2025-06-26",
+            "summary": "Despite legislative efforts following Bridgeport's absentee ballot fraud scandal, Connecticut failed to pass new election security laws in the 2025 session."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Ranked Choice Voting in DC Flyers Sent Out",
+            "source": "PoPville",
+            "url": "https://www.popville.com/2026/02/ranked-choice-voting-in-dc-flyers-sent-out/",
+            "date": "2026-02-01",
+            "summary": "The DC Board of Elections began distributing ranked-choice voting educational flyers to residents across the District ahead of the June 2026 primary."
+          },
+          {
+            "title": "DC Board of Elections works to roll out ranked choice voting in 2026 Primary Election",
+            "source": "DC News Now",
+            "url": "https://www.dcnewsnow.com/news/local-news/washington-dc/dc-board-of-elections-works-to-roll-out-ranked-choice-voting-in-2026-primary-election/",
+            "date": "2026-01-20",
+            "summary": "The DC Board of Elections detailed its voter education plan for implementing ranked-choice voting in the June 2026 primary."
+          },
+          {
+            "title": "The 2026 election could bring a big shakeup to local DC politics",
+            "source": "NBC4 Washington",
+            "url": "https://www.nbcwashington.com/news/local/the-2026-election-could-bring-a-big-shakeup-to-local-dc-politics/4006033/",
+            "date": "2026-01-16",
+            "summary": "With Mayor Muriel Bowser and Delegate Eleanor Holmes Norton both retiring, DC's 2026 elections using newly implemented ranked-choice voting are expected to bring sweeping changes to local leadership."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Our 2026 Legislative Priorities - ACLU of Delaware",
+            "source": "ACLU of Delaware",
+            "url": "https://www.aclu-de.org/news/our-2026-legislative-priorities/",
+            "date": "2026-01-20",
+            "summary": "The ACLU of Delaware published its 2026 legislative agenda, with voting rights prominently listed as a top priority."
+          },
+          {
+            "title": "Delaware Should Act to Protect Voting Rights - ACLU of Delaware",
+            "source": "ACLU of Delaware",
+            "url": "https://www.aclu-de.org/news/delaware-should-act-protect-voting-rights/",
+            "date": "2026-01-16",
+            "summary": "The ACLU of Delaware called on the legislature to introduce a state-level Voting Rights Act in 2026 to protect against racial discrimination in elections."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Florida House passes sweeping voter eligibility changes",
+            "source": "WLRN",
+            "url": "https://www.wlrn.org/government-politics/2026-02-26/florida-house-passes-sweeping-voter-eligibility-changes",
+            "date": "2026-02-26",
+            "summary": "The Florida House passed HB 991 by an 83-31 vote, requiring documentary proof of U.S. citizenship to register to vote or update registration information, narrowing accepted photo IDs at the polls, and directing the state to mark citizenship status on driver's licenses."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia Lawmakers Propose Bill to Limit Early Voting Locations and Mandate Paper Ballots",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/02/28/georgia-lawmakers-propose-changes-states-early-voting-process/",
+            "date": "2026-02-28",
+            "summary": "Senate Bill 568 would require hand-marked paper ballots for early voting, assign early voters to a single precinct rather than allowing county-wide access, and transfer oversight of recounts and election challenges to the State Election Board."
+          },
+          {
+            "title": "Georgia State Election Board Declines to Seize Control of Fulton County Elections, for Now",
+            "source": "Georgia Public Broadcasting",
+            "url": "https://www.gpb.org/news/2026/02/20/georgia-state-election-board-declines-seize-control-of-fulton-county-elections-for",
+            "date": "2026-02-20",
+            "summary": "Georgia's State Election Board voted against taking over Fulton County's elections at its first meeting since the FBI raid, but at least one board member left the door open to future intervention."
+          },
+          {
+            "title": "Georgia Democrats Introduce Henry McNeal Turner Voting Rights Act",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/georgia-lawmakers-fight-gop-voter-suppression-efforts-with-new-state-voting-rights-act/",
+            "date": "2026-02-19",
+            "summary": "Georgia Democratic lawmakers unveiled the Henry McNeal Turner Voting Rights Act (SB 536), a state-level voting rights bill that would require counties with a history of racial discrimination to pre-clear voting changes."
+          },
+          {
+            "title": "The FBI Seizure of Georgia 2020 Election Ballots Relies on Debunked Claims",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/02/10/nx-s1-5710649/fulton-county-2020-election-affidavit-fbi",
+            "date": "2026-02-10",
+            "summary": "NPR analysis found that the search warrant affidavit used to justify the FBI seizure of Fulton County 2020 ballots relied on claims that have been repeatedly investigated and debunked since the 2020 election."
+          },
+          {
+            "title": "FBI Searches Fulton County Elections Office in Investigation of Alleged 2020 Voter Fraud",
+            "source": "CNN Politics",
+            "url": "https://www.cnn.com/2026/01/28/politics/fulton-county-election-office-fbi-warrant",
+            "date": "2026-01-28",
+            "summary": "FBI agents raided Fulton County's election warehouse and seized approximately 700 boxes of 2020 election ballots and documents, relying on claims that have been widely debunked by election experts and courts."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii Election Candidates Can Now File 2026 Nomination Papers",
+            "source": "Hawaii Public Radio",
+            "url": "https://www.hawaiipublicradio.org/local-news/2026-02-03/2026-hawaii-election-candidates-can-now-file-nomination-papers",
+            "date": "2026-02-03",
+            "summary": "Candidate filing for Hawaii's 2026 elections opened February 2 and runs through June 2, covering over 100 seats including governor, lieutenant governor, Congress, and state legislature."
+          },
+          {
+            "title": "Hawaii Simple Majority Vote for Constitutional Amendments Measure Advances Toward 2026 Ballot",
+            "source": "Ballotpedia",
+            "url": "https://ballotpedia.org/Hawaii_Simple_Majority_Vote_for_Constitutional_Amendments_Measure_(2026)",
+            "date": "2026-01-15",
+            "summary": "A legislatively referred constitutional amendment that would lower the threshold for voters to approve constitutional amendments from two-thirds to a simple majority is on track for Hawaii's November 2026 ballot."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Iowa Senate Passes Bills Requiring Use of Federal Systems to Verify Immigration Status",
+            "source": "Iowa Public Radio",
+            "url": "https://www.iowapublicradio.org/state-government-news/2026-02-26/iowa-senate-passes-immigration-citizenship-status-verification-bills",
+            "date": "2026-02-26",
+            "summary": "The Iowa Senate also advanced SF 2187, which would require the Iowa DOT to use the SAVE database to check the immigration status of driver's license and state ID applicants."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Idaho's 2026 Elections Are Near — Candidates Can Now File for Legislative, Statewide Office",
+            "source": "Idaho Capital Sun",
+            "url": "https://idahocapitalsun.com/briefs/idahos-2026-elections-are-near-next-week-candidates-can-file-for-legislative-statewide-office/",
+            "date": "2026-02-22",
+            "summary": "Idaho opened its candidate filing period for the 2026 elections, with races for governor, other statewide offices, and the full legislature on the ballot."
+          },
+          {
+            "title": "Bill Affecting City Voting Advances in Idaho House",
+            "source": "Daily News (Moscow, ID)",
+            "url": "https://www.dnews.com/northwest/bill-affecting-city-voting-advances-in-idaho-house-21588346",
+            "date": "2026-02-20",
+            "summary": "House Bill 720 would require eleven Idaho cities with populations above 25,000 to shift from at-large city council elections to district-only voting."
+          },
+          {
+            "title": "Idaho Bill Would Shift Election Dates, Adjust Mail Ballot Deadlines",
+            "source": "KLEWT TV",
+            "url": "https://klewtv.com/news/local/idaho-bill-would-shift-election-dates-adjust-mail-ballot-deadlines",
+            "date": "2026-02-18",
+            "summary": "House Bill 726 would change Idaho election dates and shorten the county certification window from 10 to 9 days, while also adjusting mail ballot return deadlines."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Ranked Choice Voting Stalled in Illinois, Waiting for Clarity from the Courts",
+            "source": "WGLT (NPR Illinois)",
+            "url": "https://www.wglt.org/local-news/2026-02-16/ranked-choice-voting-stalled-in-illinois-waiting-for-clarity-from-the-courts",
+            "date": "2026-02-16",
+            "summary": "Illinois municipalities including Evanston, Oak Park, and Skokie that have adopted ranked choice voting are in legal limbo as a pending court case and stalled state legislation leave the issue unresolved."
+          },
+          {
+            "title": "Early Voting for 2026 Primary Election Begins in Downtown Chicago with New Supersite Location",
+            "source": "WTTW Chicago",
+            "url": "https://news.wttw.com/2026/02/12/early-voting-2026-primary-election-begins-downtown-chicago-new-supersite-location",
+            "date": "2026-02-12",
+            "summary": "Early voting for Illinois's March 17, 2026 primary election began in downtown Chicago at two initial locations, with a new supersite opening at 137 S. State St."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Indiana Becomes the 19th State to Ban Ranked-Choice Voting",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/02/27/indiana-becomes-the-19th-state-to-ban-ranked-choice-voting/",
+            "date": "2026-02-27",
+            "summary": "Governor Mike Braun signed Senate Bill 12 into law, prohibiting ranked-choice voting in all Indiana elections, making Indiana the 19th state to enact such a ban."
+          },
+          {
+            "title": "Early Voting Untouched: Move to Trim Period by Nearly Half Sputters Out in Indiana Senate",
+            "source": "Indiana Citizen",
+            "url": "https://indianacitizen.org/early-voting-untouched-move-to-trim-period-by-nearly-half-sputters-out-in-indiana-senate/",
+            "date": "2026-02-26",
+            "summary": "The Indiana Senate allowed the early voting reduction amendment in HB 1359 to die by not returning to the bill before its legislative deadline, preserving Indiana's 28-day early voting window."
+          },
+          {
+            "title": "Indiana Passes Amendment to Limit Early Voting Without Testimony",
+            "source": "Chicago Tribune",
+            "url": "https://www.chicagotribune.com/2026/02/21/indiana-passes-amendment-to-limit-early-voting-without-testimony/",
+            "date": "2026-02-21",
+            "summary": "The Indiana House passed an amendment to HB 1359 that would have reduced early voting by nearly half without holding a public hearing."
+          },
+          {
+            "title": "Indiana Lawmakers Quietly Advance Plan to Reduce Early Voting Days",
+            "source": "Louisville Public Media",
+            "url": "https://www.lpm.org/news/2026-02-17/indiana-lawmakers-quietly-advance-plan-to-reduce-early-voting-days",
+            "date": "2026-02-17",
+            "summary": "Indiana Republicans inserted an amendment into HB 1359 that would have cut early voting from 28 days to 16 days ahead of elections, with no public hearing."
+          }
+        ],
+        "KY": [
+          {
+            "title": "KY Senate Votes to Tighten Voter ID Requirements, Advance Felon Voting Rights Amendment",
+            "source": "Kentucky Lantern",
+            "url": "https://kentuckylantern.com/2026/02/20/ky-senate-votes-to-tighten-voter-id-requirements-advance-felon-voting-rights-amendment/",
+            "date": "2026-02-20",
+            "summary": "The Kentucky Senate passed SB 154 removing Social Security and EBT cards as acceptable voter ID documents, and also passed SB 80 to advance a constitutional amendment that would restore voting rights to most people with felony convictions."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Special Election Decides 3 Seats in Louisiana Legislature; 2 Need March Runoffs",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/02/07/special-election-legislature-2/",
+            "date": "2026-02-07",
+            "summary": "A February 7 special legislative primary election filled vacancies in five Louisiana House and Senate seats, with three races decided outright and two advancing to a March runoff."
+          },
+          {
+            "title": "Louisiana Will Use Challenged Congressional Map After Supreme Court Declines to Expedite Ruling",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/01/02/louisiana-will-use-challenged-congressional-map-after-supreme-court-declines-to-expedite-ruling/",
+            "date": "2026-01-02",
+            "summary": "After the U.S. Supreme Court declined to fast-track a ruling in Louisiana v. Callais, Louisiana confirmed it will use the existing map for 2026 elections."
+          },
+          {
+            "title": "Louisiana GOP Delays Elections as It Looks Set to Wipe Out Black-Majority Districts",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/louisiana-gop-delays-elections-as-it-looks-set-to-wipe-out-black-majority-districts/",
+            "date": "2025-11-05",
+            "summary": "Louisiana Republicans moved 2026 primary dates back by roughly one month to allow time for potential congressional redistricting."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Massachusetts House Passes Bills Regulating AI Use in Elections",
+            "source": "Revere Journal",
+            "url": "https://reverejournal.com/2026/02/25/massachusetts-house-passes-bills-regulating-ai-use-in-elections/",
+            "date": "2026-02-25",
+            "summary": "The Massachusetts House passed two AI election bills unanimously: one requiring disclosure labels on AI-generated political ads, and another prohibiting materially deceptive synthetic media about candidates or voting procedures."
+          },
+          {
+            "title": "House Generates Election Year Bill Targeting AI in Political Sphere",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/02/11/ai-political-ads-massachusetts-bills-regulation",
+            "date": "2026-02-11",
+            "summary": "The Massachusetts House introduced paired bills to regulate AI in political advertising ahead of the 2026 election cycle."
+          }
+        ],
+        "MD": [
+          {
+            "title": "With U.S. Supreme Court support for the Voting Rights Act disappearing, Maryland considers the Maryland Voting Rights Act of 2026",
+            "source": "American Democracy Minute",
+            "url": "https://www.americandemocracyminute.org/wethepeople/2026/02/18/with-u-s-supreme-court-support-for-the-voting-rights-act-disappearing-the-maryland-assembly-considers-the-maryland-voting-rights-act-of-2026/",
+            "date": "2026-02-18",
+            "summary": "Maryland legislators are advancing HB 219 to create a private right of action against voter intimidation and suppression at polling places."
+          },
+          {
+            "title": "Advocates say they have 'remedy' to protect voting rights in Maryland",
+            "source": "Maryland Matters",
+            "url": "https://marylandmatters.org/2026/02/11/advocates-say-they-have-remedy-to-protect-voting-rights-in-maryland/",
+            "date": "2026-02-11",
+            "summary": "Voting rights advocates are pushing the Maryland Voting Rights Act of 2026, a package of bills including HB 219 (voter intimidation protections) and HB 350/SB 255 (vote dilution prohibitions)."
+          },
+          {
+            "title": "Lawmakers rally for voting rights in Maryland Assembly",
+            "source": "AFRO American Newspapers",
+            "url": "https://afro.com/maryland-voting-rights-legislation/",
+            "date": "2026-02-10",
+            "summary": "Maryland lawmakers and civil rights advocates rallied in Annapolis in support of the Maryland Voting Rights Act bills."
+          },
+          {
+            "title": "Maryland House passes congressional redistricting bill over Senate objections",
+            "source": "Maryland Matters",
+            "url": "https://marylandmatters.org/2026/02/03/redistricting-bill-sails-through-house-faces-troubled-waters-in-the-senate/",
+            "date": "2026-02-03",
+            "summary": "The Maryland House of Delegates passed House Bill 488 to redraw the state's eight congressional districts along party lines, targeting Rep. Andy Harris's seat."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Democrat wins Maine House special election in Lewiston, maintaining Democratic majority",
+            "source": "Maine Public",
+            "url": "https://www.mainepublic.org/politics/2026-02-25/democrat-wins-special-election-for-lewiston-seat-in-maine-house",
+            "date": "2026-02-25",
+            "summary": "Democrat Scott Harriman won the special election for House District 94 in Lewiston on February 24, restoring Democrats' 75-72 advantage in the Maine House."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Americans for Citizen Voting announces it collected enough signatures for Michigan 2026 ballot",
+            "source": "Ballotpedia",
+            "url": "https://ballotpedia.org/Michigan_Citizenship_Requirement_for_Voting_Amendment_(2026)",
+            "date": "2026-02-03",
+            "summary": "The Americans for Citizen Voting campaign announced it collected more than enough signatures to place a constitutional amendment on the November 2026 ballot that would require proof of citizenship to register to vote."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Minnesota Voter Integrity Act of 2026 introduced to withhold federal election funds from state",
+            "source": "Northern News Now",
+            "url": "https://www.northernnewsnow.com/2026/02/04/minnesota-voter-integrity-act-raises-concerns/",
+            "date": "2026-02-04",
+            "summary": "Republican congressmen Pete Stauber and Tom Emmer introduced federal legislation that would cut off Minnesota's Help America Vote Act funding unless the state hands over voter registration data to the DOJ."
+          },
+          {
+            "title": "Minnesota Secretary of State calls federal Minnesota Voter Integrity Act an 'irresponsible stunt'",
+            "source": "Minnesota Secretary of State",
+            "url": "https://www.sos.mn.gov/about-the-office/news-room/statement-from-secretary-simon-on-federal-minnesota-voter-integrity-act",
+            "date": "2026-02-04",
+            "summary": "Minnesota Secretary of State Steve Simon issued a statement condemning the proposed federal Minnesota Voter Integrity Act."
+          },
+          {
+            "title": "New Minnesota laws effective January 1, 2026 include election-related provisions",
+            "source": "Boreal Community Media",
+            "url": "https://www.boreal.org/2026/01/03/559245/a-look-at-some-of-the-new-minnesota-laws-that-took-effect-as-of-january-1-2026",
+            "date": "2026-01-03",
+            "summary": "Among the Minnesota laws taking effect January 1, 2026 are provisions requiring county auditors and municipal clerks to establish temporary polling places at postsecondary institutions with on-campus housing."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Federal ruling on Voting Rights Act could hurt Black Mississippians' power on state Supreme Court",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/02/27/black-voters-supreme-court-voting-rights/",
+            "date": "2026-02-27",
+            "summary": "A pending U.S. Supreme Court case could weaken or overturn key parts of the Voting Rights Act, potentially allowing Mississippi to avoid court-ordered redistricting of its Supreme Court districts."
+          },
+          {
+            "title": "In-person absentee voting process could change in Mississippi",
+            "source": "WLBT",
+            "url": "https://www.wlbt.com/2026/02/24/in-person-absentee-voting-process-could-change-mississippi/",
+            "date": "2026-02-24",
+            "summary": "Both chambers of the Mississippi legislature have passed competing bills to overhaul in-person absentee voting, replacing the longstanding ballot-envelope system with machine tabulation."
+          },
+          {
+            "title": "Federal order blocks current Mississippi Supreme Court justice from filing for reelection",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/02/24/supreme-court-redistricting-ishee/",
+            "date": "2026-02-24",
+            "summary": "A sitting Mississippi Supreme Court justice was blocked from filing for reelection in the current district boundaries as a result of the federal court's redistricting order."
+          },
+          {
+            "title": "Legislators keep options open for redrawing Mississippi Supreme Court districts",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/02/09/legislators-redrawing-mississippi-supreme-court-districts/",
+            "date": "2026-02-09",
+            "summary": "Mississippi lawmakers advanced placeholder bills to preserve the option to redraw Supreme Court districts under a federal court order."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Federal bill boosting voter registration requirements passes U.S. House",
+            "source": "Montana Free Press",
+            "url": "https://montanafreepress.org/2026/02/12/federal-bill-boosting-voter-registration-requirements-passes-u-s-house/",
+            "date": "2026-02-12",
+            "summary": "The SAVE Act, which would require Americans to produce a birth certificate or passport when registering to vote in federal elections, passed the U.S. House."
+          },
+          {
+            "title": "Montana Supreme Court upholds AG finding that ballot issue is legally insufficient",
+            "source": "Montana Free Press",
+            "url": "https://montanafreepress.org/2026/01/06/montana-supreme-court-upholds-ag-finding-that-ballot-issue-is-unconstitutional/",
+            "date": "2026-01-06",
+            "summary": "The Montana Supreme Court upheld the Attorney General's finding that a proposed citizen ballot initiative was legally insufficient."
+          },
+          {
+            "title": "Montana Sued Over Law That Rejects Absentee Ballots for Minor Date Errors",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/montana-sued-over-law-that-rejects-absentee-ballots-for-minor-date-errors/",
+            "date": "2025-12-15",
+            "summary": "Disability Rights Montana and Big Sky 55+ filed suit to block HB 719, which requires absentee voters to write their birthdate on ballot envelopes for verification."
+          },
+          {
+            "title": "Multiple lawsuits challenging Montana election laws from 2025 legislative session",
+            "source": "KTVH",
+            "url": "https://www.ktvh.com/news/montana-politics/multiple-lawsuits-challenging-montana-election-laws-from-2025-legislative-session",
+            "date": "2025-12-10",
+            "summary": "Several groups have filed lawsuits challenging Montana election laws passed in 2025, including challenges to new voter ID requirements and restrictions on student voter registration."
+          }
+        ],
+        "NC": [
+          {
+            "title": "MS Supreme Court Elections Await Federal Voting Rights Act Ruling — parallels for NC",
+            "source": "The Marshall Project",
+            "url": "https://themarshallproject.org/2026/02/26/mississippi-voting-rights-act-supreme-court",
+            "date": "2026-02-26",
+            "summary": "North Carolina's voter ID constitutional amendment remains on track for voters in November 2026."
+          },
+          {
+            "title": "DNC, RNC reach deal on incomplete North Carolina voter registrations",
+            "source": "The Hill",
+            "url": "https://thehill.com/homenews/campaign/5741712-democrats-republicans-north-carolina-voter-roll-settlement/",
+            "date": "2026-02-15",
+            "summary": "Democrats and Republicans agreed to a settlement allowing more than 73,000 North Carolina voters with incomplete registrations to remain on the voter rolls for upcoming elections."
+          },
+          {
+            "title": "70,000 North Carolina voters must fix their registrations ahead of 2026 primary",
+            "source": "The Assembly NC",
+            "url": "https://www.theassemblync.com/news/politics/elections/north-carolina-voters-registration-repair/",
+            "date": "2026-01-23",
+            "summary": "More than 71,000 North Carolina voters have incomplete registration records lacking a driver's license number or Social Security number."
+          },
+          {
+            "title": "Absentee voting begins in North Carolina for 2026 primary election",
+            "source": "NC State Board of Elections",
+            "url": "https://www.ncsbe.gov/news/press-releases/2026/01/08/absentee-voting-begins-monday-2026-primary-election-nc",
+            "date": "2026-01-08",
+            "summary": "North Carolina began mailing absentee ballots for the March 3, 2026 primary election."
+          },
+          {
+            "title": "State Board randomly determines ballot order for 2026 elections",
+            "source": "NC State Board of Elections",
+            "url": "https://www.ncsbe.gov/news/press-releases/2025/12/19/state-board-randomly-determines-ballot-order-2026-elections",
+            "date": "2025-12-19",
+            "summary": "The North Carolina State Board of Elections randomly determined candidate ballot order for the 2026 primary and general elections."
+          }
+        ],
+        "ND": [
+          {
+            "title": "The end of no-registration? New federal bill threatens North Dakota's unique voting system",
+            "source": "KSJB AM 600",
+            "url": "https://www.ksjbam.com/2026/02/11/22064/",
+            "date": "2026-02-11",
+            "summary": "The federal MEGA Act does not include a carve-out for North Dakota's registration-free voting system, raising concerns that the state could be forced to implement voter registration for the first time."
+          }
+        ],
+        "NE": [
+          {
+            "title": "The future of Nebraska's 'blue dot' electoral vote becomes an issue in one key midterm race",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/future-nebraskas-blue-dot-electoral-vote-becomes-issue-one-key-midterm-rcna258955",
+            "date": "2026-02-20",
+            "summary": "Nebraska's split presidential electoral vote system is again under pressure from Republicans pushing winner-take-all."
+          },
+          {
+            "title": "Nebraska hands over potentially sensitive voter data to DOJ during legal fight",
+            "source": "Nebraska Examiner",
+            "url": "https://nebraskaexaminer.com/2026/02/12/nebraska-hands-over-sensitive-voter-data-to-doj-during-legal-fight/",
+            "date": "2026-02-12",
+            "summary": "Nebraska Secretary of State Bob Evnen turned over voter data to the DOJ including names, addresses, dates of birth, and the last four digits of Social Security numbers."
+          }
+        ],
+        "NM": [
+          {
+            "title": "NM U.S. Sen. Heinrich, elections officials seek to assuage fears about federal election interference",
+            "source": "Source New Mexico",
+            "url": "https://sourcenm.com/2026/02/27/nm-u-s-sen-heinrich-elections-officials-seek-to-assuage-fears-about-federal-election-interference/",
+            "date": "2026-02-27",
+            "summary": "U.S. Senator Martin Heinrich and New Mexico election officials held a joint briefing to reassure voters that state law and local officials remain in control of elections."
+          },
+          {
+            "title": "NM House passes law shielding elections from federal interference",
+            "source": "Source New Mexico",
+            "url": "https://sourcenm.com/briefs/nm-house-passes-passes-law-shielding-elections-from-federal-interference/",
+            "date": "2026-02-20",
+            "summary": "New Mexico's House passed SB 264 on a 41-26 vote, sending to the governor a bill that makes deploying unauthorized federal troops to polling places a fourth-degree felony."
+          }
+        ],
+        "NV": [
+          {
+            "title": "President Trump pushes Congress to approve the SAVE Act, which could impact Nevada's voting landscape",
+            "source": "KOLO TV",
+            "url": "https://www.kolotv.com/2026/02/26/president-trump-pushes-congress-approve-save-act-which-could-impact-nevadas-voting-landscape/",
+            "date": "2026-02-26",
+            "summary": "President Trump is pressing the Senate to pass the SAVE Act, which would require documentary proof of U.S. citizenship to register for federal elections."
+          },
+          {
+            "title": "If passed, SAVE Act could create challenges, confusion for Nevada voters",
+            "source": "Las Vegas Sun",
+            "url": "https://lasvegassun.com/news/2026/feb/22/if-passed-save-act-could-create-challenges-confusi/",
+            "date": "2026-02-22",
+            "summary": "Nevada election officials and advocates warn that the federal SAVE Act's documentary proof-of-citizenship requirement could conflict with Nevada's own proposed voter ID ballot measure."
+          },
+          {
+            "title": "Nevada election leader: SAVE Act has 'unintended consequences' rooted in conspiracies",
+            "source": "8 News Now (Las Vegas)",
+            "url": "https://www.8newsnow.com/investigators/nevada-election-leader-save-act-has-unintended-consequences-rooted-in-conspiracies/",
+            "date": "2026-02-18",
+            "summary": "Nevada Secretary of State Cisco Aguilar publicly criticized the SAVE Act as based on election conspiracy theories."
+          },
+          {
+            "title": "Tracking 2026 Nevada ballot measures: What's up for a vote and what's still in limbo",
+            "source": "The Nevada Independent",
+            "url": "https://thenevadaindependent.com/article/tracking-2026-nevada-ballot-measures-whats-up-for-a-vote-and-whats-still-in-limbo",
+            "date": "2026-02-06",
+            "summary": "Two constitutional amendments are certified for Nevada's November 2026 ballot, including a voter ID measure that first passed in 2024 and needs a second approval."
+          },
+          {
+            "title": "2025 laws make changes to Nevada's elections, campaigns",
+            "source": "Las Vegas Review-Journal",
+            "url": "https://www.reviewjournal.com/news/politics-and-government/nevada/how-nevadas-elections-will-change-with-new-2025-laws-3387365/",
+            "date": "2025-07-16",
+            "summary": "Nevada's 2025 legislative session produced several election law changes including new mail ballot deadlines, mandatory AI disclosure in campaign materials, and expanded tribal polling places."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio House votes overwhelmingly to ban ranked choice voting in local elections",
+            "source": "The Statehouse News Bureau",
+            "url": "https://www.statenews.org/government-politics/2026-02-25/ohio-house-votes-overwhelmingly-to-ban-ranked-choice-voting-in-local-elections",
+            "date": "2026-02-25",
+            "summary": "The Ohio House passed SB 63 by a 65-27 margin, banning ranked choice voting in local elections statewide."
+          },
+          {
+            "title": "Voting rights groups sue to protect Ohio voters from illegal purges",
+            "source": "League of Women Voters",
+            "url": "https://www.lwv.org/newsroom/press-releases/voting-rights-groups-sue-protect-ohio-voters-illegal-purges-0",
+            "date": "2026-02-13",
+            "summary": "The Campaign Legal Center, ACLU, and League of Women Voters of Ohio filed a federal lawsuit challenging SB 293, a law requiring monthly cross-checks of voter rolls against BMV and federal citizenship databases."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Oklahoma State Election Board releases yearly voter registration report",
+            "source": "KOSU",
+            "url": "https://www.kosu.org/politics/2026-02-04/oklahoma-state-election-board-releases-yearly-voter-registration-report",
+            "date": "2026-02-04",
+            "summary": "Oklahoma's annual voter registration report shows 2,406,168 registered voters as of January 15, 2026."
+          },
+          {
+            "title": "Oklahoma independents shut out of 2026-27 primaries after Election Board ruling",
+            "source": "Fox23",
+            "url": "https://www.fox23.com/news/oklahoma-independents-shut-out-of-2026-27-primaries-after-election-board-ruling/article_1c39596e-859a-46c8-9bca-5238cb34e2e1.html",
+            "date": "2026-01-07",
+            "summary": "Nearly half a million independent voters in Oklahoma will be barred from the 2026 and 2027 primaries after neither major party submitted the required November notification to open their primaries."
+          }
+        ],
+        "PA": [
+          {
+            "title": "What to know about Pennsylvania's 2026 special elections",
+            "source": "City & State Pennsylvania",
+            "url": "https://www.cityandstatepa.com/politics/2026/02/what-know-about-pennsylvanias-upcoming-special-elections/410599/",
+            "date": "2026-02-25",
+            "summary": "Democrats won both February 24 special elections for state House seats in Allegheny and Lehigh counties."
+          },
+          {
+            "title": "Pennsylvania special elections come with high financial and logistical costs",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/02/24/frequent-special-elections-cost-taxpayers-millions-state-house/",
+            "date": "2026-02-24",
+            "summary": "An investigation found Pennsylvania has held 47 special elections since 2017 at a cost of at least $4.4 million to taxpayers."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Citizenship voting requirement in SAVE America Act has no basis in the Constitution",
+            "source": "Rhode Island Current",
+            "url": "https://rhodeislandcurrent.com/2026/02/16/citizenship-voting-requirement-in-save-america-act-has-no-basis-in-the-constitution/",
+            "date": "2026-02-16",
+            "summary": "A Rhode Island Current analysis argues the SAVE America Act's proof-of-citizenship requirement for federal elections is constitutionally unfounded."
+          }
+        ],
+        "SC": [
+          {
+            "title": "SC joins 14-state coalition pushing for proof of citizenship to vote",
+            "source": "ABC News 4",
+            "url": "https://abcnews4.com/news/state/sc-joins-14-state-coalition-pushing-for-proof-of-citizenship-to-vote-alan-wilson-october-2025",
+            "date": "2025-10-01",
+            "summary": "South Carolina joined a 14-state coalition of attorneys general asking the U.S. Election Assistance Commission to require documentary proof of U.S. citizenship for voter registration."
+          },
+          {
+            "title": "SC Supreme Court says South Carolina can release voter information to DOJ",
+            "source": "South Carolina Public Radio",
+            "url": "https://www.southcarolinapublicradio.org/sc-news/2025-09-12/sc-supreme-court-says-south-carolina-can-release-voter-information-to-doj",
+            "date": "2025-09-12",
+            "summary": "The South Carolina Supreme Court reversed a lower court order blocking release of the state's voter rolls to the U.S. Department of Justice."
+          },
+          {
+            "title": "South Carolina Election Commission Strengthens Citizen-Only Voting Enforcement with New Federal Verification Tools",
+            "source": "SC Votes - South Carolina Election Commission",
+            "url": "https://scvotes.gov/south-carolina-election-commission-strengthens-citizen-only-voting-enforcement-with-new-federal-verification-tools/",
+            "date": "2025-07-15",
+            "summary": "The South Carolina Election Commission began using the federal SAVE system to verify citizenship of newly registered voters."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Incoming midterm elections bring spate of voting bills to lawmakers",
+            "source": "South Dakota Public Broadcasting (SDPB)",
+            "url": "https://www.sdpb.org/politics/2026-02-03/incoming-midterm-elections-bring-spate-of-voting-bills-to-lawmakers",
+            "date": "2026-02-03",
+            "summary": "With the 2026 midterms approaching, South Dakota lawmakers are considering multiple election-related bills."
+          },
+          {
+            "title": "Bill to allow citizenship challenge to voters advances",
+            "source": "South Dakota Public Broadcasting (SDPB)",
+            "url": "https://www.sdpb.org/politics/2026-01-28/bill-to-allow-citizenship-challenge-to-voters-advances",
+            "date": "2026-01-28",
+            "summary": "A South Dakota Senate bill (SB 30) that would allow members of the public to challenge a voter's registration on citizenship grounds advanced from committee."
+          },
+          {
+            "title": "Secretary of State announces legislation for 2026 legislative session",
+            "source": "South Dakota War College",
+            "url": "https://dakotawarcollege.com/secretary-of-state-announces-legislation-for-2026-legislative-session/",
+            "date": "2025-12-15",
+            "summary": "South Dakota's Secretary of State unveiled a package of election bills for the 2026 session."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Election 2026: The Tennessee House and Senate races potentially in play",
+            "source": "Tennessee Lookout",
+            "url": "https://tennesseelookout.com/2026/02/17/election-2026-the-tennessee-house-and-senate-races-potentially-in-play/",
+            "date": "2026-02-17",
+            "summary": "Analysis shows Democratic candidates significantly outperforming 2024 margins in Tennessee."
+          },
+          {
+            "title": "Key Working Families and Democracy Policy Trends in Tennessee's 2026 Legislative Session",
+            "source": "Think Tennessee",
+            "url": "https://www.thinktennessee.org/blog/key-working-families-and-democracy-policy-trends-in-tennessees-2026-legislative-session/",
+            "date": "2026-01-20",
+            "summary": "Tennessee's 2026 legislative session includes proposals for an 'Election Integrity Act of 2026,' a voting rights restoration bill, closed primaries, and citizenship verification."
+          },
+          {
+            "title": "Tennessee Republican leadership file bill on election laws, temporary driver's licenses",
+            "source": "NewsChannel 5",
+            "url": "https://www.newschannel5.com/news/tennessee-republican-leadership-file-bill-on-election-laws-temporary-drivers-licenses",
+            "date": "2026-01-15",
+            "summary": "House Majority Leader Rep. William Lamberth and Senate Majority Leader Jack Johnson introduced HB 69, requiring election commissions to verify citizenship status of voter registrants."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Democratic primary turnout is surging in Texas, according to early voting data",
+            "source": "CNN Politics",
+            "url": "https://www.cnn.com/2026/02/26/politics/texas-democratic-primary-early-voting-data",
+            "date": "2026-02-26",
+            "summary": "CNN analysis shows Democratic primary participation at 53% of all ballots cast in Texas, a historic inversion."
+          },
+          {
+            "title": "Democratic primary turnout breaking records across Texas",
+            "source": "Texas Tribune",
+            "url": "https://www.texastribune.org/2026/02/25/texas-early-voting-turnout-democrats-midterm-election/",
+            "date": "2026-02-25",
+            "summary": "Democratic early voting in Texas's March 3, 2026 primary surged 276% over the equivalent point in the 2022 midterm primary."
+          },
+          {
+            "title": "Early Voting Underway Across Texas Ahead of March 3 Primary Election",
+            "source": "Texas Secretary of State",
+            "url": "https://www.sos.texas.gov/about/newsreleases/2026/022426.shtml",
+            "date": "2026-02-24",
+            "summary": "Texas Secretary of State announced early voting is underway for the March 3 primary, with more than 18.6 million Texans registered to vote — a new state record."
+          },
+          {
+            "title": "2025 Legislative Summary – 89th Regular Session",
+            "source": "Texas Secretary of State",
+            "url": "https://www.sos.state.tx.us/elections/laws/advisory2025-07.shtml",
+            "date": "2025-11-10",
+            "summary": "Texas's 89th Legislature passed several election law changes including SB 2964 requiring clerks to notify voters of mail ballot defects within two days."
+          }
+        ],
+        "UT": [
+          {
+            "title": "AI poem and committee swapping: How Utah Republicans helped an anti-vote-by-mail bill get traction",
+            "source": "Salt Lake Tribune",
+            "url": "https://www.sltrib.com/news/politics/2026/02/27/new-bill-utah-legislature-will/",
+            "date": "2026-02-27",
+            "summary": "Utah Republican lawmakers maneuvered HB 479 through committee, proposing to require mail-ballot users to return ballots in person with a photo ID."
+          },
+          {
+            "title": "Proof of citizenship, private voter records made public in Utah's new 'omnibus' elections bill",
+            "source": "ABC4 Utah",
+            "url": "https://www.abc4.com/news/politics/inside-utah-politics/proof-citizenship-private-voter-records-public-utahs-omnibus-elections-bill/",
+            "date": "2026-02-09",
+            "summary": "SB 194, Utah's omnibus elections bill, would combine a proof-of-citizenship requirement with a provision making voter registration data more accessible."
+          },
+          {
+            "title": "Utah bill requiring proof of citizenship to vote advances",
+            "source": "Utah News Dispatch",
+            "url": "https://utahnewsdispatch.com/briefs/utah-bill-requiring-proof-of-citizenship-to-vote-advances/",
+            "date": "2026-01-27",
+            "summary": "HB 209 passed out of a Utah House committee, requiring documentary proof of citizenship to register and vote in state elections."
+          }
+        ],
+        "VA": [
+          {
+            "title": "A voter's guide to Virginia's 2026 redistricting push",
+            "source": "Virginia Mercury",
+            "url": "https://virginiamercury.com/2026/02/26/a-voters-guide-to-virginias-2026-redistricting-push/",
+            "date": "2026-02-26",
+            "summary": "Virginia voters will decide on April 21 whether to approve a constitutional amendment allowing the Democrat-controlled legislature to redraw congressional maps mid-decade."
+          },
+          {
+            "title": "Democrats win in special elections for Virginia General Assembly",
+            "source": "WTOP News",
+            "url": "https://wtop.com/virginia-election/2026/02/live-results-special-election-for-2-seats-in-virginia-general-assembly/",
+            "date": "2026-02-26",
+            "summary": "Democrats won both special elections held February 25, 2026 to fill vacancies in the Virginia General Assembly."
+          }
+        ],
+        "VT": [
+          {
+            "title": "'On our own': Vermont is getting less help from the feds to keep elections secure",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2026/02/12/on-our-own-vermont-is-getting-less-help-from-the-feds-to-keep-elections-secure/",
+            "date": "2026-02-12",
+            "summary": "Federal election security grants dropped significantly for Vermont, prompting the Secretary of State to request $650,000 in state funds to compensate."
+          },
+          {
+            "title": "Vermont officials push to bolster voter turnout ahead of 2026 elections",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2025/11/03/vermont-officials-push-to-bolster-voter-turnout-ahead-of-2026-elections/",
+            "date": "2025-11-03",
+            "summary": "Vermont's Secretary of State launched a Voting Accessibility Task Force to identify and remove barriers to voting for people experiencing homelessness, people with disabilities, and others."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Foes called it the 'initiative killer.' Now it's dead in the WA Legislature",
+            "source": "Washington State Standard",
+            "url": "https://washingtonstatestandard.com/2026/02/17/foes-called-it-the-initiative-killer-now-its-dead-in-the-wa-legislature/",
+            "date": "2026-02-17",
+            "summary": "SB 5973, which would have banned per-signature payments for initiative petitioners, died in the Senate."
+          },
+          {
+            "title": "Election access shouldn't be decided along party lines — WA Secretary of State statement after Trump State of the Union",
+            "source": "Washington Secretary of State",
+            "url": "https://www.sos.wa.gov/about-office/news/2026/election-access-shouldnt-be-decided-along-party-lines-secretary-steve-hobbs-statement-after-trumps",
+            "date": "2026-02-16",
+            "summary": "Washington Secretary of State Steve Hobbs defended the state's mail ballot system and pushed back against federal proposals that would impose in-person voting requirements."
+          },
+          {
+            "title": "WA Senate OKs bill to better define 'election'",
+            "source": "Washington State Standard",
+            "url": "https://washingtonstatestandard.com/briefs/wa-senate-oks-bill-to-better-define-election/",
+            "date": "2026-02-15",
+            "summary": "The Washington Senate passed SB 6084 by a 47-1 vote, clarifying the statutory definitions of 'election' and 'same election.'"
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin voters to decide on a constitutional amendment related to the governor's partial veto powers in 2026",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/02/23/wisconsin-voters-to-decide-on-a-constitutional-amendment-related-to-the-governors-partial-veto-powers-in-2026/",
+            "date": "2026-02-23",
+            "summary": "Wisconsin's legislature passed SJR 116 sending to voters a November 2026 constitutional amendment that would prohibit the governor from using the partial veto power to create or increase any tax or fee."
+          },
+          {
+            "title": "Steil introduces voting bill that draws condemnation from voting rights advocates",
+            "source": "Wisconsin Examiner",
+            "url": "https://wisconsinexaminer.com/2026/01/31/steil-introduces-voting-bill-that-draws-condemnation-from-voting-rights-advocates/",
+            "date": "2026-01-31",
+            "summary": "Rep. Bryan Steil introduced the federal MEGA Act, which would require states to cross-check voter rolls against DHS citizenship databases monthly."
+          },
+          {
+            "title": "Wisconsin to See Election Regulation Changes in 2026",
+            "source": "MacIver Institute",
+            "url": "https://www.maciverinstitute.com/news/wisconsin-to-see-election-regulation-changes-in-2026",
+            "date": "2025-12-28",
+            "summary": "Three new election rules took effect in Wisconsin for 2026, along with the newly constitutionalized voter photo ID requirement from the April 2025 referendum."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Despite Democrats' Objections, House Passes Another Election Bill",
+            "source": "West Virginia Public Broadcasting",
+            "url": "https://wvpublic.org/story/government/despite-democrats-objections-house-passes-another-election-bill/",
+            "date": "2026-02-23",
+            "summary": "The West Virginia House passed HB 5203 by 84-10, forbidding any municipality from issuing identification cards for the purpose of voting in municipal elections."
+          },
+          {
+            "title": "House Completes Action On 5 Bills, Passes More Election Bills",
+            "source": "West Virginia Public Broadcasting",
+            "url": "https://wvpublic.org/story/government/house-completes-action-on-5-bills-passes-more-election-bills/",
+            "date": "2026-02-20",
+            "summary": "The West Virginia House passed HB 4710 requiring party-switching candidates to change registration 180 days before an election."
+          },
+          {
+            "title": "W.Va. Elections Bill Changes Early Voting Dates, Updates Process For Disputed Races",
+            "source": "West Virginia Public Broadcasting",
+            "url": "https://wvpublic.org/story/government/w-va-elections-bill-changes-early-voting-dates-updates-process-for-disputed-races/",
+            "date": "2026-02-10",
+            "summary": "A West Virginia elections bill would adjust early voting dates for the May primary and update procedures for disputed election results."
+          },
+          {
+            "title": "It's an election year in West Virginia; Here are the dates you need to know",
+            "source": "WV Gazette-Mail",
+            "url": "https://www.wvgazettemail.com/news/kanawha_valley/its-an-election-year-in-west-virginia-here-are-the-dates-you-need-to-vote/article_4c4d2871-2efc-4af0-a740-a5863a5e1928.html",
+            "date": "2026-01-15",
+            "summary": "West Virginia gears up for its first major election cycle since 2022, with the May 12 primary featuring open Democratic primaries but closed Republican primaries."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Another Election Reform Bill Dies As Lawmaker Rejects National 'Populism'",
+            "source": "Cowboy State Daily",
+            "url": "https://cowboystatedaily.com/2026/02/26/another-election-reform-bill-dies-as-lawmaker-rejects-national-populism/",
+            "date": "2026-02-26",
+            "summary": "An additional Wyoming election reform bill failed in the Senate as a Republican senator rejected nationally driven election-reform 'populism.'"
+          },
+          {
+            "title": "Landscape shifts for election bills in the Wyoming Legislature",
+            "source": "Wyoming Public Media",
+            "url": "https://www.wyomingpublicmedia.org/politics-government/2026-02-11/tale-of-two-committees-one-slate-of-election-bills-lives-while-another-dies",
+            "date": "2026-02-11",
+            "summary": "While the Joint Corporations Committee's sweeping election reform bills died, three narrower bills advanced: HB 84, HB 85, and HB 86."
+          },
+          {
+            "title": "Six Of Seven Election Reform Bills Killed On Monday, Freedom Caucus Not Happy",
+            "source": "Cowboy State Daily",
+            "url": "https://cowboystatedaily.com/2026/02/09/election-reform-a-top-freedom-caucus-priority-the-house-just-killed-a-lot-of-it/",
+            "date": "2026-02-09",
+            "summary": "Six of seven election overhaul bills backed by the Wyoming Freedom Caucus and Secretary of State Chuck Gray failed introduction on the first day of the 2026 budget session."
+          },
+          {
+            "title": "Gray hopes to revisit what failed in 2025, presents new slate of election reform bills",
+            "source": "WyoFile",
+            "url": "https://wyofile.com/gray-hopes-to-revisit-what-failed-in-2025-presents-new-slate-of-election-reform-bills/",
+            "date": "2025-11-20",
+            "summary": "Wyoming Secretary of State Chuck Gray presented a new round of election reform proposals for the 2026 budget session."
+          }
+        ]
+      }
     }
   ]
 }
