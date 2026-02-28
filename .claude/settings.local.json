@@ -50,7 +50,10 @@
       "WebFetch(domain:www.idea.int)",
       "Bash(head:*)",
       "Bash(ls:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(cp:*)",
+      "Bash(file:*)",
+      "Bash(xattr:*)"
     ]
   }
 }
