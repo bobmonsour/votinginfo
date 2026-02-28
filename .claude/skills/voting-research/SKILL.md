@@ -1,6 +1,6 @@
 ---
 name: voting-research
-description: Deep dive research across all 51 state entries to verify voting data accuracy against authoritative sources
+description: Deep dive research across all 51 state entries to verify voting data accuracy against authoritative sources and gather recent election-related news items for each state and Washington DC.
 disable-model-invocation: true
 allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *)
 ---
@@ -87,7 +87,9 @@ If changes are approved:
 
 ## News capture (Both modes)
 
-For each state, search for up to 5 recent election-related news items from reputable sources:
+For each state, search for up to 5 recent election-related news items from reputable sources, including but not limited to those listed below.
+
+Search for election-related news items for each stateshould return only items that are newer than the most recent news item already captured in previous runs for that state.
 
 - Brennan Center for Justice
 - NCSL (ncsl.org)
@@ -95,6 +97,7 @@ For each state, search for up to 5 recent election-related news items from reput
 - AP News, Reuters
 - Ballotpedia
 - Stateline (Pew)
+
 
 ### What to capture per news item
 
