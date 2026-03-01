@@ -80,7 +80,7 @@ Do NOT report a discrepancy based on an assumed or remembered value. If using pa
 
 ### Research report
 
-Save the report as a markdown file in the `docs/` directory named `periodic-research-MM-DD-YYYY.md`, where MM-DD-YYYY is today's date. For example: `docs/periodic-research-02-25-2026.md`.
+Save the report as a markdown file in the `docs/` directory named `periodic-research-MM-DD-YYYY-HHMM.md`, where MM-DD-YYYY is today's date and HHMM is the current time in 24-hour format. For example: `docs/periodic-research-02-25-2026-1430.md`. This prevents collisions when multiple runs happen on the same day.
 
 The report should include:
 
