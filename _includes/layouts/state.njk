@@ -201,7 +201,7 @@ layout: layouts/base.njk
 
 	{% if state.changes.length %}
 	<section class="change-log">
-		<h2>Change Log</h2>
+		<h2>Change Log <a href="#" class="expand-all-link" aria-label="Expand all change log dates">expand all</a></h2>
 		{% set changesByDate = state.changes | groupByDate %}
 		{%- for group in changesByDate %}
 		<details class="date-group"{% if loop.first %} open{% endif %}>
@@ -216,6 +216,19 @@ layout: layouts/base.njk
 			</ul>
 		</details>
 		{%- endfor %}
+		<script>
+		(function() {
+			var link = document.querySelector('.change-log .expand-all-link');
+			if (!link) return;
+			link.addEventListener('click', function(e) {
+				e.preventDefault();
+				var details = document.querySelectorAll('.change-log .date-group');
+				var allOpen = Array.prototype.every.call(details, function(d) { return d.open; });
+				details.forEach(function(d) { d.open = !allOpen; });
+				link.textContent = allOpen ? 'expand all' : 'collapse all';
+			});
+		})();
+		</script>
 	</section>
 	{% endif %}
 </article>

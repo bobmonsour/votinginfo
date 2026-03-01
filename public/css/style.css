@@ -955,6 +955,11 @@ h3 {
 .change-log h2 {
 	margin-bottom: 0.75rem;
 }
+.expand-all-link {
+	font-size: 0.75rem;
+	font-weight: normal;
+	margin-left: 0.5rem;
+}
 
 .change-list {
 	list-style: none;
