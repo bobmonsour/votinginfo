@@ -418,7 +418,7 @@
     "sameDayRegistration": true,
     "earlyVoting": {
       "available": true,
-      "details": "Early voting available starting 14 days before election day."
+      "details": "Early voting for general elections starts 15 days before election day and ends 2 days before (14-day period). For primaries, starts 8 days before and ends 2 days before."
     },
     "mailInVoting": {
       "available": true,
@@ -431,7 +431,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://portal.ct.gov/sots/election-services",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-03-01",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -459,6 +459,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-01",
+        "field": "Early Voting",
+        "description": "Corrected early voting start from '14 days before' to '15 days before' per CT SOTS; 14 days is the window length, not the start offset"
       }
     ],
     "recentLegislation": [
@@ -757,7 +762,7 @@
       "toRegister": "ID driver's license or state ID number, or last 4 of SSN. All in-person registrations (including Election Day) require both a photo ID AND proof of residency. Accepted photo IDs: ID DL, state ID, U.S. passport, tribal photo ID, student photo ID from an Idaho school, concealed weapons license, or military ID. Free state ID cards available from the DMV.",
       "toVote": "Photo ID required or signed affidavit with personal information"
     },
-    "registrationDeadline": "25 days before election (same-day registration available on election day)",
+    "registrationDeadline": "25 days before election by mail; 11 days before online (same-day registration available on election day)",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -779,7 +784,7 @@
       "Photo ID and proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.idaho.gov/elections/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-03-01",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -807,6 +812,11 @@
         "date": "2026-02-28",
         "field": "Mail-In Voting",
         "description": "Added 11-day absentee ballot request deadline and in-person request option"
+      },
+      {
+        "date": "2026-03-01",
+        "field": "Registration Deadline",
+        "description": "Added online registration deadline (11 days before) distinct from mail deadline (25 days) per VoteIdaho.gov"
       }
     ],
     "recentLegislation": [],
@@ -820,7 +830,7 @@
       "toRegister": "IL driver's license or state ID number, or last 4 of SSN. If neither, check the box on the form. For grace period and Election Day registration, two forms of ID required (at least one showing current address). Otherwise, must show ID when first voting in a federal election.",
       "toVote": "ID required for same-day registration; not required for regular voters"
     },
-    "registrationDeadline": "28 days before election (grace period registration and same-day registration available)",
+    "registrationDeadline": "28 days before election by mail; 16 days before online (grace period registration and same-day registration available)",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -841,7 +851,7 @@
       "Two forms of ID for same-day registration (one must show current address)"
     ],
     "officialUrl": "https://www.elections.il.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-01",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -864,6 +874,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-01",
+        "field": "Registration Deadline",
+        "description": "Added online registration deadline (16 days before) distinct from mail deadline (28 days) per IL State Board of Elections"
       }
     ],
     "recentLegislation": [],
@@ -1948,7 +1963,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "In-person early voting available for 9 days before election day."
+      "details": "In-person early voting begins 10 days before election day for general elections (7 days for primaries)."
     },
     "mailInVoting": {
       "available": true,
@@ -1960,7 +1975,7 @@
       "Driver's license number or last 4 of SSN"
     ],
     "officialUrl": "https://nj.gov/state/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-01",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1978,6 +1993,11 @@
         "date": "2026-02-26",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-01",
+        "field": "Early Voting",
+        "description": "Clarified early voting begins 10 days before general elections (7 days for primaries) per NJ Division of Elections"
       }
     ],
     "recentLegislation": [],
@@ -2169,7 +2189,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "In-person early voting available at county auditor offices at least 15 days before election."
+      "details": "In-person early voting available in counties that choose to offer it (not all counties participate), at county auditor offices at least 15 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -2181,7 +2201,7 @@
       "Valid ID with name, date of birth, and residential address"
     ],
     "officialUrl": "https://vip.sos.nd.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-01",
     "notes": "North Dakota is the only US state with no voter registration requirement.",
     "confidenceLevel": "High",
     "sources": [
@@ -2204,6 +2224,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-01",
+        "field": "Early Voting",
+        "description": "Clarified early voting is county-optional (not all counties participate) per ND SOS"
       }
     ],
     "recentLegislation": [],
@@ -2533,7 +2558,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "In-person absentee voting available at county election offices two weeks before election."
+      "details": "In-person absentee voting begins 15 days before election day and ends the Friday before election day, at county election offices and designated early voting centers."
     },
     "mailInVoting": {
       "available": true,
@@ -2546,7 +2571,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://scvotes.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-01",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2569,6 +2594,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-01",
+        "field": "Early Voting",
+        "description": "Clarified early voting period: begins 15 days before election day, ends the Friday before election day, per SC Votes official site"
       }
     ],
     "recentLegislation": [],
@@ -2892,7 +2922,7 @@
       "toRegister": "Full 9-digit Social Security Number required (mandatory; application denied without it). VA driver's license number also requested but SSN is the primary identifier. Virginia is one of five states requiring the full SSN, mandated by the state constitution.",
       "toVote": "Acceptable ID required (photo or non-photo); free voter ID available"
     },
-    "registrationDeadline": "22 days before election (same-day provisional registration available through election day)",
+    "registrationDeadline": "11 days before election (same-day provisional registration available through election day)",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -2914,7 +2944,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.elections.virginia.gov/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-03-01",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2942,6 +2972,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-01",
+        "field": "Registration Deadline",
+        "description": "Corrected registration deadline from 22 days to 11 days per 2025 Virginia law and VA Dept. of Elections official site"
       }
     ],
     "recentLegislation": [],
