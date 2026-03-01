@@ -150,7 +150,7 @@
       "Valid photo ID or two non-photo IDs"
     ],
     "officialUrl": "https://azsos.gov/elections",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -173,10 +173,32 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Pending Legislation",
+        "description": "Added 9th Circuit ruling on HB 2492 and HB 2038 citizenship data error fix"
       }
     ],
     "recentLegislation": [],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "HB 2492 (9th Circuit ruling)",
+        "year": 2025,
+        "description": "9th Circuit unanimously found that Arizona's 2022 documentary proof of citizenship laws (HB 2492/HB 2243) were enacted with discriminatory intent; blocked requirements for proof of citizenship to vote for president and to vote by mail",
+        "status": "Blocked by 9th Circuit (Feb 2025); may be appealed",
+        "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "HB 2038",
+        "year": 2025,
+        "description": "Emergency measure establishing timeline for county recorders to verify citizenship documentation for ~218,000 voters affected by MVD/AVID database coding error; unverified registrations canceled before 2026 general election",
+        "status": "Enacted 2025; expires Jan 1, 2027",
+        "dateAdded": "2026-02-28",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Arkansas",
@@ -252,7 +274,7 @@
     "sameDayRegistration": true,
     "earlyVoting": {
       "available": true,
-      "details": "Vote centers open up to 29 days before election day, depending on county."
+      "details": "In Voter's Choice Act counties, mail ballots are sent 29 days before election day; vote centers open 10 days before with additional locations 4 days before. Non-VCA counties use traditional polling places on Election Day."
     },
     "mailInVoting": {
       "available": true,
@@ -265,7 +287,7 @@
       "Last 4 of SSN if no DL"
     ],
     "officialUrl": "https://www.sos.ca.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "California automatically registers eligible citizens through the DMV (motor voter).",
     "confidenceLevel": "High",
     "sources": [
@@ -288,6 +310,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Early Voting",
+        "description": "Clarified distinction between mail ballot mailing (29 days) and vote center opening (10 days) in VCA counties"
       }
     ],
     "recentLegislation": [
@@ -332,7 +359,7 @@
       "Last 4 of SSN if no CO ID"
     ],
     "officialUrl": "https://www.coloradosos.gov/pubs/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "Colorado is a vote-by-mail state; all voters receive ballots by mail.",
     "confidenceLevel": "High",
     "sources": [
@@ -355,9 +382,23 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Recent Legislation",
+        "description": "Added SB 1 (2025) Colorado Voting Rights Act tribal ID expansion"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "SB 1 (Colorado Voting Rights Act)",
+        "year": 2025,
+        "description": "Expands tribal ID acceptance for voter registration; federal Bureau of Indian Affairs, Indian Health Service, or other federal agency tribal membership cards with Colorado address accepted as valid ID; requires ballot drop boxes on federal reservations upon tribal council request",
+        "status": "Signed May 12, 2025; effective Jan 1, 2026",
+        "dateAdded": "2026-02-28",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -578,7 +619,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "Mandatory early voting period of at least 17 days before election day."
+      "details": "Advance voting begins on the fourth Monday before the election (~22 calendar days prior) and ends the Friday before Election Day, with mandatory Saturday voting on two weekends."
     },
     "mailInVoting": {
       "available": true,
@@ -590,7 +631,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.ga.gov/elections",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -613,6 +654,16 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Early Voting",
+        "description": "Clarified early voting starts fourth Monday before election (~22 days) with mandatory Saturday voting"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Recent Legislation",
+        "description": "Added HB 296 (2025) digital DL exclusion from voting"
       }
     ],
     "recentLegislation": [
@@ -622,6 +673,14 @@
         "description": "Changes to ballot counting deadlines, QR code bans, and voter challenge provisions",
         "status": "Enacted May 2024",
         "dateAdded": "2026-02-25",
+        "active": true
+      },
+      {
+        "bill": "HB 296",
+        "year": 2025,
+        "description": "Digital driver's license bill that allows digital IDs for traffic stops but explicitly excludes voting; physical ID remains required at polling places",
+        "status": "Effective July 1, 2025",
+        "dateAdded": "2026-02-28",
         "active": true
       }
     ],
@@ -633,7 +692,7 @@
     "eligibilityAge": "18 (may pre-register at 16)",
     "idRequirements": {
       "toRegister": "HI driver's license or state ID number, or last 4 of SSN. Online registration requires a Hawaii DL/state ID. Without any of these, must complete a paper form with a copy of a current photo ID, utility bill, bank statement, or government document with name and address.",
-      "toVote": "ID required for in-person voting; mail ballots verified by signature"
+      "toVote": "No ID required. Voters may verify identity by stating name, address, and date of birth. If information cannot be matched, voter signs an affirmation and casts a provisional ballot. Mail ballots verified by signature."
     },
     "registrationDeadline": "Same-day registration available through election day (paper registration deadline 10 days before)",
     "registrationMethods": {
@@ -657,7 +716,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://elections.hawaii.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "Hawaii is a vote-by-mail state.",
     "confidenceLevel": "High",
     "sources": [
@@ -680,6 +739,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Voter ID",
+        "description": "Corrected voter ID requirement: ID not required since 2019 repeal; voters verify by stating name/address/DOB"
       }
     ],
     "recentLegislation": [],
@@ -706,7 +770,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting available for all registered voters.",
+      "details": "No-excuse absentee voting available for all registered voters. Ballot requests must be received by 5:00 PM at least 11 days before Election Day; in-person requests accepted through the Friday before Election Day.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored automatically upon completion of sentence, including probation and parole.",
@@ -715,7 +779,7 @@
       "Photo ID and proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.idaho.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -738,6 +802,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Mail-In Voting",
+        "description": "Added 11-day absentee ballot request deadline and in-person request option"
       }
     ],
     "recentLegislation": [],
@@ -821,7 +890,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "Absentee ballot available; excuse required.",
+      "details": "Absentee ballot available; excuse required. Applications must be received at least 12 days before Election Day. A photocopy of photo ID or a voter identification number (DL, state ID, unique voter ID, or last 4 of SSN) must accompany the application.",
       "noExcuseRequired": false
     },
     "felonyVotingRules": "Rights restored automatically upon release from incarceration.",
@@ -830,7 +899,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.in.gov/sos/elections/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-02-28",
     "notes": "Indiana has one of the strictest photo ID requirements in the country.",
     "confidenceLevel": "High",
     "sources": [
@@ -858,6 +927,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Mail-In Voting",
+        "description": "Added 12-day application deadline and photo ID copy requirement for absentee applications"
       }
     ],
     "recentLegislation": [
@@ -902,7 +976,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.iowa.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -925,10 +999,41 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Recent Legislation",
+        "description": "Added HF 928 (recount thresholds), HF 954 (citizenship verification/RCV ban), and SF 2203 (pending SAVE database verification)"
       }
     ],
-    "recentLegislation": [],
-    "pendingLegislation": []
+    "recentLegislation": [
+      {
+        "bill": "HF 928",
+        "year": 2025,
+        "description": "Sets new thresholds for requesting election recounts (1% or 50 votes for state/local; 0.15% for statewide/federal) and moves recount request deadline earlier",
+        "status": "Signed June 2, 2025",
+        "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "HF 954",
+        "year": 2025,
+        "description": "Grants Secretary of State authority to contract with federal/state agencies for voter roll citizenship verification; allows citizenship challenges at polls; bans ranked-choice voting statewide; increases threshold for political party status",
+        "status": "Signed June 2, 2025",
+        "dateAdded": "2026-02-28",
+        "active": true
+      }
+    ],
+    "pendingLegislation": [
+      {
+        "bill": "SF 2203",
+        "year": 2026,
+        "description": "Requires Secretary of State to verify citizenship of all registered voters via federal SAVE database; county auditors mark unverified voters as 'unconfirmed' and cancel registration if proof not provided within 90 days; mandates monthly verification of new registrants",
+        "status": "Passed Senate 34-13 (Feb 2026); heading to House",
+        "dateAdded": "2026-02-28",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Kansas",
@@ -959,7 +1064,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.ks.gov/elections/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -982,6 +1087,11 @@
         "date": "2026-02-26",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Recent Legislation",
+        "description": "Added SB 4 (2025) eliminating mail ballot grace period"
       }
     ],
     "recentLegislation": [
@@ -991,6 +1101,14 @@
         "description": "Documentary proof of citizenship requirement for voter registration invalidated by courts",
         "status": "Court-struck; 2026 ballot measure proposed to reinstate",
         "dateAdded": "2026-02-25",
+        "active": true
+      },
+      {
+        "bill": "SB 4",
+        "year": 2025,
+        "description": "Eliminates 3-day mail ballot grace period; all mail ballots must be received by 7 PM on Election Day",
+        "status": "Enacted (veto overridden); under court challenge",
+        "dateAdded": "2026-02-28",
         "active": true
       }
     ],
@@ -1265,7 +1383,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.sec.state.ma.us/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1288,10 +1406,24 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Pending Legislation",
+        "description": "Added H.834/S.505 proposed same-day voter registration"
       }
     ],
     "recentLegislation": [],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "H.834 / S.505",
+        "year": 2025,
+        "description": "Proposes same-day voter registration, allowing voters to register in-person on Election Day or during early voting",
+        "status": "S.505 referred to Senate Committee on Ways and Means",
+        "dateAdded": "2026-02-28",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Michigan",
@@ -1746,7 +1878,7 @@
       "Proof of domicile"
     ],
     "officialUrl": "https://www.sos.nh.gov/elections",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1764,6 +1896,11 @@
         "date": "2026-02-26",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Recent Legislation",
+        "description": "Added SB 287 (absentee photo ID requirement) and SB 218 (absentee citizenship proof)"
       }
     ],
     "recentLegislation": [
@@ -1773,6 +1910,22 @@
         "description": "Requires proof of citizenship to register to vote",
         "status": "Enacted; federal trial concluded Feb 2026, ruling pending",
         "dateAdded": "2026-02-25",
+        "active": true
+      },
+      {
+        "bill": "SB 287",
+        "year": 2025,
+        "description": "Requires photo ID copy or notarized signature with absentee ballot applications; ballots mailed to non-checklist addresses require photo ID copy or notarized signature to clerk",
+        "status": "Signed Aug 1, 2025; effective Sept 30, 2025",
+        "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "SB 218",
+        "year": 2025,
+        "description": "Requires absentee voters to submit proof of citizenship, age, domicile, and identity (birth certificate, passport, or naturalization papers) when registering to vote",
+        "status": "Signed 2025",
+        "dateAdded": "2026-02-28",
         "active": true
       }
     ],
@@ -2073,7 +2226,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "In-person early voting begins 29 days before election day at county boards of elections."
+      "details": "In-person early voting begins 28 days before election day at county boards of elections."
     },
     "mailInVoting": {
       "available": true,
@@ -2086,7 +2239,7 @@
       "OH DL number or last 4 of SSN"
     ],
     "officialUrl": "https://www.ohiosos.gov/elections-voting/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2114,6 +2267,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Early Voting",
+        "description": "Corrected early voting start from 29 to 28 days before election per OH SOS 2025 calendar"
       }
     ],
     "recentLegislation": [
@@ -2145,7 +2303,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "In-person early voting available on Thursday and Friday before election day."
+      "details": "In-person early voting available Thursday and Friday before all elections (8 AM-6 PM). General, primary, and runoff elections also include Wednesday (8 AM-6 PM) and Saturday (8 AM-2 PM)."
     },
     "mailInVoting": {
       "available": true,
@@ -2157,7 +2315,7 @@
       "Voter ID card or government-issued photo ID"
     ],
     "officialUrl": "https://oklahoma.gov/elections.html",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-02-28",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2180,6 +2338,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-02-28",
+        "field": "Early Voting",
+        "description": "Added Wednesday and Saturday early voting for general, primary, and runoff elections"
       }
     ],
     "recentLegislation": [],

@@ -68,6 +68,16 @@ For each state, cross-reference against:
 4. Work through states in alphabetical order. Use parallel research agents where possible to speed up the process.
 5. Keep a running summary of all discrepancies found.
 
+### Cross-referencing requirement
+
+**CRITICAL:** Before reporting any discrepancy, the retrieved data from external sources MUST be compared against the actual current values in `_data/states.json`. Every discrepancy report must include:
+
+1. The **exact current value** copied from the states.json file (not paraphrased or recalled from memory)
+2. The **correct value** based on authoritative sources
+3. A clear explanation of how they differ
+
+Do NOT report a discrepancy based on an assumed or remembered value. If using parallel research agents, each agent must receive the relevant portion of the states.json data for the states it is responsible for, so it can compare directly. Phantom discrepancies (where the agent fabricates what the current data says) are unacceptable and waste review time.
+
 ### Research report
 
 Save the report as a markdown file in the `docs/` directory named `periodic-research-MM-DD-YYYY.md`, where MM-DD-YYYY is today's date. For example: `docs/periodic-research-02-25-2026.md`.
