@@ -598,6 +598,10 @@ h3 {
 		z-index: 100;
 	}
 
+	#recent-news {
+		scroll-margin-top: 5rem;
+	}
+
 	.card-grid {
 		grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
 	}
