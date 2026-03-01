@@ -18,7 +18,9 @@
       "Bash(file:*)",
       "Bash(xattr:*)",
       "Bash(git:*)",
-      "WebFetch"
+      "WebFetch",
+      "Bash(lsof:*)",
+      "Bash(npm start:*)"
     ]
   }
 }
