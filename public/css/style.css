@@ -874,11 +874,11 @@ h3 {
 }
 
 /* By-date accordion */
-#changes-by-date .date-group {
+.date-group {
 	margin-bottom: 1rem;
 }
 
-#changes-by-date .date-group summary {
+.date-group summary {
 	list-style: none;
 	cursor: pointer;
 	display: flex;
@@ -891,11 +891,11 @@ h3 {
 	user-select: none;
 }
 
-#changes-by-date .date-group summary::-webkit-details-marker {
+.date-group summary::-webkit-details-marker {
 	display: none;
 }
 
-#changes-by-date .date-group summary::before {
+.date-group summary::before {
 	content: "+";
 	font-size: 1.5rem;
 	font-weight: 700;
@@ -905,7 +905,7 @@ h3 {
 	flex-shrink: 0;
 }
 
-#changes-by-date .date-group[open] summary::before {
+.date-group[open] summary::before {
 	content: "\2212";
 }
 
@@ -949,6 +949,9 @@ h3 {
 }
 
 .state-detail > .change-log h2 {
+	font-size: 0.95rem;
+}
+.state-detail > .change-log .date-group summary {
 	font-size: 0.95rem;
 }
 
