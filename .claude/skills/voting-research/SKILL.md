@@ -161,6 +161,16 @@ Structure of a run entry:
 
 Each state key holds up to 5 news items per run.
 
+### Link verification
+
+After writing the new run to `_data/stateNews.json`, verify every news item that was just added:
+
+1. For each news item in the new run, use WebFetch to request the URL.
+2. Check that the URL is accessible (does not return a 404, paywall-only page, or redirect to a generic homepage).
+3. Check that the `title` stored in the JSON file matches the actual article headline on the page. Minor differences in punctuation or whitespace are acceptable, but the title must clearly refer to the same article. If the title does not match, update it to match the actual headline.
+4. If a URL is not accessible (dead link, 404, or redirects away from the article), remove that news item from the run entirely.
+5. Report a summary of verification results to the user: how many links checked, how many titles corrected, and how many items removed.
+
 ### Change log entries for news
 
 After writing news items to `stateNews.json`, for each state that received news items, add an entry to that state's `changes` array in `_data/states.json`:
