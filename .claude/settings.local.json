@@ -20,7 +20,9 @@
       "Bash(git:*)",
       "WebFetch",
       "Bash(lsof:*)",
-      "Bash(npm start:*)"
+      "Bash(npm start:*)",
+      "Bash(wc:*)",
+      "Bash(pandoc:*)"
     ]
   }
 }

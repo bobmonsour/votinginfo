@@ -4,6 +4,6 @@
 
 - Add per-state RSS feeds for the change log
 
-- Add per-state RSS feeds for new news items
+- Add per-state RSS feeds for new news items - DONE
 
 - Figure out how to automatically run the research skill weekly
