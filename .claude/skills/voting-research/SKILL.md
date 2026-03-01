@@ -47,15 +47,29 @@ Perform a comprehensive review of all 51 entries (50 states + DC) in `_data/stat
 - **recentLegislation** — recently enacted laws affecting voting
 - **pendingLegislation** — bills currently under consideration
 
-### Authoritative sources to check
+### Authoritative sources and priority tiers
 
-For each state, cross-reference against:
+Sources are organized into priority tiers that determine how discrepancies are evaluated:
 
-1. **The state's official election website** (the `officialUrl` in the data)
-2. **NCSL (ncsl.org)** — voter ID laws, registration policies, election procedures
-3. **Ballotpedia (ballotpedia.org)** — state election laws and legislative changes
-4. **Vote.org** — state-specific voter information
-5. **Recent news** — newly enacted or pending legislation
+**Tier 1 — Primary authority:**
+- The state's official election website (the `officialUrl` in the data)
+
+**Tier 2 — Strong secondary authority:**
+- Vote.org — state-specific voter information
+
+**Tier 3 — Supporting sources (equal weight among them):**
+- NCSL (ncsl.org) — voter ID laws, registration policies, election procedures
+- Ballotpedia (ballotpedia.org) — state election laws and legislative changes
+- Recent news — newly enacted or pending legislation
+
+### Source priority rules
+
+These rules govern when a discrepancy should be flagged:
+
+1. **Tier 1 alone is sufficient** — if the state's official election website contradicts the current data, flag the discrepancy. No corroboration needed.
+2. **Tier 2 alone is sufficient** — if Vote.org contradicts the current data, flag the discrepancy. No corroboration needed.
+3. **Tier 3 requires corroboration** — a single Tier 3 source is NOT sufficient on its own. At least two Tier 3 sources must agree on the discrepancy before flagging it.
+4. **Higher tier wins conflicts** — if Tier 1 and Tier 2 disagree, Tier 1 (the official state site) prevails. If Tier 3 sources contradict a Tier 1 or Tier 2 source, the higher-tier source wins.
 
 ### Research process
 
@@ -90,7 +104,8 @@ The report should include:
   - **State** and **field** affected
   - **Current value** in states.json
   - **Correct value** based on sources
-  - **Source URL** supporting the change
+  - **Source(s)** supporting the change — list each source with its **tier** (e.g., "State official site (Tier 1)", "Vote.org (Tier 2)", "NCSL + Ballotpedia (Tier 3, corroborated)")
+  - **Source URL(s)** for each supporting source
 - States where no changes were found (brief list)
 
 ### After research is complete
@@ -100,7 +115,7 @@ Present the full report of findings to the user and ask for confirmation before 
 If changes are approved:
 1. Update the affected fields in `_data/states.json`
 2. Update `lastVerified` to today's date for each changed state
-3. Add entries to the state's `changes` array with `date` (today, YYYY-MM-DD format), `field` (human-readable label), and `description` (what changed)
+3. Add entries to the state's `changes` array with `date` (today, YYYY-MM-DD format), `field` (human-readable label), and `description` (what changed, including the source used to determine the change — e.g., "Updated from 'No' to 'Yes' per state official site")
 4. Update `recentLegislation` and `pendingLegislation` as appropriate
 5. Update source URLs if any have changed
 
