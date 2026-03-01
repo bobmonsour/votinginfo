@@ -14,7 +14,7 @@ There are no tests or linting configured.
 
 ## Rules
 
-- **Never deploy automatically.** After making a fix or change to the site, inform the user that the fix has been applied. Do not run `npm run deploy` unless the user explicitly asks to deploy.
+- **Never deploy or offer to deploy.** After making a fix or change to the site, inform the user that the fix has been applied. Do not run `npm run deploy` unless the user explicitly asks to deploy. Never suggest deploying — do not say "commit and deploy" or similar. If suggesting a commit, suggest committing and pushing instead.
 
 ## Architecture
 
