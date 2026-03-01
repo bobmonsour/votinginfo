@@ -981,6 +981,14 @@ h3 {
 .state-detail > .change-log .date-group summary {
 	font-size: 0.95rem;
 }
+.state-detail > .change-log .change-list li {
+	grid-template-columns: 1fr;
+}
+@media (min-width: 640px) {
+	.state-detail > .change-log .change-list li {
+		grid-template-columns: auto 1fr;
+	}
+}
 
 .change-log h2 {
 	margin-bottom: 0.75rem;

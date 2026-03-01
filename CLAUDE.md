@@ -12,6 +12,10 @@ npm run deploy     # Build + deploy to Cloudflare Workers (wrangler deploy)
 
 There are no tests or linting configured.
 
+## Rules
+
+- **Never deploy automatically.** After making a fix or change to the site, inform the user that the fix has been applied. Do not run `npm run deploy` unless the user explicitly asks to deploy.
+
 ## Architecture
 
 This is a static site built with **Eleventy 3** (Nunjucks templates) that provides voter registration and voting requirements for all 50 US states + DC. It deploys to **Cloudflare Workers** via Wrangler.
