@@ -1,0 +1,43 @@
+---js
+{
+	pagination: {
+		data: "states",
+		size: 1,
+		alias: "state"
+	},
+	permalink: "/state-news/{{ state.abbreviation | lower }}/feed.xml",
+	eleventyExcludeFromCollections: true
+}
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>{{ state.state }} Voting News — USVoting.info</title>
+<link>https://usvoting.info/states/{{ state.state | slug }}/all-news/</link>
+<description>Recent voting and election news for {{ state.state }}.</description>
+<language>en-us</language>
+<atom:link href="https://usvoting.info/state-news/{{ state.abbreviation | lower }}/feed.xml" rel="self" type="application/rss+xml" />
+{%- set seen = [] %}
+{%- set items = [] %}
+{%- for run in stateNews.runs | reverse %}
+{%- set stateItems = run.states[state.abbreviation] if run.states[state.abbreviation] else [] %}
+{%- for item in stateItems %}
+{%- set key = item.url + "|" + item.title %}
+{%- if key not in seen %}
+{%- set seen = (seen.push(key), seen) %}
+{%- set items = (items.push(item), items) %}
+{%- endif %}
+{%- endfor %}
+{%- endfor %}
+{%- for item in items.slice(0, 20) %}
+<item>
+<title>{{ item.title | escape }}</title>
+<link>{{ item.url }}</link>
+<guid>{{ item.url }}</guid>
+<description>{{ item.summary | escape }}</description>
+<pubDate>{{ item.date | rssDate }}</pubDate>
+<source url="https://usvoting.info/state-news/{{ state.abbreviation | lower }}/feed.xml">{{ item.source | escape }}</source>
+</item>
+{%- endfor %}
+</channel>
+</rss>

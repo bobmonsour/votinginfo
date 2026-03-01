@@ -3,6 +3,10 @@ export default function (eleventyConfig) {
 
 	eleventyConfig.addFilter("lower", (str) => (str || "").toLowerCase());
 
+	eleventyConfig.addFilter("slug", (str) =>
+		(str || "").toLowerCase().replace(/\s+/g, "-")
+	);
+
 	eleventyConfig.addFilter("recentNews", (runs, abbr) => {
 		const seen = new Set();
 		const items = [];
@@ -26,6 +30,12 @@ export default function (eleventyConfig) {
 			map.get(c.date).push(c);
 		}
 		return Array.from(map, ([date, items]) => ({ date, items })).reverse();
+	});
+
+	eleventyConfig.addFilter("rssDate", (str) => {
+		const [y, m, d] = (str || "").split("-");
+		const date = new Date(Date.UTC(parseInt(y, 10), parseInt(m, 10) - 1, parseInt(d, 10)));
+		return date.toUTCString();
 	});
 
 	eleventyConfig.addFilter("formatDate", (str) => {

@@ -3,8 +3,8 @@ layout: layouts/base.njk
 ---
 <article class="state-detail">
 	<div class="state-detail-header">
-		<a href="/states/{{ state.abbreviation | lower }}/" class="back-btn" aria-label="Back to {{ state.state }} details">&larr; Back to {{ state.state }}</a>
-		<h1>All News &mdash; {{ state.state }}</h1>
+		<a href="/states/{{ state.state | slug }}/" class="back-btn" aria-label="Back to {{ state.state }} details">&larr; Back to {{ state.state }}</a>
+		<h1>All News &mdash; {{ state.state }} <a href="/state-news/{{ state.abbreviation | lower }}/feed.xml" class="rss-icon" title="RSS feed for {{ state.state }} news" aria-label="RSS feed"><img src="/img/rss-icon.svg" alt="RSS" width="28" height="28"></a></h1>
 	</div>
 
 	{% set allItems = [] %}

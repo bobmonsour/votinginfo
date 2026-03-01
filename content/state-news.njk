@@ -5,7 +5,7 @@
 		size: 1,
 		alias: "state"
 	},
-	permalink: "/states/{{ state.abbreviation | lower }}/all-news/",
+	permalink: "/states/{{ state.state | slug }}/all-news/",
 	layout: "layouts/state-news.njk",
 	eleventyComputed: {
 		title: (data) => `All News — ${data.state.state}`,

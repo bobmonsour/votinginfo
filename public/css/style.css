@@ -507,6 +507,10 @@ h3 {
 	color: var(--white);
 }
 
+.official-link + .official-link {
+	margin-top: 0.5rem;
+}
+
 /* === Main Content Sections === */
 .state-main section {
 	background: var(--white);
@@ -637,6 +641,12 @@ h3 {
 .about-content h1 {
 	font-size: 2rem;
 	margin: 0 0 1.5rem;
+}
+.heading-subtitle {
+	font-size: 1.1rem;
+	font-weight: 400;
+	color: var(--gray-500);
+	margin-left: 0.5rem;
 }
 
 .about-content section {
@@ -850,6 +860,18 @@ h3 {
 	color: var(--gray-700);
 }
 
+.rss-icon {
+	text-decoration: none;
+	margin-left: 0.3rem;
+	transition: opacity 0.2s;
+}
+.rss-icon:hover {
+	opacity: 0.5;
+}
+.rss-icon img {
+	vertical-align: 0.05em;
+}
+
 .all-news-link {
 	display: inline-block;
 	margin-top: 0.75rem;
@@ -917,6 +939,7 @@ h3 {
 .changes-controls {
 	display: flex;
 	gap: 0.5rem;
+	margin-top: 1rem;
 	margin-bottom: 1.5rem;
 }
 

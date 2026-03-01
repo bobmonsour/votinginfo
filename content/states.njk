@@ -5,7 +5,7 @@
 		size: 1,
 		alias: "state"
 	},
-	permalink: "/states/{{ state.abbreviation | lower }}/",
+	permalink: "/states/{{ state.state | slug }}/",
 	layout: "layouts/state.njk",
 	eleventyComputed: {
 		title: (data) => `${data.state.state} Voter Registration and Voting Requirements`,

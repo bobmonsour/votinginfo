@@ -6,7 +6,7 @@ description: "See a log of recent changes to the voting requirements data for ea
 
 <div class="about-content">
 	<a href="/" class="back-btn">&larr; Back to the States</a>
-	<h1>Change Log</h1>
+	<h1>Change Log <span class="heading-subtitle">Site feature changes can be found <a href="/about/#site-changes">here</a>.</span></h1>
 
 	{% set hasChanges = false %}
 	{%- for state in states %}
@@ -25,13 +25,13 @@ description: "See a log of recent changes to the voting requirements data for ea
 		{%- for state in states %}
 			{%- if state.changes.length %}
 			<section>
-				<h2><a href="/states/{{ state.abbreviation | lower }}/">{{ state.state }}</a></h2>
+				<h2><a href="/states/{{ state.state | slug }}/">{{ state.state }}</a></h2>
 				<ul class="change-list">
 					{%- for change in state.changes | reverse %}
-					<li data-date="{{ change.date }}" data-state="{{ state.state }}" data-abbr="{{ state.abbreviation | lower }}" data-field="{{ change.field }}" data-desc="{{ change.description }}">
+					<li data-date="{{ change.date }}" data-state="{{ state.state }}" data-abbr="{{ state.abbreviation | lower }}" data-slug="{{ state.state | slug }}" data-field="{{ change.field }}" data-desc="{{ change.description }}">
 						<time datetime="{{ change.date }}">{{ change.date | formatDate }}</time>
 						{% if change.field %}<code>{{ change.field }}</code>{% endif %}
-						<span>{{ change.description }}{% if change.field == "Recent News" %} (<a href="/states/{{ state.abbreviation | lower }}/#recent-news">view</a>){% endif %}</span>
+						<span>{{ change.description }}{% if change.field == "Recent News" %} (<a href="/states/{{ state.state | slug }}/#recent-news">view</a>){% endif %}</span>
 					</li>
 					{%- endfor %}
 				</ul>
@@ -63,7 +63,7 @@ description: "See a log of recent changes to the voting requirements data for ea
 				if (!dateMap[d]) dateMap[d] = [];
 				dateMap[d].push({
 					state: li.dataset.state,
-					abbr: li.dataset.abbr,
+					slug: li.dataset.slug,
 					field: li.dataset.field,
 					desc: li.dataset.desc
 				});
@@ -74,10 +74,10 @@ description: "See a log of recent changes to the voting requirements data for ea
 				html += '<details class="date-group"><summary>' + fmtDate(date) + '</summary><ul class="change-list">';
 				dateMap[date].forEach(function(entry) {
 					html += '<li>';
-					html += '<a href="/states/' + entry.abbr + '/" class="change-state-link">' + entry.state + '</a>';
+					html += '<a href="/states/' + entry.slug + '/" class="change-state-link">' + entry.state + '</a>';
 					if (entry.field) html += '<code>' + entry.field + '</code>';
 					var descHtml = entry.desc;
-				if (entry.field === 'Recent News') descHtml += ' (<a href="/states/' + entry.abbr + '/#recent-news">view</a>)';
+				if (entry.field === 'Recent News') descHtml += ' (<a href="/states/' + entry.slug + '/#recent-news">view</a>)';
 				html += '<span>' + descHtml + '</span>';
 					html += '</li>';
 				});

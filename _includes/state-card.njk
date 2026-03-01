@@ -6,7 +6,7 @@
 			{% else %}
 			<img class="state-flag" src="https://flagcdn.com/w40/us-{{ state.abbreviation | lower }}.png" alt="{{ state.state }} flag" loading="lazy" width="40" height="24">
 			{% endif %}
-			<a href="/states/{{ state.abbreviation | lower }}/">{{ state.state }}</a>
+			<a href="/states/{{ state.state | slug }}/">{{ state.state }}</a>
 			<span class="card-abbr">{{ state.abbreviation }}</span>
 		</h2>
 	</div>
@@ -32,6 +32,6 @@
 			<dt>Mail-In Voting</dt>
 			<dd>{{ state.mailInVoting.details }}</dd>
 		</dl>
-		<a href="/states/{{ state.abbreviation | lower }}/" class="card-full-link">Full details &rarr;</a>
+		<a href="/states/{{ state.state | slug }}/" class="card-full-link">Full details &rarr;</a>
 	</div>
 </div>

@@ -68,6 +68,7 @@ layout: layouts/base.njk
 				{% endif %}
 			</div>
 			<a href="{{ state.officialUrl }}" class="official-link" target="_blank" rel="noopener noreferrer">Official Election Website &rarr;</a>
+			<a href="https://www.vote.org/state/{{ state.state | slug }}/" class="official-link" target="_blank" rel="noopener noreferrer">Tools at Vote.org &rarr;</a>
 		</aside>
 
 		<div class="state-main">
@@ -137,7 +138,7 @@ layout: layouts/base.njk
 			{% set news = stateNews.runs | recentNews(state.abbreviation) %}
 			{% if news.length %}
 			<section class="recent-news" id="recent-news">
-				<h2>Recent News</h2>
+				<h2>Recent News <a href="/state-news/{{ state.abbreviation | lower }}/feed.xml" class="rss-icon" title="RSS feed for {{ state.state }} news" aria-label="RSS feed"><img src="/img/rss-icon.svg" alt="RSS" width="24" height="24"></a></h2>
 				<ul class="news-list">
 					{%- for item in news %}
 					<li>
@@ -147,7 +148,7 @@ layout: layouts/base.njk
 					</li>
 					{%- endfor %}
 				</ul>
-				<a href="/states/{{ state.abbreviation | lower }}/all-news/" class="back-btn">View all news &rarr;</a>
+				<a href="/states/{{ state.state | slug }}/all-news/" class="back-btn">View All News &rarr;</a>
 			</section>
 			{% endif %}
 
