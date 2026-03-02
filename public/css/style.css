@@ -1040,6 +1040,28 @@ h3 {
 	font-size: 0.95rem;
 }
 
+#changes-by-state .change-list li.same-date {
+	border-top: none;
+	padding-top: 0;
+}
+
+#changes-by-state .change-list li:has(+ li.same-date) {
+	border-bottom: none;
+	padding-bottom: 0;
+}
+
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
+
 /* === Info Popovers === */
 .info-btn {
 	background: none;

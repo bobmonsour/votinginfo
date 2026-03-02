@@ -20,15 +20,25 @@ layout: layouts/base.njk
 	{% endfor %}
 
 	{% if allItems.length %}
-	<ul class="news-list">
-		{%- for item in allItems | sort(true, false, "date") %}
-		<li>
-			<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
-			<span class="news-meta">{{ item.source }} · {{ item.date | formatDate }}</span>
-			<p>{{ item.summary }}</p>
-		</li>
+	<div class="state-main">
+		{% set sortedItems = allItems | sort(true, false, "date") %}
+		{% set currentMonth = "" %}
+		{%- for item in sortedItems %}
+			{% set itemMonth = item.date | monthLabel %}
+			{% if itemMonth != currentMonth %}
+				{% set currentMonth = itemMonth %}
+				{% if not loop.first %}</ul>{% endif %}
+				<h2>{{ currentMonth }}</h2>
+				<ul class="news-list">
+			{% endif %}
+			<li>
+				<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+				<span class="news-meta">{{ item.source }} · {{ item.date | formatDate }}</span>
+				<p>{{ item.summary }}</p>
+			</li>
 		{%- endfor %}
-	</ul>
+		</ul>
+	</div>
 	{% else %}
 	<p>No news items have been captured for {{ state.state }} yet.</p>
 	{% endif %}

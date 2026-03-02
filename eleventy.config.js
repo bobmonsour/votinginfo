@@ -23,6 +23,21 @@ export default function (eleventyConfig) {
 		return items.slice(0, 4);
 	});
 
+	eleventyConfig.addFilter("allNewsCount", (runs, abbr) => {
+		const seen = new Set();
+		let count = 0;
+		for (const run of runs || []) {
+			for (const item of (run.states && run.states[abbr]) || []) {
+				const key = (item.url || "") + "|" + (item.title || "");
+				if (!seen.has(key)) {
+					seen.add(key);
+					count++;
+				}
+			}
+		}
+		return count;
+	});
+
 	eleventyConfig.addFilter("groupByDate", (changes) => {
 		const map = new Map();
 		for (const c of changes) {
@@ -36,6 +51,12 @@ export default function (eleventyConfig) {
 		const [y, m, d] = (str || "").split("-");
 		const date = new Date(Date.UTC(parseInt(y, 10), parseInt(m, 10) - 1, parseInt(d, 10)));
 		return date.toUTCString();
+	});
+
+	eleventyConfig.addFilter("monthLabel", (str) => {
+		const [y, m] = (str || "").split("-");
+		const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+		return months[parseInt(m, 10) - 1] + " " + y;
 	});
 
 	eleventyConfig.addFilter("formatDate", (str) => {
