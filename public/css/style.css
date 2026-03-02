@@ -652,7 +652,7 @@ h3 {
 }
 
 .about-content section {
-	background: var(--white);
+	background: var(--gray-100);
 	border-radius: var(--radius);
 	box-shadow: var(--shadow-sm);
 	padding: 1.5rem 1.5rem 0.25rem;
@@ -828,6 +828,10 @@ h3 {
 }
 
 /* === Recent News === */
+.state-detail > .state-main {
+	max-width: 70ch;
+}
+
 .news-list {
 	list-style: none;
 	padding: 0;
