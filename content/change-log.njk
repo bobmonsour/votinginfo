@@ -6,7 +6,7 @@ description: "See a log of recent changes to the voting requirements data for ea
 
 <div class="about-content">
 	<a href="/" class="back-btn">&larr; Back to the States</a>
-	<h1>Change Log <span class="heading-subtitle">Site feature changes can be found <a href="/about/#site-changes">here</a>.</span></h1>
+	<h1>Change Log <span class="heading-subtitle"><a href="#site-changes">Site feature changes</a></span></h1>
 
 	{% set hasChanges = false %}
 	{%- for state in states %}
@@ -120,4 +120,14 @@ description: "See a log of recent changes to the voting requirements data for ea
 			<p>No changes have been recorded yet. As state data is researched and updated, changes will be logged here.</p>
 		</section>
 	{% endif %}
+
+	<section id="site-changes">
+		<h2>Site Feature Changes</h2>
+		<p><strong>February 28, 2026</strong></p>
+		<ul>
+			<li>Added RSS feeds for each state's news items</li>
+			<li>Updated news items with new information</li>
+			<li>Added a link to <a href="https://www.vote.org/">Vote.org</a> tools on each state's page</li>
+		</ul>
+	</section>
 </div>

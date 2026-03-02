@@ -17,14 +17,36 @@
 	<a class="skip-link" href="#main-content">Skip to main content</a>
 	<header class="site-header">
 		<div class="container">
-			<a href="/" class="site-title">{{ metadata.title }}</a>
-			<nav aria-label="Main navigation">
+			<a href="/" class="site-title">
+				<span class="site-title-short">US Voting Info</span>
+				<span class="site-title-full">{{ metadata.title }}</span>
+			</a>
+			<button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Menu">
+				<span class="nav-toggle-icon"></span>
+			</button>
+			<nav id="main-nav" aria-label="Main navigation">
 				<a href="/">Home</a>
 				<a href="/all-news/">All News</a>
 				<a href="/about/">About</a>
 				<a href="/glossary/">Glossary</a>
 				<a href="/change-log/">Change Log</a>
 			</nav>
+			<script>
+			(function(){
+				var btn=document.querySelector('.nav-toggle');
+				var nav=document.getElementById('main-nav');
+				btn.addEventListener('click',function(){
+					var open=nav.classList.toggle('nav-open');
+					btn.setAttribute('aria-expanded',open);
+				});
+				nav.addEventListener('click',function(e){
+					if(e.target.tagName==='A'){
+						nav.classList.remove('nav-open');
+						btn.setAttribute('aria-expanded','false');
+					}
+				});
+			})();
+			</script>
 		</div>
 	</header>
 	<div class="site-banner" role="alert" id="site-banner">
