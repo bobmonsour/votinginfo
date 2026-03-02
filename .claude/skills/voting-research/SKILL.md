@@ -133,6 +133,17 @@ Search for election-related news items for each stateshould return only items th
 - Stateline (Pew)
 
 
+### Content filtering
+
+Only include straight news reporting. Exclude editorials, opinion columns, op-eds, analysis pieces, and advocacy content. Skip any article where:
+
+- The URL contains `/opinion/`, `/editorial/`, `/op-ed/`, `/commentary/`, or similar paths
+- The article is explicitly labeled as opinion, analysis, editorial, or commentary
+- The article is primarily arguing for or against a policy rather than reporting on events
+- The byline identifies it as a column or opinion piece
+
+When in doubt, prefer to exclude rather than include.
+
 ### What to capture per news item
 
 - **title** — article headline
