@@ -1,0 +1,56 @@
+---js
+{
+	permalink: "/all-news/feed.xml",
+	eleventyExcludeFromCollections: true
+}
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>All Voting News — USVoting.info</title>
+<link>https://usvoting.info/all-news/</link>
+<description>Recent voting and election news from all US states.</description>
+<language>en-us</language>
+<atom:link href="https://usvoting.info/all-news/feed.xml" rel="self" type="application/rss+xml" />
+{%- set seen = [] %}
+{%- set items = [] %}
+{%- for run in stateNews.runs | reverse %}
+{%- for abbr, stateItems in run.states %}
+{%- set stateObj = null %}
+{%- for s in states %}
+{%- if s.abbreviation == abbr %}
+{%- set stateObj = s %}
+{%- endif %}
+{%- endfor %}
+{%- if stateObj %}
+{%- for item in stateItems %}
+{%- set key = item.url + "|" + item.title %}
+{%- if key not in seen %}
+{%- set seen = (seen.push(key), seen) %}
+{%- set enriched = {
+	title: item.title,
+	url: item.url,
+	source: item.source,
+	date: item.date,
+	summary: item.summary,
+	stateName: stateObj.state
+} %}
+{%- set items = (items.push(enriched), items) %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
+{%- endfor %}
+{%- endfor %}
+{%- set sortedItems = items | sort(true, false, "date") %}
+{%- for item in sortedItems.slice(0, 20) %}
+<item>
+<title>{{ item.title | escape }}</title>
+<link>{{ item.url }}</link>
+<guid>{{ item.url }}</guid>
+<description>{{ item.summary | escape }}</description>
+<pubDate>{{ item.date | rssDate }}</pubDate>
+<source url="https://usvoting.info/all-news/feed.xml">{{ item.stateName | escape }} — {{ item.source | escape }}</source>
+</item>
+{%- endfor %}
+</channel>
+</rss>

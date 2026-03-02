@@ -1,0 +1,65 @@
+---
+layout: layouts/base.njk
+---
+<article class="state-detail">
+	<div class="state-detail-header">
+		<a href="/" class="back-btn" aria-label="Back to Home">&larr; Back to Home</a>
+		<h1>All News <a href="/all-news/feed.xml" class="rss-icon" title="RSS feed for all voting news" aria-label="RSS feed"><img src="/img/rss-icon.svg" alt="RSS" width="28" height="28"></a></h1>
+	</div>
+
+	{% set allItems = [] %}
+	{% set seen = [] %}
+	{% for run in stateNews.runs | reverse %}
+		{% for abbr, items in run.states %}
+			{% set stateObj = null %}
+			{% for s in states %}
+				{% if s.abbreviation == abbr %}
+					{% set stateObj = s %}
+				{% endif %}
+			{% endfor %}
+			{% if stateObj %}
+				{% for item in items %}
+					{% set key = item.url + "|" + item.title %}
+					{% if key not in seen %}
+						{% set seen = (seen.push(key), seen) %}
+						{% set enriched = {
+							title: item.title,
+							url: item.url,
+							source: item.source,
+							date: item.date,
+							summary: item.summary,
+							stateName: stateObj.state,
+							stateSlug: stateObj.state | slug,
+							stateAbbr: stateObj.abbreviation
+						} %}
+						{% set allItems = (allItems.push(enriched), allItems) %}
+					{% endif %}
+				{% endfor %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+	{% if allItems.length %}
+	<div class="state-main">
+		{% set sortedItems = allItems | sort(true, false, "date") %}
+		{% set currentMonth = "" %}
+		{%- for item in sortedItems %}
+			{% set itemMonth = item.date | monthLabel %}
+			{% if itemMonth != currentMonth %}
+				{% set currentMonth = itemMonth %}
+				{% if not loop.first %}</ul>{% endif %}
+				<h2>{{ currentMonth }}</h2>
+				<ul class="news-list">
+			{% endif %}
+			<li>
+				<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+				<span class="news-meta"><a href="/states/{{ item.stateSlug }}/all-news/">{{ item.stateName }}</a> · {{ item.source }} · {{ item.date | formatDate }}</span>
+				<p>{{ item.summary }}</p>
+			</li>
+		{%- endfor %}
+		</ul>
+	</div>
+	{% else %}
+	<p>No news items have been captured yet.</p>
+	{% endif %}
+</article>
