@@ -221,7 +221,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "Absentee ballot available; excuse required. No-excuse early in-person voting is available.",
+      "details": "Absentee ballot available; excuse required. No-excuse early in-person voting is available. Act 846 (2025) requires a witness (age 18+) for absentee voters who are 'unavoidably absent'; witness must sign, print name, and provide mailing address.",
       "noExcuseRequired": false
     },
     "felonyVotingRules": "Rights restored upon completion of sentence, including any probation or parole, and payment of all fines and fees.",
@@ -229,7 +229,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://www.sos.arkansas.gov/elections/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -252,9 +252,23 @@
         "date": "2026-02-26",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Recent Legislation",
+        "description": "Added Act 846 (2025) absentee witness requirement"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "Act 846",
+        "year": 2025,
+        "description": "Requires a witness (age 18+) for absentee voters who are 'unavoidably absent'; witness must sign, print name, and provide mailing address",
+        "status": "Enacted 2025",
+        "dateAdded": "2026-03-13",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -570,7 +584,7 @@
       "Valid photo and signature ID"
     ],
     "officialUrl": "https://dos.fl.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -593,6 +607,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Pending Legislation",
+        "description": "Updated HB 991 status: passed both chambers March 2026, awaiting Governor's signature; also removes student/retirement home IDs"
       }
     ],
     "recentLegislation": [],
@@ -600,8 +619,8 @@
       {
         "bill": "HB 991",
         "year": 2026,
-        "description": "Would require documentary proof of U.S. citizenship to register to vote",
-        "status": "Passed FL House Feb 25, 2026; pending Senate action",
+        "description": "Would require documentary proof of U.S. citizenship to register to vote. Also removes student IDs and retirement home IDs as acceptable voter identification.",
+        "status": "Passed both chambers (House 77-28, Senate 27-12) March 2026; awaiting Governor's signature; effective Jan 1, 2027 if signed",
         "dateAdded": "2026-02-25",
         "active": true
       }
@@ -914,7 +933,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.in.gov/sos/elections/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-03-13",
     "notes": "Indiana has one of the strictest photo ID requirements in the country.",
     "confidenceLevel": "High",
     "sources": [
@@ -947,6 +966,11 @@
         "date": "2026-02-28",
         "field": "Mail-In Voting",
         "description": "Added 12-day application deadline and photo ID copy requirement for absentee applications"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Recent Legislation",
+        "description": "Added SB 12 (2026) ranked-choice voting ban"
       }
     ],
     "recentLegislation": [
@@ -956,6 +980,14 @@
         "description": "Bans university-issued student IDs as voter identification",
         "status": "Enacted, federal litigation in progress",
         "dateAdded": "2026-02-25",
+        "active": true
+      },
+      {
+        "bill": "SB 12",
+        "year": 2026,
+        "description": "Bans ranked-choice voting statewide; Indiana becomes the 19th state to ban RCV",
+        "status": "Signed by Gov. Braun Feb 27, 2026; effective July 1, 2026",
+        "dateAdded": "2026-03-13",
         "active": true
       }
     ],
@@ -1385,7 +1417,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "Early voting available for general elections, beginning at least 17 days before election day."
+      "details": "Early voting available for primary and general elections. General election early voting begins at least 17 days before election day; primary early voting is available for approximately one week before election day."
     },
     "mailInVoting": {
       "available": true,
@@ -1398,7 +1430,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.sec.state.ma.us/elections/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1426,6 +1458,11 @@
         "date": "2026-02-28",
         "field": "Pending Legislation",
         "description": "Added H.834/S.505 proposed same-day voter registration"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Early Voting",
+        "description": "Updated early voting description to include primary elections per VOTES Act (2022)"
       }
     ],
     "recentLegislation": [],
@@ -1618,7 +1655,7 @@
     "abbreviation": "MO",
     "eligibilityAge": "18 (may register at 17 and a half)",
     "idRequirements": {
-      "toRegister": "MO driver's license or state ID number, or last 4 of SSN. If neither, leave blank; must show ID when voting. No online voter registration available (paper form only). Voters without photo ID may cast a provisional ballot counted if signature matches registration.",
+      "toRegister": "MO driver's license or state ID number, or last 4 of SSN. If neither, leave blank; must show ID when voting. Online voter registration available via the MO Votes Portal. Voters without photo ID may cast a provisional ballot counted if signature matches registration.",
       "toVote": "Photo ID required (Missouri or US government-issued)"
     },
     "registrationDeadline": "27 days before election",
@@ -1643,7 +1680,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.sos.mo.gov/elections",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1661,6 +1698,11 @@
         "date": "2026-02-26",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Registration Methods",
+        "description": "Corrected toRegister text to reflect that Missouri does offer online voter registration via MO Votes Portal per MO SOS official site"
       }
     ],
     "recentLegislation": [],
@@ -1696,7 +1738,7 @@
       "Proof of residency for late registration"
     ],
     "officialUrl": "https://sosmt.gov/elections/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1724,6 +1766,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Recent Legislation",
+        "description": "Added SB 490 (Election Day registration restrictions, under injunction) and SB 276 (tightened voter ID requirements)"
       }
     ],
     "recentLegislation": [
@@ -1733,6 +1780,22 @@
         "description": "Requires photo ID only for voting; non-photo ID no longer accepted",
         "status": "Effective May 2025",
         "dateAdded": "2026-02-25",
+        "active": true
+      },
+      {
+        "bill": "SB 490",
+        "year": 2025,
+        "description": "Restricts Election Day registration to 8 AM-noon (previously all day); eliminates Monday-before-election registration, moving late deadline to 5 PM Saturday before election day",
+        "status": "Signed May 5, 2025; preliminary injunction granted Feb 13, 2026; litigation ongoing",
+        "dateAdded": "2026-03-13",
+        "active": true
+      },
+      {
+        "bill": "SB 276",
+        "year": 2025,
+        "description": "Tightens voter ID requirements: ID must be current, valid, and readable; restricts which student IDs qualify; eliminated provisional ballot alternative verification",
+        "status": "Signed May 5, 2025",
+        "dateAdded": "2026-03-13",
         "active": true
       }
     ],
@@ -1893,7 +1956,7 @@
       "Proof of domicile"
     ],
     "officialUrl": "https://www.sos.nh.gov/elections",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1916,6 +1979,11 @@
         "date": "2026-02-28",
         "field": "Recent Legislation",
         "description": "Added SB 287 (absentee photo ID requirement) and SB 218 (absentee citizenship proof)"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Recent Legislation",
+        "description": "Updated SB 218 status to include effective date (Sept 30, 2025)"
       }
     ],
     "recentLegislation": [
@@ -1939,7 +2007,7 @@
         "bill": "SB 218",
         "year": 2025,
         "description": "Requires absentee voters to submit proof of citizenship, age, domicile, and identity (birth certificate, passport, or naturalization papers) when registering to vote",
-        "status": "Signed 2025",
+        "status": "Signed 2025; effective Sept 30, 2025",
         "dateAdded": "2026-02-28",
         "active": true
       }
@@ -2033,7 +2101,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.sos.nm.gov/voting-and-elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2056,9 +2124,23 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Recent Legislation",
+        "description": "Added SB 16 (2025) open primaries for independent voters"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "SB 16",
+        "year": 2025,
+        "description": "Open primaries: independent voters can now vote in party primaries",
+        "status": "Signed into law April 7, 2025; effective starting June 2, 2026 primary",
+        "dateAdded": "2026-03-13",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -2340,7 +2422,7 @@
       "Voter ID card or government-issued photo ID"
     ],
     "officialUrl": "https://oklahoma.gov/elections.html",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2368,9 +2450,23 @@
         "date": "2026-02-28",
         "field": "Early Voting",
         "description": "Added Wednesday and Saturday early voting for general, primary, and runoff elections"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Recent Legislation",
+        "description": "Added HB 1007 (2025) prohibiting student IDs as voter identification"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "HB 1007",
+        "year": 2025,
+        "description": "Prohibits student IDs from educational institutions as valid voter identification",
+        "status": "Effective November 1, 2025",
+        "dateAdded": "2026-03-13",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -2633,7 +2729,7 @@
       "Valid photo ID or signed affidavit"
     ],
     "officialUrl": "https://sdsos.gov/elections-voting/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-13",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2656,6 +2752,11 @@
         "date": "2026-02-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-13",
+        "field": "Pending Legislation",
+        "description": "Updated SB 175 status: passed both chambers, delivered to Governor March 10, 2026"
       }
     ],
     "recentLegislation": [],
@@ -2664,7 +2765,7 @@
         "bill": "SB 175",
         "year": 2026,
         "description": "Would require documentary proof of citizenship for voter registration",
-        "status": "Passed Senate 28-6 on Feb 20, 2026; pending House action",
+        "status": "Passed Senate 28-6 (Feb 20) and House 64-3 (Mar 4); delivered to Governor Mar 10, 2026",
         "dateAdded": "2026-02-25",
         "active": true
       }
