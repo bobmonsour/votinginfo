@@ -57,6 +57,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -125,6 +130,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -191,6 +201,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -277,6 +292,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -354,6 +374,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -429,6 +454,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -513,6 +543,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -590,6 +625,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -655,6 +695,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -736,6 +781,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -823,6 +873,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -836,7 +891,7 @@
       "toRegister": "ID driver's license or state ID number, or last 4 of SSN. All in-person registrations (including Election Day) require both a photo ID AND proof of residency. Accepted photo IDs: ID DL, state ID, U.S. passport, tribal photo ID, student photo ID from an Idaho school, concealed weapons license, or military ID. Free state ID cards available from the DMV.",
       "toVote": "Photo ID required or signed affidavit with personal information"
     },
-    "registrationDeadline": "25 days before election by mail; 11 days before online (same-day registration available on election day)",
+    "registrationDeadline": "11 days before election by mail and online (same-day registration available on election day)",
     "registrationMethods": {
       "online": true,
       "mail": true,
@@ -858,7 +913,7 @@
       "Photo ID and proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.idaho.gov/elections/",
-    "lastVerified": "2026-03-01",
+    "lastVerified": "2026-03-29",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -894,6 +949,16 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Registration Deadline",
+        "description": "Corrected mail registration deadline from 25 days to 11 days before election per VoteIdaho.gov and 5 corroborating sources"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -961,6 +1026,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1039,6 +1109,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1124,6 +1199,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1219,6 +1299,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1265,12 +1350,12 @@
       "details": "Absentee ballot available; excuse required.",
       "noExcuseRequired": false
     },
-    "felonyVotingRules": "Rights not automatically restored. Must apply for restoration from the governor after completion of sentence.",
+    "felonyVotingRules": "Non-violent felonies: rights automatically restored upon completion of sentence (per Governor Beshear's 2019 Executive Order). Violent crimes, treason, bribery, and sex offenses: must apply for restoration from the governor.",
     "documentationNeeded": [
       "Valid photo ID or voter affirmation form"
     ],
     "officialUrl": "https://elect.ky.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-29",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1296,6 +1381,16 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Felony Voting Rules",
+        "description": "Updated to reflect Governor Beshear's 2019 Executive Order automatically restoring rights for non-violent felonies per 866ourvote.org, Kentucky Lantern, and Brennan Center"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1327,13 +1422,13 @@
       "details": "Absentee ballot available; excuse required.",
       "noExcuseRequired": false
     },
-    "felonyVotingRules": "Rights restored 5 years after completion of sentence (incarceration, probation, and parole) without a new felony conviction.",
+    "felonyVotingRules": "Rights restored if not incarcerated for a felony within the last 5 years, even while still on probation or parole. Those who have fully completed their sentence have rights automatically restored. People convicted of election fraud felonies are permanently disenfranchised.",
     "documentationNeeded": [
       "Valid photo ID",
       "Proof of residency"
     ],
     "officialUrl": "https://www.sos.la.gov/ElectionsAndVoting/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-29",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1361,6 +1456,16 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Felony Voting Rules",
+        "description": "Corrected to clarify 5-year clock runs from last incarceration, not end of sentence; people on probation/parole can vote if not incarcerated in 5 years per LA SOS official site"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1378,7 +1483,7 @@
   {
     "state": "Maine",
     "abbreviation": "ME",
-    "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
+    "eligibilityAge": "18 (may pre-register at 16)",
     "idRequirements": {
       "toRegister": "ME driver's license number or last 4 of SSN. Without either, can register with other proof of identity: passport, military ID, certified birth certificate, Social Security card, student photo ID from a Maine school, or a document showing name and address (utility bill, bank statement, government document). Proof of both identity AND residency required when registering.",
       "toVote": "No ID required (first-time voters who registered by mail may need to show ID)"
@@ -1392,7 +1497,7 @@
     "sameDayRegistration": true,
     "earlyVoting": {
       "available": true,
-      "details": "In-person absentee voting available at town clerk offices 30\u201345 days before election."
+      "details": "In-person absentee voting available at town clerk offices 30–45 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -1404,7 +1509,7 @@
       "Proof of identity and residency for same-day registration"
     ],
     "officialUrl": "https://www.maine.gov/sos/cec/elec/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-03-29",
     "notes": "Maine allows incarcerated individuals to vote. Uses ranked-choice voting for federal and gubernatorial elections.",
     "confidenceLevel": "High",
     "sources": [
@@ -1430,6 +1535,16 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Eligibility Age",
+        "description": "Corrected pre-registration age from 17 to 16 per Maine Secretary of State official site and Ballotpedia"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1493,6 +1608,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1568,15 +1688,25 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Pending Legislation",
+        "description": "Updated H.834/S.505 status: now advancing as ballot initiative H.5001 per Ballotpedia and MA Legislature records"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
     "pendingLegislation": [
       {
-        "bill": "H.834 / S.505",
+        "bill": "H.834 / S.505 / H.5001 (ballot initiative)",
         "year": 2025,
-        "description": "Proposes same-day voter registration, allowing voters to register in-person on Election Day or during early voting",
-        "status": "S.505 referred to Senate Committee on Ways and Means",
+        "description": "Proposes same-day voter registration, allowing voters to register in-person on Election Day or during early voting. Now advancing as ballot initiative H.5001 (87,408 valid signatures certified Dec 18, 2025); legislature has until first Wednesday of May 2026 to act before it goes to voters.",
+        "status": "S.505 reported favorably by Election Laws Committee; legislature did not vote. Now before legislature as ballot initiative H.5001; if not enacted, goes to November 2026 ballot",
         "dateAdded": "2026-02-28",
         "active": true
       }
@@ -1638,6 +1768,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1703,6 +1838,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -1763,6 +1903,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1826,6 +1971,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1899,6 +2049,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1989,6 +2144,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2061,6 +2221,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2127,6 +2292,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2216,6 +2386,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2282,6 +2457,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2351,6 +2531,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2412,6 +2597,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2481,6 +2671,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2507,7 +2702,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (Dec 2025) eliminated the post-Election Day grace period \u2014 absentee ballots must now be received by close of polls on Election Day.",
+      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (Dec 2025) eliminated the post-Election Day grace period — absentee ballots must now be received by close of polls on Election Day.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon release from prison.",
@@ -2554,6 +2749,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2592,7 +2792,7 @@
       "details": "No-excuse absentee voting available for all registered voters.",
       "noExcuseRequired": true
     },
-    "felonyVotingRules": "Rights restored upon completion of full sentence, or after any period of incarceration if not a repeat offender.",
+    "felonyVotingRules": "Rights restored upon completion of full sentence, including any term of incarceration, parole, or supervision. Also restored immediately upon pardon or commutation.",
     "documentationNeeded": [
       "Voter ID card or government-issued photo ID"
     ],
@@ -2635,6 +2835,16 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Felony Voting Rules",
+        "description": "Removed unsupported first-time vs repeat offender distinction per OK official site, Ballotpedia, US Vote Foundation, and Brennan Center"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2666,7 +2876,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "All elections conducted entirely by mail. Ballots mailed 14\u201318 days before election."
+      "details": "All elections conducted entirely by mail. Ballots mailed 14–18 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -2699,6 +2909,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2764,6 +2979,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2825,6 +3045,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2895,6 +3120,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2962,19 +3192,29 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent Legislation",
+        "description": "Moved SB 175 from pending to recent legislation: signed into law March 26, 2026 with emergency clause"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
-    "recentLegislation": [],
-    "pendingLegislation": [
+    "recentLegislation": [
       {
         "bill": "SB 175",
         "year": 2026,
-        "description": "Would require documentary proof of citizenship for voter registration",
-        "status": "Passed Senate 28-6 (Feb 20) and House 64-3 (Mar 4); delivered to Governor Mar 10, 2026",
+        "description": "Requires documentary proof of citizenship for first-time voter registration for state elections; those who cannot provide proof may register as 'federal voters' for presidential and congressional races only",
+        "status": "Signed into law March 26, 2026; effective immediately (emergency clause)",
         "dateAdded": "2026-02-25",
         "active": true
       }
-    ]
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Tennessee",
@@ -3031,6 +3271,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3094,6 +3339,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3162,6 +3412,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3233,6 +3488,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3308,6 +3568,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3368,6 +3633,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3435,6 +3705,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3507,6 +3782,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3582,6 +3862,11 @@
         "date": "2026-03-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3652,6 +3937,11 @@
       },
       {
         "date": "2026-03-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
       }
