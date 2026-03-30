@@ -22,7 +22,8 @@
       "Bash(lsof:*)",
       "Bash(npm start:*)",
       "Bash(wc:*)",
-      "Bash(pandoc:*)"
+      "Bash(pandoc:*)",
+      "Bash(done)"
     ]
   }
 }
