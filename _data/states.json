@@ -29,7 +29,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://www.alabamavotes.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -60,6 +60,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -97,7 +102,7 @@
       "Valid ID or sworn statement"
     ],
     "officialUrl": "https://www.elections.alaska.gov/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-04-18",
     "notes": "Alaska uses a top-four ranked-choice voting system for general elections. Same-day registration is available only during presidential elections, not all elections.",
     "confidenceLevel": "High",
     "sources": [
@@ -135,6 +140,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -170,7 +180,7 @@
       "Valid photo ID or two non-photo IDs"
     ],
     "officialUrl": "https://azsos.gov/elections",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -206,6 +216,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -259,7 +274,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://www.sos.arkansas.gov/elections/",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -295,6 +310,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -341,7 +361,7 @@
       "Last 4 of SSN if no DL"
     ],
     "officialUrl": "https://www.sos.ca.gov/elections/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-04-18",
     "notes": "California automatically registers eligible citizens through the DMV (motor voter).",
     "confidenceLevel": "High",
     "sources": [
@@ -377,6 +397,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -423,7 +448,7 @@
       "Last 4 of SSN if no CO ID"
     ],
     "officialUrl": "https://www.coloradosos.gov/pubs/elections/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-04-18",
     "notes": "Colorado is a vote-by-mail state; all voters receive ballots by mail.",
     "confidenceLevel": "High",
     "sources": [
@@ -459,6 +484,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -505,7 +535,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://portal.ct.gov/sots/election-services",
-    "lastVerified": "2026-03-01",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -546,6 +576,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -592,7 +627,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://elections.delaware.gov/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -630,6 +665,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -664,7 +704,7 @@
       "Valid photo and signature ID"
     ],
     "officialUrl": "https://dos.fl.gov/elections/",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -702,19 +742,29 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Pending Legislation",
+        "description": "HB 991 (Florida SAVE Act) signed by Gov. DeSantis April 1, 2026 per flgov.com press release; moved from pending to recent legislation"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
-    "recentLegislation": [],
-    "pendingLegislation": [
+    "recentLegislation": [
       {
         "bill": "HB 991",
         "year": 2026,
         "description": "Would require documentary proof of U.S. citizenship to register to vote. Also removes student IDs and retirement home IDs as acceptable voter identification.",
-        "status": "Passed both chambers (House 77-28, Senate 27-12) March 2026; awaiting Governor's signature; effective Jan 1, 2027 if signed",
+        "status": "Signed by Gov. DeSantis April 1, 2026; effective Jan 1, 2027; federal lawsuit filed same day by voting rights groups",
         "dateAdded": "2026-02-25",
         "active": true
       }
-    ]
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Georgia",
@@ -745,7 +795,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.ga.gov/elections",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -786,6 +836,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -840,7 +895,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://elections.hawaii.gov/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-04-18",
     "notes": "Hawaii is a vote-by-mail state.",
     "confidenceLevel": "High",
     "sources": [
@@ -878,6 +933,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -913,7 +973,7 @@
       "Photo ID and proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.idaho.gov/elections/",
-    "lastVerified": "2026-03-29",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -961,6 +1021,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -995,7 +1060,7 @@
       "Two forms of ID for same-day registration (one must show current address)"
     ],
     "officialUrl": "https://www.elections.il.gov/",
-    "lastVerified": "2026-03-01",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1033,6 +1098,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -1044,7 +1114,7 @@
     "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
     "idRequirements": {
       "toRegister": "IN driver's license number (BMV-issued) or last 4 of SSN. Online registration requires a valid IN DL or state ID. If neither, must provide a current photo ID or a document with name and address (utility bill, bank statement, paycheck, government document). DL/SSN is matched against state records.",
-      "toVote": "Strict photo ID required (government-issued). Note: University-issued student IDs are no longer accepted as voter ID per SB 10 (2025); this law is currently under federal litigation."
+      "toVote": "Strict photo ID required (government-issued). Note: SB 10 (2025) banning university-issued student IDs as voter ID is blocked by a federal preliminary injunction (April 14, 2026); student IDs from Indiana public universities remain valid while litigation proceeds. State plans to appeal."
     },
     "registrationDeadline": "29 days before election",
     "registrationMethods": {
@@ -1068,7 +1138,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.in.gov/sos/elections/",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "Indiana has one of the strictest photo ID requirements in the country.",
     "confidenceLevel": "High",
     "sources": [
@@ -1116,6 +1186,16 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Voter ID",
+        "description": "SB 10 student-ID ban blocked by federal preliminary injunction April 14, 2026 per Indiana Capital Chronicle, Ballotpedia, and Louisville Public Media"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1123,7 +1203,7 @@
         "bill": "SB 10",
         "year": 2025,
         "description": "Bans university-issued student IDs as voter identification",
-        "status": "Enacted, federal litigation in progress",
+        "status": "Enacted July 2025; preliminary injunction issued April 14, 2026 (U.S. Dist. Judge Richard Young) blocking enforcement; state plans to appeal",
         "dateAdded": "2026-02-25",
         "active": true
       },
@@ -1168,7 +1248,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.iowa.gov/elections/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1204,6 +1284,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1266,7 +1351,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.ks.gov/elections/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1304,6 +1389,16 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent Legislation",
+        "description": "Added SAVE Kansas Act (2026) enacted April 9, 2026 via veto override per Democracy Docket, StateScoop, and KCUR"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1321,6 +1416,14 @@
         "description": "Eliminates 3-day mail ballot grace period; all mail ballots must be received by 7 PM on Election Day",
         "status": "Enacted (veto overridden); under court challenge",
         "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "SAVE Kansas Act",
+        "year": 2026,
+        "description": "Restricts online voter registration to .gov websites; expands voter-roll purge procedures (inactive 4 years triggers notice for removal); requires Secretary of State to check voter rolls against federal SAVE database for noncitizens; requires state agencies to share personal data (including SSNs) with the Secretary of State.",
+        "status": "Vetoed by Gov. Kelly April 8, 2026; veto overridden by legislature April 9, 2026; effective July 1, 2026",
+        "dateAdded": "2026-04-18",
         "active": true
       }
     ],
@@ -1355,7 +1458,7 @@
       "Valid photo ID or voter affirmation form"
     ],
     "officialUrl": "https://elect.ky.gov/",
-    "lastVerified": "2026-03-29",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1393,9 +1496,28 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent Legislation",
+        "description": "Added HB 139 (2026) omnibus elections bill enacted April 14-15, 2026 via veto override per Louisville Public Media and Kentucky Lantern"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "HB 139",
+        "year": 2026,
+        "description": "Omnibus elections bill: authorizes State Board of Elections to enter agreements with federal agencies to identify deceased persons and noncitizens on voter rolls; bars use of Social Security cards and public benefits cards as voter ID; raises political donation limits to $3,500; allows legislators to transfer campaign funds to statewide office campaigns; permits judicial candidates to disclose partisan affiliation.",
+        "status": "Vetoed by Gov. Beshear April 10, 2026; veto overridden by legislature April 14-15, 2026",
+        "dateAdded": "2026-04-18",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -1428,7 +1550,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.sos.la.gov/ElectionsAndVoting/",
-    "lastVerified": "2026-03-29",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1464,6 +1586,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1509,7 +1636,7 @@
       "Proof of identity and residency for same-day registration"
     ],
     "officialUrl": "https://www.maine.gov/sos/cec/elec/",
-    "lastVerified": "2026-03-29",
+    "lastVerified": "2026-04-18",
     "notes": "Maine allows incarcerated individuals to vote. Uses ranked-choice voting for federal and gubernatorial elections.",
     "confidenceLevel": "High",
     "sources": [
@@ -1547,6 +1674,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -1582,7 +1714,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://elections.maryland.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1613,6 +1745,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1650,7 +1787,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.sec.state.ma.us/elections/",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1698,6 +1835,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -1742,7 +1884,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://mvic.sos.state.mi.us/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1773,6 +1915,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1810,7 +1957,7 @@
       "Valid ID with proof of residency or voucher for same-day registration"
     ],
     "officialUrl": "https://www.sos.state.mn.us/elections-voting/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "Minnesota has had same-day registration since 1974.",
     "confidenceLevel": "High",
     "sources": [
@@ -1841,6 +1988,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1877,7 +2029,7 @@
       "Valid photo ID or affidavit ballot"
     ],
     "officialUrl": "https://www.sos.ms.gov/elections",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "Mississippi is one of the few states with no online voter registration and no early voting.",
     "confidenceLevel": "High",
     "sources": [
@@ -1910,9 +2062,28 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent Legislation",
+        "description": "Added SHIELD Act (SB 2588) signed by Gov. Reeves April 1, 2026 per MS Legislature, WLBT, Magnolia Tribune, and Mississippi Free Press"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "SB 2588 (SHIELD Act)",
+        "year": 2026,
+        "description": "Requires citizenship verification for voter registration using the federal SAVE database and state driver's license records; mandates annual voter roll audits.",
+        "status": "Signed by Gov. Reeves April 1, 2026; effective July 1, 2026",
+        "dateAdded": "2026-04-18",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -1945,7 +2116,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.sos.mo.gov/elections",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1976,6 +2147,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2013,7 +2189,7 @@
       "Proof of residency for late registration"
     ],
     "officialUrl": "https://sosmt.gov/elections/",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2054,6 +2230,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2116,7 +2297,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://sos.nebraska.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2147,6 +2328,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2193,7 +2379,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.nvsos.gov/sos/elections",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "Nevada automatically mails ballots to all registered voters.",
     "confidenceLevel": "High",
     "sources": [
@@ -2226,6 +2412,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2237,7 +2428,7 @@
     "eligibilityAge": "18",
     "idRequirements": {
       "toRegister": "Proof of identity required (not just an ID number): driver's license, government-issued photo ID, passport, or naturalization papers. Under HB 1569 (effective Nov 2024), all first-time registrants must provide hard-copy documentary proof of U.S. citizenship: U.S. passport, birth certificate, or naturalization papers. Proof of domicile also required. Affidavits no longer accepted. Law currently under legal challenge.",
-      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569."
+      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569. Under HB 323 (effective June 2, 2026), student IDs — including government-issued college/university IDs — are no longer accepted; only government-issued IDs such as driver's licenses, state IDs, passports, and military IDs qualify."
     },
     "registrationDeadline": "Same-day registration available on election day",
     "registrationMethods": {
@@ -2261,7 +2452,7 @@
       "Proof of domicile"
     ],
     "officialUrl": "https://www.sos.nh.gov/elections",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2299,6 +2490,21 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Voter ID",
+        "description": "Updated to reflect HB 323 elimination of student IDs as voter ID effective June 2, 2026"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent Legislation",
+        "description": "Added HB 323 (2026) eliminating student IDs as voter ID per New Hampshire Bulletin, Boston Globe, and Concord Monitor"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2324,6 +2530,14 @@
         "description": "Requires absentee voters to submit proof of citizenship, age, domicile, and identity (birth certificate, passport, or naturalization papers) when registering to vote",
         "status": "Signed 2025; effective Sept 30, 2025",
         "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "HB 323",
+        "year": 2026,
+        "description": "Eliminates student IDs (including college/university IDs) as acceptable forms of voter identification. Requires government-issued ID such as driver's license, state ID, passport, or military ID.",
+        "status": "Signed by Gov. Ayotte April 3, 2026; effective June 2, 2026",
+        "dateAdded": "2026-04-18",
         "active": true
       }
     ],
@@ -2358,7 +2572,7 @@
       "Driver's license number or last 4 of SSN"
     ],
     "officialUrl": "https://nj.gov/state/elections/",
-    "lastVerified": "2026-03-01",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2389,6 +2603,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2426,7 +2645,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.sos.nm.gov/voting-and-elections/",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2462,6 +2681,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2508,7 +2732,7 @@
       "ID for first-time mail registrants without verified DL/SSN"
     ],
     "officialUrl": "https://www.elections.ny.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2534,6 +2758,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2571,7 +2800,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.ncsbe.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2602,6 +2831,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2638,7 +2872,7 @@
       "Valid ID with name, date of birth, and residential address"
     ],
     "officialUrl": "https://vip.sos.nd.gov/",
-    "lastVerified": "2026-03-01",
+    "lastVerified": "2026-04-18",
     "notes": "North Dakota is the only US state with no voter registration requirement.",
     "confidenceLevel": "High",
     "sources": [
@@ -2676,6 +2910,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2711,7 +2950,7 @@
       "OH DL number or last 4 of SSN"
     ],
     "officialUrl": "https://www.ohiosos.gov/elections-voting/",
-    "lastVerified": "2026-02-28",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2752,6 +2991,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2797,7 +3041,7 @@
       "Voter ID card or government-issued photo ID"
     ],
     "officialUrl": "https://oklahoma.gov/elections.html",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2845,6 +3089,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2888,7 +3137,7 @@
       "Oregon DL number or last 4 of SSN"
     ],
     "officialUrl": "https://sos.oregon.gov/voting/Pages/default.aspx",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "Oregon pioneered vote-by-mail in 1998. Automatic voter registration through the DMV.",
     "confidenceLevel": "High",
     "sources": [
@@ -2914,6 +3163,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2951,7 +3205,7 @@
       "ID for first-time voters at polling place"
     ],
     "officialUrl": "https://www.vote.pa.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2982,6 +3236,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3019,7 +3278,7 @@
       "RI DL number or last 4 of SSN"
     ],
     "officialUrl": "https://vote.ri.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3050,6 +3309,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3087,7 +3351,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://scvotes.gov/",
-    "lastVerified": "2026-03-01",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3125,6 +3389,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3159,7 +3428,7 @@
       "Valid photo ID or signed affidavit"
     ],
     "officialUrl": "https://sdsos.gov/elections-voting/",
-    "lastVerified": "2026-03-13",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3202,6 +3471,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3240,12 +3514,12 @@
       "details": "Absentee ballot available; excuse required.",
       "noExcuseRequired": false
     },
-    "felonyVotingRules": "Restoration process varies by felony type and conviction date. Generally must apply for restoration after completion of sentence and payment of restitution.",
+    "felonyVotingRules": "Restoration process varies by felony type and conviction date. Generally must apply for restoration after completion of sentence. Under SB 336/HB 687 (April 2026), Tennessee no longer requires payment of all outstanding court costs and fees as a prerequisite to restoration, and compliance with child support orders for the last year (rather than full payment of arrearage) is now sufficient.",
     "documentationNeeded": [
       "Valid state or federal government-issued photo ID"
     ],
     "officialUrl": "https://sos.tn.gov/elections",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3278,9 +3552,41 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent Legislation",
+        "description": "Added SB 336/HB 687 (2026) felony restoration easing and PC 473 (2025) real-time citizenship verification per TN SOS PC 473, NewsChannel 5, WSMV/AP, and Tennessee Lookout"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Felony Voting Rules",
+        "description": "Updated to reflect SB 336/HB 687 removal of court-costs payment requirement and relaxed child-support rule"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "SB 336 / HB 687",
+        "year": 2026,
+        "description": "Eases felony voting rights restoration: removes requirement to pay all outstanding court costs, and allows compliance with child support orders for the last year (rather than full payment of arrearage) to satisfy that prerequisite.",
+        "status": "Signed by Gov. Lee in early April 2026",
+        "dateAdded": "2026-04-18",
+        "active": true
+      },
+      {
+        "bill": "PC 473",
+        "year": 2025,
+        "description": "Requires real-time verification of U.S. citizenship and felony status at voter registration; pending DHS SAVE database portal implementation by 2028.",
+        "status": "Effective Jan 1, 2026",
+        "dateAdded": "2026-04-18",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -3313,7 +3619,7 @@
       "Supporting ID form if photo ID unavailable"
     ],
     "officialUrl": "https://www.sos.texas.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "Texas does not offer online voter registration.",
     "confidenceLevel": "High",
     "sources": [
@@ -3344,6 +3650,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3381,7 +3692,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://vote.utah.gov/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-04-18",
     "notes": "Utah conducts elections primarily by mail. HB 300 (effective Nov 2025) requires mail ballot returns to include last 4 digits of DL/ID/SSN and phases out universal vote-by-mail by 2029.",
     "confidenceLevel": "High",
     "sources": [
@@ -3419,6 +3730,16 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent Legislation",
+        "description": "Added HB 209 (2026) proof-of-citizenship (effective May 6) and SB 153 (2026) voter record privacy (effective April 6) per Ballotpedia, Voting Rights Lab, Utah News Dispatch, Deseret News, and KSL"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3428,6 +3749,22 @@
         "description": "Requires ID number on returned mail ballots and phases out universal vote-by-mail by 2029",
         "status": "Enacted, mail ballot ID effective Nov 2025; full phase-out by Jan 2029",
         "dateAdded": "2026-02-25",
+        "active": true
+      },
+      {
+        "bill": "HB 209",
+        "year": 2026,
+        "description": "Requires documentary proof of U.S. citizenship to register for state and local elections; voters without proof may cast federal-only ballots. Election officials must review all registered voters by July 1, 2026.",
+        "status": "Signed by Gov. Cox March 25, 2026; effective May 6, 2026",
+        "dateAdded": "2026-04-18",
+        "active": true
+      },
+      {
+        "bill": "SB 153",
+        "year": 2026,
+        "description": "Voter record privacy changes: previously-private voter records become public unless voters apply for and are granted 'at-risk' status. Establishes a $1,050 fee to access the statewide voter rolls.",
+        "status": "Enacted 2026; effective April 6, 2026",
+        "dateAdded": "2026-04-18",
         "active": true
       }
     ],
@@ -3462,7 +3799,7 @@
       "Driver's license number or last 4 of SSN"
     ],
     "officialUrl": "https://sos.vermont.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "Vermont allows incarcerated individuals to vote, along with Maine and DC.",
     "confidenceLevel": "High",
     "sources": [
@@ -3493,6 +3830,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3530,7 +3872,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.elections.virginia.gov/",
-    "lastVerified": "2026-03-01",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3573,6 +3915,11 @@
         "date": "2026-03-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3607,7 +3954,7 @@
       "WA DL number or last 4 of SSN"
     ],
     "officialUrl": "https://www.sos.wa.gov/elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "Washington conducts all elections by mail.",
     "confidenceLevel": "High",
     "sources": [
@@ -3638,6 +3985,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3674,7 +4026,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.wv.gov/elections/",
-    "lastVerified": "2026-02-25",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3710,6 +4062,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3756,7 +4113,7 @@
       "Proof of residency for voter registration"
     ],
     "officialUrl": "https://elections.wi.gov/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3787,6 +4144,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3834,7 +4196,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://sos.wyo.gov/Elections/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3865,6 +4227,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3911,7 +4278,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.dcboe.org/",
-    "lastVerified": "2026-02-24",
+    "lastVerified": "2026-04-18",
     "notes": "DC allows incarcerated individuals to vote. As a federal district, DC residents have no voting representation in Congress.",
     "confidenceLevel": "High",
     "sources": [
@@ -3942,6 +4309,11 @@
       },
       {
         "date": "2026-03-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
