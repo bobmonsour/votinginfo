@@ -23,7 +23,8 @@
       "Bash(npm start:*)",
       "Bash(wc:*)",
       "Bash(pandoc:*)",
-      "Bash(done)"
+      "Bash(done)",
+      "Bash(claude mcp *)"
     ]
   }
 }
