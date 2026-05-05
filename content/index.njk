@@ -20,7 +20,10 @@ description: "Voter registration and voting requirements for all 50 US states an
 		</div>
 	</div>
 
-	<p class="result-count" aria-live="polite">Showing <span id="visible-count">{{ states | length }}</span> of {{ states | length }} (50 states + DC)</p>
+	<div class="result-row">
+		<p class="result-count" aria-live="polite">Showing <span id="visible-count">{{ states | length }}</span> of {{ states | length }} (50 states + DC)</p>
+		<p class="last-updated">Last updated: {{ build.lastUpdated | formatDate }}</p>
+	</div>
 
 	<div class="card-grid">
 		{%- for state in states %}
