@@ -110,20 +110,45 @@ The report should include:
 
 ### After research is complete
 
-Present the full report of findings to the user and ask for confirmation before making any changes to `states.json`.
+Do **not** present the findings as a single batch and do **not** apply changes in bulk. Each proposed change must be reviewed and approved individually before it is written to `_data/states.json`.
 
-If changes are approved:
-1. Update the affected fields in `_data/states.json`
-2. Update `lastVerified` to today's date for each changed state
-3. Add entries to the state's `changes` array with `date` (today, YYYY-MM-DD format), `field` (human-readable label), and `description` (what changed, including the source used to determine the change — e.g., "Updated from 'No' to 'Yes' per state official site")
-4. Update `recentLegislation` and `pendingLegislation` as appropriate
-5. Update source URLs if any have changed
+#### One-at-a-time review protocol
+
+1. First, share a brief overview with the user: total number of states reviewed, total number of proposed changes, and the path to the saved research report. Do not list the changes themselves yet.
+2. Then walk through every proposed change one by one, in alphabetical order by state and grouped by state. For each individual fact change, present a single, self-contained prompt that includes:
+   - **State** (full name and abbreviation)
+   - **Field** affected (human-readable label)
+   - **Current value** in `_data/states.json` (copied verbatim, not paraphrased)
+   - **Proposed value** based on research
+   - **Source(s)** with their tier (e.g., "State official site (Tier 1)") — if Tier 3, list at least two corroborating sources
+   - **Source URL(s)** — every URL that justifies this specific change
+   - A short quote or paraphrase from the source explaining why this change is justified
+3. Ask the user to approve, reject, or modify the change. Wait for an explicit response before doing anything else.
+4. Apply the user's decision for that single change immediately:
+   - **Approved:** update the field in `_data/states.json`, update the state's `lastVerified` to today's date, and append an entry to that state's `changes` array with `date` (today, YYYY-MM-DD), `field` (human-readable label), and `description` including the source used (e.g., "Updated from 'No' to 'Yes' per state official site"). For `recentLegislation` / `pendingLegislation`, add or update the relevant array entry. Update source URLs if any have changed.
+   - **Rejected:** make no change and move on. Note the rejection in the running summary you keep for the final report.
+   - **Modified:** apply the user's adjusted value using the same update steps as "Approved."
+5. Only then move on to the next proposed change. Never batch approvals; never present the next change until the current one has been resolved and written.
+
+#### Forbidden shortcuts
+
+- Do **not** present a numbered list of all changes and ask "approve all?" — each change must be a separate prompt.
+- Do **not** apply any change before its individual approval, even if the user previously approved similar changes.
+- Do **not** skip the source reference, URL, or current/proposed value comparison on any prompt, even when the change "seems obvious."
+- Do **not** combine multiple field changes for the same state into a single approval prompt — one fact = one prompt.
+
+#### After all changes are resolved
+
+Once every proposed change has been approved, rejected, or modified:
+
+1. Append a brief addendum to the research report listing which changes were approved, rejected, or modified, so the report reflects what was actually applied.
+2. Continue to the news capture section (if running a Full run) or proceed to commit and finish.
 
 ## News capture (Full run and News update)
 
 For each state, search for up to 5 recent election-related news items from reputable sources, including but not limited to those listed below.
 
-Search for election-related news items for each stateshould return only items that are newer than the most recent news item already captured in previous runs for that state.
+**Recency rule (strict):** Only news items with a publication date strictly later than the most recent news item already captured for that state in any previous run of `_data/stateNews.json` qualify for inclusion. Items dated on or before that threshold MUST NOT be added to the site under any circumstance, even if they appear newly relevant. Determine the per-state threshold *before* searching, and constrain the search itself by date wherever possible (e.g., date filters in WebSearch queries) so older results are not gathered in the first place.
 
 - Brennan Center for Justice
 - NCSL (ncsl.org)
@@ -154,12 +179,15 @@ When in doubt, prefer to exclude rather than include.
 
 ### Filtering out old news
 
-Before adding news items to a new run, filter out items that are not newer than what has already been captured:
+Before adding news items to a new run, enforce the recency rule. This filter is mandatory and applies even if it leaves a state with zero items for the run.
 
 1. Read the existing `_data/stateNews.json` file.
-2. For each state, find the most recent news item date across all previous runs. Scan every run's entry for that state and take the latest `date` value.
-3. Discard any newly found news items whose `date` is on or before that most recent date. Only items with a strictly later date are kept.
-4. If a state has no prior news items in any previous run, keep all found items (there is no date threshold).
+2. For each state, compute the **per-state recency threshold**: the maximum `date` value found across every news item in every previous run for that state. Scan all runs — do not rely on the most recent run alone.
+3. Discard any newly found news item whose `date` is on or before the threshold. Only items with a strictly later date (greater than the threshold) are eligible. Equal dates do not qualify.
+4. If a state has no prior news items in any previous run, the threshold is undefined and all found items are eligible.
+5. States that have zero eligible items after filtering are simply omitted from the new run. Do **not** lower the threshold, "make an exception," or backfill older items to ensure a state is represented. If nothing qualifies, nothing is added.
+
+After filtering, briefly report to the user — per state — the threshold date used and how many items were discarded vs kept, so the recency enforcement is auditable.
 
 ### Writing news data
 
