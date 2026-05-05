@@ -973,7 +973,7 @@
       "Photo ID and proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.idaho.gov/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-05",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1026,9 +1026,23 @@
         "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-05",
+        "field": "Recent Legislation",
+        "description": "Added S 1322 (2026) — amends voter ID affidavit process to require date of birth or Idaho DL/ID number on affidavit, signed by Gov. Little March 31, 2026, effective July 1, 2026, per Ballotpedia News and LegiScan"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "S 1322",
+        "year": 2026,
+        "description": "Amends voter ID affidavit process — voters using affidavit in lieu of photo ID must also provide either date of birth or Idaho driver's license/ID number, in addition to name and address.",
+        "status": "Signed by Gov. Brad Little March 31, 2026; effective July 1, 2026",
+        "dateAdded": "2026-05-05",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -1114,7 +1128,7 @@
     "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
     "idRequirements": {
       "toRegister": "IN driver's license number (BMV-issued) or last 4 of SSN. Online registration requires a valid IN DL or state ID. If neither, must provide a current photo ID or a document with name and address (utility bill, bank statement, paycheck, government document). DL/SSN is matched against state records.",
-      "toVote": "Strict photo ID required (government-issued). Note: SB 10 (2025) banning university-issued student IDs as voter ID is blocked by a federal preliminary injunction (April 14, 2026); student IDs from Indiana public universities remain valid while litigation proceeds. State plans to appeal."
+      "toVote": "Strict photo ID required (government-issued). Under SB 10 (2025), university-issued student IDs are not accepted as voter ID. A federal preliminary injunction blocking enforcement was issued April 14, 2026 (Judge Richard Young, U.S. Dist.) but stayed by the Seventh Circuit on April 20, 2026, allowing the law to take effect for the May 5, 2026 primary while the appeal proceeds."
     },
     "registrationDeadline": "29 days before election",
     "registrationMethods": {
@@ -1138,7 +1152,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.in.gov/sos/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-05",
     "notes": "Indiana has one of the strictest photo ID requirements in the country.",
     "confidenceLevel": "High",
     "sources": [
@@ -1196,6 +1210,16 @@
         "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-05",
+        "field": "Voter ID",
+        "description": "SB 10 preliminary injunction stayed by Seventh Circuit April 20, 2026; student-ID ban enforced for the May 5, 2026 primary while appeal proceeds, per Ballotpedia News and Bloomberg Law"
+      },
+      {
+        "date": "2026-05-05",
+        "field": "Recent Legislation",
+        "description": "Updated SB 10 status to reflect Seventh Circuit stay of preliminary injunction (April 20, 2026), per Ballotpedia News and Bloomberg Law"
       }
     ],
     "recentLegislation": [
@@ -1203,7 +1227,7 @@
         "bill": "SB 10",
         "year": 2025,
         "description": "Bans university-issued student IDs as voter identification",
-        "status": "Enacted July 2025; preliminary injunction issued April 14, 2026 (U.S. Dist. Judge Richard Young) blocking enforcement; state plans to appeal",
+        "status": "Enacted July 2025; preliminary injunction issued April 14, 2026 (U.S. Dist. Judge Richard Young); stayed by Seventh Circuit Court of Appeals April 20, 2026 allowing enforcement during the appeal; in effect for the May 5, 2026 primary",
         "dateAdded": "2026-02-25",
         "active": true
       },
@@ -3866,13 +3890,13 @@
       "details": "No-excuse absentee voting available for all registered voters.",
       "noExcuseRequired": true
     },
-    "felonyVotingRules": "Rights not automatically restored. Must apply to the governor for restoration after completion of sentence.",
+    "felonyVotingRules": "As of June 1, 2026, per the federal court ruling in King v. Youngkin, Virginia can no longer disenfranchise people convicted of felonies except for a narrow set of common-law felonies (murder, manslaughter, arson, burglary, robbery, rape, sodomy, mayhem, larceny). Eligible non-common-law felons can register to vote without gubernatorial restoration starting June 1, 2026. Until then, the existing process — apply to the governor for restoration after completion of sentence — still applies.",
     "documentationNeeded": [
       "Valid ID (photo or non-photo accepted)",
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.elections.virginia.gov/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-05",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3920,9 +3944,28 @@
         "date": "2026-04-18",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-05",
+        "field": "Felony Voting Rules",
+        "description": "Updated to reflect King v. Youngkin federal court ruling: starting June 1, 2026, Virginia can no longer disenfranchise people with felony convictions except for a narrow set of common-law felonies; existing gubernatorial restoration process still applies until then. Per Virginia Mercury, WTOP News, and ACLU of Virginia"
+      },
+      {
+        "date": "2026-05-05",
+        "field": "Recent Legislation",
+        "description": "Added King v. Youngkin federal court ruling (implementation June 1, 2026) per Virginia Mercury, WTOP News, and ACLU of Virginia"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "King v. Youngkin (federal court ruling)",
+        "year": 2026,
+        "description": "Federal court ruling barring Virginia from disenfranchising people convicted of felonies except for a narrow set of common-law felonies (murder, manslaughter, arson, burglary, robbery, rape, sodomy, mayhem, larceny). Eliminates need for gubernatorial restoration for non-common-law felonies.",
+        "status": "Implementation begins June 1, 2026 (extended from May 1)",
+        "dateAdded": "2026-05-05",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
