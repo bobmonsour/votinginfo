@@ -46,6 +46,8 @@
 			</script>
 		</div>
 	</header>
+	{# Site-wide announcement banner — commented out, preserved for future reuse.
+	   To re-enable: uncomment this block, update the date and message, and adjust the dismissal storage key if needed.
 	<div class="site-banner" role="alert" id="site-banner">
 		<div class="container">
 			<strong>Note (Feb 25, 2026):</strong> This site is under active development. Verify all details with your state's official election website.
@@ -53,6 +55,7 @@
 		</div>
 	</div>
 	<script>if(sessionStorage.getItem('bannerDismissed'))document.getElementById('site-banner').remove()</script>
+	#}
 	<main id="main-content" class="container">
 		{{ content | safe }}
 	</main>

@@ -1,4 +1,4 @@
-<div class="state-card" data-state="{{ state.state | lower }}" data-abbr="{{ state.abbreviation | lower }}" data-same-day="{{ state.sameDayRegistration }}" data-online="{{ state.registrationMethods.online }}" data-early="{{ state.earlyVoting.available }}" data-mail-in="{{ state.mailInVoting.available }}" data-no-excuse="{{ state.mailInVoting.noExcuseRequired }}" data-excuse-required="{{ state.mailInVoting.available and not state.mailInVoting.noExcuseRequired }}">
+<div class="state-card" data-state="{{ state.state | lower }}" data-abbr="{{ state.abbreviation | lower }}" data-same-day="{{ state.sameDayRegistration }}" data-online="{{ state.registrationMethods.online }}" data-early="{{ state.earlyVoting.available }}" data-no-excuse="{{ state.mailInVoting.noExcuseRequired }}" data-excuse-required="{{ state.mailInVoting.available and not state.mailInVoting.noExcuseRequired }}">
 	<div class="card-header">
 		<h2 class="card-title">
 			{% if state.abbreviation == "DC" %}
