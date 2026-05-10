@@ -6707,6 +6707,816 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-05-10",
+      "states": {
+        "AK": [
+          {
+            "title": "Gov. Dunleavy introduces new elections bill days after vetoing last version",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/alaska-legislature/2026/05/07/gov-dunleavy-introduces-new-elections-bill-days-after-vetoing-last-version/",
+            "date": "2026-05-07",
+            "summary": "Gov. Dunleavy proposed a substitute elections bill with a new signature-verification process and delayed implementation past the November 2026 general election; legislative leaders said little time remains to act."
+          },
+          {
+            "title": "Dunleavy introduces new elections bill days after vetoing a similar one - with 13 days left in session",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/05/08/dunleavy-introduces-new-elections-bill-days-after-vetoing-similar-one-with-13-days-left-session/",
+            "date": "2026-05-08",
+            "summary": "The governor's revised election overhaul bill arrived with less than two weeks left in the regular session, drawing skepticism from lawmakers about its prospects."
+          }
+        ],
+        "AL": [
+          {
+            "title": "Alabama lawmakers pass plan for new U.S. House primary if courts allow different districts",
+            "source": "PBS NewsHour",
+            "url": "https://www.pbs.org/newshour/politics/alabama-lawmakers-pass-plan-for-new-u-s-house-primary-if-courts-allow-different-districts",
+            "date": "2026-05-08",
+            "summary": "Alabama legislators passed bills authorizing Gov. Kay Ivey to schedule a new congressional primary under revised districts if courts permit, while the May 19 primary proceeds under the current map."
+          },
+          {
+            "title": "Alabama urges US Supreme Court to let it eliminate a Democratic-held congressional district",
+            "source": "CNN",
+            "url": "https://www.cnn.com/2026/05/08/politics/alabama-passes-plan-for-new-us-house-primary",
+            "date": "2026-05-08",
+            "summary": "Alabama filed an emergency appeal at the U.S. Supreme Court seeking to revert to a congressional map with one majority-Black district, citing the Court's recent Louisiana v. Callais ruling weakening Voting Rights Act enforcement."
+          },
+          {
+            "title": "Alabama Attorney General files motions with U.S. Supreme Court seeking to redistrict",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2026/05/08/alabama-attorney-general-files-motions-with-u-s-supreme-court-seeking-to-redistrict/",
+            "date": "2026-05-08",
+            "summary": "Alabama AG Steve Marshall asked the Supreme Court to lift the injunction requiring two majority-Black congressional districts, with a response from plaintiffs requested by May 14."
+          },
+          {
+            "title": "Alabama Gov. Kay Ivey signs primary bills as state seeks to redistrict",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2026/05/08/alabama-legislature-gives-final-approval-to-primary-bills-as-state-seeks-to-redistrict/",
+            "date": "2026-05-08",
+            "summary": "Gov. Ivey signed two bills allowing Alabama to set new primary dates for congressional and state Senate seats if federal courts permit use of previously contested maps."
+          },
+          {
+            "title": "Federal court rejects Alabama's emergency request in redistricting case",
+            "source": "WBRC",
+            "url": "https://www.wbrc.com/2026/05/09/federal-court-rejects-alabamas-emergency-request-redistricting-case/",
+            "date": "2026-05-09",
+            "summary": "A federal court denied Alabama's emergency motion to use a contested congressional map for the 2026 elections, leaving the state's bid pending before the U.S. Supreme Court."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Little Rock Mayor Frank Scott Jr. announces campaign for a third term",
+            "source": "Northwest Arkansas Democrat-Gazette",
+            "url": "https://www.nwaonline.com/news/2026/may/08/little-rock-mayor-frank-scott-jr-announces/",
+            "date": "2026-05-08",
+            "summary": "Little Rock Mayor Frank Scott Jr. announced his bid for a third term, kicking off the city's 2026 mayoral race ahead of the November general election."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Supreme Court voting rights ruling set to reshape local power from statehouses to school boards",
+            "source": "Stateline",
+            "url": "https://stateline.org/2026/05/04/supreme-court-voting-rights-ruling-set-to-reshape-local-power-from-statehouses-to-school-boards/",
+            "date": "2026-05-04",
+            "summary": "Stateline analyzes how the Louisiana v. Callais ruling weakening the Voting Rights Act could affect map-drawing for state legislative, county and municipal districts in Arizona and other states."
+          },
+          {
+            "title": "May 19, 2026 Local Elections - Maricopa County",
+            "source": "Citizens Clean Elections Commission",
+            "url": "https://www.azcleanelections.gov/may-19-2026-election/maricopa",
+            "date": "2026-05-08",
+            "summary": "Maricopa County is administering an all-mail jurisdictional election May 19 for Tempe City Council, the Town of Guadalupe property tax measure, and the Goldfield Ranch Fire District; the last day to mail ballots is May 12."
+          }
+        ],
+        "CA": [
+          {
+            "title": "In the six-way race to be California's treasurer, it likely comes down to two Democrats",
+            "source": "CalMatters",
+            "url": "https://calmatters.org/politics/2026/05/california-treasurer-election-2026/",
+            "date": "2026-05-06",
+            "summary": "CalMatters profiles the June 2 primary contest for state treasurer, focused on Lt. Gov. Eleni Kounalakis and state Sen. Anna Caballero in a six-candidate field."
+          },
+          {
+            "title": "Attorney General Bonta and Secretary of State Weber: Vote Early in June Primary Election and Know Your Voting Rights",
+            "source": "California Department of Justice",
+            "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-and-secretary-state-weber-sacramento-vote-early-june",
+            "date": "2026-05-06",
+            "summary": "California's AG and Secretary of State urged voters to use early in-person voting and vote-by-mail for the June 2 primary, and outlined election integrity protections for poll workers and voters."
+          }
+        ],
+        "CT": [
+          {
+            "title": "On second try, absentee voting bill glides to passage in CT House",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/04/23/on-second-try-absentee-voting-bill-glides-to-passage-in-ct-house/",
+            "date": "2026-04-23",
+            "summary": "The Connecticut House passed HB 5001, the universal no-excuse absentee voting bill, on a 101-49 party-line vote, sending it to the Senate."
+          },
+          {
+            "title": "Voting by mail to be a universal option in Connecticut",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/05/06/voting-by-mail-to-be-a-universal-option-in-connecticut/",
+            "date": "2026-05-06",
+            "summary": "The Connecticut Senate passed HB 5001 25-11, sending universal no-excuse absentee voting to Gov. Ned Lamont's desk; the bill also restricts law enforcement near polling places and increases penalties for harassing election workers."
+          },
+          {
+            "title": "Expanded Absentee Ballot Legislation Passes Legislature, Heads To Lamont",
+            "source": "CT News Junkie",
+            "url": "https://ctnewsjunkie.com/2026/05/06/expanded-absentee-ballot-legislation-passes-legislature-heads-to-lamont/",
+            "date": "2026-05-06",
+            "summary": "After November 2024 voters approved a constitutional change, lawmakers passed implementing legislation enabling absentee voting for any reason starting with the 2026 elections."
+          },
+          {
+            "title": "All CT residents expected to be able to vote by mail this year",
+            "source": "WSHU Public Radio",
+            "url": "https://www.wshu.org/connecticut-news/2026-05-07/ct-residents-mail-in-ballots-voting",
+            "date": "2026-05-07",
+            "summary": "WSHU reports all Connecticut residents are expected to be able to vote by mail in 2026 once Gov. Lamont signs HB 5001, marking the state's transition to no-excuse absentee voting."
+          },
+          {
+            "title": "CT lawmakers warn about threats to democracy at shadow hearing",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/05/04/ct-lawmakers-warn-about-threats-to-democracy-at-shadow-hearing/",
+            "date": "2026-05-04",
+            "summary": "Connecticut legislators held a shadow hearing on threats to election administration and voter access, citing federal pressures and state-level safeguards in current bills."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Florida lawmakers pass a voting map that could help Republicans flip 4 House seats",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/04/29/nx-s1-5804703/florida-redistricting-voting-map-republicans-house-seats",
+            "date": "2026-04-29",
+            "summary": "The Florida Legislature approved a new congressional map that could give Republicans up to four additional U.S. House seats, with the state Senate passing it 21-17 hours after the U.S. Supreme Court's Louisiana v. Callais ruling weakened Section 2 of the Voting Rights Act."
+          },
+          {
+            "title": "DeSantis signs Florida's new congressional map into law, lawsuit follows",
+            "source": "Local 10 News",
+            "url": "https://www.local10.com/news/politics/2026/05/04/desantis-signs-floridas-new-congressional-map-into-law-lawsuit-follows/",
+            "date": "2026-05-04",
+            "summary": "Gov. Ron DeSantis signed the new congressional redistricting map into law, and within hours voting-rights groups filed the first of multiple lawsuits alleging the plan violates the state's Fair Districts Amendment."
+          },
+          {
+            "title": "3 lawsuits now filed to block new Florida congressional map after redistricting",
+            "source": "ClickOrlando (WKMG)",
+            "url": "https://www.clickorlando.com/news/politics/2026/05/05/3-lawsuits-now-filed-to-block-new-florida-congressional-map-after-redistricting/",
+            "date": "2026-05-05",
+            "summary": "Three separate lawsuits have been filed in Tallahassee state court challenging Florida's newly enacted congressional map, alleging the plan is an unconstitutional partisan gerrymander under the Fair Districts Amendment."
+          },
+          {
+            "title": "Election leaders scrambling to inform voters on new congressional map amid lawsuits",
+            "source": "Central Florida Public Media",
+            "url": "https://www.cfpublic.org/politics/2026-05-07/leaders-scrambling-redistricting-lawsuits",
+            "date": "2026-05-07",
+            "summary": "County election supervisors are racing to update precinct boundaries and notify voters about their new congressional districts ahead of the August primary, even as litigation over the new map continues."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Five candidates are running in the May 19 general election for three seats on the Georgia Supreme Court",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/05/07/five-candidates-are-running-in-the-may-19-general-election-for-three-seats-on-the-georgia-supreme-court/",
+            "date": "2026-05-07",
+            "summary": "Five candidates are competing in nonpartisan elections for three Georgia Supreme Court seats on the May 19 ballot, including incumbent justices Charlie Bethel and Sarah Hawkins Warren facing Democratic-backed challengers Miracle Rankin and Jen Jordan."
+          }
+        ],
+        "HI": [
+          {
+            "title": "This Rich Hawai'i Super PAC Is Already Shaping A Key Statewide Election",
+            "source": "Honolulu Civil Beat",
+            "url": "https://www.civilbeat.org/2026/04/this-rich-hawai%CA%BBi-super-pac-is-already-shaping-a-key-statewide-election/",
+            "date": "2026-04-26",
+            "summary": "An investigative report on how the Pacific Resource Partnership super PAC is leveraging large independent expenditures to influence Hawaii's 2026 statewide and county races, including the lieutenant governor and Kauai mayoral contests."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Democrats criticize Iowa decision to share voter info with US Justice Department",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/05/06/democrats-criticize-iowa-decision-to-share-voter-info-with-us-justice-department/",
+            "date": "2026-05-06",
+            "summary": "Democratic candidates for statewide office criticized Secretary of State Paul Pate and the Iowa AG for handing over voter registration data, including driver's license numbers and partial Social Security numbers, to the U.S. Department of Justice."
+          },
+          {
+            "title": "Iowa voters share privacy concerns after state gives election records to the federal government",
+            "source": "KCRG",
+            "url": "https://www.kcrg.com/2026/05/07/iowa-voters-share-privacy-concerns-after-state-gives-election-records-federal-government/",
+            "date": "2026-05-07",
+            "summary": "Iowa voters express privacy concerns after the Secretary of State's office sent voter registration records, including partial Social Security and driver's license numbers, to the U.S. Department of Justice."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Friday is the deadline to request absentee ballots in Idaho ahead of 2026 primary election",
+            "source": "Idaho Capital Sun",
+            "url": "https://idahocapitalsun.com/briefs/friday-is-the-deadline-to-request-absentee-ballots-in-idaho-ahead-of-2026-primary-election/",
+            "date": "2026-05-06",
+            "summary": "Idaho voters have until 5 p.m. Friday, May 8 to pre-register online or request an absentee ballot for the May 19 primary; voters can still register in person at early voting locations or on Election Day with photo ID and proof of residence."
+          },
+          {
+            "title": "Two candidates vie for seat in Idaho 1st Congressional District Democratic primary",
+            "source": "Idaho Capital Sun",
+            "url": "https://idahocapitalsun.com/2026/05/07/two-candidates-vie-for-seat-in-idaho-1st-congressional-district-democratic-primary/",
+            "date": "2026-05-07",
+            "summary": "Democrats Brungardt and Peterson are competing in the May 19 primary for the right to challenge the Republican incumbent in Idaho's 1st Congressional District."
+          },
+          {
+            "title": "Three candidates challenge Risch in Republican primary election for U.S. Senate",
+            "source": "Idaho Capital Sun",
+            "url": "https://idahocapitalsun.com/2026/05/08/three-candidates-challenge-risch-in-republican-primary-election-for-u-s-senate/",
+            "date": "2026-05-08",
+            "summary": "Incumbent U.S. Sen. Jim Risch faces three Republican challengers (Joe Evans, Denny LaVe and Josh Roy) on the May 19 GOP primary ballot for Idaho's U.S. Senate seat."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Proposed Illinois referendum protecting redistricting paused after Supreme Court voting rights ruling weakens Civil Rights-era law",
+            "source": "ABC7 Chicago",
+            "url": "https://abc7chicago.com/post/proposed-illinois-referendum-protecting-redistricting-paused-supreme-court-voting-rights-ruling-weakens-civil-era-law/18999904/",
+            "date": "2026-04-30",
+            "summary": "Illinois Senate Democrats tabled a proposed constitutional amendment on redistricting after the U.S. Supreme Court's Louisiana v. Callais ruling, with leaders saying they need time to assess the decision's impact on minority-representation protections."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Trump-Backed Candidates Dominate Indiana Elections After Incumbents Opposed Redistricting",
+            "source": "TIME",
+            "url": "https://time.com/article/2026/05/06/indiana-elections-redistricting-trump/",
+            "date": "2026-05-06",
+            "summary": "Five Republican Indiana state senators who voted against Trump's congressional redistricting push were ousted in the May 5 primary by Trump-endorsed challengers, potentially reopening the door to a renewed redistricting effort."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Leawood pastor Adam Hamilton enters Kansas U.S. Senate race as Democrat to challenge Marshall",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-04-30/adam-hamilton-kansas-senate-roger-marshall",
+            "date": "2026-04-30",
+            "summary": "Resurrection Church pastor Adam Hamilton announced his Democratic candidacy for U.S. Senate, joining a crowded field challenging Republican incumbent Roger Marshall ahead of the August 4, 2026 primary."
+          },
+          {
+            "title": "Kansas pastor enters U.S. Senate race as Democrat, wants to give Roger Marshall an early retirement",
+            "source": "Kansas Reflector",
+            "url": "https://kansasreflector.com/2026/04/30/kansas-pastor-enters-u-s-senate-race-as-democrat-wants-to-give-roger-marshall-an-early-retirement/",
+            "date": "2026-04-30",
+            "summary": "Adam Hamilton officially launched his Democratic Senate bid, criticizing Marshall on affordability and tariffs, as up to eight Democrats compete in the August 4 primary for the Kansas Senate seat."
+          },
+          {
+            "title": "Late entry, big money — Leawood pastor Adam Hamilton upends Kansas Democratic Senate primary",
+            "source": "Johnson County Post",
+            "url": "https://johnsoncountypost.com/2026/05/06/adam-hamilton-democrat-us-senate-285725/",
+            "date": "2026-05-06",
+            "summary": "Political analysts assess Adam Hamilton's chances of flipping the Kansas Senate seat in a state that has not elected a Democratic senator since 1932."
+          }
+        ],
+        "KY": [
+          {
+            "title": "A 2026 Primary Election Guide from WKMS",
+            "source": "WKMS",
+            "url": "https://www.wkms.org/government-politics/2026-05-04/a-2026-primary-election-guide-from-wkms",
+            "date": "2026-05-04",
+            "summary": "Voter guide for Kentucky's May 19, 2026 primary, covering the open U.S. Senate race to replace retiring Mitch McConnell, the 4th congressional district race, and state legislative contests."
+          },
+          {
+            "title": "How we made Kentucky's 2026 primary election voter guide",
+            "source": "Louisville Public Media",
+            "url": "https://www.lpm.org/news/2026-05-06/how-we-made-kentuckys-2026-primary-election-voter-guide",
+            "date": "2026-05-06",
+            "summary": "LPM details the methodology behind its 2026 Kentucky primary voter guide, covering the May 19 closed primary and key races including 12 GOP and 7 Democratic candidates for U.S. Senate."
+          },
+          {
+            "title": "Kentucky's 2026 primary election voter guide",
+            "source": "WKYU",
+            "url": "https://www.wkyufm.org/news/2026-05-07/kentuckys-2026-primary-election-voter-guide",
+            "date": "2026-05-07",
+            "summary": "Statewide voter guide explaining Kentucky's closed primary system, polling hours, and candidate fields for the open Senate seat and 4th district House race ahead of the May 19 primary."
+          },
+          {
+            "title": "Early voting in NKY starts today: What you need to know",
+            "source": "LINK nky",
+            "url": "https://linknky.com/elections/2026/05/06/early-voting-in-nky-starts-today-what-you-need-to-know/",
+            "date": "2026-05-06",
+            "summary": "Northern Kentucky in-person excused absentee voting opened May 6, with no-excuse early voting May 14-16 ahead of the May 19 primary; absentee ballots must be received by 6 p.m. on Election Day."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Louisiana's start to US House redistricting riles lawmakers, voting rights crowd",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/05/09/louisiana-redistricting-5/",
+            "date": "2026-05-09",
+            "summary": "The Senate and Governmental Affairs Committee held a contentious public hearing on a new congressional map after the Supreme Court struck down the existing map; Republican proposals to eliminate one or both majority-Black districts drew protests and a NAACP leader was restrained by sergeants-at-arms."
+          },
+          {
+            "title": "Louisiana map fight erupts at Capitol after Supreme Court ruling",
+            "source": "WAFB",
+            "url": "https://www.wafb.com/2026/05/08/louisiana-map-fight-erupts-capitol-after-supreme-court-ruling/",
+            "date": "2026-05-08",
+            "summary": "Hundreds packed the State Capitol as the Senate Governmental Affairs Committee took testimony on competing congressional maps, with options including a 5-1, 6-0, or current 4-2 majority-Black configuration."
+          },
+          {
+            "title": "Senate committee to hear congressional redistricting testimony Friday",
+            "source": "Fox 8 New Orleans (WVUE)",
+            "url": "https://www.fox8live.com/2026/05/08/senate-committee-hear-congressional-redistricting-testimony-friday/",
+            "date": "2026-05-08",
+            "summary": "Preview of the Louisiana Senate Governmental Affairs Committee hearing on a new congressional map, following Gov. Landry's suspension of the May 16 U.S. House primaries after the Supreme Court's Callais ruling."
+          },
+          {
+            "title": "Louisiana used unconstitutional US House maps for past elections. Why not now?",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/05/07/louisiana-used-unconstitutional-us-house-maps-for-past-elections-why-not-now/",
+            "date": "2026-05-07",
+            "summary": "Analysis of why Louisiana's U.S. House primaries were suspended this cycle following the Supreme Court ruling on the state's congressional map, in contrast to past elections held under maps later found unconstitutional."
+          }
+        ],
+        "MA": [
+          {
+            "title": "In reversal, Mass. AG blocks legislative stipend ballot question from moving forward",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/05/07/legislative-stipend-ballot-question-mass-attorney-general",
+            "date": "2026-05-07",
+            "summary": "Massachusetts Attorney General Andrea Campbell's office notified the Secretary of State that an initiative petition to overhaul legislative stipends cannot proceed to the 2026 ballot, after a Supreme Judicial Court advisory opinion deemed it unconstitutional."
+          },
+          {
+            "title": "The 11 ballot questions Mass. voters might face",
+            "source": "Cambridge Day",
+            "url": "https://www.cambridgeday.com/2026/05/07/11-ballot-questions-mass/",
+            "date": "2026-05-07",
+            "summary": "After lawmakers let the May 6 deadline pass without acting on any of the 11 certified initiatives, supporters of measures on rent control, same-day voter registration, the income tax, public records and more must now collect additional signatures to reach the November ballot."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland Senate President Bill Ferguson faces tough race after opposing redistricting",
+            "source": "The Washington Post",
+            "url": "https://www.washingtonpost.com/politics/2026/05/09/maryland-bill-ferguson-redistricting-primary/",
+            "date": "2026-05-09",
+            "summary": "Maryland Senate President Bill Ferguson faces his most competitive primary challenge after blocking a redistricting bill backed by Gov. Moore that would have redrawn Maryland's congressional map ahead of 2026."
+          },
+          {
+            "title": "Is redistricting dead in Maryland?",
+            "source": "WTOP",
+            "url": "https://wtop.com/maryland/2026/05/is-redistricting-dead-in-maryland-this-year-yes-but-next/",
+            "date": "2026-05-07",
+            "summary": "Sen. Arthur Ellis is still pushing Senate leadership to act on a special session for redistricting, but party leaders indicate no special session or new map will occur this year for Maryland's congressional districts."
+          },
+          {
+            "title": "Endorsement snubs, rethinking redistricting, public campaign fund feuds, in political notes",
+            "source": "Maryland Matters",
+            "url": "https://marylandmatters.org/2026/05/07/endorsement-snubs-rethinking-redistricting-public-campaign-fund-feuds-in-political-notes/",
+            "date": "2026-05-07",
+            "summary": "Roundup of Maryland election developments including post-Callais redistricting reconsideration, endorsement decisions, and disputes over the state's public campaign financing system ahead of the June 23 primary."
+          },
+          {
+            "title": "Supreme Court voting rights ruling set to reshape local power from statehouses to school boards",
+            "source": "Stateline",
+            "url": "https://stateline.org/2026/05/04/supreme-court-voting-rights-ruling-set-to-reshape-local-power-from-statehouses-to-school-boards/",
+            "date": "2026-05-04",
+            "summary": "Stateline analysis of how the Callais ruling affects state and local elections, noting Maryland's just-signed Voting Rights Act of 2026 (SB 255) as a potential safeguard for local voting rights protections."
+          },
+          {
+            "title": "Maryland Passed Its State Voting Rights Act 24 Hours Before the SCOTUS Callais Decision",
+            "source": "American Democracy Minute",
+            "url": "https://www.americandemocracyminute.org/wethepeople/2026/05/06/maryland-passed-its-state-voting-rights-act-24-hours-before-the-scotus-callais-decision-will-state-vras-replace-the-federal-protections",
+            "date": "2026-05-06",
+            "summary": "Maryland's new state Voting Rights Act took effect one day before the Supreme Court's Callais ruling weakened federal racial-gerrymandering protections, raising questions about whether state VRAs can fill the gap."
+          }
+        ],
+        "ME": [
+          {
+            "title": "In-person absentee voting begins Monday ahead of Maine primary",
+            "source": "WABI",
+            "url": "https://www.wabi.tv/2026/05/08/in-person-absentee-voting-begins-monday-ahead-maine-primary/",
+            "date": "2026-05-08",
+            "summary": "In-person absentee voting for Maine's June 9, 2026 primary opens May 11; ranked-choice voting will be used for federal primaries and unenrolled voters may participate in either party primary."
+          },
+          {
+            "title": "In-person absentee voting begins Monday, May 11 for June 9 Primary Election",
+            "source": "Maine Secretary of State",
+            "url": "https://www.maine.gov/sos/news/person-absentee-voting-begins-monday-may-11-june-9-primary-election",
+            "date": "2026-05-08",
+            "summary": "Secretary of State announcement that in-person absentee voting begins May 11 and ends June 4 for the June 9 primary, with absentee ballots due by 8 p.m. on Election Day."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Election results: May 2026 special general election in Southeast Michigan",
+            "source": "ClickOnDetroit",
+            "url": "https://www.clickondetroit.com/decision-2026/2026/05/04/elections-results-may-2026-special-general-election-in-southeast-michigan/",
+            "date": "2026-05-04",
+            "summary": "Live results from the May 2026 special and general elections across Southeast Michigan, including school bond proposals and millage questions decided by voters across multiple counties."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Supreme Court guts Voting Rights Act, what it means for Minnesota",
+            "source": "Minnesota Spokesman-Recorder",
+            "url": "https://spokesman-recorder.com/2026/05/04/voting-rights-act-minnesota/",
+            "date": "2026-05-04",
+            "summary": "After the U.S. Supreme Court's 6-3 ruling in Louisiana v. Callais weakened Section 2 of the federal Voting Rights Act, Minnesota Attorney General Keith Ellison and voting-rights advocates say the state's own Voting Rights Act and same-day registration system are now even more important for protecting Minnesota voters."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Signatures submitted for Missouri initiative requiring voter approval for certain legislative changes to initiative process and voter-approved laws",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/05/05/signatures-submitted-for-missouri-initiative-requiring-voter-approval-for-certain-legislative-changes-to-initiative-process-and-voter-approved-laws/",
+            "date": "2026-05-05",
+            "summary": "The Respect Missouri Voters campaign submitted more than 367,000 signatures to the Missouri Secretary of State for a proposed constitutional amendment that would declare initiative and referendum rights fundamental and require an 80% legislative supermajority before lawmakers could refer changes to voter-approved laws back to the ballot."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Mississippi special session to focus on Supreme Court redistricting",
+            "source": "WDAM",
+            "url": "https://www.wdam.com/2026/05/06/mississippi-special-session-focus-supreme-court-redistricting/",
+            "date": "2026-05-05",
+            "summary": "Gov. Tate Reeves called a May 20 special legislative session to redraw Mississippi's state Supreme Court districts after the U.S. Supreme Court's Louisiana v. Callais ruling altered federal Voting Rights Act protections."
+          },
+          {
+            "title": "Temporary House move to Old Capitol draws mixed reactions from lawmakers",
+            "source": "WLOX",
+            "url": "https://www.wlox.com/2026/05/06/temporary-house-move-old-capitol-draws-mixed-reactions-lawmakers/",
+            "date": "2026-05-05",
+            "summary": "Mississippi House members will convene at the Old Capitol building for the May 20 redistricting special session, a decision Black lawmakers criticized as tone-deaf given the building's history with the 1890 constitution that disenfranchised Black voters."
+          },
+          {
+            "title": "Rep. Thompson to 'fight until Hell freezes over' against Miss. redistricting",
+            "source": "Action News 5",
+            "url": "https://www.actionnews5.com/2026/05/07/rep-thompson-fight-until-hell-freezes-over-against-miss-redistricting/",
+            "date": "2026-05-07",
+            "summary": "U.S. Rep. Bennie Thompson said he will fight any GOP push to redraw Mississippi's majority-Black 2nd Congressional District, calling the effort racially motivated as Republicans cite the U.S. Supreme Court's Callais decision to argue for new congressional maps."
+          },
+          {
+            "title": "Congressman Bennie Thompson calls redistricting push racially motivated",
+            "source": "WLBT",
+            "url": "https://www.wlbt.com/2026/05/08/congressman-bennie-thompson-calls-redistricting-push-racially-motivated/",
+            "date": "2026-05-07",
+            "summary": "Rep. Bennie Thompson denounced calls from state Republicans and the Trump administration to dismantle Mississippi's 2nd Congressional District, saying he will fight any redistricting plan in court as racially discriminatory."
+          }
+        ],
+        "MT": [
+          {
+            "title": "New voting rules in play as primary election begins",
+            "source": "Montana Free Press",
+            "url": "https://montanafreepress.org/2026/05/07/new-voting-rules-in-play-as-primary-election-begins/",
+            "date": "2026-05-07",
+            "summary": "As Montana's June 2 primary voting gets underway, county election administrators are walking voters through new requirements from the 2025 legislative session, including a photo ID requirement at polling places, a new mail-ballot rule that voters must write their birth year on the return envelope, and the elimination of Monday-before-Election-Day registration; multiple voting-rights lawsuits challenging the laws remain pending."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NC registration repair project has resolved 36,000 voter registrations",
+            "source": "Carolina Journal",
+            "url": "https://www.carolinajournal.com/nc-registration-repair-project-has-resolved-36000-voter-registrations/",
+            "date": "2026-05-01",
+            "summary": "The North Carolina State Board of Elections' registration repair project has resolved more than 36,000 incomplete voter registration records since launching last summer, dropping the statewide total of incomplete records from 103,329 to 66,658 by April 29."
+          }
+        ],
+        "ND": [
+          {
+            "title": "Write-in candidate could take late North Dakota legislator's spot in general election",
+            "source": "North Dakota Monitor",
+            "url": "https://northdakotamonitor.com/2026/04/27/write-in-candidate-could-take-late-north-dakota-legislators-spot-in-general-election/",
+            "date": "2026-04-27",
+            "summary": "Potential candidates to replace the late Rep. Liz Conmy as the Democratic-NPL House nominee in District 11 have until May 19 to file as a certified write-in candidate with the North Dakota Secretary of State."
+          },
+          {
+            "title": "Mail-in ballots for North Dakota June primary now available",
+            "source": "North Dakota Monitor",
+            "url": "https://northdakotamonitor.com/2026/04/30/mail-in-ballots-for-north-dakota-june-primary-now-available/",
+            "date": "2026-04-30",
+            "summary": "North Dakota election officials began mailing absentee ballots for the June 9 primary on April 30, and a stricter new deadline requires all mail-in ballots to be received by Election Day, replacing the prior postmark-and-grace-period rule."
+          },
+          {
+            "title": "New Ballot Measure Guide to Be Sent to Voters Ahead of June 9 Primary Election",
+            "source": "North Dakota Secretary of State",
+            "url": "https://www.sos.nd.gov/news/new-ballot-measure-guide-be-sent-voters-ahead-june-9-primary-election",
+            "date": "2026-04-23",
+            "summary": "The North Dakota Secretary of State announced that a ballot measure guide for statewide Measure #1 (the single-subject rule for constitutional amendments) was mailed April 24 to roughly 450,000 active voter households."
+          },
+          {
+            "title": "Five statewide candidate filing deadlines in the next two weeks",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/05/07/five-statewide-candidate-filing-deadlines-in-the-next-two-weeks/",
+            "date": "2026-05-07",
+            "summary": "Ballotpedia notes North Dakota's May 19 primary write-in candidate filing deadline among five upcoming statewide candidate filing deadlines around the country."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Nebraska's 'blue dot' becomes the center of a closely watched Democratic primary fight",
+            "source": "CNN Politics",
+            "url": "https://www.cnn.com/2026/05/09/politics/nebraska-primary-blue-dot-democrats-don-bacon",
+            "date": "2026-05-09",
+            "summary": "Ahead of Nebraska's May 12 primary, the Democratic race to replace retiring Republican Rep. Don Bacon in the 2nd District has become a fight over whether electing state Sen. John Cavanaugh would risk the state's split electoral-vote system, with rival Denise Powell arguing his departure would let the GOP-controlled legislature scrap the 'blue dot' and switch Nebraska to winner-take-all."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey election 2026: Primary voter guides, key races and more",
+            "source": "WHYY",
+            "url": "https://whyy.org/articles/new-jersey-primary-election-2026-voter-guide/",
+            "date": "2026-04-30",
+            "summary": "WHYY's voter guide previews the June 2 New Jersey primary, including the U.S. Senate race, all 12 U.S. House contests, and key voter deadlines such as the May 12 registration deadline and May 26-31 early voting window."
+          },
+          {
+            "title": "Gov. Sherrill eyes redistricting in NJ after controversial voting rights decision",
+            "source": "New Jersey Monitor",
+            "url": "https://newjerseymonitor.com/2026/05/01/sherrill-nj-redistricting/",
+            "date": "2026-05-01",
+            "summary": "Gov. Mikie Sherrill said New Jersey is considering a mid-decade congressional redistricting in response to the U.S. Supreme Court's recent ruling weakening Section 2 of the Voting Rights Act."
+          },
+          {
+            "title": "Livingston Township Sets May 12 Deadline for Primary Election Voter Registration",
+            "source": "WDHA FM",
+            "url": "https://wdhafm.com/2026/05/08/livingston-township-sets-may-12-deadline-for-primary-election-voter-registration/",
+            "date": "2026-05-08",
+            "summary": "Livingston Township and other New Jersey municipalities are reminding residents that the deadline to register to vote in the June 2 primary election is Tuesday, May 12, 2026."
+          }
+        ],
+        "NM": [
+          {
+            "title": "New Mexico Election 2026: trail notes",
+            "source": "Source New Mexico",
+            "url": "https://sourcenm.com/2026/05/08/new-mexico-election-2026-trail-notes-12/",
+            "date": "2026-05-08",
+            "summary": "Roughly 6,950 ballots had been cast in the first days of New Mexico's first semi-open primary, with about 9.5% from independent voters; six counties hit same-day registration glitches caused by state firewall settings."
+          },
+          {
+            "title": "Independent voting off to slow start in New Mexico's first semi-open primary election",
+            "source": "Albuquerque Journal",
+            "url": "https://www.abqjournal.com/news/independent-voting-off-to-slow-start-in-new-mexicos-first-semi-open-primary-election/3039444",
+            "date": "2026-05-08",
+            "summary": "Fewer than 10% of early and absentee ballots cast in the opening days of New Mexico's June 2 primary came from independent voters, even though decline-to-state voters make up over a quarter of the state's voter rolls."
+          },
+          {
+            "title": "2026 Primary Election Update",
+            "source": "Bernalillo County Clerk",
+            "url": "https://www.berncoclerk.gov/2026/05/07/2026-primary-election-update/",
+            "date": "2026-05-07",
+            "summary": "Bernalillo County Clerk Michelle Kavanaugh reports more than 21,000 absentee ballots were requested by May 5 and outlines key June 2 primary deadlines, including May 19 to request an absentee ballot and May 16 expanded early voting."
+          },
+          {
+            "title": "Early voting opens strong in Dona Ana County as New Mexico primary season begins",
+            "source": "Organ Mountain News",
+            "url": "https://www.organmountainnews.com/dona-ana-county-early-voting-update-may-8-2026/",
+            "date": "2026-05-08",
+            "summary": "Dona Ana County reports strong turnout in the first days of in-person early voting and absentee ballot returns for the June 2 New Mexico primary, the first under the state's new semi-open primary system."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Three Democrats drop out of northern Nevada races, but will remain on the primary ballot",
+            "source": "MyNews4 (KRNV Reno)",
+            "url": "https://mynews4.com/news/local/three-democrats-drop-out-of-northern-nevada-races-but-will-remain-on-the-primary-ballot-2026-midterm-election-washoe-county-registrar-voters",
+            "date": "2026-05-07",
+            "summary": "Three Democratic candidates have withdrawn from northern Nevada legislative contests but their names will still appear on the June 9 primary ballot because they exited after the March 24 candidate withdrawal deadline."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Governor Hochul Delivers Remarks on New York's Redistricting Plans Amid Trump Administration's Nationwide Gerrymandering Push",
+            "source": "Office of Governor Kathy Hochul",
+            "url": "https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-governor-hochul-delivers-remarks-new-yorks-redistricting",
+            "date": "2026-05-05",
+            "summary": "Gov. Kathy Hochul announced that New York will pursue mid-decade redistricting following the Supreme Court's Voting Rights Act ruling, while acknowledging the state's two-session constitutional amendment process limits how quickly maps can change."
+          },
+          {
+            "title": "Democrats want to redraw New York's map - their own state law may not let them",
+            "source": "Washington Times",
+            "url": "https://www.washingtontimes.com/news/2026/may/5/new-york-redraw-congressional-map-state-law-may-block-democrats-post/",
+            "date": "2026-05-05",
+            "summary": "New York's independent redistricting commission and constitutional amendment process create significant legal hurdles to any Democratic effort to redraw congressional districts in time for the 2026 midterms."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio Democrats nearly matched GOP primary turnout. Does it matter for November?",
+            "source": "Signal Ohio",
+            "url": "https://signalohio.org/ohio-democratic-turnout-rebounds-in-primary-election-does-it-matter-for-november-election/",
+            "date": "2026-05-07",
+            "summary": "Ohio Democrats requested 791,355 primary ballots versus 817,159 Republican ballots in the May 5 primary, a sharp rebound from 2022's 2-to-1 GOP advantage and the highest Democratic primary turnout in a midterm year since 2006."
+          },
+          {
+            "title": "Ohio sees small uptick in voter turnout during May primary; what to expect in November election",
+            "source": "10TV (WBNS Columbus)",
+            "url": "https://www.10tv.com/article/news/local/election-results-ohio-primary-2026-voter-turnout/530-cda13a00-e70d-4fd2-b708-795f6551be7b",
+            "date": "2026-05-07",
+            "summary": "Statewide turnout in Ohio's May 5 primary was about 22.6% of registered voters, up from 20.8% in 2022, with roughly 122,000 more votes cast even as voter rolls shrank by about 50,000."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Clackamas County voters should have received their ballots for the May 19, 2026 Primary Election",
+            "source": "Clackamas County",
+            "url": "https://www.clackamas.us/news/2026-05-07/clackamas-county-voters-should-have-received-their-ballots-for-the-may-19-2026-primary-election",
+            "date": "2026-05-07",
+            "summary": "Clackamas County Elections notified voters that ballots mailed April 29 should have arrived, and reminded those who haven't received one to contact the elections office, with ballots due back by 8 p.m. on May 19."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pennsylvania mail ballot dating rules have been in flux for years. Here is what you need to know.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/05/08/2026-primarymail-ballot-envelope-dating-explainer/",
+            "date": "2026-05-08",
+            "summary": "Pennsylvania counties currently cannot reject mail ballots that lack a proper handwritten date on the return envelope after recent state and federal court rulings, though both decisions are under appeal and election officials still recommend voters fill in the date."
+          },
+          {
+            "title": "Pa. primary election 2026: How to vote, where to vote, and everything you need to know for May 19",
+            "source": "Spotlight PA",
+            "url": "https://www.spotlightpa.org/news/2026/05/pennsylvania-primary-election-day-2026-last-minute-voting-guide-elections/",
+            "date": "2026-05-07",
+            "summary": "A guide to Pennsylvania's May 19 primary covers polling hours (7 a.m.-8 p.m.), mail ballot request deadlines (May 12), ID rules for first-time voters, and what's on the ballot, including races for governor, lieutenant governor, the entire state House, half the state Senate, and all 17 congressional districts."
+          }
+        ],
+        "SC": [
+          {
+            "title": "SC House panel approves 2-month delay in congressional primary amid redistricting push",
+            "source": "SC Daily Gazette",
+            "url": "https://scdailygazette.com/2026/05/08/sc-house-panel-approves-2-month-delay-in-congressional-primary-amid-redistricting-push/",
+            "date": "2026-05-08",
+            "summary": "A South Carolina House panel voted 3-2 along party lines to advance legislation moving the state's June 9 congressional primary to August 11 to allow time to redraw the state's seven U.S. House districts, a delay that election officials estimate would cost taxpayers at least $2.2 million."
+          },
+          {
+            "title": "White House map of SC voting lines could help Democrats, GOP leader warns",
+            "source": "SC Daily Gazette",
+            "url": "https://scdailygazette.com/2026/05/07/house-gop-releases-white-house-map-of-sc-voting-lines/",
+            "date": "2026-05-07",
+            "summary": "South Carolina House GOP leaders circulated a White House-backed congressional map that would draw U.S. Rep. Jim Clyburn out of the district he has represented for 34 years; Senate Majority Leader Shane Massey warned the map could put traditionally Republican districts in play for Democrats."
+          },
+          {
+            "title": "SC House Republicans vote to consider congressional redistricting after Trump White House pressure",
+            "source": "Post and Courier",
+            "url": "https://www.postandcourier.com/politics/sc-house-republicans-redistricting-clyburn-2026/article_d53e7706-81e2-4f88-b7d8-de5487256a16.html",
+            "date": "2026-05-06",
+            "summary": "The South Carolina House voted 87-25 along party lines to add congressional redistricting to a resolution governing what the legislature can do after the regular session ends May 14, opening the door to a mid-decade map redraw at the urging of the Trump White House."
+          }
+        ],
+        "SD": [
+          {
+            "title": "South Dakota voter registration deadline is May 18",
+            "source": "South Dakota Public Broadcasting",
+            "url": "https://www.sdpb.org/politics/2026-05-07/south-dakota-voter-registration-deadline-is-may-18",
+            "date": "2026-05-07",
+            "summary": "Secretary of State Monae Johnson reminded South Dakotans that the deadline to register to vote in the June 2 primary is 5 p.m. local time on May 18, and outlined the state and county offices and agencies where residents can register or update their information."
+          },
+          {
+            "title": "South Dakota voters reminded to register or update info by May 18 for June primary",
+            "source": "KOTA-TV",
+            "url": "https://www.kotatv.com/2026/05/06/south-dakota-voters-reminded-register-or-update-info-by-may-18-june-primary/",
+            "date": "2026-05-06",
+            "summary": "KOTA reported on the upcoming May 18 voter registration deadline for South Dakota's June 2 primary, including a reminder that under SB 175 first-time registrants must now provide proof of U.S. citizenship as part of the application."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Tennessee Republicans pass a map to break up the state's lone Democratic House seat",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/05/07/nx-s1-5815023/tennessee-redistricting-map-passage",
+            "date": "2026-05-07",
+            "summary": "Tennessee's GOP-led legislature approved a new congressional map that carves up the majority-Black 9th District in Memphis, eliminating the state's lone Democratic-held seat ahead of the 2026 elections."
+          },
+          {
+            "title": "NAACP Tennessee files lawsuit challenging redrawn US House district map",
+            "source": "Tennessee Lookout",
+            "url": "https://tennesseelookout.com/2026/05/07/naacp-tennessee-files-lawsuit-challenging-redrawn-us-house-district-map/",
+            "date": "2026-05-07",
+            "summary": "The NAACP's Tennessee chapter filed an emergency petition in Davidson County Chancery Court hours after Gov. Bill Lee signed the new map, arguing the mid-decade redistricting violates state statutory and constitutional law."
+          },
+          {
+            "title": "Tennessee lawmakers approve new House map to eliminate Democratic-held seat",
+            "source": "The Washington Post",
+            "url": "https://www.washingtonpost.com/politics/2026/05/07/tennessee-redistricting-voting-rights-black/",
+            "date": "2026-05-07",
+            "summary": "Republican lawmakers approved and Gov. Lee signed a new congressional map dividing the Memphis-based 9th District; candidates have until May 15 to qualify under the new lines."
+          },
+          {
+            "title": "Tennessee approves new congressional map in latest redistricting flurry",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/5/7/tennessee-approves-new-congressional-map-in-latest-redistricting-flurry",
+            "date": "2026-05-07",
+            "summary": "Tennessee becomes the latest state to push through a mid-decade redistricting plan, redrawing all nine U.S. House districts to favor Republicans ahead of the August primary."
+          },
+          {
+            "title": "Another legal challenge to Tennessee's new congressional map",
+            "source": "Nashville Banner",
+            "url": "https://nashvillebanner.com/2026/05/08/tennessee-congressional-map-gerrymandering-redistricting-lawsuit/",
+            "date": "2026-05-08",
+            "summary": "A coalition of voters and Democratic congressional candidates filed a federal lawsuit challenging Tennessee's new congressional map, marking the second legal challenge in two days."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Ken Paxton narrowly leads John Cornyn in new poll of Texas' Senate GOP runoff",
+            "source": "The Texas Tribune",
+            "url": "https://www.texastribune.org/2026/05/05/texas-us-senate-gop-runoff-cornyn-paxton-university-of-houston-poll-attorney-general/",
+            "date": "2026-05-05",
+            "summary": "A University of Houston poll shows Attorney General Ken Paxton leading Sen. John Cornyn 48% to 45% with 7% undecided shortly before early voting begins in the May 26 Republican primary runoff."
+          },
+          {
+            "title": "Texas' Republican Senate primary runoff statistically tied shortly before start of early voting, poll finds",
+            "source": "Houston Public Media",
+            "url": "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/05/05/550879/paxton-cornyn-texas-senate-republican-primary-runoff-poll-uh/",
+            "date": "2026-05-05",
+            "summary": "With early voting starting May 18, polling shows the Cornyn-Paxton GOP Senate runoff in a statistical dead heat ahead of the May 26 primary runoff election."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Supreme Court of Virginia strikes down redistricting amendment, keeps current maps in place",
+            "source": "Virginia Mercury",
+            "url": "https://virginiamercury.com/2026/05/08/supreme-court-of-virginia-strikes-down-redistricting-amendment-keeps-current-maps-in-place/",
+            "date": "2026-05-08",
+            "summary": "The Virginia Supreme Court voided the April 21 voter-approved redistricting amendment, ruling lawmakers violated the multistep amendment process and ordering use of existing congressional maps for 2026."
+          },
+          {
+            "title": "Court rejects Virginia redistricting in a blow to Democrats' counter to Trump, GOP",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/05/08/nx-s1-5805193/redistricting-virginia-trump-midterms",
+            "date": "2026-05-08",
+            "summary": "The Virginia Supreme Court struck down a voter-approved constitutional amendment that would have allowed mid-decade redistricting, dealing a setback to Democrats' efforts to counter GOP redistricting in other states."
+          },
+          {
+            "title": "Virginia's Supreme Court tosses voter-approved redistricting plan in blow to Democrats",
+            "source": "PBS News",
+            "url": "https://www.pbs.org/newshour/show/virginias-supreme-court-tosses-voter-approved-redistricting-plan-in-blow-to-democrats",
+            "date": "2026-05-08",
+            "summary": "The state's high court found the legislature violated procedural rules for ballot amendments and ordered Virginia to keep using its existing congressional districts for the 2026 elections."
+          },
+          {
+            "title": "Expanded voting rights for former felons in Virginia set to begin next month",
+            "source": "WTOP News",
+            "url": "https://wtop.com/virginia/2026/05/expanded-voting-rights-for-former-felons-in-virginia-set-to-begin-next-month/",
+            "date": "2026-05-05",
+            "summary": "Beginning June 1, thousands of Virginians with felony convictions will be able to register to vote without first needing the governor's approval, following a court ruling that found the state's restoration process violated a Civil War-era law."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Candidate filing begins, kicking off Washington election season",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/05/04/washington-state-election-season-candidate-filing-begins/",
+            "date": "2026-05-04",
+            "summary": "Official Candidate Filing Week opened May 4 in Washington, with candidates filing for federal, state, judicial and local races ahead of the August 4 primary and November 3 general election."
+          },
+          {
+            "title": "2026 Candidate Filing Week underway",
+            "source": "The Daily World",
+            "url": "https://www.thedailyworld.com/2026/05/05/2026-candidate-filing-week-underway/",
+            "date": "2026-05-05",
+            "summary": "Washington candidates have through 5 p.m. Friday May 8 to file declarations of candidacy with the Secretary of State for federal, state and judicial offices appearing on the August primary ballot."
+          },
+          {
+            "title": "Controversial ex-WA lawmaker attempts comeback for Republican-held seat",
+            "source": "Washington State Standard",
+            "url": "https://washingtonstatestandard.com/2026/04/27/controversial-ex-wa-lawmaker-attempts-comeback-for-republican-held-seat/",
+            "date": "2026-04-27",
+            "summary": "Former state Rep. Robert Sutherland is running to succeed retiring Rep. Carolyn Eslick in the 39th Legislative District, one of several intra-party matchups expected on Washington's 2026 ballot."
+          }
+        ],
+        "WV": [
+          {
+            "title": "More than 48,000 ballots already cast in WV as early voting is slated to end at 5 p.m. on Saturday",
+            "source": "West Virginia Watch",
+            "url": "https://westvirginiawatch.com/briefs/more-than-48000-ballots-already-cast-in-wv-as-early-voting-is-slated-end-at-5-p-m-on-saturday/",
+            "date": "2026-05-08",
+            "summary": "More than 48,200 West Virginia voters had cast ballots in the first 10 days of early voting ahead of the May 12 primary, with new photo ID requirements in effect for the first time."
+          },
+          {
+            "title": "Early voting continues for West Virginia primary election",
+            "source": "WVVA",
+            "url": "https://www.wvva.com/2026/05/06/early-voting-continues-west-virginia-primary-election/",
+            "date": "2026-05-06",
+            "summary": "Early in-person voting in West Virginia's May 12 primary continues through May 9, with polling places open in all 55 counties; voters must show photo ID under new rules."
+          },
+          {
+            "title": "Here's what more than 200 West Virginians say they want to hear from candidates this election season",
+            "source": "Mountain State Spotlight",
+            "url": "https://mountainstatespotlight.org/2026/05/06/primary-election-roundtable/",
+            "date": "2026-05-06",
+            "summary": "A Mountain State Spotlight survey of more than 200 voters ahead of the May 12 primary found data centers, schools and the economy among the top issues voters want candidates to address."
+          },
+          {
+            "title": "West Virginia Election Day Happens Tuesday",
+            "source": "The Intelligencer",
+            "url": "https://www.theintelligencer.net/news/top-headlines/2026/05/west-virginia-election-day-happens-tuesday/",
+            "date": "2026-05-08",
+            "summary": "West Virginia's primary election is Tuesday, May 12, with U.S. Senate, House, state legislative and county races on the ballot and new photo ID requirements in effect."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Election time",
+            "source": "Wyoming Pioneer",
+            "url": "https://www.wyopio.com/story/2026/05/07/news/election-time/3741.html",
+            "date": "2026-05-07",
+            "summary": "Hulett's municipal election will be held Tuesday, May 12, with voters choosing a mayor and two council members; the article also previews the upcoming statewide candidate filing period that opens May 14."
+          }
+        ]
+      }
     }
   ]
 }
