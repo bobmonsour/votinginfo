@@ -254,6 +254,74 @@ h3 {
 	color: var(--gray-700);
 }
 
+/* === Home News Block === */
+.home-news {
+	background: var(--white);
+	border-radius: var(--radius);
+	border: 1px solid var(--gray-300);
+	border-left: 5px solid var(--navy);
+	box-shadow: var(--shadow-sm);
+	padding: 1.25rem 1.5rem;
+	margin: 0 0 1.5rem;
+}
+
+.home-news h2 {
+	font-size: 1.15rem;
+	margin: 0 0 0.5rem;
+}
+
+.home-news .news-list li {
+	padding: 0.6rem 0;
+}
+
+.home-news .all-news-link {
+	font-weight: 600;
+}
+
+/* === State Abbreviation Strip === */
+.state-abbr-strip {
+	margin: 0 0 1.5rem;
+}
+
+.state-abbr-strip-intro {
+	font-size: 0.95rem;
+	color: var(--gray-700);
+	margin: 0 0 0.5rem;
+}
+
+.state-abbr-strip ul {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.35rem;
+	padding: 0;
+	margin: 0;
+}
+
+.state-abbr-strip a {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 44px;
+	min-height: 44px;
+	padding: 0 0.5rem;
+	background: var(--white);
+	border: 1px solid var(--gray-300);
+	border-radius: var(--radius);
+	color: var(--navy);
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 0.9rem;
+	transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.state-abbr-strip a:hover,
+.state-abbr-strip a:focus-visible {
+	background: var(--navy);
+	border-color: var(--navy);
+	color: var(--white);
+}
+
 /* === Controls === */
 .controls {
 	margin-bottom: 1.5rem;

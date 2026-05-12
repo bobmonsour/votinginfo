@@ -23,6 +23,34 @@ export default function (eleventyConfig) {
 		return items.slice(0, 4);
 	});
 
+	eleventyConfig.addFilter("recentNewsAll", (runs, states, limit) => {
+		const slugMap = {};
+		for (const s of states || []) {
+			slugMap[s.abbreviation] = (s.state || "").toLowerCase().replace(/\s+/g, "-");
+		}
+		const seen = new Set();
+		const items = [];
+		const reversedRuns = [...(runs || [])].reverse();
+		for (const run of reversedRuns) {
+			for (const abbr of Object.keys(run.states || {})) {
+				if (!slugMap[abbr]) continue;
+				for (const item of run.states[abbr]) {
+					const key = (item.url || "") + "|" + (item.title || "");
+					if (!seen.has(key)) {
+						seen.add(key);
+						items.push({
+							...item,
+							stateAbbr: abbr,
+							stateSlug: slugMap[abbr],
+						});
+					}
+				}
+			}
+		}
+		items.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+		return limit ? items.slice(0, limit) : items;
+	});
+
 	eleventyConfig.addFilter("allNewsCount", (runs, abbr) => {
 		const seen = new Set();
 		let count = 0;

@@ -1,0 +1,5 @@
+<li>
+	<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+	<span class="news-meta"><a href="/states/{{ item.stateSlug }}/all-news/">{{ item.stateAbbr }}</a> · {{ item.source }} · {{ item.date | formatDate }}</span>
+	<p>{{ item.summary }}</p>
+</li>

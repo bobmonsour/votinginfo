@@ -6,6 +6,19 @@ description: "Voter registration and voting requirements for all 50 US states an
 <div class="home">
 	<p class="intro">Voter registration and voting requirements for all 50 US states and Washington DC. Search by state name or use the filters below.</p>
 
+	{% set recentItems = stateNews.runs | recentNewsAll(states, 5) %}
+	{% if recentItems.length %}
+	<section class="home-news" aria-labelledby="home-news-heading">
+		<h2 id="home-news-heading">Recent News <a href="/all-news/feed.xml" class="rss-icon" title="RSS feed for all voting news" aria-label="RSS feed"><img src="/img/rss-icon.svg" alt="RSS" width="24" height="24"></a></h2>
+		<ul class="news-list">
+			{%- for item in recentItems %}
+			{% include "news-item.njk" %}
+			{%- endfor %}
+		</ul>
+		<a href="/all-news/" class="all-news-link">More news &rarr;</a>
+	</section>
+	{% endif %}
+
 	<div class="controls">
 		<div class="search-wrap">
 			<label for="state-search" class="sr-only">Search states</label>
@@ -19,6 +32,15 @@ description: "Voter registration and voting requirements for all 50 US states an
 			<button class="filter-btn" data-filter="excuse-required" aria-pressed="false">Excuse Required Mail-In</button>
 		</div>
 	</div>
+
+	<nav class="state-abbr-strip" aria-labelledby="state-abbr-strip-label">
+		<p id="state-abbr-strip-label" class="state-abbr-strip-intro">Click a state abbreviation to see voting news for that state.</p>
+		<ul>
+			{%- for s in states | sort(false, false, "abbreviation") %}
+			<li><a href="/states/{{ s.state | slug }}/all-news/" aria-label="Voting news for {{ s.state }}">{{ s.abbreviation }}</a></li>
+			{%- endfor %}
+		</ul>
+	</nav>
 
 	<div class="result-row">
 		<p class="result-count" aria-live="polite">Showing <span id="visible-count">{{ states | length }}</span> of {{ states | length }} (50 states + DC)</p>
