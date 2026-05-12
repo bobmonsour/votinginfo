@@ -10,28 +10,31 @@
 			<span class="card-abbr">{{ state.abbreviation }}</span>
 		</h2>
 	</div>
-	<div class="card-badges">
-		<span class="badge {{ 'badge-yes' if state.sameDayRegistration else 'badge-no' }}">{{ "✓" if state.sameDayRegistration else "✗" }} Same-Day</span>
-		<span class="badge {{ 'badge-yes' if state.registrationMethods.online else 'badge-no' }}">{{ "✓" if state.registrationMethods.online else "✗" }} Online</span>
-		<span class="badge {{ 'badge-yes' if state.earlyVoting.available else 'badge-no' }}">{{ "✓" if state.earlyVoting.available else "✗" }} Early</span>
-		{% if state.mailInVoting.noExcuseRequired %}
-		<span class="badge badge-yes">✓ No-Excuse Mail-In</span>
-		{% elif state.mailInVoting.available %}
-		<span class="badge badge-no">✗ Excuse Required Mail-In</span>
-		{% else %}
-		<span class="badge badge-no">✗ Mail-In</span>
-		{% endif %}
-	</div>
-	<p class="card-deadline"><strong>Deadline:</strong> {{ state.registrationDeadline }}</p>
+	<dl class="card-key-facts">
+		<dt>Registration Deadline</dt>
+		<dd>{{ state.registrationDeadline }}</dd>
+		<dt>Same-Day Registration</dt>
+		<dd>{{ "Yes" if state.sameDayRegistration else "No" }}</dd>
+		<dt>Online Registration</dt>
+		<dd>{{ "Yes" if state.registrationMethods.online else "No" }}</dd>
+		<dt>Early Voting</dt>
+		<dd>{{ "Yes" if state.earlyVoting.available else "No" }}</dd>
+		<dt>Mail-In Voting</dt>
+		<dd>{% if state.mailInVoting.noExcuseRequired %}No excuse required{% elif state.mailInVoting.available %}Excuse required{% else %}No{% endif %}</dd>
+	</dl>
 	<div class="card-details">
 		<dl>
 			<dt>ID to Vote</dt>
 			<dd>{{ state.idRequirements.toVote }}</dd>
-			<dt>Early Voting</dt>
+			<dt>Early Voting Details</dt>
 			<dd>{{ state.earlyVoting.details }}</dd>
-			<dt>Mail-In Voting</dt>
+			<dt>Mail-In Voting Details</dt>
 			<dd>{{ state.mailInVoting.details }}</dd>
 		</dl>
-		<a href="/states/{{ state.state | slug }}/" class="card-full-link">Full details &rarr;</a>
 	</div>
+	<div class="card-external-links">
+		<a href="{{ state.officialUrl }}" class="card-external-link" target="_blank" rel="noopener noreferrer">Official Election Website &rarr;</a>
+		<a href="https://www.vote.org/state/{{ state.state | slug }}/" class="card-external-link" target="_blank" rel="noopener noreferrer">Tools at Vote.org: {{ state.abbreviation }} &rarr;</a>
+	</div>
+	<a href="/states/{{ state.state | slug }}/" class="card-full-link">Full details &rarr;</a>
 </div>
