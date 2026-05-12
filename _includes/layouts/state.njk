@@ -149,7 +149,7 @@ layout: layouts/base.njk
 					{%- endfor %}
 				</ul>
 				{% if stateNews.runs | allNewsCount(state.abbreviation) > 4 %}
-				<a href="/states/{{ state.state | slug }}/all-news/" class="back-btn">View All News &rarr;</a>
+				<a href="/states/{{ state.state | slug }}/all-news/" class="back-btn">View All News for {{ state.state }} &rarr;</a>
 			{% endif %}
 			</section>
 			{% endif %}
