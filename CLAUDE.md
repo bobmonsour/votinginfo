@@ -26,27 +26,27 @@ This is a static site built with **Eleventy 3** (Nunjucks templates) that provid
 
 Eleventy reads these at build time and feeds them into these template paths:
 
-1. **Home page** (`content/index.njk`) — iterates all 51 states, rendering `_includes/state-card.njk` for each. Each card embeds key data as `data-*` attributes on the DOM element for client-side filtering.
-2. **State detail pages** (`content/states.njk`) — uses Eleventy pagination with `size: 1` to generate 51 pages at `/states/{abbr}/`, each rendered with `_includes/layouts/state.njk`.
+1. **Home page** (`content/index.njk`) — editorial layout in this order: masthead (title + lede + run stats), Recent News grid (top items from the latest research run), a "Browse news by state" A–Z rail linking to each state's `#recent-news`, then the by-state section with search + filter controls, a result-row showing the count and a "Last updated" date (derived from `latestVerified`), an inline "Jump to a state" A–Z rail, and a card grid that iterates all 51 states using `_includes/state-card.njk`. Each card embeds key data as `data-*` attributes on the DOM element for client-side filtering.
+2. **State detail pages** (`content/states.njk`) — uses Eleventy pagination with `size: 1` to generate 51 pages at `/states/{abbr}/`, each rendered with `_includes/layouts/state.njk`. The Sources section was removed during the home redesign since every state had the same two-item list.
 3. **Glossary page** (`content/glossary.njk`) — definitions of voting-related terms used across the site.
 4. **Change log page** (`content/changes.njk`) — per-state change tracking with "By State" and "By Date" toggle views.
 5. **About page** (`content/about.njk`) — site background and research methodology.
 
 ### Client-side filtering
 
-`public/js/filter.js` provides search and filtering on the home page without any network calls. It reads `data-*` attributes on `.state-card` elements, combines text search (by state name/abbreviation) with toggle filters using AND logic, and sets `card.hidden` to control visibility. The visible count updates via an `aria-live` region.
+`public/js/filter.js` provides search and filtering on the home page without any network calls. It reads `data-*` attributes on `.state-card` elements, combines text search (by state name/abbreviation) with toggle filters using AND logic, and sets `card.hidden` to control visibility. The visible count updates via an `aria-live` region. The inline "Jump to a state" rail (`.inline-rail`) is hidden whenever any filter or search query is active so the rail can't link to hidden cards.
 
 ### Eleventy config
 
-In `eleventy.config.js`: input is `content/`, includes are `_includes/`, data is `_data/`, output is `_site/`. The `public/` directory is copied through as static assets. Custom Nunjucks filters: `lower` (lowercase strings) and `formatDate` (converts `YYYY-MM-DD` to `Mon D, YYYY` format).
+In `eleventy.config.js`: input is `content/`, includes are `_includes/`, data is `_data/`, output is `_site/`. The `public/` directory is copied through as static assets. Custom Nunjucks filters include `lower`, `slug`, `formatDate` (converts `YYYY-MM-DD` to `Mon D, YYYY`), `rssDate`, `monthLabel`, `groupByDate`, and a family of news/data helpers consumed by the home page: `recentNews` (per-state items), `recentNewsAll` (deduped + sorted across all runs/states with optional limit), `latestRunNews` / `latestRunAbbrs` / `latestRunCount` (items from the most recent run only), `allNewsCount`, and `latestVerified` (the max `lastVerified` date across states, used for the home-page "Last updated" stamp).
 
 ### Recent news
 
-`_data/stateNews.json` stores news items gathered by the voting-research skill. It has a `runs` array; each run has a `date` and a `states` object keyed by abbreviation, where each state holds up to 5 news items with `title`, `source`, `url`, `date`, and `summary`. State detail pages render a "Recent News" section (id `recent-news`) between Sources and Recent Legislation, showing items from the latest run. The section is hidden for states with no news. Styled with `.news-list` (vertical list, bold title links, small gray meta line, normal summary text).
+`_data/stateNews.json` stores news items gathered by the voting-research skill. It has a `runs` array; each run has a `date` and a `states` object keyed by abbreviation, where each state holds up to 5 news items with `title`, `source`, `url`, `date`, and `summary`. State detail pages render a "Recent News" section (id `recent-news`) between Additional Notes and Recent Legislation, showing items from the latest run. The section is hidden for states with no news. The home page also surfaces the latest run's news at the top in a `.news-grid` block. The shared `_includes/news-item.njk` partial renders each item for both the home page block and the All News page so the markup stays in sync.
 
 ### Legislation tracking
 
-Each state entry has `recentLegislation` and `pendingLegislation` arrays. Each item has `bill`, `year`, `description`, `status`, `dateAdded`, and `active` (boolean toggle for display). State detail pages (`_includes/layouts/state.njk`) conditionally render these as sections between Recent News and Additional Notes.
+Each state entry has `recentLegislation` and `pendingLegislation` arrays. Each item has `bill`, `year`, `description`, `status`, `dateAdded`, and `active` (boolean toggle for display). State detail pages (`_includes/layouts/state.njk`) conditionally render these as sections after Recent News, in the order Recent Legislation then Pending Legislation, just before the Change Log.
 
 ### Navigation
 
@@ -70,4 +70,4 @@ State cards and detail pages show flag images. The 50 states use `flagcdn.com/w4
 
 ### CSS
 
-Vanilla CSS in `public/css/style.css` using custom properties (e.g. `--navy`, `--green`, `--radius`). Mobile-first responsive: single column cards → 2-col at 640px → auto-fill grid at 1024px. State detail uses flexbox column→row with a sticky sidebar on desktop.
+Vanilla CSS in `public/css/style.css` using custom properties. Two overlapping token sets coexist: the original UI tokens (`--navy`, `--green`, `--red`, `--gray-*`, `--radius`) and a "Home redesign tokens" block (`--ink*`, `--paper*`, `--rule*`, `--accent` burnt orange, `--good*`, `--bad*`) used by the editorial layout. Typography uses three families: `--font-serif` (Source Serif 4) for headlines and pull quotes, `--font-sans` (IBM Plex Sans) for body and UI chrome, and `--font-mono` (IBM Plex Mono) for badges, abbreviations, and section eyebrows. Mobile-first responsive: single column cards → 2-col at 640px → auto-fill grid at 1024px (min card width `--card-min`, 320px). State detail uses flexbox column→row with a sticky sidebar on desktop.
