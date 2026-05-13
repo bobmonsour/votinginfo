@@ -77,6 +77,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -163,6 +168,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -454,6 +464,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -544,6 +559,11 @@
       },
       {
         "date": "2026-05-05",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -846,6 +866,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -947,6 +972,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1045,6 +1075,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1150,6 +1185,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1244,6 +1284,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1357,6 +1402,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1587,6 +1637,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1704,6 +1759,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1799,6 +1859,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1897,6 +1962,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -1932,7 +2002,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://elections.maryland.gov/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-12",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -1980,9 +2050,28 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent Legislation",
+        "description": "Added SB 255 (Maryland Voting Rights Act of 2026) signed Apr 28, 2026 per Gov. Moore press release and multi-source coverage"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "SB 255 (Maryland Voting Rights Act of 2026)",
+        "year": 2026,
+        "description": "Prohibits counties and municipalities from using electoral methods that dilute the votes of a protected class (race, color, or language-minority group). Provides remedies including injunctive relief and damages. Applies to local elections only.",
+        "status": "Signed by Gov. Wes Moore April 28, 2026; emergency bill, took effect immediately upon signature",
+        "dateAdded": "2026-05-12",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -2175,6 +2264,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2256,6 +2350,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2437,6 +2536,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2472,7 +2576,7 @@
       "Proof of residency for late registration"
     ],
     "officialUrl": "https://sosmt.gov/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-12",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2530,6 +2634,16 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent Legislation",
+        "description": "Updated SB 490 status to reflect May 11, 2026 Montana First Judicial District Court ruling enjoining the law (trial set for August 2026)"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2545,7 +2659,7 @@
         "bill": "SB 490",
         "year": 2025,
         "description": "Restricts Election Day registration to 8 AM-noon (previously all day); eliminates Monday-before-election registration, moving late deadline to 5 PM Saturday before election day",
-        "status": "Signed May 5, 2025; preliminary injunction granted Feb 13, 2026; litigation ongoing",
+        "status": "Signed May 5, 2025; preliminary injunction granted Feb 13, 2026; Montana First Judicial District Court enjoined SB 490 from taking effect on May 11, 2026 (Lewis & Clark County); trial scheduled August 2026",
         "dateAdded": "2026-03-13",
         "active": true
       },
@@ -2638,6 +2752,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2728,6 +2847,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3026,6 +3150,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3111,6 +3240,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3278,6 +3412,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3369,6 +3508,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3558,6 +3702,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3639,6 +3788,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3807,6 +3961,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3897,6 +4056,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4000,6 +4164,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -4100,6 +4269,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -4186,6 +4360,11 @@
       },
       {
         "date": "2026-05-05",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4288,6 +4467,11 @@
       },
       {
         "date": "2026-05-05",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4393,6 +4577,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -4482,6 +4671,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4574,6 +4768,11 @@
       },
       {
         "date": "2026-05-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4672,6 +4871,11 @@
         "date": "2026-05-05",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -4765,6 +4969,11 @@
         "date": "2026-05-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -4850,6 +5059,11 @@
       },
       {
         "date": "2026-05-05",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-12",
         "field": "Recent News",
         "description": "Added recent news items"
       }
