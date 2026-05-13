@@ -243,7 +243,13 @@ After all file changes are complete:
 
 1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, and any report under `research/`).
 2. Commit with a descriptive message, e.g. `Research run: data verification and news update for YYYY-MM-DD` (full run), `Research run: requirements update for YYYY-MM-DD` (requirements update), or `Research run: news update for YYYY-MM-DD` (news only).
-3. Do **not** merge into main or deploy. Tell the user the branch is ready for review and suggest next steps:
-   - Review the changes: `git diff main..research/YYYY-MM-DD`
-   - If satisfied, merge and deploy: `git checkout main && git merge research/YYYY-MM-DD && npm run deploy`
-   - If not satisfied, discard: `git checkout main && git branch -D research/YYYY-MM-DD`
+3. Do **not** merge into main, push, or deploy. Tell the user the branch is ready for review and present the following next-step options so they can pick one:
+   - **Review the changes:** `git diff main..research/YYYY-MM-DD`
+   - **If satisfied — merge into main, push, and delete the research branch:**
+     1. `git checkout main`
+     2. `git merge research/YYYY-MM-DD`
+     3. `git push origin main`
+     4. `git branch -d research/YYYY-MM-DD` (use `-D` only if `-d` refuses)
+   - **If not satisfied — discard the branch:** `git checkout main && git branch -D research/YYYY-MM-DD`
+
+   Present these as suggestions only. Do not run any of them yourself unless the user explicitly asks.
