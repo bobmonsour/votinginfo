@@ -51,6 +51,52 @@ export default function (eleventyConfig) {
 		return limit ? items.slice(0, limit) : items;
 	});
 
+	eleventyConfig.addFilter("latestVerified", (states) => {
+		let max = "";
+		for (const s of states || []) {
+			if (s.lastVerified && s.lastVerified > max) max = s.lastVerified;
+		}
+		return max;
+	});
+
+	eleventyConfig.addFilter("latestRunNews", (runs, states, limit) => {
+		const slugMap = {};
+		for (const s of states || []) {
+			slugMap[s.abbreviation] = (s.state || "").toLowerCase().replace(/\s+/g, "-");
+		}
+		const latest = (runs || [])[((runs || []).length || 1) - 1];
+		if (!latest) return [];
+		const items = [];
+		for (const abbr of Object.keys(latest.states || {})) {
+			if (!slugMap[abbr]) continue;
+			for (const item of latest.states[abbr]) {
+				items.push({
+					...item,
+					stateAbbr: abbr,
+					stateSlug: slugMap[abbr],
+				});
+			}
+		}
+		items.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+		return limit ? items.slice(0, limit) : items;
+	});
+
+	eleventyConfig.addFilter("latestRunAbbrs", (runs) => {
+		const latest = (runs || [])[((runs || []).length || 1) - 1];
+		if (!latest) return [];
+		return Object.keys(latest.states || {});
+	});
+
+	eleventyConfig.addFilter("latestRunCount", (runs) => {
+		const latest = (runs || [])[((runs || []).length || 1) - 1];
+		if (!latest) return 0;
+		let count = 0;
+		for (const abbr of Object.keys(latest.states || {})) {
+			count += (latest.states[abbr] || []).length;
+		}
+		return count;
+	});
+
 	eleventyConfig.addFilter("allNewsCount", (runs, abbr) => {
 		const seen = new Set();
 		let count = 0;

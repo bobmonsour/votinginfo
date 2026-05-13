@@ -1,40 +1,58 @@
-<div class="state-card" data-state="{{ state.state | lower }}" data-abbr="{{ state.abbreviation | lower }}" data-same-day="{{ state.sameDayRegistration }}" data-online="{{ state.registrationMethods.online }}" data-early="{{ state.earlyVoting.available }}" data-no-excuse="{{ state.mailInVoting.noExcuseRequired }}" data-excuse-required="{{ state.mailInVoting.available and not state.mailInVoting.noExcuseRequired }}">
-	<div class="card-header">
-		<h2 class="card-title">
-			{% if state.abbreviation == "DC" %}
-			<img class="state-flag" src="/img/flags/dc.svg" alt="{{ state.state }} flag" loading="lazy" width="36" height="24">
-			{% else %}
-			<img class="state-flag" src="https://flagcdn.com/w40/us-{{ state.abbreviation | lower }}.png" alt="{{ state.state }} flag" loading="lazy" width="40" height="24">
-			{% endif %}
-			<a href="/states/{{ state.state | slug }}/">{{ state.state }}</a>
-			<span class="card-abbr">{{ state.abbreviation }}</span>
-		</h2>
+<article class="state-card" id="states-{{ state.abbreviation | lower }}"
+	data-state="{{ state.state | lower }}"
+	data-abbr="{{ state.abbreviation | lower }}"
+	data-same-day="{{ state.sameDayRegistration }}"
+	data-online="{{ state.registrationMethods.online }}"
+	data-early="{{ state.earlyVoting.available }}"
+	data-no-excuse="{{ state.mailInVoting.noExcuseRequired }}"
+	data-excuse-required="{{ state.mailInVoting.available and not state.mailInVoting.noExcuseRequired }}">
+	<div class="card-head">
+		{% if state.abbreviation == "DC" %}
+		<img class="flag" src="/img/flags/dc.svg" alt="{{ state.state }} flag" loading="lazy" width="36" height="24">
+		{% else %}
+		<img class="flag" src="https://flagcdn.com/w40/us-{{ state.abbreviation | lower }}.png" alt="{{ state.state }} flag" loading="lazy" width="36" height="24">
+		{% endif %}
+		<div class="title-stack">
+			<h3><a href="/states/{{ state.state | slug }}/">{{ state.state }}</a></h3>
+			<span class="abbr">{{ state.abbreviation }}</span>
+		</div>
 	</div>
-	<dl class="card-key-facts">
-		<dt>Registration Deadline</dt>
-		<dd>{{ state.registrationDeadline }}</dd>
-		<dt>Same-Day Registration</dt>
-		<dd>{{ "Yes" if state.sameDayRegistration else "No" }}</dd>
-		<dt>Online Registration</dt>
-		<dd>{{ "Yes" if state.registrationMethods.online else "No" }}</dd>
-		<dt>Early Voting</dt>
-		<dd>{{ "Yes" if state.earlyVoting.available else "No" }}</dd>
-		<dt>Mail-In Voting</dt>
-		<dd>{% if state.mailInVoting.noExcuseRequired %}No excuse required{% elif state.mailInVoting.available %}Excuse required{% else %}No{% endif %}</dd>
-	</dl>
-	<div class="card-details">
-		<dl>
-			<dt>ID to Vote</dt>
+
+	<div class="badges">
+		<span class="badge {{ 'yes' if state.sameDayRegistration else 'no' }}"><span class="glyph">{{ '✓' if state.sameDayRegistration else '✕' }}</span> Same-day</span>
+		<span class="badge {{ 'yes' if state.registrationMethods.online else 'no' }}"><span class="glyph">{{ '✓' if state.registrationMethods.online else '✕' }}</span> Online</span>
+		<span class="badge {{ 'yes' if state.earlyVoting.available else 'no' }}"><span class="glyph">{{ '✓' if state.earlyVoting.available else '✕' }}</span> Early</span>
+		{% if state.mailInVoting.noExcuseRequired %}
+		<span class="badge yes"><span class="glyph">✓</span> No-excuse mail-in</span>
+		{% elif state.mailInVoting.available %}
+		<span class="badge warn"><span class="glyph">✓</span> Excuse req. mail-in</span>
+		{% else %}
+		<span class="badge no"><span class="glyph">✕</span> No mail-in</span>
+		{% endif %}
+	</div>
+
+	<div class="deadline">
+		<span class="label">Registration Deadline</span>
+		<span class="value">{{ state.registrationDeadline }}</span>
+	</div>
+
+	<dl>
+		<div>
+			<dt>ID to vote</dt>
 			<dd>{{ state.idRequirements.toVote }}</dd>
-			<dt>Early Voting Details</dt>
+		</div>
+		<div>
+			<dt>Early voting</dt>
 			<dd>{{ state.earlyVoting.details }}</dd>
-			<dt>Mail-In Voting Details</dt>
+		</div>
+		<div>
+			<dt>Mail-in voting</dt>
 			<dd>{{ state.mailInVoting.details }}</dd>
-		</dl>
+		</div>
+	</dl>
+
+	<div class="footer">
+		<a href="/states/{{ state.state | slug }}/">Details<span class="arrow">→</span></a>
+		<a href="/states/{{ state.state | slug }}/#recent-news">News<span class="arrow">→</span></a>
 	</div>
-	<div class="card-external-links">
-		<a href="{{ state.officialUrl }}" class="card-external-link" target="_blank" rel="noopener noreferrer">Official Election Website &rarr;</a>
-		<a href="https://www.vote.org/state/{{ state.state | slug }}/" class="card-external-link" target="_blank" rel="noopener noreferrer">Tools at Vote.org: {{ state.abbreviation }} &rarr;</a>
-	</div>
-	<a href="/states/{{ state.state | slug }}/" class="card-full-link">Full details &rarr;</a>
-</div>
+</article>

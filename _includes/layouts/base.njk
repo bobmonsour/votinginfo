@@ -8,6 +8,9 @@
   <meta property="og:image" content="https://usvoting.info/img/og-image.png">
   <meta name="generator" content="{{ eleventy.generator }}">
 	<link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400;1,8..60,500&display=swap">
 	<link rel="stylesheet" href="/css/style.css">
   <!-- Fathom - beautiful, simple website analytics -->
   <script src="https://cdn.usefathom.com/script.js" data-site="OFSUUUEW" defer></script>
@@ -17,16 +20,16 @@
 	<a class="skip-link" href="#main-content">Skip to main content</a>
 	<header class="site-header">
 		<div class="container">
-			<a href="/" class="site-title">US Voting Information</a>
+			<a href="/" class="site-title">US Voting Info<span class="dot">.</span></a>
 			<button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Menu">
 				<span class="nav-toggle-icon"></span>
 			</button>
-			<nav id="main-nav" aria-label="Main navigation">
+			<nav id="main-nav" class="site-nav" aria-label="Main navigation">
 				<a href="/">Home</a>
-				<a href="/all-news/">All News</a>
-				<a href="/about/">About</a>
+				<a href="/all-news/">News</a>
 				<a href="/glossary/">Glossary</a>
 				<a href="/change-log/">Change Log</a>
+				<a href="/about/">About</a>
 			</nav>
 			<script>
 			(function(){
@@ -56,15 +59,30 @@
 	</div>
 	<script>if(sessionStorage.getItem('bannerDismissed'))document.getElementById('site-banner').remove()</script>
 	#}
-	<main id="main-content" class="container">
+	<main id="main-content"{% if not fullBleed %} class="container"{% endif %}>
 		{{ content | safe }}
 	</main>
 	<footer class="site-footer">
 		<div class="container">
-			<p><strong>Disclaimer:</strong> This site is for informational purposes only. Voter registration and voting requirements change frequently. Always verify current requirements with your <a href="https://www.usa.gov/election-office" target="_blank" rel="noopener">state or local election office</a>.</p>
-			<p>Data last reviewed: February 2026. Sources include <a href="https://www.ncsl.org/" target="_blank" rel="noopener">NCSL</a>, <a href="https://www.vote.org/" target="_blank" rel="noopener">Vote.org</a>, and official state election websites.</p>
-
-    <p><a href="/about/" target="_blank" rel="noopener">About this site</a> | <a href="/change-log/" target="_blank" rel="noopener">Change Log</a> | Built by <a href="https://bobmonsour.com" target="_blank" rel="noopener">Bob Monsour</a> and <a href="https://claude.com/product/claude-code" target="_blank" rel="noopener">Claude Code</a> with <a href="https://11ty.dev" target="_blank" rel="noopener">Eleventy</a> and hosted on <a href="https://cloudflare.com/" target="_blank" rel="noopener">Cloudflare</a>.</p>
+			<div class="colophon">
+				<span class="brand">US Voting Info</span>
+				An independent reference for voter registration and voting requirements in the 50 states and Washington, D.C. Not affiliated with any state, party, or campaign. Built by <a href="https://bobmonsour.com" target="_blank" rel="noopener">Bob Monsour</a> and <a href="https://claude.com/product/claude-code" target="_blank" rel="noopener">Claude Code</a> with <a href="https://11ty.dev" target="_blank" rel="noopener">Eleventy</a>, hosted on <a href="https://cloudflare.com/" target="_blank" rel="noopener">Cloudflare</a>.
+			</div>
+			<div>
+				<h4>Site</h4>
+				<a href="/">Home</a>
+				<a href="/all-news/" target="_blank" rel="noopener">All news</a>
+				<a href="/glossary/" target="_blank" rel="noopener">Glossary</a>
+				<a href="/change-log/" target="_blank" rel="noopener">Change log</a>
+				<a href="/about/" target="_blank" rel="noopener">About</a>
+			</div>
+			<div>
+				<h4>Sources</h4>
+				<a href="https://www.usa.gov/election-office" target="_blank" rel="noopener">State election offices</a>
+				<a href="https://www.ncsl.org/" target="_blank" rel="noopener">NCSL</a>
+				<a href="https://www.brennancenter.org/" target="_blank" rel="noopener">Brennan Center</a>
+				<a href="https://ballotpedia.org/" target="_blank" rel="noopener">Ballotpedia</a>
+			</div>
 		</div>
 	</footer>
 	<script src="/js/filter.js"></script>

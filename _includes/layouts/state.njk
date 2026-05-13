@@ -154,15 +154,6 @@ layout: layouts/base.njk
 			</section>
 			{% endif %}
 
-			<section>
-				<h2>Sources</h2>
-				<ul>
-					{%- for source in state.sources %}
-					<li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a></li>
-					{%- endfor %}
-				</ul>
-			</section>
-
 			{% if state.recentLegislation.length %}
 			<section class="legislation">
 				<h2>Recent Legislation</h2>

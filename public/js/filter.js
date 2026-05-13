@@ -1,8 +1,11 @@
 (function () {
 	const searchInput = document.getElementById("state-search");
-	const filterBtns = document.querySelectorAll(".filter-btn");
+	const filterBtns = document.querySelectorAll(".filter-btn[data-filter]");
 	const cards = document.querySelectorAll(".state-card");
 	const countEl = document.getElementById("visible-count");
+	const emptyState = document.getElementById("empty-state");
+	const clearBtn = document.getElementById("clear-filters");
+	const jumpRail = document.querySelector(".inline-rail");
 
 	if (!searchInput || !cards.length) return;
 
@@ -35,6 +38,13 @@
 		});
 
 		if (countEl) countEl.textContent = visible;
+		if (emptyState) emptyState.hidden = visible !== 0;
+
+		// Hide the "Jump to a state" rail when a search or filter is active —
+		// it doesn't reflect the filtered set and adds visual noise between
+		// the search box and the matching cards.
+		const filtering = query !== "" || activeFilters.size > 0;
+		if (jumpRail) jumpRail.hidden = filtering;
 	}
 
 	searchInput.addEventListener("input", function () {
@@ -58,5 +68,16 @@
 			updateVisibility();
 		});
 	});
+
+	if (clearBtn) {
+		clearBtn.addEventListener("click", function () {
+			searchInput.value = "";
+			activeFilters.clear();
+			filterBtns.forEach(function (btn) {
+				btn.setAttribute("aria-pressed", "false");
+			});
+			updateVisibility();
+		});
+	}
 
 })();

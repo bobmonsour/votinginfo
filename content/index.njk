@@ -2,54 +2,118 @@
 layout: layouts/base.njk
 title: "US Voter Registration and Voting Requirements"
 description: "Voter registration and voting requirements for all 50 US states and Washington DC, providing detailed information on deadlines, ID requirements, mail-in voting policies, recent election law news, and more."
+fullBleed: true
 ---
-<div class="home">
-	<p class="intro">Voter registration and voting requirements for all 50 US states and Washington DC. Search by state name or use the filters below.</p>
+{% set newsItems = stateNews.runs | latestRunNews(states, 8) %}
+{% set newsAbbrs = stateNews.runs | latestRunAbbrs %}
+{% set newsCount = stateNews.runs | latestRunCount %}
+{% set sortedStates = states | sort(false, false, "state") %}
 
-	{% set recentItems = stateNews.runs | recentNewsAll(states, 5) %}
-	{% if recentItems.length %}
-	<section class="home-news" aria-labelledby="home-news-heading">
-		<h2 id="home-news-heading">Recent News <a href="/all-news/feed.xml" class="rss-icon" title="RSS feed for all voting news" aria-label="RSS feed"><img src="/img/rss-icon.svg" alt="RSS" width="24" height="24"></a></h2>
-		<ul class="news-list">
-			{%- for item in recentItems %}
-			{% include "news-item.njk" %}
-			{%- endfor %}
-		</ul>
-		<a href="/all-news/" class="all-news-link">More news &rarr;</a>
-	</section>
-	{% endif %}
-
-	<div class="controls">
-		<div class="search-wrap">
-			<label for="state-search" class="sr-only">Search states</label>
-			<input type="search" id="state-search" placeholder="Search by state name or abbreviation..." autocomplete="off">
-		</div>
-		<div class="filter-buttons" role="group" aria-label="Filter states">
-			<button class="filter-btn" data-filter="same-day" aria-pressed="false">Same-Day Registration</button>
-			<button class="filter-btn" data-filter="online" aria-pressed="false">Online Registration</button>
-			<button class="filter-btn" data-filter="early" aria-pressed="false">Early Voting</button>
-			<button class="filter-btn" data-filter="no-excuse" aria-pressed="false">No-Excuse Mail-In</button>
-			<button class="filter-btn" data-filter="excuse-required" aria-pressed="false">Excuse Required Mail-In</button>
+<section class="masthead">
+	<div class="container">
+		<h1>Voter registration &amp; voting <em>requirements</em> for all 50 states and Washington, D.C.</h1>
+		<p class="lede">Deadlines, ID rules, mail-in policy, the latest election-law news, and more &mdash; sourced from credible sources.</p>
+		<div class="meta-row">
+			<div><strong>51</strong> jurisdictions</div>
+			<span class="dot-sep">·</span>
+			<div><strong>{{ newsCount }}</strong> news items this run</div>
+			{% if newsItems.length %}
+			<span class="dot-sep">·</span>
+			<div><strong>{{ newsItems[0].date | formatDate }}</strong></div>
+			{% endif %}
 		</div>
 	</div>
+</section>
 
-	<nav class="state-abbr-strip" aria-labelledby="state-abbr-strip-label">
-		<p id="state-abbr-strip-label" class="state-abbr-strip-intro">Click a state abbreviation to see voting news for that state.</p>
-		<ul>
-			{%- for s in states | sort(false, false, "abbreviation") %}
-			<li><a href="/states/{{ s.state | slug }}/all-news/" aria-label="Voting news for {{ s.state }}">{{ s.abbreviation }}</a></li>
+{% if newsItems.length %}
+<section class="section" id="news">
+	<div class="container">
+		<div class="section-head">
+			<span class="section-eyebrow">Election News</span>
+			<h2 class="section-title">Recent <em>across all states</em></h2>
+			<p class="section-sub">The latest stories tracked in our research run. Click a state tag to jump to that state&rsquo;s news page.</p>
+			<div class="section-actions">
+				<a href="/all-news/">All news →</a>
+				<a href="/all-news/feed.xml">RSS</a>
+			</div>
+		</div>
+
+		<ol class="news-grid">
+			{%- for item in newsItems %}
+			<li class="news-item">
+				<a class="news-state-tag" href="/states/{{ item.stateSlug }}/#recent-news" aria-label="{{ item.stateAbbr }} news">{{ item.stateAbbr }}</a>
+				<div class="news-body">
+					<a class="news-title" href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+					<div class="news-meta">
+						<span class="news-source">{{ item.source }}</span>
+						<span class="dot-sep">·</span>
+						<span>{{ item.date | formatDate }}</span>
+					</div>
+				</div>
+			</li>
 			{%- endfor %}
-		</ul>
-	</nav>
-
-	<div class="result-row">
-		<p class="result-count" aria-live="polite">Showing <span id="visible-count">{{ states | length }}</span> of {{ states | length }} (50 states + DC)</p>
-		<p class="last-updated">Last updated: {{ build.lastUpdated | formatDate }}</p>
+		</ol>
 	</div>
+</section>
+{% endif %}
 
-	<div class="card-grid">
-		{%- for state in states %}
-		{% include "state-card.njk" %}
-		{%- endfor %}
+<section class="section abbr-rail-section">
+	<div class="container">
+		<div class="abbr-rail-label">
+			<span>Browse news by state</span>
+		</div>
+		<nav class="abbr-rail" aria-label="News by state">
+			{%- for s in sortedStates %}
+			<a href="/states/{{ s.state | slug }}/#recent-news" title="{{ s.state }}">{{ s.abbreviation }}</a>
+			{%- endfor %}
+		</nav>
 	</div>
-</div>
+</section>
+
+<section class="section" id="states">
+	<div class="container">
+		<div class="section-head">
+			<span class="section-eyebrow">By state</span>
+			<h2 class="section-title">Registration &amp; voting <em>requirements</em></h2>
+			<p class="section-sub">Compare deadlines, ID rules, early voting, and mail-in policy across all 51 jurisdictions. Filters combine with AND.</p>
+		</div>
+
+		<div class="controls">
+			<div class="search-wrap">
+				<label for="state-search" class="sr-only">Search states</label>
+				<input type="search" id="state-search" placeholder="Search state name or abbreviation…" autocomplete="off">
+			</div>
+			<div class="filter-buttons" role="group" aria-label="Filter states">
+				<button class="filter-btn" data-filter="same-day" aria-pressed="false">Same-day reg.<span class="x">×</span></button>
+				<button class="filter-btn" data-filter="online" aria-pressed="false">Online reg.<span class="x">×</span></button>
+				<button class="filter-btn" data-filter="early" aria-pressed="false">Early voting<span class="x">×</span></button>
+				<button class="filter-btn" data-filter="no-excuse" aria-pressed="false">No-excuse mail-in<span class="x">×</span></button>
+				<button class="filter-btn" data-filter="excuse-required" aria-pressed="false">Excuse-req. mail-in<span class="x">×</span></button>
+			</div>
+		</div>
+
+		<div class="result-row" aria-live="polite">
+			<span>Showing <strong id="visible-count">{{ states | length }}</strong> of <strong>{{ states | length }}</strong> jurisdictions</span>
+			<span>Last updated <strong>{{ states | latestVerified | formatDate }}</strong></span>
+		</div>
+
+		<div class="inline-rail">
+			<div class="abbr-rail-label"><span>Jump to a state</span></div>
+			<nav class="abbr-rail" aria-label="Jump to state cards">
+				{%- for s in sortedStates %}
+				<a href="#states-{{ s.abbreviation | lower }}" title="{{ s.state }}">{{ s.abbreviation }}</a>
+				{%- endfor %}
+			</nav>
+		</div>
+
+		<div class="card-grid">
+			{%- for state in sortedStates %}
+			{% include "state-card.njk" %}
+			{%- endfor %}
+		</div>
+
+		<div class="empty-state" id="empty-state" hidden>
+			<p>No states match your filters. <button type="button" class="filter-btn clear-all" id="clear-filters">Clear all</button></p>
+		</div>
+	</div>
+</section>
