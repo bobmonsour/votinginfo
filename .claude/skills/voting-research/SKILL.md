@@ -94,7 +94,7 @@ Do NOT report a discrepancy based on an assumed or remembered value. If using pa
 
 ### Research report
 
-Save the report as a markdown file in the `docs/` directory named `periodic-research-MM-DD-YYYY-HHMM.md`, where MM-DD-YYYY is today's date and HHMM is the current time in 24-hour format. For example: `docs/periodic-research-02-25-2026-1430.md`. This prevents collisions when multiple runs happen on the same day.
+Save the report as a markdown file under the `research/MM-YYYY/` directory (where MM-YYYY is the current month and year, e.g. `research/05-2026/`), named `periodic-research-MM-DD-YYYY-HHMM.md`, where MM-DD-YYYY is today's date and HHMM is the current time in 24-hour format. For example: `research/02-2026/periodic-research-02-25-2026-1430.md`. Create the month directory if it does not yet exist. The HHMM suffix prevents collisions when multiple runs happen on the same day.
 
 The report should include:
 
@@ -241,7 +241,7 @@ After writing news items to `stateNews.json`, for each state that received news 
 
 After all file changes are complete:
 
-1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, and any report in `docs/`).
+1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, and any report under `research/`).
 2. Commit with a descriptive message, e.g. `Research run: data verification and news update for YYYY-MM-DD` (full run), `Research run: requirements update for YYYY-MM-DD` (requirements update), or `Research run: news update for YYYY-MM-DD` (news only).
 3. Do **not** merge into main or deploy. Tell the user the branch is ready for review and suggest next steps:
    - Review the changes: `git diff main..research/YYYY-MM-DD`
