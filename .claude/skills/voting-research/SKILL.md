@@ -9,11 +9,12 @@ allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *),
 
 ## Run mode
 
-Before doing any work, ask the user which mode to run:
+If the caller has already specified the mode (e.g. "news only autonomous"), use that and skip the question. Otherwise, ask the user which mode to run:
 
 - **Full run** — perform both a requirements update and news update
 - **Requirements update** — verify and update state voting data against authoritative sources (no news update)
 - **News update** — gather recent news items for each state (no data verification)
+- **News update (autonomous)** — same as News update, but skips the branch-name confirmation and the final review handoff; after committing, automatically merges into main, pushes, and deletes the research branch. Intended for unattended/scheduled runs.
 
 Then proceed with the appropriate sections below.
 
@@ -23,7 +24,7 @@ Before making any changes, create a working branch so all modifications can be r
 
 1. Ensure the working tree is clean (`git status`). If there are uncommitted changes, stop and ask the user how to proceed.
 2. Create and switch to a new branch named `research/YYYY-MM-DD` (using today's date). If that branch already exists (e.g. from an earlier run the same day), append a numeric suffix: `research/YYYY-MM-DD-2`, `research/YYYY-MM-DD-3`, etc.
-3. Confirm the branch name to the user before continuing.
+3. Confirm the branch name to the user before continuing. Skip this confirmation in autonomous mode.
 
 ## Data file
 
@@ -243,7 +244,9 @@ After all file changes are complete:
 
 1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, and any report under `research/`).
 2. Commit with a descriptive message, e.g. `Research run: data verification and news update for YYYY-MM-DD` (full run), `Research run: requirements update for YYYY-MM-DD` (requirements update), or `Research run: news update for YYYY-MM-DD` (news only).
-3. Do **not** merge into main, push, or deploy. Tell the user the branch is ready for review and present the following next-step options so they can pick one:
+3. The next step depends on the run mode:
+
+   **Interactive modes (Full run, Requirements update, News update):** Do **not** merge into main, push, or deploy. Tell the user the branch is ready for review and present the following next-step options so they can pick one:
    - **Review the changes:** `git diff main..research/YYYY-MM-DD`
    - **If satisfied — merge into main, push, and delete the research branch:**
      1. `git checkout main`
@@ -253,3 +256,11 @@ After all file changes are complete:
    - **If not satisfied — discard the branch:** `git checkout main && git branch -D research/YYYY-MM-DD`
 
    Present these as suggestions only. Do not run any of them yourself unless the user explicitly asks.
+
+   **Autonomous mode (News update autonomous):** Automatically merge into main, push, and delete the research branch:
+   1. `git checkout main`
+   2. `git merge research/YYYY-MM-DD` (fast-forward expected)
+   3. `git push origin main`
+   4. `git branch -d research/YYYY-MM-DD`
+
+   If the merge is not a fast-forward or any step fails, do **not** force the operation. Leave the branch in place, abort cleanly, and report the failure so the routine surfaces a non-success exit.
