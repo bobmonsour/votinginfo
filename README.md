@@ -4,6 +4,8 @@ Currently live at [US Voter Registration and Voting Requirements](https://usvoti
 
 A static website providing voter registration and voting requirements for all 50 US states plus Washington DC. Built with [Eleventy](https://www.11ty.dev/) and deployed on [Cloudflare Workers](https://workers.cloudflare.com/).
 
+A test line to verify CF Workers build and deploy process.
+
 ## Features
 
 - **51 jurisdictions** — Detailed voting info for every state and DC
