@@ -2,7 +2,7 @@
   "name": "votinginfo",
   "version": "1.0.0",
   "type": "module",
-  "description": "US Voter Registration Requirements for all 50 states + DC",
+  "description": "US Voter Registration and Voting Requirements for all 50 states + DC",
   "scripts": {
     "start": "npx @11ty/eleventy --serve --quiet",
     "build": "npx @11ty/eleventy",
