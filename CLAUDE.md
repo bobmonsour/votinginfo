@@ -7,18 +7,23 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ```bash
 npm start          # Dev server with hot reload (eleventy --serve --quiet)
 npm run build      # Build to _site/
-npm run deploy     # Build + deploy to Cloudflare Workers (wrangler deploy)
 ```
 
-There are no tests or linting configured.
+There are no tests or linting configured. A `deploy` script (`wrangler deploy`) still exists in `package.json` as a manual fallback but is not the standard deploy path — see Deployment below.
+
+## Deployment
+
+Deployment happens automatically via **Cloudflare Workers Builds** connected to the GitHub repo (`bobmonsour/votinginfo`). Every push to `main` triggers a build + deploy. There is no manual deploy step in the normal flow. The `wrangler deploy` / `npm run deploy` scripts remain as escape hatches but should not be used in normal operation.
+
+**Build watch paths** are configured in the Workers project Settings → Build → Build watch paths so that pushes touching only non-build files do not trigger a build. Current excludes: `.claude/*`, `CLAUDE.md`, `README.md`, `research/*`, `docs/*`, `.gitignore`. Pushes touching only those paths produce no build and no deploy — useful for skill edits, agent instruction updates, and research reports. (The design handoff folder lives under `docs/` and is excluded by the `docs/*` pattern.)
 
 ## Rules
 
-- **Never deploy or offer to deploy.** After making a fix or change to the site, inform the user that the fix has been applied. Do not run `npm run deploy` unless the user explicitly asks to deploy. Never suggest deploying — do not say "commit and deploy" or similar. If suggesting a commit, suggest committing and pushing instead.
+- **Never deploy or offer to deploy.** Pushing to `main` triggers a Cloudflare Workers Builds deploy automatically, so **pushing is deploying**. After making a fix or change to the site, inform the user that the fix has been applied and stop there — leave the work uncommitted, or committed locally if appropriate. Do not push to `main`, run `npm run deploy`, or run `wrangler deploy` unless the user explicitly asks. Never suggest pushing or deploying as a routine next step.
 
 ## Architecture
 
-This is a static site built with **Eleventy 3** (Nunjucks templates) that provides voter registration and voting requirements for all 50 US states + DC. It deploys to **Cloudflare Workers** via Wrangler.
+This is a static site built with **Eleventy 3** (Nunjucks templates) that provides voter registration and voting requirements for all 50 US states + DC. It deploys to **Cloudflare Workers** automatically via **Cloudflare Workers Builds** on every push to `main` (see Deployment above).
 
 ### Data flow
 
@@ -62,7 +67,18 @@ The glossary page (`content/glossary.njk`) defines 13 voting-related terms using
 
 ### Skills
 
-The project includes a `/voting-research` skill (`.claude/skills/voting-research/SKILL.md`) with two run modes: **Full run** (data verification + news capture) and **News only** (just news). Full runs verify state data against authoritative sources, produce a report at `docs/periodic-research-MM-DD-YYYY.md`, and present findings before making changes. Both modes gather up to 5 recent election news items per state from reputable sources, append a run to `_data/stateNews.json`, and add "Recent News" change log entries to `_data/states.json`.
+The project includes a `/voting-research` skill (`.claude/skills/voting-research/SKILL.md`) with four run modes:
+
+- **Full run** — data verification + news capture
+- **Requirements update** — data verification only
+- **News update** — news capture only
+- **News update (autonomous)** — same as News update but skips branch-name confirmation and final review; auto-merges into `main`, pushes, and deletes the research branch. Used exclusively by the scheduled daily routine.
+
+Full and Requirements modes verify state data against authoritative sources, save a report at `research/MM-YYYY/periodic-research-MM-DD-YYYY-HHMM.md`, and present findings one change at a time for approval. News modes gather up to 5 recent election news items per state from reputable sources, append a run to `_data/stateNews.json`, and add "Recent News" change-log entries to `_data/states.json`. Interactive modes stop after committing and present merge/discard options; autonomous mode does the merge inline.
+
+### Scheduled routine
+
+A scheduled remote agent (`Daily news update`, trigger ID `trig_01K2PgeQ7XfWLBT2R9d1hJwg`) runs the `/voting-research` skill in autonomous News update mode daily at 10:00am Pacific (cron `0 17 * * *` UTC). Because pushes to `main` auto-deploy via Cloudflare Workers Builds, the routine handles the full daily content-refresh cycle without human intervention: clone → news capture → commit on research branch → fast-forward merge → push → branch deletion → CF build/deploy. Dashboard at https://claude.ai/code/routines/trig_01K2PgeQ7XfWLBT2R9d1hJwg.
 
 ### State flags
 
