@@ -24,7 +24,9 @@
       "Bash(wc:*)",
       "Bash(pandoc:*)",
       "Bash(done)",
-      "Bash(claude mcp *)"
+      "Bash(claude mcp *)",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__search_cloudflare_documentation",
+      "Bash(awk -F/ '{print $1}')"
     ]
   }
 }
