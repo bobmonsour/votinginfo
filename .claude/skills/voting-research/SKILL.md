@@ -238,11 +238,48 @@ After writing news items to `stateNews.json`, for each state that received news 
 }
 ```
 
+### Latest run summary
+
+After news items are written, verified, and change-logged, generate a short prose summary of the most notable themes from this run and save it to `_data/latestRunSummary.json`, **overwriting** any previous content. The home page renders this summary above the "Recent news across all states" section to give visitors a quick read of what made this run notable.
+
+Process:
+
+1. Look at the news items just added to the new run in `_data/stateNews.json`.
+2. Pick 4–8 notable themes or stories. A theme can be:
+   - Anchored on a single article (use that article's URL)
+   - Or span multiple states/articles around a common topic (no URL — renders as plain text)
+3. Write each item as a short prose clause, typically 4–15 words. Examples:
+   - "Louisiana Senate scraps majority-Black district in new map"
+   - "Georgia and Idaho close early voting ahead of May primaries"
+   - "Missouri Supreme Court upholds gerrymandered map amid election confusion"
+4. For items with a specific anchor story, set `url` to the **exact URL** of one of the news items just captured in this run's `stateNews.json`. Do **not** invent, paraphrase, or carry over URLs from prior runs. If no single article fits the clause, omit `url` entirely — it will render as plain text.
+5. Optionally include `abbr` (state code) when the clause is clearly tied to a single state. This is informational only; rendering does not depend on it.
+
+JSON shape (single object — overwritten each run, not appended):
+
+```json
+{
+  "date": "YYYY-MM-DD",
+  "items": [
+    {
+      "text": "Louisiana Senate scraps majority-Black district in new map",
+      "url": "https://rollcall.com/2026/05/15/louisiana-senate-approves-new-map-...",
+      "abbr": "LA"
+    },
+    {
+      "text": "Kentucky, Georgia, Idaho, and Indiana close out primary-eve coverage"
+    }
+  ]
+}
+```
+
+If the run produced zero eligible news items, write `{ "date": "YYYY-MM-DD", "items": [] }`. The home-page section is hidden automatically when `items` is empty.
+
 ## Commit and finish
 
 After all file changes are complete:
 
-1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, and any report under `research/`).
+1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, `_data/latestRunSummary.json`, and any report under `research/`).
 2. Commit with a descriptive message, e.g. `Research run: data verification and news update for YYYY-MM-DD` (full run), `Research run: requirements update for YYYY-MM-DD` (requirements update), or `Research run: news update for YYYY-MM-DD` (news only).
 3. The next step depends on the run mode:
 

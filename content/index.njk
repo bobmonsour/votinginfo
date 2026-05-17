@@ -25,6 +25,23 @@ fullBleed: true
 	</div>
 </section>
 
+{% if latestRunSummary and latestRunSummary.items and latestRunSummary.items.length %}
+<section class="section" id="run-summary">
+	<div class="container">
+		<div class="section-head">
+			<h2 class="section-title">Summary of <em>latest election news</em></h2>
+			<p class="section-sub">Notable themes from the most recent research run on {{ latestRunSummary.date | formatDate }}.</p>
+		</div>
+		<p class="run-summary">
+			{%- for item in latestRunSummary.items -%}
+				{%- if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.text }}</a>{% else %}{{ item.text }}{% endif -%}
+				{%- if not loop.last %}; {% else %}.{% endif -%}
+			{%- endfor %}
+		</p>
+	</div>
+</section>
+{% endif %}
+
 {% if newsItems.length %}
 <section class="section" id="news">
 	<div class="container">

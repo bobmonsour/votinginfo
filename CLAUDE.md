@@ -27,11 +27,11 @@ This is a static site built with **Eleventy 3** (Nunjucks templates) that provid
 
 ### Data flow
 
-`_data/states.json` is the single source of truth — a 51-entry array where each object has fields like `abbreviation`, `sameDayRegistration`, `registrationMethods`, `earlyVoting`, `mailInVoting`, `recentLegislation`, `pendingLegislation`, `changes`, etc. `_data/stateNews.json` stores per-state news items captured during voting-research skill runs.
+`_data/states.json` is the single source of truth — a 51-entry array where each object has fields like `abbreviation`, `sameDayRegistration`, `registrationMethods`, `earlyVoting`, `mailInVoting`, `recentLegislation`, `pendingLegislation`, `changes`, etc. `_data/stateNews.json` stores per-state news items captured during voting-research skill runs. `_data/latestRunSummary.json` stores a short prose summary of the most recent run's notable themes; it is overwritten on each run (not appended) and feeds the home page's "Summary of latest election news" section.
 
 Eleventy reads these at build time and feeds them into these template paths:
 
-1. **Home page** (`content/index.njk`) — editorial layout in this order: masthead (title + lede + run stats), Recent News grid (top items from the latest research run), a "Browse news by state" A–Z rail linking to each state's `#recent-news`, then the by-state section with search + filter controls, a result-row showing the count and a "Last updated" date (derived from `latestVerified`), an inline "Jump to a state" A–Z rail, and a card grid that iterates all 51 states using `_includes/state-card.njk`. Each card embeds key data as `data-*` attributes on the DOM element for client-side filtering.
+1. **Home page** (`content/index.njk`) — editorial layout in this order: masthead (title + lede + run stats), "Summary of latest election news" section (prose paragraph from `_data/latestRunSummary.json`, hidden when empty), Recent News grid (top items from the latest research run), a "Browse news by state" A–Z rail linking to each state's `#recent-news`, then the by-state section with search + filter controls, a result-row showing the count and a "Last updated" date (derived from `latestVerified`), an inline "Jump to a state" A–Z rail, and a card grid that iterates all 51 states using `_includes/state-card.njk`. Each card embeds key data as `data-*` attributes on the DOM element for client-side filtering.
 2. **State detail pages** (`content/states.njk`) — uses Eleventy pagination with `size: 1` to generate 51 pages at `/states/{abbr}/`, each rendered with `_includes/layouts/state.njk`. The Sources section was removed during the home redesign since every state had the same two-item list.
 3. **Glossary page** (`content/glossary.njk`) — definitions of voting-related terms used across the site.
 4. **Change log page** (`content/changes.njk`) — per-state change tracking with "By State" and "By Date" toggle views.
@@ -48,6 +48,10 @@ In `eleventy.config.js`: input is `content/`, includes are `_includes/`, data is
 ### Recent news
 
 `_data/stateNews.json` stores news items gathered by the voting-research skill. It has a `runs` array; each run has a `date` and a `states` object keyed by abbreviation, where each state holds up to 5 news items with `title`, `source`, `url`, `date`, and `summary`. State detail pages render a "Recent News" section (id `recent-news`) between Additional Notes and Recent Legislation, showing items from the latest run. The section is hidden for states with no news. The home page also surfaces the latest run's news at the top in a `.news-grid` block. The shared `_includes/news-item.njk` partial renders each item for both the home page block and the All News page so the markup stays in sync.
+
+### Latest run summary
+
+`_data/latestRunSummary.json` holds a short prose summary of the most recent run's notable themes. Shape: `{ date, items: [{ text, url?, abbr? }] }`. The voting-research skill (News update and Full run modes) overwrites this file at the end of each run after news items are written and verified; it does not append. Items with a `url` render as inline links; items without a `url` render as plain text. The home page renders the items as a single semicolon-joined paragraph in the "Summary of latest election news" section (id `run-summary`), styled by `.run-summary` in `public/css/style.css`. The section is hidden automatically when `items` is empty.
 
 ### Legislation tracking
 
@@ -74,7 +78,7 @@ The project includes a `/voting-research` skill (`.claude/skills/voting-research
 - **News update** — news capture only
 - **News update (autonomous)** — same as News update but skips branch-name confirmation and final review; auto-merges into `main`, pushes, and deletes the research branch. Used exclusively by the scheduled daily routine.
 
-Full and Requirements modes verify state data against authoritative sources, save a report at `research/MM-YYYY/periodic-research-MM-DD-YYYY-HHMM.md`, and present findings one change at a time for approval. News modes gather up to 5 recent election news items per state from reputable sources, append a run to `_data/stateNews.json`, and add "Recent News" change-log entries to `_data/states.json`. Interactive modes stop after committing and present merge/discard options; autonomous mode does the merge inline.
+Full and Requirements modes verify state data against authoritative sources, save a report at `research/MM-YYYY/periodic-research-MM-DD-YYYY-HHMM.md`, and present findings one change at a time for approval. News modes gather up to 5 recent election news items per state from reputable sources, append a run to `_data/stateNews.json`, add "Recent News" change-log entries to `_data/states.json`, and overwrite `_data/latestRunSummary.json` with a short prose summary of the run's notable themes. Interactive modes stop after committing and present merge/discard options; autonomous mode does the merge inline.
 
 ### Scheduled routine
 

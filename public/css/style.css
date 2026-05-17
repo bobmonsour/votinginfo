@@ -567,6 +567,27 @@ h3 {
 	border-color: var(--accent);
 }
 
+/* === Latest run summary === */
+.run-summary {
+	font-family: var(--font-serif);
+	font-size: clamp(1.05rem, 1.6vw, 1.25rem);
+	line-height: 1.55;
+	color: var(--ink-2);
+	max-width: 72ch;
+	margin: 0;
+}
+
+.run-summary a {
+	color: var(--ink);
+	text-decoration: none;
+	border-bottom: 1px solid var(--accent);
+	padding-bottom: 1px;
+}
+
+.run-summary a:hover {
+	color: var(--accent);
+}
+
 /* === Recent news === */
 #news .news-grid {
 	display: grid;
