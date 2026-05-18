@@ -51,7 +51,7 @@ In `eleventy.config.js`: input is `content/`, includes are `_includes/`, data is
 
 ### Latest run summary
 
-`_data/latestRunSummary.json` holds a short prose summary of the most recent run's notable themes. Shape: `{ date, items: [{ text, url?, abbr? }] }`. The voting-research skill (News update and Full run modes) overwrites this file at the end of each run after news items are written and verified; it does not append. Items with a `url` render as inline links; items without a `url` render as plain text. The home page renders the items as a single semicolon-joined paragraph in the "Summary of latest election news" section (id `run-summary`), styled by `.run-summary` in `public/css/style.css`. The section is hidden automatically when `items` is empty.
+`_data/latestRunSummary.json` holds a short summary of the most recent run's notable themes. Shape: `{ date, items: [{ text, url?, abbr? }] }`. The voting-research skill (News update and Full run modes) overwrites this file at the end of each run after news items are written and verified; it does not append. Items with a `url` render as inline links; items without a `url` render as plain text. The home page renders the items as a bulleted list (`<ul class="run-summary">`) in the "Summary of latest election news" section (id `run-summary`), styled by `.run-summary` in `public/css/style.css`. The template caps the rendered list at the first 5 items via `loop.index <= 5`, so the skill should aim to produce exactly 5 of the most notable items. The section is hidden automatically when `items` is empty.
 
 ### Legislation tracking
 

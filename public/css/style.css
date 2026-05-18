@@ -570,11 +570,21 @@ h3 {
 /* === Latest run summary === */
 .run-summary {
 	font-family: var(--font-serif);
-	font-size: clamp(1.05rem, 1.6vw, 1.25rem);
-	line-height: 1.55;
+	font-size: clamp(1.05rem, 1.6vw, 1.2rem);
+	line-height: 1.5;
 	color: var(--ink-2);
 	max-width: 72ch;
 	margin: 0;
+	padding-left: 1.25rem;
+	list-style: disc;
+}
+
+.run-summary li {
+	margin: 0.4rem 0;
+}
+
+.run-summary li::marker {
+	color: var(--accent);
 }
 
 .run-summary a {

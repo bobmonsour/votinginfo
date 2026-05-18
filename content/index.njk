@@ -11,7 +11,7 @@ fullBleed: true
 
 <section class="masthead">
 	<div class="container">
-		<h1>Voter registration &amp; voting <em>requirements</em> for all 50 states and Washington, D.C.</h1>
+		<h1>Election news, voter registration &amp; voting <em>requirements</em> for all 50 states and Washington, D.C.</h1>
 		<p class="lede">Deadlines, ID rules, mail-in policy, the latest election-law news, and more &mdash; sourced from credible sources.</p>
 		<div class="meta-row">
 			<div><strong>51</strong> jurisdictions</div>
@@ -32,12 +32,13 @@ fullBleed: true
 			<h2 class="section-title">Summary of <em>latest election news</em></h2>
 			<p class="section-sub">Notable themes from the most recent research run on {{ latestRunSummary.date | formatDate }}.</p>
 		</div>
-		<p class="run-summary">
+		<ul class="run-summary">
 			{%- for item in latestRunSummary.items -%}
-				{%- if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.text }}</a>{% else %}{{ item.text }}{% endif -%}
-				{%- if not loop.last %}; {% else %}.{% endif -%}
+				{%- if loop.index <= 5 %}
+				<li>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>
+				{%- endif -%}
 			{%- endfor %}
-		</p>
+		</ul>
 	</div>
 </section>
 {% endif %}
@@ -46,8 +47,7 @@ fullBleed: true
 <section class="section" id="news">
 	<div class="container">
 		<div class="section-head">
-			<span class="section-eyebrow">Election News</span>
-			<h2 class="section-title">Recent <em>across all states</em></h2>
+			<h2 class="section-title">Recent news <em>across all states</em></h2>
 			<p class="section-sub">The latest stories tracked in our research run. Click a state tag to jump to that state&rsquo;s news page.</p>
 			<div class="section-actions">
 				<a href="/all-news/">All news →</a>
@@ -90,8 +90,7 @@ fullBleed: true
 <section class="section" id="states">
 	<div class="container">
 		<div class="section-head">
-			<span class="section-eyebrow">By state</span>
-			<h2 class="section-title">Registration &amp; voting <em>requirements</em></h2>
+			<h2 class="section-title">Registration &amp; voting requirements <em>by state</em></h2>
 			<p class="section-sub">Compare deadlines, ID rules, early voting, and mail-in policy across all 51 jurisdictions. Filters combine with AND.</p>
 		</div>
 
