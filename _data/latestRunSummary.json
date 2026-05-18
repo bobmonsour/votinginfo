@@ -1,4 +1,45 @@
 {
-	"date": "2026-05-17",
-	"items": []
+  "date": "2026-05-18",
+  "items": [
+    {
+      "text": "Supreme Court weakens Voting Rights Act, sending redistricting cases back in Mississippi and North Dakota",
+      "url": "https://mississippitoday.org/2026/05/18/legislative-redistricting-mississippi/",
+      "abbr": "MS"
+    },
+    {
+      "text": "South Carolina and Tennessee begin mid-decade redistricting to eliminate majority-minority districts",
+      "url": "https://www.ksat.com/news/politics/2026/05/18/redistricting-debate-shifts-to-south-carolina-as-republicans-seek-clean-sweep-of-us-house-seats/",
+      "abbr": "SC"
+    },
+    {
+      "text": "Georgia and Kentucky see record early voting turnout ahead of May 19 primaries",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5822479/2026-midterms-georgia-primary-election",
+      "abbr": "GA"
+    },
+    {
+      "text": "Texas early voting opens for May 26 primary runoffs including Cornyn vs. Paxton Senate race",
+      "url": "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/05/18/552117/texas-runoff-election-voter-guide/",
+      "abbr": "TX"
+    },
+    {
+      "text": "California and Rhode Island lawmakers push state-level Voting Rights Acts after federal VRA weakened",
+      "url": "https://timesofsandiego.com/politics/2026/05/17/amid-rising-fears-of-rolling-back-voter-rights-black-lawmakers-announce-new-voting-rights-act-for-california/",
+      "abbr": "CA"
+    },
+    {
+      "text": "Missouri and Colorado legislative sessions close with new election law changes",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-05-18/missouri-legislative-session-2026-takeaways-abortion-income-tax",
+      "abbr": "MO"
+    },
+    {
+      "text": "DC prepares voters for first ranked-choice voting primary on June 16",
+      "url": "https://51st.news/dc-ranked-choice-vote-2026-training/",
+      "abbr": "DC"
+    },
+    {
+      "text": "Wyoming county prepares for new state hand-count audit law ahead of August primary",
+      "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-05-18/how-one-county-is-prepping-to-hand-count-ballots",
+      "abbr": "WY"
+    }
+  ]
 }
