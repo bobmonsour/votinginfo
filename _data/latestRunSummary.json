@@ -1,30 +1,28 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "items": [
     {
-      "text": "Supreme Court weakens Voting Rights Act, sending redistricting cases back in Mississippi and North Dakota",
-      "url": "https://mississippitoday.org/2026/05/18/legislative-redistricting-mississippi/",
-      "abbr": "MS"
-    },
-    {
-      "text": "South Carolina and Tennessee begin mid-decade redistricting to eliminate majority-minority districts",
-      "url": "https://www.ksat.com/news/politics/2026/05/18/redistricting-debate-shifts-to-south-carolina-as-republicans-seek-clean-sweep-of-us-house-seats/",
-      "abbr": "SC"
-    },
-    {
-      "text": "Georgia and Kentucky see record early voting turnout ahead of May 19 primaries",
-      "url": "https://www.npr.org/2026/05/18/nx-s1-5822479/2026-midterms-georgia-primary-election",
-      "abbr": "GA"
-    },
-    {
-      "text": "Texas early voting opens for May 26 primary runoffs including Cornyn vs. Paxton Senate race",
-      "url": "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/05/18/552117/texas-runoff-election-voter-guide/",
+      "text": "Trump endorses Paxton over Cornyn in Texas Senate GOP runoff as early voting begins",
+      "url": "https://www.texastribune.org/2026/05/19/donald-trump-ken-paxton-endorsement-texas-senate-gop-primary-runoff-cornyn/",
       "abbr": "TX"
     },
     {
-      "text": "California and Rhode Island lawmakers push state-level Voting Rights Acts after federal VRA weakened",
-      "url": "https://timesofsandiego.com/politics/2026/05/17/amid-rising-fears-of-rolling-back-voter-rights-black-lawmakers-announce-new-voting-rights-act-for-california/",
-      "abbr": "CA"
+      "text": "Maryland mail-ballot vendor error prompts Trump call for DOJ investigation",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-calls-doj-investigation-mail-ballot-error-maryland-rcna345782",
+      "abbr": "MD"
+    },
+    {
+      "text": "Georgia, Kentucky, Pennsylvania, Oregon, and Idaho hold May 19 primaries"
+    },
+    {
+      "text": "Louisiana's Cassidy ousted in Senate primary; all six House races moved to November",
+      "url": "https://www.axios.com/local/new-orleans/2026/05/18/louisiana-election-results-cassidy-letlow-constitutional-amendments",
+      "abbr": "LA"
+    },
+    {
+      "text": "South Carolina weighs mid-cycle redistricting to eliminate Clyburn's majority-Black district",
+      "url": "https://scdailygazette.com/2026/05/19/sc-house-weighs-redrawing-congressional-maps-in-mid-decade-redistricting-push/",
+      "abbr": "SC"
     }
   ]
 }
