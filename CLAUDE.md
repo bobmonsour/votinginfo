@@ -82,7 +82,7 @@ Full and Requirements modes verify state data against authoritative sources, sav
 
 ### Scheduled routine
 
-A scheduled remote agent (`Daily news update`, trigger ID `trig_01K2PgeQ7XfWLBT2R9d1hJwg`) runs the `/voting-research` skill in autonomous News update mode daily at 10:00am Pacific (cron `0 17 * * *` UTC). Because pushes to `main` auto-deploy via Cloudflare Workers Builds, the routine handles the full daily content-refresh cycle without human intervention: clone → news capture → commit on research branch → fast-forward merge → push → branch deletion → CF build/deploy. Dashboard at https://claude.ai/code/routines/trig_01K2PgeQ7XfWLBT2R9d1hJwg.
+A scheduled remote agent (`Daily news update`, trigger ID `trig_01K2PgeQ7XfWLBT2R9d1hJwg`) runs the `/voting-research` skill in autonomous News update mode daily at 3:00am Pacific (cron `0 10 * * *` UTC). Because pushes to `main` auto-deploy via Cloudflare Workers Builds, the routine handles the full daily content-refresh cycle without human intervention: clone → news capture → commit on research branch → fast-forward merge → push → branch deletion → CF build/deploy. Dashboard at https://claude.ai/code/routines/trig_01K2PgeQ7XfWLBT2R9d1hJwg.
 
 ### State flags
 
