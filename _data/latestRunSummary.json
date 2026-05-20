@@ -1,28 +1,30 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "items": [
     {
-      "text": "Trump endorses Paxton over Cornyn in Texas Senate GOP runoff as early voting begins",
-      "url": "https://www.texastribune.org/2026/05/19/donald-trump-ken-paxton-endorsement-texas-senate-gop-primary-runoff-cornyn/",
-      "abbr": "TX"
+      "text": "Georgia, Kentucky, Pennsylvania, Oregon, Idaho, and Alabama hold May 19 primaries with Trump's influence on full display",
+      "url": "https://www.washingtonpost.com/politics/2026/05/20/takeaways-primaries-georgia-kentucky-pennsylvania-alabama-more/",
+      "abbr": "GA"
     },
     {
-      "text": "Maryland mail-ballot vendor error prompts Trump call for DOJ investigation",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-calls-doj-investigation-mail-ballot-error-maryland-rcna345782",
-      "abbr": "MD"
+      "text": "Trump ousts Rep. Massie in most expensive House primary ever, backing Gallrein in Kentucky 4th District",
+      "url": "https://www.washingtonpost.com/politics/2026/05/20/takeaways-primaries-georgia-kentucky-pennsylvania-alabama-more/",
+      "abbr": "KY"
     },
     {
-      "text": "Georgia, Kentucky, Pennsylvania, Oregon, and Idaho hold May 19 primaries"
-    },
-    {
-      "text": "Louisiana's Cassidy ousted in Senate primary; all six House races moved to November",
-      "url": "https://www.axios.com/local/new-orleans/2026/05/18/louisiana-election-results-cassidy-letlow-constitutional-amendments",
-      "abbr": "LA"
-    },
-    {
-      "text": "South Carolina weighs mid-cycle redistricting to eliminate Clyburn's majority-Black district",
-      "url": "https://scdailygazette.com/2026/05/19/sc-house-weighs-redrawing-congressional-maps-in-mid-decade-redistricting-push/",
+      "text": "South Carolina House passes midnight redistricting bill to eliminate Clyburn's majority-Black district",
+      "url": "https://www.wrdw.com/2026/05/20/sc-redistricting-proposal-passes-house-heads-state-senate/",
       "abbr": "SC"
+    },
+    {
+      "text": "Connecticut becomes 37th state with no-excuse absentee voting as Lamont signs new law",
+      "url": "https://portal.ct.gov/governor/news/press-releases/2026/05-2026/governor-lamont-signs-legislation-making-absentee-ballots-an-option",
+      "abbr": "CT"
+    },
+    {
+      "text": "Trump endorsement of Paxton over Cornyn in Texas Senate runoff shakes up race with one week to vote",
+      "url": "https://thehill.com/homenews/campaign/5885919-trump-endorses-paxton-texas-runoff/",
+      "abbr": "TX"
     }
   ]
 }
