@@ -25,8 +25,10 @@ export default function (eleventyConfig) {
 
 	eleventyConfig.addFilter("recentNewsAll", (runs, states, limit) => {
 		const slugMap = {};
+		const nameMap = {};
 		for (const s of states || []) {
 			slugMap[s.abbreviation] = (s.state || "").toLowerCase().replace(/\s+/g, "-");
+			nameMap[s.abbreviation] = s.state || "";
 		}
 		const seen = new Set();
 		const items = [];
@@ -42,6 +44,7 @@ export default function (eleventyConfig) {
 							...item,
 							stateAbbr: abbr,
 							stateSlug: slugMap[abbr],
+							stateName: nameMap[abbr],
 						});
 					}
 				}
@@ -61,8 +64,10 @@ export default function (eleventyConfig) {
 
 	eleventyConfig.addFilter("latestRunNews", (runs, states, limit) => {
 		const slugMap = {};
+		const nameMap = {};
 		for (const s of states || []) {
 			slugMap[s.abbreviation] = (s.state || "").toLowerCase().replace(/\s+/g, "-");
+			nameMap[s.abbreviation] = s.state || "";
 		}
 		const latest = (runs || [])[((runs || []).length || 1) - 1];
 		if (!latest) return [];
@@ -74,6 +79,7 @@ export default function (eleventyConfig) {
 					...item,
 					stateAbbr: abbr,
 					stateSlug: slugMap[abbr],
+					stateName: nameMap[abbr],
 				});
 			}
 		}

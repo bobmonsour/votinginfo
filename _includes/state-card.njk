@@ -1,4 +1,5 @@
 <article class="state-card" id="states-{{ state.abbreviation | lower }}"
+	role="listitem"
 	data-state="{{ state.state | lower }}"
 	data-abbr="{{ state.abbreviation | lower }}"
 	data-same-day="{{ state.sameDayRegistration }}"
@@ -19,15 +20,15 @@
 	</div>
 
 	<div class="badges">
-		<span class="badge {{ 'yes' if state.sameDayRegistration else 'no' }}"><span class="glyph">{{ '✓' if state.sameDayRegistration else '✕' }}</span> Same-day</span>
-		<span class="badge {{ 'yes' if state.registrationMethods.online else 'no' }}"><span class="glyph">{{ '✓' if state.registrationMethods.online else '✕' }}</span> Online</span>
-		<span class="badge {{ 'yes' if state.earlyVoting.available else 'no' }}"><span class="glyph">{{ '✓' if state.earlyVoting.available else '✕' }}</span> Early</span>
+		<span class="badge {{ 'yes' if state.sameDayRegistration else 'no' }}" aria-label="Same-day registration: {{ 'yes' if state.sameDayRegistration else 'no' }}"><span class="glyph" aria-hidden="true">{{ '✓' if state.sameDayRegistration else '✕' }}</span> Same-day</span>
+		<span class="badge {{ 'yes' if state.registrationMethods.online else 'no' }}" aria-label="Online registration: {{ 'yes' if state.registrationMethods.online else 'no' }}"><span class="glyph" aria-hidden="true">{{ '✓' if state.registrationMethods.online else '✕' }}</span> Online</span>
+		<span class="badge {{ 'yes' if state.earlyVoting.available else 'no' }}" aria-label="Early voting: {{ 'yes' if state.earlyVoting.available else 'no' }}"><span class="glyph" aria-hidden="true">{{ '✓' if state.earlyVoting.available else '✕' }}</span> Early</span>
 		{% if state.mailInVoting.noExcuseRequired %}
-		<span class="badge yes"><span class="glyph">✓</span> No-excuse mail-in</span>
+		<span class="badge yes"><span class="glyph" aria-hidden="true">✓</span> No-excuse mail-in</span>
 		{% elif state.mailInVoting.available %}
-		<span class="badge warn"><span class="glyph">✓</span> Excuse req. mail-in</span>
+		<span class="badge warn"><span class="glyph" aria-hidden="true">✓</span> Excuse req. mail-in</span>
 		{% else %}
-		<span class="badge no"><span class="glyph">✕</span> No mail-in</span>
+		<span class="badge no"><span class="glyph" aria-hidden="true">✕</span> No mail-in</span>
 		{% endif %}
 	</div>
 

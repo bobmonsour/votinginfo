@@ -4,7 +4,7 @@ layout: layouts/base.njk
 <article class="state-detail">
 	<div class="state-detail-header">
 		<a href="/" class="back-btn" aria-label="Back to Home">&larr; Back to Home</a>
-		<h1>All News <a href="/all-news/feed.xml" class="rss-icon" title="RSS feed for all voting news" aria-label="RSS feed"><img src="/img/rss-icon.svg" alt="RSS" width="28" height="28"></a></h1>
+		<h1>All News <a href="/all-news/feed.xml" class="rss-icon" aria-label="All voting news RSS feed"><img src="/img/rss-icon.svg" alt="" width="28" height="28"></a></h1>
 	</div>
 
 	{% set allItems = stateNews.runs | recentNewsAll(states) %}

@@ -44,7 +44,12 @@
 		// it doesn't reflect the filtered set and adds visual noise between
 		// the search box and the matching cards.
 		const filtering = query !== "" || activeFilters.size > 0;
-		if (jumpRail) jumpRail.hidden = filtering;
+		if (jumpRail) {
+			if (filtering && !jumpRail.hidden && jumpRail.contains(document.activeElement)) {
+				document.activeElement.blur();
+			}
+			jumpRail.hidden = filtering;
+		}
 	}
 
 	searchInput.addEventListener("input", function () {

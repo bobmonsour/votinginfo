@@ -21,7 +21,7 @@
 	<header class="site-header">
 		<div class="container">
 			<a href="/" class="site-title">US Voting Info<span class="dot">.</span></a>
-			<button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Menu">
+			<button class="nav-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Open menu">
 				<span class="nav-toggle-icon"></span>
 			</button>
 			<nav id="main-nav" class="site-nav" aria-label="Main navigation">
@@ -38,11 +38,13 @@
 				btn.addEventListener('click',function(){
 					var open=nav.classList.toggle('nav-open');
 					btn.setAttribute('aria-expanded',open);
+					btn.setAttribute('aria-label',open?'Close menu':'Open menu');
 				});
 				nav.addEventListener('click',function(e){
 					if(e.target.tagName==='A'){
 						nav.classList.remove('nav-open');
 						btn.setAttribute('aria-expanded','false');
+						btn.setAttribute('aria-label','Open menu');
 					}
 				});
 			})();
@@ -71,10 +73,10 @@
 			<div>
 				<h4>Site</h4>
 				<a href="/">Home</a>
-				<a href="/all-news/" target="_blank" rel="noopener">All news</a>
-				<a href="/glossary/" target="_blank" rel="noopener">Glossary</a>
-				<a href="/change-log/" target="_blank" rel="noopener">Change log</a>
-				<a href="/about/" target="_blank" rel="noopener">About</a>
+				<a href="/all-news/">All news</a>
+				<a href="/glossary/">Glossary</a>
+				<a href="/change-log/">Change log</a>
+				<a href="/about/">About</a>
 			</div>
 			<div>
 				<h4>Sources</h4>

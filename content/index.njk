@@ -55,21 +55,21 @@ fullBleed: true
 			</div>
 		</div>
 
-		<ol class="news-grid">
+		<ul class="news-grid">
 			{%- for item in newsItems %}
 			<li class="news-item">
-				<a class="news-state-tag" href="/states/{{ item.stateSlug }}/#recent-news" aria-label="{{ item.stateAbbr }} news">{{ item.stateAbbr }}</a>
+				<a class="news-state-tag" href="/states/{{ item.stateSlug }}/#recent-news" aria-label="{{ item.stateName }} news">{{ item.stateAbbr }}</a>
 				<div class="news-body">
 					<a class="news-title" href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
 					<div class="news-meta">
 						<span class="news-source">{{ item.source }}</span>
 						<span class="dot-sep">·</span>
-						<span>{{ item.date | formatDate }}</span>
+						<time datetime="{{ item.date }}">{{ item.date | formatDate }}</time>
 					</div>
 				</div>
 			</li>
 			{%- endfor %}
-		</ol>
+		</ul>
 	</div>
 </section>
 {% endif %}
@@ -81,7 +81,7 @@ fullBleed: true
 		</div>
 		<nav class="abbr-rail" aria-label="News by state">
 			{%- for s in sortedStates %}
-			<a href="/states/{{ s.state | slug }}/#recent-news" title="{{ s.state }}">{{ s.abbreviation }}</a>
+			<a href="/states/{{ s.state | slug }}/#recent-news" aria-label="{{ s.state }} news">{{ s.abbreviation }}</a>
 			{%- endfor %}
 		</nav>
 	</div>
@@ -108,8 +108,8 @@ fullBleed: true
 			</div>
 		</div>
 
-		<div class="result-row" aria-live="polite">
-			<span>Showing <strong id="visible-count">{{ states | length }}</strong> of <strong>{{ states | length }}</strong> jurisdictions</span>
+		<div class="result-row">
+			<span aria-live="polite">Showing <strong id="visible-count">{{ states | length }}</strong> of <strong>{{ states | length }}</strong> jurisdictions</span>
 			<span>Last updated <strong>{{ states | latestVerified | formatDate }}</strong></span>
 		</div>
 
@@ -117,12 +117,12 @@ fullBleed: true
 			<div class="abbr-rail-label"><span>Jump to a state</span></div>
 			<nav class="abbr-rail" aria-label="Jump to state cards">
 				{%- for s in sortedStates %}
-				<a href="#states-{{ s.abbreviation | lower }}" title="{{ s.state }}">{{ s.abbreviation }}</a>
+				<a href="#states-{{ s.abbreviation | lower }}" aria-label="Jump to {{ s.state }}">{{ s.abbreviation }}</a>
 				{%- endfor %}
 			</nav>
 		</div>
 
-		<div class="card-grid">
+		<div class="card-grid" role="list" aria-label="State cards">
 			{%- for state in sortedStates %}
 			{% include "state-card.njk" %}
 			{%- endfor %}

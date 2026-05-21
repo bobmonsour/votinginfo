@@ -20,51 +20,51 @@ layout: layouts/base.njk
 			<dl class="key-facts">
 				<dt>
 					Registration Deadline
-					<button class="info-btn" aria-label="Definition of Registration Deadline" aria-expanded="false">ⓘ</button>
-					<div class="info-popover" role="tooltip">{{ glossary["Registration Deadline"].definition }}</div>
+					<button class="info-btn" aria-label="Definition of Registration Deadline" aria-expanded="false" aria-describedby="tip-reg-deadline">ⓘ</button>
+					<div class="info-popover" role="tooltip" id="tip-reg-deadline">{{ glossary["Registration Deadline"].definition }}</div>
 				</dt>
 				<dd>{{ state.registrationDeadline }}</dd>
 				<dt>
 					Same-Day Registration
-					<button class="info-btn" aria-label="Definition of Same-Day Registration" aria-expanded="false">ⓘ</button>
-					<div class="info-popover" role="tooltip">{{ glossary["Same-Day Registration"].definition }}</div>
+					<button class="info-btn" aria-label="Definition of Same-Day Registration" aria-expanded="false" aria-describedby="tip-same-day">ⓘ</button>
+					<div class="info-popover" role="tooltip" id="tip-same-day">{{ glossary["Same-Day Registration"].definition }}</div>
 				</dt>
 				<dd>{{ "Yes" if state.sameDayRegistration else "No" }}</dd>
 				<dt>
 					Online Registration
-					<button class="info-btn" aria-label="Definition of Online Registration" aria-expanded="false">ⓘ</button>
-					<div class="info-popover" role="tooltip">{{ glossary["Online Registration"].definition }}</div>
+					<button class="info-btn" aria-label="Definition of Online Registration" aria-expanded="false" aria-describedby="tip-online-reg">ⓘ</button>
+					<div class="info-popover" role="tooltip" id="tip-online-reg">{{ glossary["Online Registration"].definition }}</div>
 				</dt>
 				<dd>{{ "Yes" if state.registrationMethods.online else "No" }}</dd>
 				<dt>
 					Early Voting
-					<button class="info-btn" aria-label="Definition of Early Voting" aria-expanded="false">ⓘ</button>
-					<div class="info-popover" role="tooltip">{{ glossary["Early Voting"].definition }}</div>
+					<button class="info-btn" aria-label="Definition of Early Voting" aria-expanded="false" aria-describedby="tip-early-voting-kf">ⓘ</button>
+					<div class="info-popover" role="tooltip" id="tip-early-voting-kf">{{ glossary["Early Voting"].definition }}</div>
 				</dt>
 				<dd>{{ "Yes" if state.earlyVoting.available else "No" }}</dd>
 				<dt>
 					Mail-In Voting
-					<button class="info-btn" aria-label="Definition of Mail-In Voting" aria-expanded="false">ⓘ</button>
-					<div class="info-popover" role="tooltip">{{ glossary["Mail-In Voting"].definition }}</div>
+					<button class="info-btn" aria-label="Definition of Mail-In Voting" aria-expanded="false" aria-describedby="tip-mail-in-kf">ⓘ</button>
+					<div class="info-popover" role="tooltip" id="tip-mail-in-kf">{{ glossary["Mail-In Voting"].definition }}</div>
 				</dt>
 				<dd>{% if state.mailInVoting.noExcuseRequired %}No excuse required{% elif state.mailInVoting.available %}Excuse required{% else %}No{% endif %}</dd>
 			</dl>
 			<div class="state-badges">
-				<span class="badge {{ 'badge-yes' if state.sameDayRegistration else 'badge-no' }}">
-					{{ "✓" if state.sameDayRegistration else "✗" }} Same-Day Reg
+				<span class="badge {{ 'badge-yes' if state.sameDayRegistration else 'badge-no' }}" aria-label="Same-day registration: {{ 'yes' if state.sameDayRegistration else 'no' }}">
+					<span aria-hidden="true">{{ "✓" if state.sameDayRegistration else "✗" }}</span> Same-Day Reg
 				</span>
-				<span class="badge {{ 'badge-yes' if state.registrationMethods.online else 'badge-no' }}">
-					{{ "✓" if state.registrationMethods.online else "✗" }} Online Reg
+				<span class="badge {{ 'badge-yes' if state.registrationMethods.online else 'badge-no' }}" aria-label="Online registration: {{ 'yes' if state.registrationMethods.online else 'no' }}">
+					<span aria-hidden="true">{{ "✓" if state.registrationMethods.online else "✗" }}</span> Online Reg
 				</span>
-				<span class="badge {{ 'badge-yes' if state.earlyVoting.available else 'badge-no' }}">
-					{{ "✓" if state.earlyVoting.available else "✗" }} Early Voting
+				<span class="badge {{ 'badge-yes' if state.earlyVoting.available else 'badge-no' }}" aria-label="Early voting: {{ 'yes' if state.earlyVoting.available else 'no' }}">
+					<span aria-hidden="true">{{ "✓" if state.earlyVoting.available else "✗" }}</span> Early Voting
 				</span>
 				{% if state.mailInVoting.noExcuseRequired %}
-				<span class="badge badge-yes">✓ No-Excuse Mail-In</span>
+				<span class="badge badge-yes"><span aria-hidden="true">✓</span> No-Excuse Mail-In</span>
 				{% elif state.mailInVoting.available %}
-				<span class="badge badge-no">✗ Excuse Required Mail-In</span>
+				<span class="badge badge-no"><span aria-hidden="true">✗</span> Excuse Required Mail-In</span>
 				{% else %}
-				<span class="badge badge-no">✗ Mail-In</span>
+				<span class="badge badge-no"><span aria-hidden="true">✗</span> Mail-In</span>
 				{% endif %}
 			</div>
 			<a href="{{ state.officialUrl }}" class="official-link" target="_blank" rel="noopener noreferrer">Official Election Website &rarr;</a>
@@ -95,8 +95,8 @@ layout: layouts/base.njk
 			<section>
 				<h2>
 					Early Voting
-					<button class="info-btn" aria-label="Definition of Early Voting" aria-expanded="false">ⓘ</button>
-					<div class="info-popover" role="tooltip">{{ glossary["Early Voting"].definition }}</div>
+					<button class="info-btn" aria-label="Definition of Early Voting" aria-expanded="false" aria-describedby="tip-early-voting-main">ⓘ</button>
+					<div class="info-popover" role="tooltip" id="tip-early-voting-main">{{ glossary["Early Voting"].definition }}</div>
 				</h2>
 				<p>{{ state.earlyVoting.details }}</p>
 			</section>
@@ -104,8 +104,8 @@ layout: layouts/base.njk
 			<section>
 				<h2>
 					Mail-In / Absentee Voting
-					<button class="info-btn" aria-label="Definition of Mail-In Voting" aria-expanded="false">ⓘ</button>
-					<div class="info-popover" role="tooltip">{{ glossary["Mail-In Voting"].definition }}</div>
+					<button class="info-btn" aria-label="Definition of Mail-In Voting" aria-expanded="false" aria-describedby="tip-mail-in-main">ⓘ</button>
+					<div class="info-popover" role="tooltip" id="tip-mail-in-main">{{ glossary["Mail-In Voting"].definition }}</div>
 				</h2>
 				<p>{{ state.mailInVoting.details }}</p>
 			</section>
@@ -113,8 +113,8 @@ layout: layouts/base.njk
 			<section>
 				<h2>
 					Felony Voting Rules
-					<button class="info-btn" aria-label="Definition of Felony Voting Rules" aria-expanded="false">ⓘ</button>
-					<div class="info-popover" role="tooltip">{{ glossary["Felony Voting Rules"].definition }}</div>
+					<button class="info-btn" aria-label="Definition of Felony Voting Rules" aria-expanded="false" aria-describedby="tip-felony">ⓘ</button>
+					<div class="info-popover" role="tooltip" id="tip-felony">{{ glossary["Felony Voting Rules"].definition }}</div>
 				</h2>
 				<p>{{ state.felonyVotingRules }}</p>
 			</section>
@@ -138,12 +138,12 @@ layout: layouts/base.njk
 			{% set news = stateNews.runs | recentNews(state.abbreviation) %}
 			{% if news.length %}
 			<section class="recent-news" id="recent-news">
-				<h2>Recent News &ndash; {{ state.state }} <a href="/state-news/{{ state.abbreviation | lower }}/feed.xml" class="rss-icon" title="RSS feed for {{ state.state }} news" aria-label="RSS feed"><img src="/img/rss-icon.svg" alt="RSS" width="24" height="24"></a></h2>
+				<h2>Recent News &ndash; {{ state.state }} <a href="/state-news/{{ state.abbreviation | lower }}/feed.xml" class="rss-icon" aria-label="{{ state.state }} news RSS feed"><img src="/img/rss-icon.svg" alt="" width="24" height="24"></a></h2>
 				<ul class="news-list">
 					{%- for item in news %}
 					<li>
 						<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
-						<span class="news-meta">{{ item.source }} · {{ item.date | formatDate }}</span>
+						<span class="news-meta">{{ item.source }} · <time datetime="{{ item.date }}">{{ item.date | formatDate }}</time></span>
 						<p>{{ item.summary }}</p>
 					</li>
 					{%- endfor %}
@@ -195,7 +195,7 @@ layout: layouts/base.njk
 
 	{% if state.changes.length %}
 	<section class="change-log">
-		<h2>Change Log <a href="#" class="expand-all-link" aria-label="Expand all change log dates">expand all</a></h2>
+		<h2>Change Log <button type="button" class="expand-all-link" aria-expanded="false">expand all</button></h2>
 		{% set changesByDate = state.changes | groupByDate %}
 		{%- for group in changesByDate %}
 		<details class="date-group"{% if loop.first %} open{% endif %}>
@@ -212,14 +212,14 @@ layout: layouts/base.njk
 		{%- endfor %}
 		<script>
 		(function() {
-			var link = document.querySelector('.change-log .expand-all-link');
-			if (!link) return;
-			link.addEventListener('click', function(e) {
-				e.preventDefault();
+			var btn = document.querySelector('.change-log .expand-all-link');
+			if (!btn) return;
+			btn.addEventListener('click', function() {
 				var details = document.querySelectorAll('.change-log .date-group');
 				var allOpen = Array.prototype.every.call(details, function(d) { return d.open; });
 				details.forEach(function(d) { d.open = !allOpen; });
-				link.textContent = allOpen ? 'expand all' : 'collapse all';
+				btn.textContent = allOpen ? 'expand all' : 'collapse all';
+				btn.setAttribute('aria-expanded', allOpen ? 'false' : 'true');
 			});
 		})();
 		</script>
