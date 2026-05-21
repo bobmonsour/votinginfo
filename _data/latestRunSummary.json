@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "items": [
     {
-      "text": "Georgia, Kentucky, Pennsylvania, Oregon, Idaho, and Alabama hold May 19 primaries with Trump's influence on full display",
-      "url": "https://www.washingtonpost.com/politics/2026/05/20/takeaways-primaries-georgia-kentucky-pennsylvania-alabama-more/",
-      "abbr": "GA"
+      "text": "Indiana recount seeks unprecedented subpoenas of voters accused of crossing party lines",
+      "url": "https://www.wfyi.org/statewide/2026-05-20/indiana-recount-fight-takes-unprecedented-step-to-subpoena-voters",
+      "abbr": "IN"
     },
     {
-      "text": "Trump ousts Rep. Massie in most expensive House primary ever, backing Gallrein in Kentucky 4th District",
-      "url": "https://www.washingtonpost.com/politics/2026/05/20/takeaways-primaries-georgia-kentucky-pennsylvania-alabama-more/",
-      "abbr": "KY"
+      "text": "Ohio Republicans push to put voter photo ID constitutional amendment on November ballot",
+      "url": "https://www.statenews.org/government-politics/2026-05-20/photo-id-amendment-likely-to-make-ballot-with-ohio-gop-leaders-behind-it",
+      "abbr": "OH"
     },
     {
-      "text": "South Carolina House passes midnight redistricting bill to eliminate Clyburn's majority-Black district",
-      "url": "https://www.wrdw.com/2026/05/20/sc-redistricting-proposal-passes-house-heads-state-senate/",
-      "abbr": "SC"
+      "text": "Michigan and Maryland advance state-level Voting Rights Acts to fill federal VRA void",
+      "url": "https://www.wcmu.org/local-regional-news/2026-05-20/senate-dems-want-to-create-michigan-voting-rights-act-to-counter-supreme-court-ruling",
+      "abbr": "MI"
     },
     {
-      "text": "Connecticut becomes 37th state with no-excuse absentee voting as Lamont signs new law",
-      "url": "https://portal.ct.gov/governor/news/press-releases/2026/05-2026/governor-lamont-signs-legislation-making-absentee-ballots-an-option",
-      "abbr": "CT"
+      "text": "Alaska Legislature passes campaign finance bill that could cancel August ballot initiative",
+      "url": "https://alaskabeacon.com/2026/05/20/alaska-legislatures-last-day-action-could-cancel-campaign-finance-ballot-measure/",
+      "abbr": "AK"
     },
     {
-      "text": "Trump endorsement of Paxton over Cornyn in Texas Senate runoff shakes up race with one week to vote",
-      "url": "https://thehill.com/homenews/campaign/5885919-trump-endorses-paxton-texas-runoff/",
-      "abbr": "TX"
+      "text": "Wyoming candidate filing opens under new closed primaries and proof-of-citizenship rules",
+      "url": "https://wyofile.com/100-candidates-now-running-for-office-in-wyoming/",
+      "abbr": "WY"
     }
   ]
 }
