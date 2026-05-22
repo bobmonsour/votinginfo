@@ -255,7 +255,7 @@
       "Valid photo ID or two non-photo IDs"
     ],
     "officialUrl": "https://azsos.gov/elections",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-22",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -328,15 +328,20 @@
         "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Pending Legislation",
+        "description": "Updated HB 2492 entry to reflect 9th Circuit rehearing denial (Sep 22, 2025) and SCOTUS cert petition filing (Feb 19, 2026, No. 25-1017) per Democracy Docket, SCOTUS docket, and AZ Family"
       }
     ],
     "recentLegislation": [],
     "pendingLegislation": [
       {
-        "bill": "HB 2492 (9th Circuit ruling)",
+        "bill": "HB 2492 (9th Circuit ruling / SCOTUS cert petition)",
         "year": 2025,
-        "description": "9th Circuit unanimously found that Arizona's 2022 documentary proof of citizenship laws (HB 2492/HB 2243) were enacted with discriminatory intent; blocked requirements for proof of citizenship to vote for president and to vote by mail",
-        "status": "Blocked by 9th Circuit (Feb 2025); may be appealed",
+        "description": "9th Circuit unanimously found that Arizona's 2022 documentary proof of citizenship laws (HB 2492/HB 2243) were enacted with discriminatory intent; blocked requirements for proof of citizenship to vote for president and to vote by mail. 9th Circuit denied rehearing Sep 22, 2025. RNC and Arizona Senate Republicans filed a petition for certiorari at the U.S. Supreme Court on Feb 19, 2026 (RNC v. Mi Familia Vota, No. 25-1017).",
+        "status": "Blocked by 9th Circuit (Feb 2025); rehearing denied Sep 2025; SCOTUS cert petition filed Feb 19, 2026 (No. 25-1017), pending",
         "dateAdded": "2026-02-28",
         "active": true
       },
@@ -731,8 +736,8 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "Absentee ballot available; excuse required. A constitutional amendment for no-excuse absentee voting was approved in 2024, but enabling legislation is pending.",
-      "noExcuseRequired": false
+      "details": "No-excuse absentee voting available to all registered voters under Public Act 26-42 (HB 5001), signed by Gov. Lamont May 19, 2026, implementing the 2024 constitutional amendment.",
+      "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon completion of incarceration (people on probation or parole may vote).",
     "documentationNeeded": [
@@ -740,7 +745,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://portal.ct.gov/sots/election-services",
-    "lastVerified": "2026-05-10",
+    "lastVerified": "2026-05-22",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -828,28 +833,47 @@
         "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent Legislation",
+        "description": "Moved HB 5001 from pending to recent legislation; signed by Gov. Lamont May 19, 2026 as Public Act 26-42, effective immediately, per CT Governor's Office press release"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Mail-In Voting",
+        "description": "Updated details text to reflect no-excuse absentee voting now in effect under Public Act 26-42, per CT Governor's Office press release"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Mail-In Voting",
+        "description": "Set noExcuseRequired to true; Public Act 26-42 (signed May 19, 2026) eliminates the excuse requirement"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent Legislation",
+        "description": "Refreshed 2024 Constitutional Amendment entry: enabling legislation now enacted as Public Act 26-42 (no longer pending)"
       }
     ],
     "recentLegislation": [
       {
         "bill": "Constitutional Amendment",
         "year": 2024,
-        "description": "Approved constitutional amendment for no-excuse absentee voting; enabling legislation still pending",
-        "status": "Amendment approved Nov 2024; enabling legislation pending",
+        "description": "Approved constitutional amendment authorizing no-excuse absentee voting; enabling legislation enacted in 2026 as HB 5001 / Public Act 26-42.",
+        "status": "Amendment approved Nov 2024; enabling legislation enacted May 19, 2026 (Public Act 26-42)",
         "dateAdded": "2026-02-25",
         "active": true
-      }
-    ],
-    "pendingLegislation": [
+      },
       {
-        "bill": "HB 5001",
+        "bill": "HB 5001 (Public Act 26-42)",
         "year": 2026,
-        "description": "An Act Concerning Absentee Voting for All and Various Other Reforms to the Administration of Elections — eliminates the excuse requirement for absentee ballots (implementing the November 2024 constitutional amendment); also adds absentee-ballot tracking software, allows 17-year-olds who will be 18 by election day to vote absentee/early, and creates penalties for tampering with drop boxes.",
-        "status": "Passed House and Senate (Senate 25-11) on May 6-7, 2026 (final day of session); awaiting Governor Lamont's signature as of 2026-05-10",
+        "description": "An Act Concerning Absentee Voting for All and Various Other Reforms to the Administration of Elections — eliminates the excuse requirement for absentee ballots (implementing the November 2024 constitutional amendment); also adds absentee-ballot tracking software, allows 17-year-olds who will be 18 by election day to vote absentee/early, makes tampering with an absentee-ballot drop box a class D felony, and elevates harassment of election workers to a felony on a second offense.",
+        "status": "Signed by Gov. Lamont May 19, 2026 as Public Act 26-42; effective immediately upon signing",
         "dateAdded": "2026-05-10",
         "active": true
       }
-    ]
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Delaware",
@@ -2487,7 +2511,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://elections.maryland.gov/",
-    "lastVerified": "2026-05-12",
+    "lastVerified": "2026-05-22",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2575,6 +2599,11 @@
         "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent Legislation",
+        "description": "Added HB 115 / SB 241 (automatic voter registration restoration upon release from state correctional facilities) per Ballotpedia News and The Sentencing Project"
       }
     ],
     "recentLegislation": [
@@ -2584,6 +2613,14 @@
         "description": "Prohibits counties and municipalities from using electoral methods that dilute the votes of a protected class (race, color, or language-minority group). Provides remedies including injunctive relief and damages. Applies to local elections only.",
         "status": "Signed by Gov. Wes Moore April 28, 2026; emergency bill, took effect immediately upon signature",
         "dateAdded": "2026-05-12",
+        "active": true
+      },
+      {
+        "bill": "HB 115 / SB 241",
+        "year": 2026,
+        "description": "Requires the Department of Public Safety and Correctional Services and the State Board of Elections to automatically restore the voter registration of individuals released from state correctional facilities. DPSCS must send the State Board of Elections a weekly list of released individuals (names and new residential addresses) to enable automatic re-registration.",
+        "status": "Enacted in 2026 legislative session",
+        "dateAdded": "2026-05-22",
         "active": true
       }
     ],
@@ -3103,7 +3140,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.sos.mo.gov/elections",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-22",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3191,10 +3228,24 @@
         "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Pending Legislation",
+        "description": "Added HB 174 / SB 152 (wide-reaching elections bill including felony voting rights restoration for most probation/parole cases) — passed both chambers May 2026, awaiting Gov. Kehoe by July 15 deadline, per KCUR/NPR and St. Louis Public Radio"
       }
     ],
     "recentLegislation": [],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "HB 174 / SB 152 (wide-reaching elections bill)",
+        "year": 2026,
+        "description": "Would restore voting rights to people on probation or parole for most felonies; only those convicted of specific crimes (murder, child endangerment, first-degree burglary) would remain barred from voting while on probation or parole. Also requires affirmative consent for recurring campaign contributions and requires write-in candidates to declare their candidacy.",
+        "status": "Passed Missouri House 101-47 and Senate in May 2026; sent to Gov. Kehoe who has until July 15, 2026 to act",
+        "dateAdded": "2026-05-22",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Montana",
@@ -3744,7 +3795,7 @@
       "Driver's license number or last 4 of SSN"
     ],
     "officialUrl": "https://nj.gov/state/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-22",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3817,9 +3868,23 @@
         "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent Legislation",
+        "description": "Added A4745 / S420 (early voting expansion for May municipal nonpartisan elections — 7 days starting 8 days before Election Day) signed by Gov. Sherrill April 6, 2026 per NJ Governor's Office press release"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "A4745 / S420",
+        "year": 2026,
+        "description": "Permits municipalities that hold nonpartisan elections in May to extend in-person early voting to begin 8 days before Election Day (ending 2 days before), giving voters 7 days of early voting — an increase of 4 days over previous law.",
+        "status": "Signed by Gov. Sherrill April 6, 2026",
+        "dateAdded": "2026-05-22",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -3852,7 +3917,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.sos.nm.gov/voting-and-elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-22",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3935,6 +4000,11 @@
         "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent Legislation",
+        "description": "Added SB 264 (prohibits armed federal agents and military troops at polling places; signed by Gov. Lujan Grisham March 9, 2026) per NM Secretary of State, Ballotpedia News, and Source New Mexico"
       }
     ],
     "recentLegislation": [
@@ -3944,6 +4014,14 @@
         "description": "Open primaries: independent voters can now vote in party primaries",
         "status": "Signed into law April 7, 2025; effective starting June 2, 2026 primary",
         "dateAdded": "2026-03-13",
+        "active": true
+      },
+      {
+        "bill": "SB 264",
+        "year": 2026,
+        "description": "Prohibits bringing or ordering military troops or armed federal agents to polling places, ballot drop box locations, or within 50 feet of an official ballot box; prohibits interference with election officials, voters, challengers, or watchers; provides emergency-continuity procedures for county clerks and the Secretary of State during declared emergencies.",
+        "status": "Signed by Gov. Lujan Grisham March 9, 2026",
+        "dateAdded": "2026-05-22",
         "active": true
       }
     ],
@@ -4189,7 +4267,7 @@
       "Valid ID with name, date of birth, and residential address"
     ],
     "officialUrl": "https://vip.sos.nd.gov/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-22",
     "notes": "North Dakota is the only US state with no voter registration requirement.",
     "confidenceLevel": "High",
     "sources": [
@@ -4272,9 +4350,23 @@
         "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent Legislation",
+        "description": "Added HB 1165 (created Election Day receipt deadline for absentee/mail-in ballots; signed April 28, 2025, effective August 1, 2025) per ND Secretary of State, North Dakota Monitor, and ND Legislative Assembly bill page"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "HB 1165",
+        "year": 2025,
+        "description": "Created a receipt deadline for absentee/mail-in ballots — ballots must now be received by the close of polls on Election Day. Previously, ballots postmarked by the day before Election Day and received within 13 days after were counted.",
+        "status": "Signed into law April 28, 2025; effective August 1, 2025",
+        "dateAdded": "2026-05-22",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
