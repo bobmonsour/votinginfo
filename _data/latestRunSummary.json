@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "items": [
     {
-      "text": "Indiana recount seeks unprecedented subpoenas of voters accused of crossing party lines",
-      "url": "https://www.wfyi.org/statewide/2026-05-20/indiana-recount-fight-takes-unprecedented-step-to-subpoena-voters",
-      "abbr": "IN"
+      "text": "South Carolina Senate debates redistricting bill to eliminate sole majority-Black congressional district",
+      "url": "https://scdailygazette.com/2026/05/21/bill-redrawing-sc-congressional-voting-lines-advances-in-senate-as-cost-estimates-double/",
+      "abbr": "SC"
     },
     {
-      "text": "Ohio Republicans push to put voter photo ID constitutional amendment on November ballot",
-      "url": "https://www.statenews.org/government-politics/2026-05-20/photo-id-amendment-likely-to-make-ballot-with-ohio-gop-leaders-behind-it",
+      "text": "Ohio Republicans advance constitutional amendment to enshrine voter photo ID requirement",
+      "url": "https://ohiocapitaljournal.com/2026/05/22/ohio-republicans-trying-to-get-voter-photo-id-on-the-ballot-enshrined-in-state-constitution/",
       "abbr": "OH"
     },
     {
-      "text": "Michigan and Maryland advance state-level Voting Rights Acts to fill federal VRA void",
-      "url": "https://www.wcmu.org/local-regional-news/2026-05-20/senate-dems-want-to-create-michigan-voting-rights-act-to-counter-supreme-court-ruling",
-      "abbr": "MI"
+      "text": "Connecticut becomes 37th state to allow no-excuse absentee voting after governor signs new law",
+      "url": "https://bristoledition.org/blog/2026/05/21/lamont-signs-law-allowing-no-excuse-absentee-voting-in-connecticut/",
+      "abbr": "CT"
     },
     {
-      "text": "Alaska Legislature passes campaign finance bill that could cancel August ballot initiative",
-      "url": "https://alaskabeacon.com/2026/05/20/alaska-legislatures-last-day-action-could-cancel-campaign-finance-ballot-measure/",
-      "abbr": "AK"
+      "text": "Colorado Democrats censure Governor Polis for commuting Tina Peters' election-tampering sentence",
+      "url": "https://www.cpr.org/2026/05/20/colorado-democrats-censure-jared-polis/",
+      "abbr": "CO"
     },
     {
-      "text": "Wyoming candidate filing opens under new closed primaries and proof-of-citizenship rules",
-      "url": "https://wyofile.com/100-candidates-now-running-for-office-in-wyoming/",
-      "abbr": "WY"
+      "text": "North Dakota Democrats plan write-in candidate after dispute over replacing lawmaker killed in plane crash",
+      "url": "https://www.inforum.com/news/north-dakota/north-dakota-democrats-plan-write-in-candidate-to-replace-conmy",
+      "abbr": "ND"
     }
   ]
 }

@@ -323,6 +323,11 @@
         "date": "2026-05-18",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -564,6 +569,11 @@
         "date": "2026-05-19",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -681,6 +691,11 @@
         "date": "2026-05-18",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -782,7 +797,7 @@
       {
         "date": "2026-05-10",
         "field": "Pending Legislation",
-        "description": "Added HB 5001 (no-excuse absentee enabling + admin reforms) \u2014 passed both chambers May 6-7, 2026 and awaiting Governor's signature, per CT General Assembly bill page and CT Mirror / CT News Junkie / ACLU CT"
+        "description": "Added HB 5001 (no-excuse absentee enabling + admin reforms) — passed both chambers May 6-7, 2026 and awaiting Governor's signature, per CT General Assembly bill page and CT Mirror / CT News Junkie / ACLU CT"
       },
       {
         "date": "2026-05-10",
@@ -808,6 +823,11 @@
         "date": "2026-05-20",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -824,7 +844,7 @@
       {
         "bill": "HB 5001",
         "year": 2026,
-        "description": "An Act Concerning Absentee Voting for All and Various Other Reforms to the Administration of Elections \u2014 eliminates the excuse requirement for absentee ballots (implementing the November 2024 constitutional amendment); also adds absentee-ballot tracking software, allows 17-year-olds who will be 18 by election day to vote absentee/early, and creates penalties for tampering with drop boxes.",
+        "description": "An Act Concerning Absentee Voting for All and Various Other Reforms to the Administration of Elections — eliminates the excuse requirement for absentee ballots (implementing the November 2024 constitutional amendment); also adds absentee-ballot tracking software, allows 17-year-olds who will be 18 by election day to vote absentee/early, and creates penalties for tampering with drop boxes.",
         "status": "Passed House and Senate (Senate 25-11) on May 6-7, 2026 (final day of session); awaiting Governor Lamont's signature as of 2026-05-10",
         "dateAdded": "2026-05-10",
         "active": true
@@ -917,6 +937,11 @@
       },
       {
         "date": "2026-05-17",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1034,6 +1059,11 @@
       },
       {
         "date": "2026-05-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1175,6 +1205,11 @@
       },
       {
         "date": "2026-05-20",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1399,7 +1434,7 @@
       {
         "date": "2026-05-05",
         "field": "Recent Legislation",
-        "description": "Added S 1322 (2026) \u2014 amends voter ID affidavit process to require date of birth or Idaho DL/ID number on affidavit, signed by Gov. Little March 31, 2026, effective July 1, 2026, per Ballotpedia News and LegiScan"
+        "description": "Added S 1322 (2026) — amends voter ID affidavit process to require date of birth or Idaho DL/ID number on affidavit, signed by Gov. Little March 31, 2026, effective July 1, 2026, per Ballotpedia News and LegiScan"
       },
       {
         "date": "2026-05-05",
@@ -1445,13 +1480,18 @@
         "date": "2026-05-20",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
       {
         "bill": "S 1322",
         "year": 2026,
-        "description": "Amends voter ID affidavit process \u2014 voters using affidavit in lieu of photo ID must also provide either date of birth or Idaho driver's license/ID number, in addition to name and address.",
+        "description": "Amends voter ID affidavit process — voters using affidavit in lieu of photo ID must also provide either date of birth or Idaho driver's license/ID number, in addition to name and address.",
         "status": "Signed by Gov. Brad Little March 31, 2026; effective July 1, 2026",
         "dateAdded": "2026-05-05",
         "active": true
@@ -1569,6 +1609,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1714,6 +1759,11 @@
         "date": "2026-05-21",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1847,6 +1897,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1985,6 +2040,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2266,6 +2326,11 @@
         "date": "2026-05-19",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2297,7 +2362,7 @@
     "sameDayRegistration": true,
     "earlyVoting": {
       "available": true,
-      "details": "In-person absentee voting available at town clerk offices 30\u201345 days before election."
+      "details": "In-person absentee voting available at town clerk offices 30–45 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -2380,6 +2445,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2498,6 +2568,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2622,6 +2697,11 @@
         "date": "2026-05-14",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2739,6 +2819,11 @@
         "date": "2026-05-21",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2850,6 +2935,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3096,6 +3186,11 @@
         "date": "2026-05-21",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3222,6 +3317,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3352,6 +3452,11 @@
         "date": "2026-05-17",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3464,6 +3569,11 @@
         "date": "2026-05-21",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3475,7 +3585,7 @@
     "eligibilityAge": "18",
     "idRequirements": {
       "toRegister": "Proof of identity required (not just an ID number): driver's license, government-issued photo ID, passport, or naturalization papers. Under HB 1569 (effective Nov 2024), all first-time registrants must provide hard-copy documentary proof of U.S. citizenship: U.S. passport, birth certificate, or naturalization papers. Proof of domicile also required. Affidavits no longer accepted. Law currently under legal challenge.",
-      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569. Under HB 323 (effective June 2, 2026), student IDs \u2014 including government-issued college/university IDs \u2014 are no longer accepted; only government-issued IDs such as driver's licenses, state IDs, passports, and military IDs qualify."
+      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569. Under HB 323 (effective June 2, 2026), student IDs — including government-issued college/university IDs — are no longer accepted; only government-issued IDs such as driver's licenses, state IDs, passports, and military IDs qualify."
     },
     "registrationDeadline": "Same-day registration available on election day",
     "registrationMethods": {
@@ -3702,6 +3812,11 @@
         "date": "2026-05-21",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3815,6 +3930,11 @@
         "date": "2026-05-19",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3922,6 +4042,11 @@
         "date": "2026-05-20",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -4023,6 +4148,11 @@
       },
       {
         "date": "2026-05-20",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4137,6 +4267,11 @@
         "date": "2026-05-21",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -4163,7 +4298,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (Dec 2025) eliminated the post-Election Day grace period \u2014 absentee ballots must now be received by close of polls on Election Day.",
+      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (Dec 2025) eliminated the post-Election Day grace period — absentee ballots must now be received by close of polls on Election Day.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon release from prison.",
@@ -4253,6 +4388,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4366,6 +4506,11 @@
         "date": "2026-05-19",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -4397,7 +4542,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "All elections conducted entirely by mail. Ballots mailed 14\u201318 days before election."
+      "details": "All elections conducted entirely by mail. Ballots mailed 14–18 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -4485,6 +4630,11 @@
       },
       {
         "date": "2026-05-20",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4600,6 +4750,11 @@
         "date": "2026-05-20",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -4691,6 +4846,11 @@
       },
       {
         "date": "2026-05-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4816,6 +4976,11 @@
         "date": "2026-05-20",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -4921,6 +5086,11 @@
       },
       {
         "date": "2026-05-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -5052,6 +5222,11 @@
       },
       {
         "date": "2026-05-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -5194,6 +5369,11 @@
         "date": "2026-05-20",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -5295,6 +5475,11 @@
       },
       {
         "date": "2026-05-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -5424,6 +5609,11 @@
         "date": "2026-05-18",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -5453,7 +5643,7 @@
       "details": "No-excuse absentee voting available for all registered voters.",
       "noExcuseRequired": true
     },
-    "felonyVotingRules": "As of June 1, 2026, per the federal court ruling in King v. Youngkin, Virginia can no longer disenfranchise people convicted of felonies except for a narrow set of common-law felonies (murder, manslaughter, arson, burglary, robbery, rape, sodomy, mayhem, larceny). Eligible non-common-law felons can register to vote without gubernatorial restoration starting June 1, 2026. Until then, the existing process \u2014 apply to the governor for restoration after completion of sentence \u2014 still applies.",
+    "felonyVotingRules": "As of June 1, 2026, per the federal court ruling in King v. Youngkin, Virginia can no longer disenfranchise people convicted of felonies except for a narrow set of common-law felonies (murder, manslaughter, arson, burglary, robbery, rape, sodomy, mayhem, larceny). Eligible non-common-law felons can register to vote without gubernatorial restoration starting June 1, 2026. Until then, the existing process — apply to the governor for restoration after completion of sentence — still applies.",
     "documentationNeeded": [
       "Valid ID (photo or non-photo accepted)",
       "Proof of residency for same-day registration"
@@ -5673,6 +5863,11 @@
         "date": "2026-05-19",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -5759,7 +5954,7 @@
       {
         "date": "2026-05-10",
         "field": "Pending Legislation",
-        "description": "Added SJR 9 \u2014 constitutional amendment placing 'only U.S. citizens who are state citizens may vote' question on the November 3, 2026 ballot. Per Ballotpedia News and WV Record, with WV Legislature SJR 9 enrolled text providing Tier-1 corroboration."
+        "description": "Added SJR 9 — constitutional amendment placing 'only U.S. citizens who are state citizens may vote' question on the November 3, 2026 ballot. Per Ballotpedia News and WV Record, with WV Legislature SJR 9 enrolled text providing Tier-1 corroboration."
       },
       {
         "date": "2026-05-10",
@@ -5788,6 +5983,11 @@
       },
       {
         "date": "2026-05-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -5919,6 +6119,11 @@
       },
       {
         "date": "2026-05-21",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -6149,6 +6354,11 @@
       },
       {
         "date": "2026-05-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
       }
