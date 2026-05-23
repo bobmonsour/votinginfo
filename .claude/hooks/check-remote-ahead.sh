@@ -13,6 +13,8 @@ git fetch origin main --quiet 2>/dev/null || exit 0
 behind=$(git rev-list --count HEAD..origin/main 2>/dev/null) || exit 0
 [ "${behind:-0}" -gt 0 ] || exit 0
 
+echo "⚠️  origin/main is $behind commit(s) ahead of local main — consider: git pull --rebase origin main" >&2
+
 jq -n --arg b "$behind" '{
   hookSpecificOutput: {
     hookEventName: "SessionStart",
