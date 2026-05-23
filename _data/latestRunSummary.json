@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "items": [
     {
-      "text": "South Carolina Senate debates redistricting bill to eliminate sole majority-Black congressional district",
-      "url": "https://scdailygazette.com/2026/05/21/bill-redrawing-sc-congressional-voting-lines-advances-in-senate-as-cost-estimates-double/",
+      "text": "South Carolina redistricting fight threatens to delay June primaries",
+      "url": "https://www.nbcnews.com/politics/2026-election/south-carolina-governor-mcmaster-calls-special-session-redistricting-rcna345104",
       "abbr": "SC"
     },
     {
-      "text": "Ohio Republicans advance constitutional amendment to enshrine voter photo ID requirement",
-      "url": "https://ohiocapitaljournal.com/2026/05/22/ohio-republicans-trying-to-get-voter-photo-id-on-the-ballot-enshrined-in-state-constitution/",
-      "abbr": "OH"
+      "text": "Maryland reprints 500,000 mail ballots after vendor printing error",
+      "url": "https://www.dailysignal.com/2026/05/22/maryland-resend-500000-mail-ballots/",
+      "abbr": "MD"
     },
     {
-      "text": "Connecticut becomes 37th state to allow no-excuse absentee voting after governor signs new law",
-      "url": "https://bristoledition.org/blog/2026/05/21/lamont-signs-law-allowing-no-excuse-absentee-voting-in-connecticut/",
+      "text": "Connecticut enacts no-excuse absentee voting and sweeping voter privacy protections",
+      "url": "https://www.governing.com/policy/connecticut-moves-to-strengthen-voter-privacy-in-sweeping-election-bill",
       "abbr": "CT"
     },
     {
-      "text": "Colorado Democrats censure Governor Polis for commuting Tina Peters' election-tampering sentence",
-      "url": "https://www.cpr.org/2026/05/20/colorado-democrats-censure-jared-polis/",
-      "abbr": "CO"
+      "text": "Florida SAVE Act proof-of-citizenship requirement faces lawsuits before 2027 effective date",
+      "url": "https://www.fox35orlando.com/news/florida-moving-toward-stricter-voting-requirements-what-you-need-know",
+      "abbr": "FL"
     },
     {
-      "text": "North Dakota Democrats plan write-in candidate after dispute over replacing lawmaker killed in plane crash",
-      "url": "https://www.inforum.com/news/north-dakota/north-dakota-democrats-plan-write-in-candidate-to-replace-conmy",
-      "abbr": "ND"
+      "text": "Missouri governor sends four constitutional amendments to August primary ballot",
+      "url": "https://www.kfvs12.com/2026/05/23/missouri-governor-moves-votes-taxes-constitutional-amendments-august-primary/",
+      "abbr": "MO"
     }
   ]
 }
