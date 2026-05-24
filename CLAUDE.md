@@ -82,7 +82,12 @@ Full and Requirements modes verify state data against authoritative sources, sav
 
 ### Scheduled routine
 
-A scheduled remote agent (`Daily news update`, trigger ID `trig_01K2PgeQ7XfWLBT2R9d1hJwg`) runs the `/voting-research` skill in autonomous News update mode daily at 6:00am Pacific (cron `0 13 * * *` UTC). Because pushes to `main` auto-deploy via Cloudflare Workers Builds, the routine handles the full daily content-refresh cycle without human intervention: clone → news capture → commit on research branch → fast-forward merge → push → branch deletion → CF build/deploy. Dashboard at https://claude.ai/code/routines/trig_01K2PgeQ7XfWLBT2R9d1hJwg.
+Two scheduled remote agents run the `/voting-research` skill in autonomous News update mode on weekdays (Mon–Fri), pinned to Pacific Daylight Time (they drift by an hour in PST winter unless updated):
+
+- **`Weekday news update (6am PT)`** — trigger ID `trig_01K2PgeQ7XfWLBT2R9d1hJwg`, cron `0 13 * * 1-5` UTC (6:00am Pacific). Dashboard: https://claude.ai/code/routines/trig_01K2PgeQ7XfWLBT2R9d1hJwg
+- **`Weekday news update (5pm PT)`** — trigger ID `trig_01F6PoF3mzTtRVLCM8CMwB28`, cron `0 0 * * 2-6` UTC (5:00pm Pacific; the run crosses midnight UTC, so it fires Tue–Sat in UTC). Dashboard: https://claude.ai/code/routines/trig_01F6PoF3mzTtRVLCM8CMwB28
+
+Both share the identical prompt/config. Because pushes to `main` auto-deploy via Cloudflare Workers Builds, each run handles the full content-refresh cycle without human intervention: clone → news capture → commit on research branch → fast-forward merge → push → branch deletion → CF build/deploy.
 
 ### State flags
 
