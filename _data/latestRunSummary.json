@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "items": [
     {
-      "text": "South Carolina redistricting fight threatens to delay June primaries",
-      "url": "https://www.nbcnews.com/politics/2026-election/south-carolina-governor-mcmaster-calls-special-session-redistricting-rcna345104",
+      "text": "South Carolina Senate advances map to eliminate Clyburn's majority-Black district",
+      "url": "https://www.foxcarolina.com/2026/05/23/sc-senate-advances-redistricting-map-sets-final-vote-tuesday/",
       "abbr": "SC"
     },
     {
-      "text": "Maryland reprints 500,000 mail ballots after vendor printing error",
-      "url": "https://www.dailysignal.com/2026/05/22/maryland-resend-500000-mail-ballots/",
+      "text": "Louisiana redistricting bill advances to House floor with June 1 court deadline looming",
+      "url": "https://www.wafb.com/2026/05/22/louisiana-congressional-map-bill-advances-house/",
+      "abbr": "LA"
+    },
+    {
+      "text": "NAACP brings first court challenge to Tennessee's redrawn congressional map",
+      "url": "https://www.wkms.org/government-politics/2026-05-23/first-challenge-to-tennessees-congressional-map-heard-in-court",
+      "abbr": "TN"
+    },
+    {
+      "text": "DOJ orders Maryland to preserve records on 500,000 wrong-party mail-in ballots",
+      "url": "https://www.democracydocket.com/news-alerts/doj-civil-rights-chief-requests-maryland-retain-records-regarding-mail-in-ballot-error/",
       "abbr": "MD"
     },
     {
-      "text": "Connecticut enacts no-excuse absentee voting and sweeping voter privacy protections",
-      "url": "https://www.governing.com/policy/connecticut-moves-to-strengthen-voter-privacy-in-sweeping-election-bill",
-      "abbr": "CT"
-    },
-    {
-      "text": "Florida SAVE Act proof-of-citizenship requirement faces lawsuits before 2027 effective date",
-      "url": "https://www.fox35orlando.com/news/florida-moving-toward-stricter-voting-requirements-what-you-need-know",
-      "abbr": "FL"
-    },
-    {
-      "text": "Missouri governor sends four constitutional amendments to August primary ballot",
-      "url": "https://www.kfvs12.com/2026/05/23/missouri-governor-moves-votes-taxes-constitutional-amendments-august-primary/",
-      "abbr": "MO"
+      "text": "Montana court blocks noon cutoff for Election Day voter registration ahead of June 2 primary",
+      "url": "https://www.ypradio.org/regional-news/2026-05-22/montana-voter-registration-ruling-deemed-big-win-for-youth-vote",
+      "abbr": "MT"
     }
   ]
 }

@@ -12087,6 +12087,159 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-05-24",
+      "states": {
+        "LA": [
+          {
+            "title": "Louisiana congressional map bill advances to House",
+            "source": "WAFB",
+            "url": "https://www.wafb.com/2026/05/22/louisiana-congressional-map-bill-advances-house/",
+            "date": "2026-05-22",
+            "summary": "After a House committee approved an amended version of Senate Bill 121 on a party-line 10-7 vote, Louisiana's controversial congressional redistricting bill advanced to the full House floor. The map, which would give Republicans a 5-1 advantage in congressional districts by eliminating one majority-Black district, must be approved by June 1 under a court-ordered deadline following the Supreme Court's ruling that the state's previous map was an unconstitutional racial gerrymander."
+          },
+          {
+            "title": "Committee forwards congressional redistricting map to full House",
+            "source": "American Press",
+            "url": "https://americanpress.com/2026/05/22/committee-forwards-congressional-redistricting-map-to-full-house/",
+            "date": "2026-05-22",
+            "summary": "Louisiana's House and Governmental Affairs Committee forwarded the congressional redistricting map to the full House for a final vote, after hours of public testimony opposing the plan to eliminate a majority-Black congressional district. Governor Landry previously signed a separate bill shifting the postponed U.S. House primaries to November 3 after the Supreme Court struck down the existing map."
+          }
+        ],
+        "MD": [
+          {
+            "title": "DOJ civil rights chief requests Maryland retain records regarding mail-in ballot error",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/doj-civil-rights-chief-requests-maryland-retain-records-regarding-mail-in-ballot-error/",
+            "date": "2026-05-23",
+            "summary": "The Justice Department's civil rights chief Harmeet Dhillon formally notified Maryland election officials to preserve all records related to the erroneous distribution of approximately 500,000 mail-in primary ballots that were sent to some voters for the wrong party. Maryland's top election official maintained that no fake or illegal ballots were distributed and that safeguards prevent duplicate voting, as the state rushes to resend replacement ballots ahead of the June 23 primary."
+          }
+        ],
+        "MS": [
+          {
+            "title": "'We're ready to fight': Thousands protest Mississippi redistricting and rally for voting rights",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/05/20/mississippi-redistricting-voting-rights-rally/",
+            "date": "2026-05-20",
+            "summary": "Thousands gathered in Jackson on May 20 to protest redistricting efforts that would reduce Black voting representation, following the U.S. Supreme Court's Callais ruling weakening the federal Voting Rights Act. Rep. Bennie Thompson and NAACP CEO Derrick Johnson urged voters to mobilize ahead of November midterms."
+          },
+          {
+            "title": "Mississippi Day of Action focuses on redistricting and voting rights",
+            "source": "WLOX",
+            "url": "https://www.wlox.com/2026/05/21/mississippi-day-action-focuses-redistricting-voting-rights/",
+            "date": "2026-05-21",
+            "summary": "Mississippi's Day of Action event mobilized voters against redistricting proposals that advocates say would reduce Black representation in Congress and the state legislature following the Supreme Court's Callais decision weakening federal Voting Rights Act protections."
+          },
+          {
+            "title": "NAACP, SPLC, Mississippi Democrats march, rally to protest Callais, redistricting",
+            "source": "Magnolia Tribune",
+            "url": "https://magnoliatribune.com/2026/05/21/naacp-splc-mississippi-democrats-march-rally-to-protest-callais-redistricting/",
+            "date": "2026-05-21",
+            "summary": "The NAACP, SPLC, and Mississippi Democrats organized a march and rally in Jackson protesting the Supreme Court's Callais redistricting ruling and looming Republican efforts to redraw Mississippi's congressional districts in ways that could eliminate Rep. Bennie Thompson's majority-Black district."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Montana voter registration ruling deemed 'big win' for youth vote",
+            "source": "YPR (Yellowstone Public Radio)",
+            "url": "https://www.ypradio.org/regional-news/2026-05-22/montana-voter-registration-ruling-deemed-big-win-for-youth-vote",
+            "date": "2026-05-22",
+            "summary": "Youth voter advocates celebrated the Montana district court ruling blocking Senate Bill 490, which would have cut off Election Day voter registration at noon. Voters can now register through polls closing at 8 p.m. for the June 2 primary, with advocates noting same-day registration is especially important for young and mobile voters."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey Senate Panel Approves State Voting Rights Bill",
+            "source": "NJ Urban News",
+            "url": "https://njurbannews.com/2026/05/22/new-jersey-senate-panel-approves-state-voting-rights-bill/",
+            "date": "2026-05-22",
+            "summary": "The New Jersey Senate Judiciary Committee approved the John R. Lewis Voter Empowerment Act in a party-line vote, advancing a state-level voting rights bill that would require state attorney general pre-clearance for election rule changes in jurisdictions with a history of discrimination and expand language access for voters."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Early voting kicks off for Nevada's June primary",
+            "source": "Carson Now",
+            "url": "https://www.carsonnow.org/05/23/2026/early-voting-kicks-off-for-nevadas-june-primary",
+            "date": "2026-05-23",
+            "summary": "Early in-person voting began May 23 across Nevada ahead of the June 9 primary election, running through June 5. Nevada is a universal vote-by-mail state, and about 130 early voting sites are available statewide, with the registration deadline set for May 27."
+          },
+          {
+            "title": "Nevada primary election shifts into high gear as early voting begins",
+            "source": "Las Vegas Sun",
+            "url": "https://lasvegassun.com/news/2026/may/23/nevada-primary-election-shifts-into-high-gear-as-e/",
+            "date": "2026-05-23",
+            "summary": "Early voting opened statewide in Nevada on May 23 for the June 9 closed primary election, setting the stage for competitive governor and congressional races. Nevada's Secretary of State Francisco Aguilar launched voter outreach resources including interactive polling maps and text message notifications."
+          }
+        ],
+        "SC": [
+          {
+            "title": "SC Senate advances redistricting map, sets final vote for Tuesday",
+            "source": "Fox Carolina",
+            "url": "https://www.foxcarolina.com/2026/05/23/sc-senate-advances-redistricting-map-sets-final-vote-tuesday/",
+            "date": "2026-05-23",
+            "summary": "The South Carolina Senate passed a congressional redistricting map on second reading on May 23, setting a final vote for May 26 — the first day of early voting — on a plan that would eliminate Rep. James Clyburn's majority-Black district and give Republicans all seven U.S. House seats."
+          },
+          {
+            "title": "S.C. redistricting map passes second reading, final vote set for Tuesday",
+            "source": "WRDW",
+            "url": "https://www.wrdw.com/video/2026/05/23/sc-redistricting-map-passes-second-reading-final-vote-set-tuesday/",
+            "date": "2026-05-23",
+            "summary": "South Carolina senators on May 23 advanced a redrawn congressional map that would delay U.S. House primaries to August 18, with lawmakers and voting officials warning the plan could expose the state to a multimillion-dollar lawsuit if signed into law after early voting begins."
+          }
+        ],
+        "TN": [
+          {
+            "title": "First challenge to Tennessee's congressional map heard in court",
+            "source": "WKMS",
+            "url": "https://www.wkms.org/government-politics/2026-05-23/first-challenge-to-tennessees-congressional-map-heard-in-court",
+            "date": "2026-05-23",
+            "summary": "A three-judge Tennessee state panel heard opening arguments in the NAACP's challenge to the redrawn congressional map that split Memphis and Shelby County into three districts, eliminating the state's only majority-Black district. Judges did not immediately rule."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Inside the closing week of the Texas GOP Senate runoff",
+            "source": "The Texas Tribune",
+            "url": "https://www.texastribune.org/2026/05/23/texas-us-senate-gop-runoff-john-cornyn-ken-paxton-final-week-closing-arguments-trump/",
+            "date": "2026-05-23",
+            "summary": "As the May 26 Republican Senate runoff approaches, the race between incumbent Sen. John Cornyn and AG Ken Paxton tightened after Trump's endorsement of Paxton; the winner will be the GOP nominee for the November general election."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Lessons from Virginia's redistricting wars: Supreme Court nullification and options for November",
+            "source": "Virginia Mercury",
+            "url": "https://virginiamercury.com/2026/05/19/lessons-from-virginias-redistricting-wars-supreme-court-nullification-and-options-for-november/",
+            "date": "2026-05-19",
+            "summary": "After the US Supreme Court rejected Virginia Democrats' emergency appeal on May 15, Democrats regrouped to assess congressional options for November with the existing 6-5 district split remaining in place; several Democrats who had launched campaigns in hypothetical new districts ended their bids."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Court dismisses Trump administration lawsuit for Wisconsin voter roll",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/05/21/judge-dismisses-department-justice-lawsuit-voter-roll/",
+            "date": "2026-05-21",
+            "summary": "A federal judge dismissed the DOJ's lawsuit seeking Wisconsin's detailed voter registration data, ruling that state voter rolls are not records subject to the Civil Rights Act of 1960, marking another legal defeat for the Trump administration's voter data collection effort."
+          },
+          {
+            "title": "Judges in Maine and Wisconsin Dismiss Justice Department's Attempts to Force Turnover of Voter Rolls",
+            "source": "U.S. News & World Report",
+            "url": "https://www.usnews.com/news/us/articles/2026-05-21/judges-in-maine-and-wisconsin-dismiss-justice-departments-attempts-to-force-turnover-of-voter-rolls",
+            "date": "2026-05-21",
+            "summary": "Federal judges in Wisconsin and Maine dismissed DOJ suits that sought to compel states to hand over voter data including dates of birth and partial Social Security numbers, continuing a pattern of court defeats for the Trump administration's voter data collection effort across more than 30 states."
+          },
+          {
+            "title": "Wisconsin Elections Commission sued over Madison ballot error",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/wi/milwaukee/news/2026/05/22/voting-elections-lawsuit-ballots",
+            "date": "2026-05-22",
+            "summary": "After a court ordered 23 late-arriving absentee ballots counted in April's Wisconsin Supreme Court election, a new lawsuit challenged the Elections Commission's initial directive to reject those ballots, prompting Madison to adopt new absentee ballot courier protocols ahead of November."
+          }
+        ]
+      }
     }
   ]
 }
