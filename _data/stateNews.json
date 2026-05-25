@@ -12240,6 +12240,110 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-05-25",
+      "states": {
+        "DC": [
+          {
+            "title": "DC voter guide: What to know before June primary for mayor, council, Congress",
+            "source": "WTOP News",
+            "url": "https://wtop.com/dc-election/2026/05/dc-voter-guide-what-to-know-before-june-primary-for-mayor-council-congress/",
+            "date": "2026-05-23",
+            "summary": "WTOP published a comprehensive voter guide for D.C.'s June 16 primary, covering the mayoral race, council seats, and congressional races using ranked-choice voting for the first time. Ballot drop boxes opened May 22, the voter registration deadline is May 26, and early voting runs June 8–14."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Independent Party Endorses Katz, Urges Supporters to Act Before May 29 Deadline",
+            "source": "Delaware LIVE News",
+            "url": "https://delawarelive.com/independent-party-endorses-katz-urges-supporters-to-act-before-may-29-deadline/",
+            "date": "2026-05-23",
+            "summary": "Delaware's Independent Party endorsed Republican U.S. Senate candidate Dr. Mike Katz and urged supporters to change their party registration to Republican by the May 29 closed-primary deadline in order to vote for him in the September 15 primary."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii law aims to curb corporate influence in elections but faces hurdles",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/05/25/hawaii-news/hawaii-law-aims-to-curb-corporate-influence-in-elections-but-faces-hurdles/",
+            "date": "2026-05-25",
+            "summary": "Hawaii's new first-of-its-kind law restricting corporate political spending faces questions about whether out-of-state corporations could fill the void left by in-state entities. Legal experts anticipate court challenges before the law's July 2027 effective date."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Coin toss will decide Jerome County election race that ended in tie",
+            "source": "KMVT",
+            "url": "https://www.kmvt.com/2026/05/22/coin-toss-will-decide-jerome-county-election-race-that-ended-tie/",
+            "date": "2026-05-22",
+            "summary": "A Jerome County, Idaho race from the May 19 primary ended in a tied vote between two candidates, with the winner to be decided by a coin flip scheduled for May 29 after official canvass results are certified. Under Idaho law, a coin toss resolves tied primary races."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Voter turnout varied widely across Kentucky in May 19 primary",
+            "source": "WKYT",
+            "url": "https://www.wkyt.com/2026/05/21/voter-turnout-varied-widely-across-kentucky-may-19-primary/",
+            "date": "2026-05-21",
+            "summary": "Participation in Kentucky's May 19 primary ranged dramatically by county, with Owsley County recording the highest turnout at 51.9% and several larger-population counties among the lowest. Statewide, about 863,999 votes were cast, representing an 18.9% increase over the 2022 midterm primary."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Trump calls for DOJ investigation after mail ballot error in Maryland",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/trump-calls-doj-investigation-mail-ballot-error-maryland-rcna345782",
+            "date": "2026-05-24",
+            "summary": "President Trump called for a Justice Department investigation into a vendor coding error that sent approximately 500,000 Maryland voters primary ballots for the wrong party. State election officials said no illegal ballots were distributed and that replacement ballots would be mailed to all affected voters by May 29."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey primary election 2026: What to know before you vote",
+            "source": "WHYY",
+            "url": "https://whyy.org/articles/new-jersey-primary-election-2026-voter-guide/",
+            "date": "2026-05-23",
+            "summary": "New Jersey's June 2 primary is approaching, with early voting opening May 26 through May 31 and mail ballot applications due by May 25. The primary features competitive U.S. House races including a special congressional election in the 11th District."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pa. election 2026: Primary winners, losers; full results",
+            "source": "WHYY",
+            "url": "https://whyy.org/articles/election-2026-pennsylvania-primary-winners-losers-recap/",
+            "date": "2026-05-23",
+            "summary": "Pennsylvania's May 19 primary produced key results including progressive Chris Rabb winning the Democratic nomination in Philadelphia's 3rd District, and two sitting state House incumbents defeated. Gov. Josh Shapiro and Republican Stacy Garrity each won uncontested primaries for the fall governor's race."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Early voting for South Carolina's primary opens May 26. Here's when and where to vote early",
+            "source": "CountOn2 (WCBD News 2)",
+            "url": "https://www.counton2.com/news/your-local-election-hq/early-voting-for-south-carolinas-primary-opens-may-26-heres-when-and-where-to-vote-early/",
+            "date": "2026-05-24",
+            "summary": "Early voting for South Carolina's June 9 primary opened May 26 at county election offices statewide, running through June 5. Congressional primaries may be delayed to August if a pending redistricting bill passes, meaning June votes for U.S. House candidates would not count."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Cornyn not ready to give up his Texas Senate seat in GOP runoff against Paxton: 'I refuse to lose and I'm going to fight to win this'",
+            "source": "CBS Texas",
+            "url": "https://www.cbsnews.com/texas/news/cornyn-fighting-paxton-runoff-5-24-2026/",
+            "date": "2026-05-24",
+            "summary": "Senator John Cornyn made a final campaign push ahead of the May 26 Republican Senate runoff against Attorney General Ken Paxton, who holds a narrow polling lead with Trump's endorsement. Cornyn stated he refuses to concede, calling the race a test of character."
+          }
+        ],
+        "WY": [
+          {
+            "title": "100+ candidates file early as Wyoming election season starts; deadline May 29",
+            "source": "KOTA TV",
+            "url": "https://www.kotatv.com/2026/05/24/100-candidates-now-running-office-wyoming/",
+            "date": "2026-05-24",
+            "summary": "More than 100 candidates filed for Wyoming state and federal offices within the first two days of the 2026 candidate filing period, with open seats including governor, secretary of state, and two congressional seats. Candidates must file by May 29 to appear on the August 18 primary ballot."
+          }
+        ]
+      }
     }
   ]
 }

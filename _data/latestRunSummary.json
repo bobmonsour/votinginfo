@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "items": [
     {
-      "text": "South Carolina Senate advances map to eliminate Clyburn's majority-Black district",
-      "url": "https://www.foxcarolina.com/2026/05/23/sc-senate-advances-redistricting-map-sets-final-vote-tuesday/",
-      "abbr": "SC"
-    },
-    {
-      "text": "Louisiana redistricting bill advances to House floor with June 1 court deadline looming",
-      "url": "https://www.wafb.com/2026/05/22/louisiana-congressional-map-bill-advances-house/",
-      "abbr": "LA"
-    },
-    {
-      "text": "NAACP brings first court challenge to Tennessee's redrawn congressional map",
-      "url": "https://www.wkms.org/government-politics/2026-05-23/first-challenge-to-tennessees-congressional-map-heard-in-court",
-      "abbr": "TN"
-    },
-    {
-      "text": "DOJ orders Maryland to preserve records on 500,000 wrong-party mail-in ballots",
-      "url": "https://www.democracydocket.com/news-alerts/doj-civil-rights-chief-requests-maryland-retain-records-regarding-mail-in-ballot-error/",
+      "text": "Trump calls for DOJ probe into Maryland mail ballot mix-up affecting 500,000 voters",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-calls-doj-investigation-mail-ballot-error-maryland-rcna345782",
       "abbr": "MD"
     },
     {
-      "text": "Montana court blocks noon cutoff for Election Day voter registration ahead of June 2 primary",
-      "url": "https://www.ypradio.org/regional-news/2026-05-22/montana-voter-registration-ruling-deemed-big-win-for-youth-vote",
-      "abbr": "MT"
+      "text": "South Carolina early voting opens as redistricting fight over Clyburn's seat continues",
+      "url": "https://www.counton2.com/news/your-local-election-hq/early-voting-for-south-carolinas-primary-opens-may-26-heres-when-and-where-to-vote-early/",
+      "abbr": "SC"
+    },
+    {
+      "text": "Texas Senate runoff: Cornyn vows to fight as Trump-backed Paxton leads heading into May 26 vote",
+      "url": "https://www.cbsnews.com/texas/news/cornyn-fighting-paxton-runoff-5-24-2026/",
+      "abbr": "TX"
+    },
+    {
+      "text": "Hawaii enacts first-in-nation law curbing corporate political spending, faces legal hurdles",
+      "url": "https://www.staradvertiser.com/2026/05/25/hawaii-news/hawaii-law-aims-to-curb-corporate-influence-in-elections-but-faces-hurdles/",
+      "abbr": "HI"
+    },
+    {
+      "text": "D.C. voters to use ranked-choice voting for the first time in June 16 primary",
+      "url": "https://wtop.com/dc-election/2026/05/dc-voter-guide-what-to-know-before-june-primary-for-mayor-council-congress/",
+      "abbr": "DC"
     }
   ]
 }
