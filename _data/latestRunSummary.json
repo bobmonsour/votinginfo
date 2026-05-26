@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "items": [
     {
-      "text": "Trump calls for DOJ probe into Maryland mail ballot mix-up affecting 500,000 voters",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-calls-doj-investigation-mail-ballot-error-maryland-rcna345782",
-      "abbr": "MD"
-    },
-    {
-      "text": "South Carolina early voting opens as redistricting fight over Clyburn's seat continues",
-      "url": "https://www.counton2.com/news/your-local-election-hq/early-voting-for-south-carolinas-primary-opens-may-26-heres-when-and-where-to-vote-early/",
-      "abbr": "SC"
-    },
-    {
-      "text": "Texas Senate runoff: Cornyn vows to fight as Trump-backed Paxton leads heading into May 26 vote",
-      "url": "https://www.cbsnews.com/texas/news/cornyn-fighting-paxton-runoff-5-24-2026/",
+      "text": "Texas holds high-stakes primary runoffs, including Cornyn vs. Paxton Senate contest",
+      "url": "https://www.texastribune.org/2026/05/26/texas-primary-runoff-may-26-races-to-watch/",
       "abbr": "TX"
     },
     {
-      "text": "Hawaii enacts first-in-nation law curbing corporate political spending, faces legal hurdles",
-      "url": "https://www.staradvertiser.com/2026/05/25/hawaii-news/hawaii-law-aims-to-curb-corporate-influence-in-elections-but-faces-hurdles/",
-      "abbr": "HI"
+      "text": "South Carolina early voting opens as Senate debates congressional redistricting",
+      "url": "https://www.southcarolinapublicradio.org/sc-news/2026-05-26/sc-senators-return-to-redistricting-decision-as-early-voting-begins",
+      "abbr": "SC"
     },
     {
-      "text": "D.C. voters to use ranked-choice voting for the first time in June 16 primary",
-      "url": "https://wtop.com/dc-election/2026/05/dc-voter-guide-what-to-know-before-june-primary-for-mayor-council-congress/",
-      "abbr": "DC"
+      "text": "Twelve Georgia legislative races advance to June 16 runoffs",
+      "url": "https://georgiarecorder.com/2026/05/25/twelve-georgia-legislative-races-advance-to-runoffs/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Louisiana redistricting bill could eliminate one of two majority-Black congressional districts",
+      "url": "https://lailluminator.com/2026/05/25/redistrict-louisiana/",
+      "abbr": "LA"
+    },
+    {
+      "text": "Louisville voters wrongly prevented from casting ballots in Metro Council primary",
+      "url": "https://www.lpm.org/news/2026-05-22/a-dozen-louisville-voters-were-wrongly-prevented-from-voting-in-a-metro-council-race",
+      "abbr": "KY"
     }
   ]
 }

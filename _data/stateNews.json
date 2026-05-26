@@ -12344,6 +12344,202 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-05-26",
+      "states": {
+        "CA": [
+          {
+            "title": "California almost killed the Board of Equalization. Now lawmakers want seats on it",
+            "source": "CalMatters",
+            "url": "https://calmatters.org/politics/2026/05/board-of-equalization-election/",
+            "date": "2026-05-25",
+            "summary": "With several competitive races for seats on California's Board of Equalization on the June 2026 primary ballot, CalMatters reports on the board's history and the contested election dynamics, including candidates backed by incumbents seeking to consolidate control of the five-member panel that oversees tax appeals."
+          },
+          {
+            "title": "California Voter Guide 2026",
+            "source": "CalMatters",
+            "url": "https://calmatters.org/california-voter-guide-2026/",
+            "date": "2026-05-26",
+            "summary": "CalMatters published an updated undecided voter guide for California's June 2026 primary covering statewide races, ballot measures, and key contested contests ahead of the election."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Twelve Georgia legislative races advance to runoffs",
+            "source": "Georgia Recorder",
+            "url": "https://georgiarecorder.com/2026/05/25/twelve-georgia-legislative-races-advance-to-runoffs/",
+            "date": "2026-05-25",
+            "summary": "Following Georgia's May 19 primary, twelve state legislative races failed to reach the 50% majority needed to avoid a runoff, sending five state Senate seats and seven House district races to the June 16 runoff election. Voters who participated in the May primary must stick with that party's ballot for the runoff."
+          },
+          {
+            "title": "Everything to know about Georgia's June runoff election",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/05/25/everything-know-about-georgias-june-runoff-election/",
+            "date": "2026-05-25",
+            "summary": "A comprehensive voter guide to Georgia's June 16, 2026 primary runoff covering major statewide races including governor and U.S. Senate, early voting dates beginning June 8, absentee ballot request deadlines, and rules on which party's runoff ballot voters may choose."
+          }
+        ],
+        "IA": [
+          {
+            "title": "GOP gubernatorial candidate Adam Steen addresses death threat against campaign",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/05/22/gop-gubernatorial-candidate-adam-steen-addresses-death-threat-against-campaign/",
+            "date": "2026-05-22",
+            "summary": "Republican gubernatorial candidate Adam Steen spoke at a campaign event in Ames about a death threat received prior to a campaign stop in Oskaloosa, as he continues campaigning ahead of Iowa's June 2 primary election. Steen is one of five Republican candidates vying for the party's gubernatorial nomination."
+          },
+          {
+            "title": "Sen. Zach Wahls, Rep. Josh Turek call for voters' support ahead of primary",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/05/23/sen-zach-wahls-rep-josh-turek-call-for-voters-support-ahead-of-primary/",
+            "date": "2026-05-23",
+            "summary": "Democratic U.S. Senate candidates Zach Wahls and Josh Turek made their cases to voters at the Des Moines Farmer's Market in the final days before Iowa's June 2 primary, with both seeking to become the Democratic nominee for the open Senate seat previously held by Joni Ernst."
+          }
+        ],
+        "IN": [
+          {
+            "title": "RACE FOR NOMINATION: Indiana Republicans split over SOS candidates",
+            "source": "The Indiana Citizen",
+            "url": "https://indianacitizen.org/race-for-nomination-indiana-republicans-split-over-sos-candidates/",
+            "date": "2026-05-22",
+            "summary": "Top Indiana Republicans are divided over the race for secretary of state, with four candidates vying for the nomination at the June 19-20 GOP convention in Fort Wayne: incumbent Diego Morales, U.S. Sen. Jim Banks' regional director Max Engling, businesswoman Jamie Reitenour, and Knox County clerk David Shelton."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas City's August election will have 5 bond and tax measures",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-05-26/kansas-city-is-asking-voters-to-pass-5-bond-and-tax-measures-in-augusts-election-heres-a-guide",
+            "date": "2026-05-26",
+            "summary": "Kansas City voters will face five ballot questions in the August 4, 2026 election, including four bond measures totaling $1.7 billion for water infrastructure, affordable housing, and civic facilities, plus a sales tax renewal funding economic development."
+          }
+        ],
+        "KY": [
+          {
+            "title": "A dozen Louisville voters were wrongly prevented from voting in a Metro Council race",
+            "source": "Louisville Public Media",
+            "url": "https://www.lpm.org/news/2026-05-22/a-dozen-louisville-voters-were-wrongly-prevented-from-voting-in-a-metro-council-race",
+            "date": "2026-05-22",
+            "summary": "About a dozen voters in Louisville's Wilder Park neighborhood were given the wrong ballot during the May 19 primary and were unable to vote in their Metro Council District 21 race; the Jefferson County Clerk's Office launched a full review of voter district assignments after LPM News flagged the issue."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Data, race and partisanship in redistricting: Louisiana must verify before it votes",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/05/25/redistrict-louisiana/",
+            "date": "2026-05-25",
+            "summary": "As Louisiana's congressional redistricting bill moves toward a full House vote, concerns are raised about the accuracy of population and voter registration data behind the proposed new map, which would eliminate one of the state's two majority-Black districts, amid a deadline tied to early voting beginning May 26."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Who's on the ballot for Michigan's governor in the 2026 election? Here's a list",
+            "source": "ClickOnDetroit",
+            "url": "https://www.clickondetroit.com/news/local/2026/05/25/whos-on-the-ballot-for-michigans-governor-in-the-2026-election-heres-a-list/",
+            "date": "2026-05-25",
+            "summary": "A roundup of all confirmed candidates running for Michigan governor in 2026, ahead of the August 4 primary, following Mike Duggan's withdrawal as an independent candidate on May 21."
+          },
+          {
+            "title": "Who's running for Michigan secretary of state in 2026? What to know about the candidates",
+            "source": "ClickOnDetroit",
+            "url": "https://www.clickondetroit.com/news/local/2026/05/25/whos-running-for-michigan-secretary-of-state-in-2026-what-to-know-about-the-candidates/",
+            "date": "2026-05-25",
+            "summary": "Coverage of candidates seeking Michigan's secretary of state office in 2026, a particularly notable race as incumbent Jocelyn Benson is running for governor."
+          },
+          {
+            "title": "What to know about the candidates running for Michigan attorney general in 2026 election",
+            "source": "ClickOnDetroit",
+            "url": "https://www.clickondetroit.com/news/local/2026/05/25/what-to-know-about-the-candidates-running-for-michigan-attorney-general-in-2026-election/",
+            "date": "2026-05-25",
+            "summary": "Overview of candidates running for Michigan attorney general in the 2026 election cycle, ahead of the August 4 primary."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Mississippi redistricting could change who represents you",
+            "source": "WLOX",
+            "url": "https://www.wlox.com/2026/05/22/mississippi-redistricting-could-change-who-represents-you/",
+            "date": "2026-05-22",
+            "summary": "Reports on how Mississippi's ongoing redistricting debate, following the Supreme Court's weakening of the Voting Rights Act, could reshape which voters are represented by which legislators."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Lindstrom explains potential bid for Nebraska governor, dissatisfaction with state's direction",
+            "source": "Nebraska Examiner",
+            "url": "https://nebraskaexaminer.com/2026/05/22/lindstrom-explains-potential-bid-for-nebraska-governor-dissatisfaction-with-states-direction/",
+            "date": "2026-05-22",
+            "summary": "Former GOP state senator Brett Lindstrom discusses his potential nonpartisan gubernatorial bid in Nebraska's 2026 general election, expressing frustration with partisan gridlock after the May 12 primary."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Here's what New Jersey voters need to know for the June primary when Congress is on the ballot",
+            "source": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com/politics/new-jersey/primary-election-2026-nj-candidates-20260526.html",
+            "date": "2026-05-26",
+            "summary": "With NJ in-person early voting opening May 26 and the June 2 primary approaching, this voter guide covers candidates, voting options, deadlines, and ID requirements for all 12 congressional district races and the U.S. Senate seat on the ballot."
+          }
+        ],
+        "NV": [
+          {
+            "title": "The early voting blog, Primary 2026",
+            "source": "The Nevada Independent",
+            "url": "https://thenevadaindependent.com/article/the-early-voting-blog-primary-2026",
+            "date": "2026-05-24",
+            "summary": "Nevada's June 9 primary early voting is underway with nearly 40,000 ballots cast in the first two days—about 1.5% of active voters—showing no unusual enthusiasm on either side, with Republicans and Democrats tracking at roughly equal participation rates."
+          }
+        ],
+        "OR": [
+          {
+            "title": "David Brock Smith wins GOP primary for US Senate in Oregon, will face Democratic incumbent Merkley",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/05/22/david-brock-smith-us-senate-oregon/",
+            "date": "2026-05-22",
+            "summary": "State Sen. David Brock Smith emerged from a seven-candidate Republican field to win the Oregon U.S. Senate primary, completing the last major race called from Oregon's May 19 primary and setting up a November challenge to incumbent Democratic Sen. Jeff Merkley."
+          }
+        ],
+        "SC": [
+          {
+            "title": "SC Senators return to redistricting decision as early voting begins",
+            "source": "South Carolina Public Radio",
+            "url": "https://www.southcarolinapublicradio.org/sc-news/2026-05-26/sc-senators-return-to-redistricting-decision-as-early-voting-begins",
+            "date": "2026-05-26",
+            "summary": "South Carolina senators returned to debate on a proposed congressional redistricting map as the two-week early voting period for June 9 primaries began, with the Senate voting on whether to advance a new map that would also delay congressional primaries to August 18."
+          },
+          {
+            "title": "Early voting begins Tuesday as South Carolina redistricting debate continues",
+            "source": "WIS-TV",
+            "url": "https://www.wistv.com/2026/05/25/early-voting-begins-tuesday-south-carolina-redistricting-debate-continues/",
+            "date": "2026-05-25",
+            "summary": "Early voting opened in South Carolina's primary elections while the state Senate continued debating a congressional redistricting proposal to eliminate the lone Democratic congressional seat held by Rep. Jim Clyburn."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Texas primary runoff elections: races to watch on May 26",
+            "source": "The Texas Tribune",
+            "url": "https://www.texastribune.org/2026/05/26/texas-primary-runoff-may-26-races-to-watch/",
+            "date": "2026-05-26",
+            "summary": "Texas voters headed to the polls for primary runoff elections, headlined by the high-profile GOP Senate battle between incumbent Sen. John Cornyn and Attorney General Ken Paxton, who received a late Trump endorsement."
+          },
+          {
+            "title": "2026 Texas primary runoff election results",
+            "source": "CBS News Texas",
+            "url": "https://www.cbsnews.com/texas/live-updates/2026-texas-primary-runoff-election-results/",
+            "date": "2026-05-26",
+            "summary": "Live coverage and results from Texas's May 26 primary runoff elections, covering 38 unresolved races where no candidate received a majority in the March 3 primary, including the Cornyn vs. Paxton Senate contest."
+          },
+          {
+            "title": "KXAN Voter Guide: What to know for the May 2026 primary runoff elections",
+            "source": "KXAN Austin",
+            "url": "https://www.kxan.com/news/your-local-election-hq/may-26-2026-voter-guide/",
+            "date": "2026-05-26",
+            "summary": "Voter guide for the May 26 Texas primary runoff elections covering polling locations, voting hours, key contested races including the U.S. Senate GOP runoff and multiple congressional primaries."
+          }
+        ]
+      }
     }
   ]
 }
