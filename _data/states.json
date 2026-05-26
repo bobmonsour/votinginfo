@@ -2357,7 +2357,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.sos.la.gov/ElectionsAndVoting/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-26",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2455,12 +2455,17 @@
         "date": "2026-05-26",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-26",
+        "field": "Recent Legislation",
+        "description": "Corrected SB 436 bill year from 2025 to 2024 (2024 Regular Session, Act No. 500) per Louisiana Legislature enrolled bill text"
       }
     ],
     "recentLegislation": [
       {
         "bill": "SB 436",
-        "year": 2025,
+        "year": 2024,
         "description": "Requires proof of citizenship to register to vote",
         "status": "Effective Jan 1, 2025; implementation guidance not yet issued",
         "dateAdded": "2026-02-25",
@@ -4585,7 +4590,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (Dec 2025) eliminated the post-Election Day grace period — absentee ballots must now be received by close of polls on Election Day.",
+      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (effective March 20, 2026) eliminated the post-Election Day grace period — absentee ballots must now be received by close of polls on Election Day.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon release from prison.",
@@ -4594,7 +4599,7 @@
       "OH DL number or last 4 of SSN"
     ],
     "officialUrl": "https://www.ohiosos.gov/elections-voting/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-26",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -4687,6 +4692,11 @@
         "date": "2026-05-23",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-26",
+        "field": "Recent Legislation",
+        "description": "Corrected SB 293 effective date from 'Dec 2025' to March 20, 2026 (signed Dec 19, 2025) in both the legislation status and the Mail-In Voting note, per Ohio SOS Directive 2026-02"
       }
     ],
     "recentLegislation": [
@@ -4694,7 +4704,7 @@
         "bill": "SB 293",
         "year": 2025,
         "description": "Eliminated post-Election Day grace period for absentee ballot receipt",
-        "status": "Enacted, effective Dec 2025",
+        "status": "Signed Dec 19, 2025; effective March 20, 2026",
         "dateAdded": "2026-02-25",
         "active": true
       }
@@ -4718,7 +4728,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "In-person early voting available Thursday and Friday before all elections (8 AM-6 PM). General, primary, and runoff elections also include Wednesday (8 AM-6 PM) and Saturday (8 AM-2 PM)."
+      "details": "In-person early voting available Thursday and Friday before all elections (8 AM-6 PM). Saturday (8 AM-2 PM) is added for primary, runoff primary, general, and presidential preferential primary elections; Wednesday (8 AM-6 PM) is added only for the General Election."
     },
     "mailInVoting": {
       "available": true,
@@ -4730,7 +4740,7 @@
       "Voter ID card or government-issued photo ID"
     ],
     "officialUrl": "https://oklahoma.gov/elections.html",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-26",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -4808,6 +4818,11 @@
         "date": "2026-05-23",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-26",
+        "field": "Early Voting",
+        "description": "Corrected early voting schedule: Wednesday early voting applies only to the General Election (not primaries/runoffs); Saturday applies to primary, runoff, general, and presidential preferential primary elections, per Oklahoma State Election Board"
       }
     ],
     "recentLegislation": [
@@ -5746,7 +5761,7 @@
     "abbreviation": "UT",
     "eligibilityAge": "18 (may pre-register at 16)",
     "idRequirements": {
-      "toRegister": "UT driver's license or state ID number (required for online registration), or last 4 of SSN. Without these, register by paper form mailed to county clerk with alternative ID. Under HB 300 (effective Nov 2025), mail ballot returns must include last 4 digits of DL/ID/SSN.",
+      "toRegister": "UT driver's license or state ID number (required for online registration), or last 4 of SSN. Without these, register by paper form mailed to county clerk with alternative ID. Under HB 300 (mail-ballot ID requirement effective 2026), mail ballot returns must include last 4 digits of DL/ID/SSN.",
       "toVote": "Valid ID required (photo or non-photo with name and address)"
     },
     "registrationDeadline": "11 days before election (same-day registration available through election day)",
@@ -5771,8 +5786,8 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://vote.utah.gov/",
-    "lastVerified": "2026-04-18",
-    "notes": "Utah conducts elections primarily by mail. HB 300 (effective Nov 2025) requires mail ballot returns to include last 4 digits of DL/ID/SSN and phases out universal vote-by-mail by 2029.",
+    "lastVerified": "2026-05-26",
+    "notes": "Utah conducts elections primarily by mail. HB 300 (mail-ballot ID requirement effective 2026) requires mail ballot returns to include last 4 digits of DL/ID/SSN and phases out universal vote-by-mail by 2029.",
     "confidenceLevel": "High",
     "sources": [
       {
@@ -5849,6 +5864,11 @@
         "date": "2026-05-23",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-26",
+        "field": "Recent Legislation",
+        "description": "Corrected HB 300 mail-ballot ID requirement effective date from 'Nov 2025' to 2026 (only the ballot-return deadline took effect for the Nov 2025 municipal election) in idRequirements, notes, and legislation status, per Utah News Dispatch and KPCW"
       }
     ],
     "recentLegislation": [
@@ -5856,7 +5876,7 @@
         "bill": "HB 300",
         "year": 2025,
         "description": "Requires ID number on returned mail ballots and phases out universal vote-by-mail by 2029",
-        "status": "Enacted, mail ballot ID effective Nov 2025; full phase-out by Jan 2029",
+        "status": "Enacted; mail-ballot ID requirement effective 2026; full phase-out by Jan 2029",
         "dateAdded": "2026-02-25",
         "active": true
       },
@@ -6279,7 +6299,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.wv.gov/elections/",
-    "lastVerified": "2026-05-10",
+    "lastVerified": "2026-05-26",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -6367,6 +6387,11 @@
         "date": "2026-05-22",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-26",
+        "field": "Pending Legislation",
+        "description": "Corrected SJR 9 adoption month from April 2026 to March 2026 (House passed 97-0 March 13, Senate unanimously March 14, 2026) per Ballotpedia News and WV Legislature enrolled text"
       }
     ],
     "recentLegislation": [
@@ -6383,7 +6408,7 @@
       {
         "bill": "SJR 9",
         "year": 2026,
-        "description": "Constitutional amendment proposing that 'Only citizens of the United States who are citizens of this state' may vote in state and local elections. Adopted by the West Virginia Legislature in April 2026 and placed on the November 3, 2026 ballot for voter ratification.",
+        "description": "Constitutional amendment proposing that 'Only citizens of the United States who are citizens of this state' may vote in state and local elections. Adopted by the West Virginia Legislature in March 2026 and placed on the November 3, 2026 ballot for voter ratification.",
         "status": "On the November 3, 2026 general election ballot; takes effect only if approved by voters",
         "dateAdded": "2026-05-10",
         "active": true
@@ -6527,7 +6552,7 @@
     "abbreviation": "WY",
     "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
     "idRequirements": {
-      "toRegister": "WY driver's license number; if no current WY DL, last 4 of SSN. Documentary proof of U.S. citizenship required (effective July 2025): WY DL/state ID, U.S. passport, naturalization certificate, birth certificate with official seal, military draft record, tribal ID, or driver's license from another state. Proof of residency also required (utility bill, bank statement, pay stub, or signed residency attestation). Law is under legal challenge.",
+      "toRegister": "WY driver's license number; if no current WY DL, last 4 of SSN. Documentary proof of U.S. citizenship required (effective July 2025): WY DL/state ID, U.S. passport, naturalization certificate, birth certificate with official seal, military draft record, tribal ID, or driver's license from another state. Proof of residency also required (utility bill, bank statement, pay stub, or signed residency attestation). Law took effect July 2025; an initial federal challenge was dismissed without prejudice in July 2025.",
       "toVote": "ID required (Wyoming DL, passport, military ID, or other government-issued ID)"
     },
     "registrationDeadline": "14 days before election (same-day registration available on election day)",
@@ -6553,7 +6578,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://sos.wyo.gov/Elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-05-26",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -6641,6 +6666,11 @@
         "date": "2026-05-25",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-05-26",
+        "field": "Recent Legislation",
+        "description": "Updated HB 156 status — initial federal challenge (Equality State Policy Center v. Gray) dismissed without prejudice July 2025; law in effect. Removed stale 'under legal challenge' language from idRequirements and legislation status, per Wyoming Public Media and Democracy Docket"
       }
     ],
     "recentLegislation": [
@@ -6648,7 +6678,7 @@
         "bill": "HB 156",
         "year": 2025,
         "description": "Requires documentary proof of U.S. citizenship to register to vote",
-        "status": "Became law without governor's signature; under legal challenge",
+        "status": "Became law without governor's signature; effective July 2025 (initial federal challenge dismissed without prejudice July 2025)",
         "dateAdded": "2026-02-25",
         "active": true
       }
