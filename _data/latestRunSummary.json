@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "items": [
     {
-      "text": "Texas holds high-stakes primary runoffs, including Cornyn vs. Paxton Senate contest",
-      "url": "https://www.texastribune.org/2026/05/26/texas-primary-runoff-may-26-races-to-watch/",
-      "abbr": "TX"
+      "text": "Federal court blocks Alabama's GOP-drawn congressional map as intentionally discriminatory",
+      "url": "https://rollcall.com/2026/05/26/federal-court-blocks-new-alabama-congressional-map/",
+      "abbr": "AL"
     },
     {
-      "text": "South Carolina early voting opens as Senate debates congressional redistricting",
-      "url": "https://www.southcarolinapublicradio.org/sc-news/2026-05-26/sc-senators-return-to-redistricting-decision-as-early-voting-begins",
-      "abbr": "SC"
+      "text": "Michigan Democrats reintroduce state Voting Rights Act after Supreme Court guts federal VRA",
+      "url": "https://www.abc12.com/news/state/michigan-democrats-reintroduce-state-voting-rights-act/article_6ff54113-2241-4cea-8a87-b6abe6edb375.html",
+      "abbr": "MI"
     },
     {
-      "text": "Twelve Georgia legislative races advance to June 16 runoffs",
-      "url": "https://georgiarecorder.com/2026/05/25/twelve-georgia-legislative-races-advance-to-runoffs/",
-      "abbr": "GA"
+      "text": "Maryland mail ballot mix-up prompts DOJ civil rights investigation ahead of June primary",
+      "url": "https://www.thebanner.com/politics-power/state-government/maryland-mail-in-ballot-error-replacement-QIURFOIWHZA33FHKM35UK7VKPI/",
+      "abbr": "MD"
     },
     {
-      "text": "Louisiana redistricting bill could eliminate one of two majority-Black congressional districts",
-      "url": "https://lailluminator.com/2026/05/25/redistrict-louisiana/",
-      "abbr": "LA"
+      "text": "Tennessee court rejects NAACP challenge to Memphis-splitting congressional map",
+      "url": "https://nashvillebanner.com/2026/05/26/naacp-congressional-districts-challenge-denied/",
+      "abbr": "TN"
     },
     {
-      "text": "Louisville voters wrongly prevented from casting ballots in Metro Council primary",
-      "url": "https://www.lpm.org/news/2026-05-22/a-dozen-louisville-voters-were-wrongly-prevented-from-voting-in-a-metro-council-race",
-      "abbr": "KY"
+      "text": "Montana election officials clarify same-day registration still available after court blocks SB 490",
+      "url": "https://www.ktvh.com/news/montana-politics/montana-election-officials-working-to-get-word-out-about-updates-to-same-day-registration",
+      "abbr": "MT"
     }
   ]
 }
