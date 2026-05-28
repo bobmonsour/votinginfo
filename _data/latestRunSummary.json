@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "items": [
     {
-      "text": "South Carolina Republicans scrap redistricting after record early-voting turnout",
-      "url": "https://www.npr.org/2026/05/27/nx-s1-5835698/south-carolina-redistricting-clyburn",
-      "abbr": "SC"
+      "text": "Missouri voters face four constitutional amendments on August 4 primary ballot",
+      "url": "https://fox2now.com/news/missouri/four-missouri-amendments-set-for-august-ballots-what-would-they-do/",
+      "abbr": "MO"
     },
     {
-      "text": "Florida court keeps DeSantis redistricting map in place for 2026 midterms",
-      "url": "https://www.axios.com/2026/05/26/florida-redistricting-map-desantis-judge",
-      "abbr": "FL"
+      "text": "Poll shows Sen. Susan Collins trailing Democratic challenger by 9 points in Maine",
+      "url": "https://www.pressherald.com/2026/05/27/susan-collins-trails-graham-platner-by-9-points-in-maine-senate-race-new-poll-finds/",
+      "abbr": "ME"
     },
     {
-      "text": "Ken Paxton defeats Sen. John Cornyn in Texas Senate primary runoff",
-      "url": "https://www.npr.org/2026/05/27/nx-s1-5835292/texas-senate-runoff-takeaways",
-      "abbr": "TX"
+      "text": "North Carolina lawmakers place income and property tax cap amendments on November ballot",
+      "url": "https://www.wral.com/news/nccapitol/house-to-try-again-on-tax-amendments-north-carolina-may-2026/",
+      "abbr": "NC"
     },
     {
-      "text": "Utah law makes voter registration records public for most previously-protected voters",
-      "url": "https://www.ksl.com/article/51493963/these-new-laws-took-effect-in-utah-on-wednesday",
-      "abbr": "UT"
+      "text": "Maricopa County drop-box authority dispute escalates as Arizona AG sides with Board of Supervisors",
+      "url": "https://ktar.com/arizona-election-news/drop-boxes-election-dispute/5871930/",
+      "abbr": "AZ"
     },
     {
-      "text": "Mississippi redistricting debate intensifies after Supreme Court weakens Voting Rights Act",
-      "url": "https://mississippitoday.org/2026/05/26/congressional-black-caucus-companies-redistricting/",
-      "abbr": "MS"
+      "text": "New York State Senate advances election worker protections and anti-voter-suppression bills",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2026/senate-advances-reforms-protect-election-integrity-and-support",
+      "abbr": "NY"
     }
   ]
 }
