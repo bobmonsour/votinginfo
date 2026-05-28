@@ -18,6 +18,24 @@ If the caller has already specified the mode (e.g. "news only autonomous"), use 
 
 Then proceed with the appropriate sections below.
 
+## Date handling (applies to every mode)
+
+**Always use Pacific Time when computing "today's date."** This site is operated on Pacific Time, and the news-update routine runs twice per weekday at 6:00am PT and 5:00pm PT. The 5pm PT run crosses midnight UTC, so a UTC- or server-local-based "today" will be one day ahead and stamp run records, branch names, change-log entries, news-item dates, and `lastVerified` updates with the wrong date.
+
+Use this Bash command to compute today's Pacific Time date in `YYYY-MM-DD`:
+
+```bash
+TZ=America/Los_Angeles date +%Y-%m-%d
+```
+
+Use this for time (HHMM) when needed:
+
+```bash
+TZ=America/Los_Angeles date +%H%M
+```
+
+Apply the Pacific Time date everywhere "today" is referenced — branch names, the research report filename, the new entry in `_data/stateNews.json`'s `runs` array, `_data/latestRunSummary.json`, `lastVerified` updates in `_data/states.json`, and `changes` entries in `_data/states.json`. **Never** apply this date to a news item's `date` field — that field is the article's actual publication date and is verified against the source page (see Link and date verification below).
+
 ## Branch creation
 
 Before making any changes, create a working branch so all modifications can be reviewed before merging into main.
@@ -216,15 +234,17 @@ Structure of a run entry:
 
 Each state key holds up to 5 news items per run.
 
-### Link verification
+### Link and date verification
 
 After writing the new run to `_data/stateNews.json`, verify every news item that was just added:
 
 1. For each news item in the new run, use WebFetch to request the URL.
 2. Check that the URL is accessible (does not return a 404, paywall-only page, or redirect to a generic homepage).
 3. Check that the `title` stored in the JSON file matches the actual article headline on the page. Minor differences in punctuation or whitespace are acceptable, but the title must clearly refer to the same article. If the title does not match, update it to match the actual headline.
-4. If a URL is not accessible (dead link, 404, or redirects away from the article), remove that news item from the run entirely.
-5. Report a summary of verification results to the user: how many links checked, how many titles corrected, and how many items removed.
+4. Check that the `date` stored in the JSON file matches the publication date shown on the article page. The article's own publication date is authoritative — typically found in the byline, dateline, `<time>` element, JSON-LD `datePublished`, or `article:published_time` Open Graph tag. Do **not** use the run date, the date the article was discovered, the "last updated" timestamp, or any inferred date. If the stored `date` does not match the source page, update it to match. If the page shows only a "last updated" date and no publication date, prefer the earliest dated reference on the page; if no date can be determined at all, remove the item.
+5. If a URL is not accessible (dead link, 404, or redirects away from the article), remove that news item from the run entirely.
+6. After date corrections, re-apply the recency filter (see "Filtering out old news" above) — an item whose corrected date is on or before the per-state threshold must be removed.
+7. Report a summary of verification results to the user: how many links checked, how many titles corrected, how many dates corrected, and how many items removed.
 
 ### Change log entries for news
 

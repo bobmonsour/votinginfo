@@ -87,6 +87,11 @@ export default function (eleventyConfig) {
 		return limit ? items.slice(0, limit) : items;
 	});
 
+	eleventyConfig.addFilter("latestRunDate", (runs) => {
+		const latest = (runs || [])[((runs || []).length || 1) - 1];
+		return latest ? latest.date || "" : "";
+	});
+
 	eleventyConfig.addFilter("latestRunAbbrs", (runs) => {
 		const latest = (runs || [])[((runs || []).length || 1) - 1];
 		if (!latest) return [];
