@@ -1,30 +1,30 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "items": [
     {
-      "text": "Missouri voters face four constitutional amendments on August 4 primary ballot",
-      "url": "https://fox2now.com/news/missouri/four-missouri-amendments-set-for-august-ballots-what-would-they-do/",
-      "abbr": "MO"
+      "text": "California Governor Newsom signed a law making it a crime to seize voted ballots, prompted by a county sheriff's seizure of 650,000 ballots ahead of the June 2 primary",
+      "url": "https://www.upi.com/Top_News/US/2026/05/28/California-election-bill/5301779935928/",
+      "abbr": "CA"
     },
     {
-      "text": "Poll shows Sen. Susan Collins trailing Democratic challenger by 9 points in Maine",
-      "url": "https://www.pressherald.com/2026/05/27/susan-collins-trails-graham-platner-by-9-points-in-maine-senate-race-new-poll-finds/",
-      "abbr": "ME"
+      "text": "New Mexico court ordered Republican Party chair Amy Barela to step down ahead of the June 2 primary, ruling her dual role as party chair and primary candidate was a conflict of interest",
+      "url": "https://sourcenm.com/2026/05/27/nm-judge-rules-republican-party-of-new-mexico-chair-barela-must-leave-post/",
+      "abbr": "NM"
     },
     {
-      "text": "North Carolina lawmakers place income and property tax cap amendments on November ballot",
-      "url": "https://www.wral.com/news/nccapitol/house-to-try-again-on-tax-amendments-north-carolina-may-2026/",
+      "text": "Tennessee's mid-decade redistricting survived its first legal challenge as a state panel dismissed the NAACP's lawsuit over the map splitting majority-Black Memphis across three districts",
+      "url": "https://www.wkms.org/government-politics/2026-05-27/tennessee-mid-decade-redistricting-survives-first-legal-challenge",
+      "abbr": "TN"
+    },
+    {
+      "text": "North Carolina lawmakers advanced bills to cut early in-person voting from 17 days to as few as 10 and eliminate a Sunday voting day statewide",
+      "url": "https://www.wral.com/news/nccapitol/north-carolina-bills-to-reduce-early-voting-may-2026/",
       "abbr": "NC"
     },
     {
-      "text": "Maricopa County drop-box authority dispute escalates as Arizona AG sides with Board of Supervisors",
-      "url": "https://ktar.com/arizona-election-news/drop-boxes-election-dispute/5871930/",
-      "abbr": "AZ"
-    },
-    {
-      "text": "New York State Senate advances election worker protections and anti-voter-suppression bills",
-      "url": "https://www.nysenate.gov/newsroom/press-releases/2026/senate-advances-reforms-protect-election-integrity-and-support",
-      "abbr": "NY"
+      "text": "Wisconsin's League of Women Voters sued to require all municipal clerks to notify voters about absentee ballot certificate defects and allow corrections, challenging the current inconsistent patchwork practice",
+      "url": "https://wisconsinwatch.org/2026/05/wisconsin-election-lawsuit-absentee-ballot-problems-clerks-league-of-women-voters-curing/",
+      "abbr": "WI"
     }
   ]
 }
