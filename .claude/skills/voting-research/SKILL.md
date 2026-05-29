@@ -177,6 +177,16 @@ For each state, search for up to 5 recent election-related news items from reput
 - Stateline (Pew)
 
 
+### National stories (avoid cross-state duplication)
+
+A single national or federal story (e.g., a federal court ruling, federal legislation, or a nationwide policy change) is often relevant to every state and will surface in per-state searches across the board. **Do not record the same underlying event as the news item for many states** — this floods the home page's "Recent news across all states" grid with the same story and crowds out state-specific reporting.
+
+Rules:
+
+- **One representative state per national event.** When an event is national in scope, record it for **at most one** state — the most directly relevant one (e.g., the state where the court sits or the named plaintiff/defendant resides; default to **DC** for federal-court and federal-agency stories). Do not add it to the others.
+- **This applies across outlets.** The same event reported by NPR, AP, Reuters, the Washington Post, Votebeat, etc. counts as one event, not several. Different URLs/headlines for the same story do not make it eligible for additional states.
+- **Prefer state-specific news.** For every other state, capture genuinely state-specific reporting (state legislation, state/local races, state election administration). If a state has no qualifying state-specific news for the run, it is correct to leave it with zero items — do **not** backfill with the national story.
+
 ### Content filtering
 
 Only include straight news reporting. Exclude editorials, opinion columns, op-eds, analysis pieces, and advocacy content. Skip any article where:

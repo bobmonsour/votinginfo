@@ -3,7 +3,7 @@ layout: layouts/base.njk
 description: "Voter registration and voting requirements for all 50 US states and Washington DC, providing detailed information on deadlines, ID requirements, mail-in voting policies, recent election law news, and more."
 fullBleed: true
 ---
-{% set newsItems = stateNews.runs | latestRunNews(states, 8) %}
+{% set newsItems = stateNews.runs | recentNewsAll(states, 8) %}
 {% set newsAbbrs = stateNews.runs | latestRunAbbrs %}
 {% set newsCount = stateNews.runs | latestRunCount %}
 {% set latestRunDate = stateNews.runs | latestRunDate %}
@@ -48,7 +48,7 @@ fullBleed: true
 	<div class="container">
 		<div class="section-head">
 			<h2 class="section-title">Recent news <em>across all states</em></h2>
-			<p class="section-sub">The latest stories tracked in our research run. Click a state tag to jump to that state&rsquo;s news page.</p>
+			<p class="section-sub">The latest stories tracked across our recent research runs. Click a state tag to jump to that state&rsquo;s news page.</p>
 			<div class="section-actions">
 				<a href="/all-news/">All news →</a>
 				<a href="/all-news/feed.xml">RSS</a>

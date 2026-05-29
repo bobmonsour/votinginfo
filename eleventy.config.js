@@ -71,10 +71,14 @@ export default function (eleventyConfig) {
 		}
 		const latest = (runs || [])[((runs || []).length || 1) - 1];
 		if (!latest) return [];
+		const seen = new Set();
 		const items = [];
 		for (const abbr of Object.keys(latest.states || {})) {
 			if (!slugMap[abbr]) continue;
 			for (const item of latest.states[abbr]) {
+				const key = (item.url || "") + "|" + (item.title || "");
+				if (seen.has(key)) continue;
+				seen.add(key);
 				items.push({
 					...item,
 					stateAbbr: abbr,
