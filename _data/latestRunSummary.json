@@ -1,30 +1,27 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "items": [
     {
-      "text": "California Governor Newsom signed a law making it a crime to seize voted ballots, prompted by a county sheriff's seizure of 650,000 ballots ahead of the June 2 primary",
-      "url": "https://www.upi.com/Top_News/US/2026/05/28/California-election-bill/5301779935928/",
+      "text": "Federal judge declines to block Trump's mail-in voting executive order",
+      "url": "https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order"
+    },
+    {
+      "text": "23 states and DC continue legal challenge against Social Security-linked ballot delivery restrictions"
+    },
+    {
+      "text": "Alabama files emergency Supreme Court appeal over blocked redistricting map",
+      "url": "https://weisradio.com/2026/05/28/alabama-files-emergency-appeal-to-u-s-supreme-court-over-congressional-redistricting-map/",
+      "abbr": "AL"
+    },
+    {
+      "text": "Becerra leads California governor's race with Hilton and Steyer close behind",
+      "url": "https://www.nbclosangeles.com/news/california-news/becerra-hilton-steyer-california-governor-polls-election/3896716/",
       "abbr": "CA"
     },
     {
-      "text": "New Mexico court ordered Republican Party chair Amy Barela to step down ahead of the June 2 primary, ruling her dual role as party chair and primary candidate was a conflict of interest",
-      "url": "https://sourcenm.com/2026/05/27/nm-judge-rules-republican-party-of-new-mexico-chair-barela-must-leave-post/",
-      "abbr": "NM"
-    },
-    {
-      "text": "Tennessee's mid-decade redistricting survived its first legal challenge as a state panel dismissed the NAACP's lawsuit over the map splitting majority-Black Memphis across three districts",
-      "url": "https://www.wkms.org/government-politics/2026-05-27/tennessee-mid-decade-redistricting-survives-first-legal-challenge",
-      "abbr": "TN"
-    },
-    {
-      "text": "North Carolina lawmakers advanced bills to cut early in-person voting from 17 days to as few as 10 and eliminate a Sunday voting day statewide",
-      "url": "https://www.wral.com/news/nccapitol/north-carolina-bills-to-reduce-early-voting-may-2026/",
-      "abbr": "NC"
-    },
-    {
-      "text": "Wisconsin's League of Women Voters sued to require all municipal clerks to notify voters about absentee ballot certificate defects and allow corrections, challenging the current inconsistent patchwork practice",
-      "url": "https://wisconsinwatch.org/2026/05/wisconsin-election-lawsuit-absentee-ballot-problems-clerks-league-of-women-voters-curing/",
-      "abbr": "WI"
+      "text": "Delaware party-change deadline arrives ahead of September primary",
+      "url": "https://spotlightdelaware.org/2026/05/28/political-party-change-deadline-nears-ahead-of-delaware-primary-elections/",
+      "abbr": "DE"
     }
   ]
 }
