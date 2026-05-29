@@ -1,4 +1,61 @@
+import fs from "node:fs";
+
+// Build-time sanity check: a single national/federal story must not be
+// recorded as the news item for many states (see voting-research SKILL.md
+// "National stories"). If one story is carried by more than this many states
+// in the latest run, the build FAILS loudly so the regression cannot deploy
+// silently. The duplication is detected per exact URL and per normalized
+// title, so the same headline or the same link spread across states is caught.
+const MAX_STATES_PER_STORY = 5;
+
+function checkNewsDuplication() {
+	let data;
+	try {
+		data = JSON.parse(fs.readFileSync("_data/stateNews.json", "utf8"));
+	} catch {
+		return; // no/unreadable data — nothing to check
+	}
+	const runs = data.runs || [];
+	const latest = runs[runs.length - 1];
+	if (!latest || !latest.states) return;
+
+	const norm = (s) => (s || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+	const byKey = {}; // story key -> Set of state abbreviations carrying it
+	for (const abbr of Object.keys(latest.states)) {
+		for (const item of latest.states[abbr] || []) {
+			const keys = [];
+			if (item.url) keys.push("url:" + item.url);
+			if (item.title) keys.push("title:" + norm(item.title));
+			for (const key of keys) (byKey[key] ||= new Set()).add(abbr);
+		}
+	}
+
+	let worst = 0;
+	for (const states of Object.values(byKey)) worst = Math.max(worst, states.size);
+	console.log(
+		`[stateNews] run ${latest.date}: ${Object.keys(latest.states).length} states, top story spans ${worst} state(s) (limit ${MAX_STATES_PER_STORY}).`
+	);
+
+	const offenders = Object.entries(byKey)
+		.filter(([, s]) => s.size > MAX_STATES_PER_STORY)
+		.sort((a, b) => b[1].size - a[1].size);
+	if (offenders.length) {
+		const lines = offenders
+			.map(([key, s]) => `  - ${s.size} states (${[...s].sort().join(", ")})\n      ${key}`)
+			.join("\n");
+		throw new Error(
+			`[stateNews] Duplicate-story check FAILED for run ${latest.date}: a single ` +
+				`story is carried by more than ${MAX_STATES_PER_STORY} states. This is the ` +
+				`national-story duplication regression — a national/federal event must be ` +
+				`recorded for at most one representative state (see voting-research SKILL.md ` +
+				`"National stories"). Offending stories:\n${lines}`
+		);
+	}
+}
+
 export default function (eleventyConfig) {
+	eleventyConfig.on("eleventy.before", checkNewsDuplication);
+
 	eleventyConfig.addPassthroughCopy({ "public/": "/" });
 
 	eleventyConfig.addFilter("lower", (str) => (str || "").toLowerCase());
