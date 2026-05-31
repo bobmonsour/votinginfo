@@ -106,3 +106,17 @@ State cards and detail pages show flag images. The 50 states use `flagcdn.com/w4
 ### CSS
 
 Vanilla CSS in `public/css/style.css` using custom properties. Two overlapping token sets coexist: the original UI tokens (`--navy`, `--green`, `--red`, `--gray-*`, `--radius`) and a "Home redesign tokens" block (`--ink*`, `--paper*`, `--rule*`, `--accent` burnt orange, `--good*`, `--bad*`) used by the editorial layout. Typography uses three families: `--font-serif` (Source Serif 4) for headlines and pull quotes, `--font-sans` (IBM Plex Sans) for body and UI chrome, and `--font-mono` (IBM Plex Mono) for badges, abbreviations, and section eyebrows. Mobile-first responsive: single column cards → 2-col at 640px → auto-fill grid at 1024px (min card width `--card-min`, 320px). State detail uses flexbox column→row with a sticky sidebar on desktop.
+
+<!-- worklog:start -->
+## Worklog
+
+When wrapping up a session here (I say "done" / "wrap up"), or when I say "log this",
+record a worklog entry to the projects registry — run from this directory so the slug
+auto-detects:
+
+    projects log-note "<one-sentence summary of what got done>
+    Next: <the next step to resume from>"
+
+This writes a dated entry to the project's Notes in the registry; it does not modify
+this repo. Keep it to the summary + Next line — detail lives in git history.
+<!-- worklog:end -->
