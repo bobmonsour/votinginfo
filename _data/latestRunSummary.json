@@ -1,27 +1,30 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-06-01",
   "items": [
     {
-      "text": "Federal judge declines to block Trump's mail-in voting executive order",
-      "url": "https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order"
+      "text": "Louisiana eliminates its second majority-Black congressional district in new map",
+      "url": "https://www.npr.org/2026/05/29/nx-s1-5826956/louisiana-new-congressional-map-redistricting",
+      "abbr": "LA"
     },
     {
-      "text": "23 states and DC continue legal challenge against Social Security-linked ballot delivery restrictions"
-    },
-    {
-      "text": "Alabama files emergency Supreme Court appeal over blocked redistricting map",
-      "url": "https://weisradio.com/2026/05/28/alabama-files-emergency-appeal-to-u-s-supreme-court-over-congressional-redistricting-map/",
+      "text": "Alabama 11th Circuit reinstates 2021 senate map, special primaries called for two districts",
+      "url": "https://www.alreporter.com/2026/05/29/gov-ivey-calls-special-primary-election-for-alabama-drawn-state-senate-map/",
       "abbr": "AL"
     },
     {
-      "text": "Becerra leads California governor's race with Hilton and Steyer close behind",
-      "url": "https://www.nbclosangeles.com/news/california-news/becerra-hilton-steyer-california-governor-polls-election/3896716/",
-      "abbr": "CA"
+      "text": "DC uses ranked-choice voting for the first time in its June 16 mayoral primary",
+      "url": "https://washingtonian.com/2026/05/29/your-guide-to-ranked-choice-voting-in-the-dc-primaries/",
+      "abbr": "DC"
     },
     {
-      "text": "Delaware party-change deadline arrives ahead of September primary",
-      "url": "https://spotlightdelaware.org/2026/05/28/political-party-change-deadline-nears-ahead-of-delaware-primary-elections/",
-      "abbr": "DE"
+      "text": "Wisconsin Elections Commission demands USPS fix widespread absentee ballot mail delays",
+      "url": "https://urbanmilwaukee.com/2026/05/29/wisconsin-pushes-usps-to-fix-absentee-mail-before-next-elections/",
+      "abbr": "WI"
+    },
+    {
+      "text": "New Mexico's inaugural semi-open primary draws low independent voter turnout",
+      "url": "https://www.santafenewmexican.com/news/elections/will-independents-turn-out-for-new-mexicos-first-semi-open-primary/article_dea33d88-fbf7-4f7d-88ce-37cbbbfefa5b.html",
+      "abbr": "NM"
     }
   ]
 }
