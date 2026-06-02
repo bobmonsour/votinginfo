@@ -1,30 +1,28 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "items": [
     {
-      "text": "Louisiana eliminates its second majority-Black congressional district in new map",
-      "url": "https://www.npr.org/2026/05/29/nx-s1-5826956/louisiana-new-congressional-map-redistricting",
+      "text": "Louisiana scraps majority-Black district in new congressional map",
+      "url": "https://www.jurist.org/news/2026/06/louisiana-approves-new-congressional-map-dismantling-majority-black-district/",
       "abbr": "LA"
     },
     {
-      "text": "Alabama 11th Circuit reinstates 2021 senate map, special primaries called for two districts",
-      "url": "https://www.alreporter.com/2026/05/29/gov-ivey-calls-special-primary-election-for-alabama-drawn-state-senate-map/",
-      "abbr": "AL"
+      "text": "Colorado governor commutes Tina Peters sentence; election officials warn of chilling effect",
+      "url": "https://www.kunc.org/news/2026-06-01/colorado-elections-clerk-set-to-be-released-from-prison-monday-based-on-her-sentence-commutation",
+      "abbr": "CO"
     },
     {
-      "text": "DC uses ranked-choice voting for the first time in its June 16 mayoral primary",
-      "url": "https://washingtonian.com/2026/05/29/your-guide-to-ranked-choice-voting-in-the-dc-primaries/",
-      "abbr": "DC"
+      "text": "Ohio Republicans push to enshrine photo voter ID in state constitution despite broad opposition",
+      "url": "https://ohiocapitaljournal.com/2026/06/01/ohio-photo-voter-id-amendment-prompts-push-back-across-political-spectrum/",
+      "abbr": "OH"
     },
     {
-      "text": "Wisconsin Elections Commission demands USPS fix widespread absentee ballot mail delays",
-      "url": "https://urbanmilwaukee.com/2026/05/29/wisconsin-pushes-usps-to-fix-absentee-mail-before-next-elections/",
-      "abbr": "WI"
+      "text": "South Carolina shatters early voting record ahead of June 9 primary",
+      "url": "https://www.wistv.com/2026/06/01/early-voting-tracker-record-turnout-continues-sc-primaries/",
+      "abbr": "SC"
     },
     {
-      "text": "New Mexico's inaugural semi-open primary draws low independent voter turnout",
-      "url": "https://www.santafenewmexican.com/news/elections/will-independents-turn-out-for-new-mexicos-first-semi-open-primary/article_dea33d88-fbf7-4f7d-88ce-37cbbbfefa5b.html",
-      "abbr": "NM"
+      "text": "Iowa, Montana, New Jersey, New Mexico, and South Dakota hold June 2 primaries or candidate filing deadlines"
     }
   ]
 }

@@ -13983,6 +13983,473 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-02",
+      "states": {
+        "AL": [
+          {
+            "title": "In amicus brief election experts warn Alabama map switch could upend 2026 vote",
+            "source": "Alabama Political Reporter",
+            "url": "https://www.alreporter.com/2026/06/01/in-amicus-brief-election-experts-warn-alabama-map-switch-could-upend-2026-vote/",
+            "date": "2026-06-01",
+            "summary": "A bipartisan coalition of election officials and experts warned the U.S. Supreme Court that Alabama's emergency bid to revive its 2023 congressional map could force local officials to complete months of voter reassignment work in as little as one business day, risking voter confusion and uncounted ballots. The brief supported the Milligan plaintiffs urging the Court to deny Alabama's request for a stay of the federal injunction blocking the map."
+          },
+          {
+            "title": "Alabama groups urge Supreme Court to halt congressional map",
+            "source": "Roll Call",
+            "url": "https://rollcall.com/2026/06/01/alabama-groups-urge-supreme-court-to-halt-congressional-map/",
+            "date": "2026-06-01",
+            "summary": "Challengers to Alabama's redistricting push urged the Supreme Court not to allow the state to use a congressional map a lower court found likely discriminated against Black voters, arguing justices should keep the court-ordered lines used in 2024. Civil rights groups warned that changing district boundaries now would trigger electoral chaos ahead of the state's August special primary."
+          }
+        ],
+        "AK": [
+          {
+            "title": "Alaska primary ballot set: 17 governor candidates, competitive U.S. Senate race and legislature at a crossroads",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/06/02/alaska-primary-ballot-set-17-governor-candidates-competitive-us-senate-race-legislature-crossroads/",
+            "date": "2026-06-02",
+            "summary": "Following the June 1 filing deadline, Alaska's August 18 primary ballot is set with 17 candidates for the open governor's race — including last-minute entrant former Gov. Bill Walker — after Lt. Gov. Nancy Dahlstrom unexpectedly dropped out. The cycle will also feature a third attempt to repeal Alaska's ranked-choice voting and top-four primary system on the November ballot."
+          },
+          {
+            "title": "Candidate slate finalized for Alaska's statewide elections",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/06/01/early-shakeup-as-alaska-candidates-have-until-5-pm-monday-to-file-for-office/",
+            "date": "2026-06-01",
+            "summary": "The June 1 filing deadline finalized a competitive slate for Alaska's 2026 elections, including a crowded open governor's race and a U.S. Senate race where Democrat Mary Peltola is challenging incumbent Republican Sen. Dan Sullivan. Alaska will again use its top-four primary and ranked-choice general election system, though voters will also decide on a ballot initiative to repeal that system."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Arizona Secretary of State's Office accidentally released personal data of 373 protected voters",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/06/01/secretary-of-state-error-release-protected-voter-data-addresses/",
+            "date": "2026-06-01",
+            "summary": "Staff at the Arizona Secretary of State's Office accidentally publicly released home addresses and phone numbers of 373 voters enrolled in the state's address confidentiality program — including domestic violence victims and law enforcement officials — with the error going undetected for nearly nine months. The office acknowledged staff failed to follow existing policies that should have prevented the breach."
+          }
+        ],
+        "CA": [
+          {
+            "title": "What we know so far about LA and OC voter turnout in the 2026 primary election",
+            "source": "LAist",
+            "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-voter-turnout-los-angeles-county-orange-county",
+            "date": "2026-06-02",
+            "summary": "With California's June 2 statewide direct primary underway, midday turnout stood at 16% statewide, with L.A. County at about 10% and Orange County at about 22% of registered voters. Republicans have returned proportionally more pre-election mail ballots (21%) than Democrats (16%), with final results not expected until counting concludes around June 26."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Colorado elections clerk released from prison after governor commutes sentence",
+            "source": "KUNC",
+            "url": "https://www.kunc.org/news/2026-06-01/colorado-elections-clerk-set-to-be-released-from-prison-monday-based-on-her-sentence-commutation",
+            "date": "2026-06-01",
+            "summary": "Former Mesa County Clerk Tina Peters was released from prison after Democratic Gov. Jared Polis commuted her nine-year sentence for election equipment tampering, making her eligible for parole after serving less than a quarter of her term. Colorado Secretary of State Jena Griswold warned the release would embolden the election denier movement, and the state Democratic Party formally censured Polis."
+          }
+        ],
+        "DC": [
+          {
+            "title": "See a Ranked Choice Ballot from the District of Columbia",
+            "source": "Ballot Access News",
+            "url": "https://ballot-access.org/2026/05/31/see-a-ranked-choice-ballot-from-the-district-of-columbia/",
+            "date": "2026-05-31",
+            "summary": "A sample ranked choice voting ballot from Washington, D.C. was published ahead of the city's historic June 16 primary — its first-ever use of ranked choice voting, approved by 73% of voters via Initiative 83 in 2024. The ballot allows voters to rank up to five candidates by preference for mayoral, council, congressional delegate, and attorney general races."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia's political June: Runoffs, redistricting and a pivotal month ahead",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/06/01/georgias-political-june-runoffs-redistricting-pivotal-month-ahead/",
+            "date": "2026-06-01",
+            "summary": "Georgia faces a dense political calendar in June: Republicans hold high-stakes June 16 runoffs for governor and U.S. Senate, while Gov. Kemp called a special legislative session beginning June 17 to redraw congressional and legislative maps following the Supreme Court's Callais ruling."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Last Day to File as a Candidate for the 2026 Elections",
+            "source": "Hawaii Office of Elections",
+            "url": "https://elections.hawaii.gov/news-release/last-day-to-file-as-a-candidate-for-the-2026-elections/",
+            "date": "2026-06-02",
+            "summary": "Hawaii's Office of Elections announced June 2 as the final day to file nomination papers for the 2026 elections, covering more than 100 offices including governor, lieutenant governor, and all state legislative seats, with the primary election scheduled for August 8."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Democrats and Republicans think control of Congress runs through Iowa",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/05/31/nx-s1-5836408/iowa-primary-senate-governor-trump-democrats",
+            "date": "2026-05-31",
+            "summary": "Both parties view Iowa's June 2 primary as a critical midterm battleground, with open governor and Senate seats drawing national attention; Trump-endorsed Rep. Ashley Hinson leads the Republican Senate primary and Rep. Randy Feenstra is favored in the Republican gubernatorial contest after a late presidential endorsement."
+          },
+          {
+            "title": "Who's running in Iowa's primary? Your voter guide for the June 2 election",
+            "source": "Iowa Public Radio",
+            "url": "https://www.iowapublicradio.org/political-news/2026-06-01/whos-running-in-iowas-primary-your-voter-guide-for-the-june-2-election",
+            "date": "2026-06-01",
+            "summary": "Iowa voters head to the polls June 2 to choose party nominees for governor, U.S. Senate, congressional seats, and state legislative offices; polls are open 7 a.m.–8 p.m. and same-day voter registration is available at polling places."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Idaho election officials randomly pick eight counties for primary election audits",
+            "source": "Spokane Public Radio",
+            "url": "https://www.spokanepublicradio.org/regional-news/2026-06-01/idaho-election-officials-randomly-pick-eight-counties-for-primary-election-audits",
+            "date": "2026-06-01",
+            "summary": "Idaho Secretary of State officials randomly selected eight counties for post-primary paper ballot audits comparing hand counts to reported results, with all audits scheduled before the June 9 State Board of Canvassers certification meeting."
+          },
+          {
+            "title": "Eight Idaho counties randomly chosen for post-primary election audit",
+            "source": "KMVT",
+            "url": "https://www.kmvt.com/2026/05/30/eight-idaho-counties-randomly-chosen-post-primary-election-audit/",
+            "date": "2026-05-30",
+            "summary": "Following Idaho's May 19 primary, which drew about 30% voter turnout, election officials selected eight counties for paper ballot audits to verify results before the State Board of Canvassers certifies the election on June 9."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Electability, future of party on minds of delegates as Democrats choose secretary of state nominee",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/06/01/democrats-to-choose-secretary-of-state-nominee/",
+            "date": "2026-06-01",
+            "summary": "Indiana Democrats gather at their June 6 state convention to choose a secretary of state nominee, pitting well-funded Beau Bayh against progressive challenger Blythe Potter, as both parties seek to fill an office shaken by controversy over Republican incumbent Diego Morales."
+          },
+          {
+            "title": "Secretary of State race getting national attention ahead of the Indiana Republican Convention",
+            "source": "WTHR",
+            "url": "https://www.wthr.com/article/news/politics/secretary-of-state-race-getting-national-attention-ahead-of-indiana-republican-convention-diego-morales/531-c4e9774c-e389-4e3a-a669-8429737b357c",
+            "date": "2026-05-30",
+            "summary": "Indiana's Republican secretary of state race has drawn national attention ahead of the June 20 convention, as incumbent Diego Morales faces four challengers after U.S. Sen. Jim Banks and other prominent Republicans withdrew their endorsements amid spending and management controversies."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas online voter registration remains down ahead of party change deadline",
+            "source": "WIBW",
+            "url": "https://www.wibw.com/2026/05/31/kansas-online-voter-registration-remains-down-due-systems-outage/",
+            "date": "2026-05-31",
+            "summary": "Kansas's online voter registration system was down due to a Department of Revenue systems outage just before the June 1 noon deadline to change party affiliation for the August 4 primary, with officials directing voters to paper registration forms."
+          },
+          {
+            "title": "Kansas Online Voter Registration now restored following systems outage",
+            "source": "KWCH",
+            "url": "https://www.kwch.com/2026/05/31/kansas-online-voter-registration-now-restored-following-systems-outage/",
+            "date": "2026-05-31",
+            "summary": "Kansas restored its online voter registration system Sunday evening after a roughly 24-hour outage, in time for voters to change party affiliation before the June 1 noon deadline ahead of the August 4 primary election."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Louisiana approves new congressional map, dismantling majority-Black district",
+            "source": "JURIST",
+            "url": "https://www.jurist.org/news/2026/06/louisiana-approves-new-congressional-map-dismantling-majority-black-district/",
+            "date": "2026-06-01",
+            "summary": "Louisiana Republican lawmakers passed and Gov. Jeff Landry signed a new congressional map eliminating one of the two majority-Black congressional districts, giving the GOP a 5-1 advantage in the delegation. Civil rights groups pledged legal challenges, calling the map a racial gerrymander."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Replacement mail-in ballots for Maryland primaries being sent to voters this week",
+            "source": "CBS News Baltimore",
+            "url": "https://www.cbsnews.com/baltimore/news/replacement-mail-in-ballots-maryland-primaries-sent-voters-week/",
+            "date": "2026-05-29",
+            "summary": "Maryland's Board of Elections mailed replacement ballots after a vendor coding error sent some voters the wrong party's primary ballot for the June 23 primary. Officials confirmed safeguards prevent duplicate voting and all affected voters will receive a correct replacement."
+          },
+          {
+            "title": "Trump calls for DOJ investigation after mail ballot error in Maryland",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/trump-calls-doj-investigation-mail-ballot-error-maryland-rcna345782",
+            "date": "2026-05-30",
+            "summary": "President Trump called for a Justice Department probe into Maryland's mail-in ballot vendor error, alleging fraud without evidence. Maryland election officials maintained no fraudulent ballots were distributed and that the error was a coding mistake by the state's print vendor."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Two Maine primary races may come down to a ranked-choice runoff. Here's how the process works",
+            "source": "Maine Public",
+            "url": "https://www.mainepublic.org/politics/2026-06-01/two-maine-primary-races-may-come-down-to-a-ranked-choice-runoff-heres-how-the-process-works",
+            "date": "2026-06-01",
+            "summary": "Maine Public explained ranked-choice voting ahead of the June 9 primary, noting the crowded Democratic and Republican gubernatorial races and the Democratic U.S. Senate primary may all require multiple rounds of tabulation. Voters can rank candidates by preference; if no one wins a first-round majority, lower-ranked candidates are eliminated and votes redistributed."
+          },
+          {
+            "title": "How ranked-choice voting will work in Maine's wide-open June primaries",
+            "source": "Bangor Daily News",
+            "url": "https://www.bangordailynews.com/2026/06/02/politics/elections/maine-ranked-choice-voting-explained-joam40zk0w/",
+            "date": "2026-06-02",
+            "summary": "With Maine's primary one week away, the Bangor Daily News explained how ranked-choice voting applies across multiple June 9 primary races, noting that candidates in the crowded gubernatorial contests are openly coordinating second-choice strategies with rivals."
+          }
+        ],
+        "MI": [
+          {
+            "title": "MDOS announces changes to automatic voter registration process to comply with Michigan election law",
+            "source": "WNMU-FM",
+            "url": "https://www.wnmufm.org/government/2026-06-01/mdos-announces-changes-to-automatic-voter-registration-process-to-comply-with-michigan-election-law",
+            "date": "2026-06-01",
+            "summary": "Starting June 1, Michiganders automatically registered to vote at a Secretary of State branch office will receive a mailed opt-out notice, bringing the department into compliance with state election law. The change fulfills Michigan's 2018 constitutional mandate for automatic voter registration while allowing residents to decline registration."
+          },
+          {
+            "title": "Michigan opens voting for 2026 'I Voted' sticker contest",
+            "source": "WILX News 10",
+            "url": "https://www.wilx.com/2026/06/01/michigan-opens-voting-2026-i-voted-sticker-contest/",
+            "date": "2026-06-01",
+            "summary": "Michigan's Secretary of State opened public voting June 1–30 for the 2026 'I Voted' sticker contest, which drew more than 2,000 submissions. Winning designs will be distributed to local election clerks for use at polling places during the November 2026 general election."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Secretary Simon Highlights 2026 Election Dates as Candidate Filing Period Closes",
+            "source": "Minnesota Secretary of State",
+            "url": "https://www.sos.mn.gov/about-the-office/news-room/secretary-simon-highlights-2026-election-dates/",
+            "date": "2026-06-02",
+            "summary": "Minnesota's candidate filing period for state and federal offices closes June 2, and absentee voting for the August 11 primary opens June 26. Secretary Simon reminded voters that advance registration by July 21 avoids Election Day lines, with same-day registration also available."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Why Tuesday's primary matters — maybe even more than November",
+            "source": "Montana Free Press",
+            "url": "https://montanafreepress.org/2026/06/01/why-tuesdays-primary-matters-maybe-even-more-than-november/",
+            "date": "2026-06-01",
+            "summary": "Montana Free Press analyzed the high stakes of the June 2 primary, with open U.S. Senate and House seats drawing crowded fields and new voter ID requirements alongside court-preserved Election Day registration reshaping turnout expectations."
+          },
+          {
+            "title": "The June primary election is underway in Montana",
+            "source": "Daily Inter Lake",
+            "url": "https://dailyinterlake.com/news/2026/jun/02/primary-elections-are-underway/",
+            "date": "2026-06-02",
+            "summary": "Montana voters went to the polls June 2 to select nominees for state and federal offices under new photo ID requirements, while a court order continues to preserve Election Day voter registration after a judge blocked a Republican-backed restriction law."
+          },
+          {
+            "title": "Haven't voted in Montana's primary election yet? Here's how",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/06/01/havent-voted-in-montanas-primary-election-yet-heres-how/",
+            "date": "2026-06-01",
+            "summary": "The Daily Montanan published a practical voting guide for the June 2 Montana primary, covering new photo ID requirements, the court-preserved Election Day registration option, and the new rule requiring mail ballot return envelopes to include the voter's birth year."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Old North State Report – May 29, 2026",
+            "source": "National Law Review",
+            "url": "https://natlawreview.com/article/old-north-state-report-may-29-2026",
+            "date": "2026-05-29",
+            "summary": "North Carolina voters will decide in November on multiple constitutional amendments passed by Republican legislators, including a property tax revenue cap and a state income tax rate ceiling of 3.5%. The amendments are expected to appear alongside competitive congressional and legislative races on the November ballot."
+          }
+        ],
+        "ND": [
+          {
+            "title": "Early Voting Opens for the June 9 Primaries in North Dakota",
+            "source": "KSJB AM 600",
+            "url": "https://www.ksjbam.com/2026/06/01/early-voting-opens-for-the-june-9-primaries-in-north-dakota/",
+            "date": "2026-06-01",
+            "summary": "Early voting opened June 1 across North Dakota for the June 9 primary, with 20,050 of 36,866 requested absentee ballots already returned. Officials remind voters that under a new state law eliminating the prior 13-day grace period, all mail ballots must arrive by poll close on Election Day to count."
+          },
+          {
+            "title": "Early voting for June 9 primary and Fargo city election starts Tuesday",
+            "source": "Valley News Live",
+            "url": "https://www.valleynewslive.com/2026/06/01/early-voting-june-9-primary-fargo-city-election-starts-tuesday/",
+            "date": "2026-06-01",
+            "summary": "In-person early voting opened in Cass County on June 2 for North Dakota's statewide primary and the Fargo city election, where voters will decide mayoral and commission races and a ballot question on continuing the city's 1% Infrastructure Sales Tax."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey election 2026: Primary voters are heading to the polls. Here's what to know",
+            "source": "WHYY",
+            "url": "https://whyy.org/articles/new-jersey-election-2026-primary-what-to-know/",
+            "date": "2026-06-02",
+            "summary": "New Jersey's closed primary is underway June 2 with polls open 6 a.m.–8 p.m. Voters choose nominees in all 12 U.S. House races and a contested Republican Senate primary; four GOP candidates compete to face incumbent Democratic Sen. Cory Booker in November."
+          },
+          {
+            "title": "Live updates: Polls open for the New Jersey Primary Election",
+            "source": "NBC10 Philadelphia",
+            "url": "https://www.nbcphiladelphia.com/news/politics/live-updates-polls-open-for-the-new-jersey-primary-election/4410791/",
+            "date": "2026-06-02",
+            "summary": "New Jersey primary polls opened June 2 with notable races including 14 candidates in the 12th Congressional District and a competitive 7th District contest. Mail ballots must be received by June 8 if postmarked by Election Day, or by June 4 if not postmarked."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Polls open 7 a.m. to 7 p.m. Tuesday for New Mexico primary election",
+            "source": "Source New Mexico",
+            "url": "https://sourcenm.com/2026/06/02/polls-open-7-a-m-to-7-p-m-tuesday-for-new-mexico-primary-election/",
+            "date": "2026-06-02",
+            "summary": "New Mexico holds its first semi-open primary on June 2, allowing unaffiliated voters to choose a major party ballot without changing registration under Senate Bill 16 enacted in 2025. Nearly 140,000 voters cast early ballots ahead of Election Day."
+          }
+        ],
+        "NY": [
+          {
+            "title": "2026 primary elections in New York: What you need to know about registration, absentees and early voting",
+            "source": "Spectrum News",
+            "url": "https://spectrumlocalnews.com/nys/central-ny/politics/2026/06/01/2026-new-york-primary-elections--what-you-need-to-know",
+            "date": "2026-06-01",
+            "summary": "Comprehensive voter guide for New York's June 23 primary covering registration deadlines (June 13), early voting period (June 13–21), and absentee ballot rules. More than 1,160 offices are on the ballot in this closed primary, including congressional and statewide races."
+          }
+        ],
+        "OH": [
+          {
+            "title": "If Ohio's the election 'gold standard,' why are lawmakers going for desperate, duplicative changes?",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/05/29/if-ohio-is-the-gold-standard-for-elections-why-are-lawmakers-going-for-desperate-duplicative-changes/",
+            "date": "2026-05-29",
+            "summary": "Ohio Republicans are fast-tracking a constitutional amendment to enshrine the state's existing voter photo ID law in the state constitution, despite it being law since 2023. Critics say the move is redundant and politically motivated, with Ramaswamy and GOP leaders seeking to put it on the November ballot by mid-June."
+          },
+          {
+            "title": "Ohio photo voter ID amendment prompts pushback across political spectrum",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/06/01/ohio-photo-voter-id-amendment-prompts-push-back-across-political-spectrum/",
+            "date": "2026-06-01",
+            "summary": "More than 80 witnesses submitted testimony on Ohio's proposed voter photo ID constitutional amendment; only two supported it and neither appeared in person. Opponents include voting rights advocates concerned the measure lacks the free ID provision in current law, potentially constituting a poll tax."
+          },
+          {
+            "title": "Republicans deny juicing votes as they attempt to put already existing law on midterm ballot",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/06/01/republicans-deny-juicing-votes-as-they-attempt-to-put-already-existing-law-on-midterm-ballot/",
+            "date": "2026-06-01",
+            "summary": "Ohio GOP leaders deny that placing an existing voter photo ID law on the November ballot as a constitutional amendment is a turnout-boosting strategy, framing it as protection against future rollback. Senate President McColley, running for lieutenant governor on the Ramaswamy ticket, is pushing the effort."
+          }
+        ],
+        "OK": [
+          {
+            "title": "In deeply red Oklahoma, minimum wage's biggest 2026 election cycle fight is about to be decided",
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html",
+            "date": "2026-05-31",
+            "summary": "State Question 832, appearing on Oklahoma's June 16 primary ballot, would raise the state's minimum wage from $7.25 to $15 an hour by 2029, with economic analysts estimating the change would boost wages for about one-fifth of the state's workforce."
+          },
+          {
+            "title": "Thousands of Oklahomans switched party affiliation ahead of primary elections",
+            "source": "Oklahoma Voice",
+            "url": "https://oklahomavoice.com/briefs/thousands-of-oklahomans-switched-party-affiliation-ahead-of-primary-elections/",
+            "date": "2026-05-27",
+            "summary": "More than 13,000 Oklahoma voters changed their party affiliation ahead of the state's closed June 16 primary, with independents comprising the largest shifting group. All recognized parties have kept their 2026 primaries closed to unaffiliated voters."
+          }
+        ],
+        "SC": [
+          {
+            "title": "EARLY VOTING TRACKER: Record turnout continues for SC primaries",
+            "source": "WIS TV",
+            "url": "https://www.wistv.com/2026/06/01/early-voting-tracker-record-turnout-continues-sc-primaries/",
+            "date": "2026-06-01",
+            "summary": "South Carolina's early voting for the June 9 primary surpassed the entire 2024 early voting total within the first week, with more than 151,670 ballots cast. Richland, Charleston, and Greenville counties led the state in turnout, with early voting continuing through June 5."
+          },
+          {
+            "title": "South Carolina sees record early voting surge ahead of primary day",
+            "source": "Live 5 News",
+            "url": "https://www.live5news.com/2026/06/01/south-carolina-sees-record-early-voting-surge-ahead-primary-day/",
+            "date": "2026-06-01",
+            "summary": "South Carolina continued to shatter early voting records ahead of its June 9 primary, with nearly 120,000 ballots cast as of June 1 and the early voting period set to close June 5."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Election Day brings possible runoff drama in South Dakota governor primary",
+            "source": "South Dakota Searchlight",
+            "url": "https://southdakotasearchlight.com/2026/06/01/election-day-brings-possible-runoff-drama-in-south-dakota-governor-primary/",
+            "date": "2026-06-01",
+            "summary": "South Dakota voters headed to the polls June 2 in a tightly contested four-way Republican gubernatorial primary, with pre-election polls placing all candidates in the 20s and raising the prospect of the state's first runoff since 1985 if no one clears the 35% threshold."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Plaintiffs vow appeal after Tennessee court dismisses congressional maps challenge",
+            "source": "WKRN",
+            "url": "https://www.wkrn.com/news/tennessee-news/plaintiffs-vow-appeal-after-tennessee-court-dismisses-congressional-maps-challenge/",
+            "date": "2026-05-28",
+            "summary": "Following a state three-judge panel's dismissal of the NAACP's challenge to Tennessee's redrawn congressional maps, plaintiffs vowed to appeal, while three separate federal lawsuits against the maps that split majority-Black Memphis into three districts remain pending ahead of the August 6 primary."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Republicans brace for money problems in Texas after Ken Paxton's win",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/republicans-money-problems-texas-ken-paxton-win-rcna347185",
+            "date": "2026-05-29",
+            "summary": "National Republicans are alarmed by Ken Paxton's fundraising weakness following his May 26 Senate runoff win, with Paxton holding only $2.3 million while Democrat James Talarico has raised over $40 million, potentially forcing the GOP to spend $100 million or more in Texas and divert resources from other states."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Rural Utah takes center stage as Maloy, Lyman battle for 3rd District GOP nomination",
+            "source": "KUER (NPR Utah)",
+            "url": "https://www.kuer.org/politics-government/2026-06-01/rural-utah-takes-center-stage-as-maloy-lyman-battle-for-3rd-district-gop-nomination",
+            "date": "2026-06-01",
+            "summary": "Incumbent Rep. Celeste Maloy and challenger Phil Lyman debated June 1 ahead of Utah's June 23 primary, with the redrawn 3rd Congressional District drawing attention as Democrats eye the neighboring new District 1 as a potential pickup under the court-ordered redistricting map."
+          },
+          {
+            "title": "Maloy, Lyman talk ICE, data centers in debate for Utah's new 3rd Congressional District",
+            "source": "Utah News Dispatch",
+            "url": "https://utahnewsdispatch.com/2026/06/01/maloy-lyman-debate-ice-detention-warehouse-data-centers/",
+            "date": "2026-06-01",
+            "summary": "Utah's 3rd District Republican candidates Celeste Maloy and Phil Lyman clashed over ICE detention, data centers, and public lands in a primary debate, with the winner set to face Democrat Kent Udell in November under court-ordered maps."
+          },
+          {
+            "title": "It's not too late to register to vote in Utah's primary election",
+            "source": "KPCW",
+            "url": "https://www.kpcw.org/state-regional/2026-06-01/its-not-too-late-to-register-to-vote-in-utahs-primary-election",
+            "date": "2026-06-01",
+            "summary": "With primary ballots beginning to mail June 2, Utah election officials reminded voters that registration remains open through June 12 online or by mail and through Election Day June 23 in person, covering 383 races from U.S. House to local school boards."
+          }
+        ],
+        "VA": [
+          {
+            "title": "5th district will have both a Democratic and Republican congressional primary in August",
+            "source": "Cardinal News",
+            "url": "https://cardinalnews.org/2026/05/28/5th-district-will-have-both-a-democratic-and-republican-congressional-primary-in-august/",
+            "date": "2026-05-28",
+            "summary": "Virginia's 5th Congressional District is the only one with primaries for both major parties on August 4, 2026, with three Democrats competing and Republican incumbent John McGuire facing a challenger. Independents still have until June 16 to file for the fall ballot."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Legislative session wrap-up",
+            "source": "Vermont Public",
+            "url": "https://www.vermontpublic.org/show/vermont-edition/2026-06-01/legislative-session-wrap-up",
+            "date": "2026-06-01",
+            "summary": "Vermont Public covers the close of the 2026 legislative session, highlighting lawmakers' approval of a constitutional equal-protection amendment (PR.4) that will go to voters in November 2026, and the opening of the election season with multiple candidates filing for governor and other statewide offices."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin governor's race filing deadline arrives with no Democratic dropouts",
+            "source": "WBAY",
+            "url": "https://www.wbay.com/2026/06/01/wisconsin-governors-race-filing-deadline-arrives-with-no-democratic-dropouts/",
+            "date": "2026-06-01",
+            "summary": "As Wisconsin's June 1 nomination paper filing deadline passed, all seven major Democratic candidates for governor remained in the race, setting up a wide-open August 11 primary. Republican Tom Tiffany, backed by former President Trump, faces only one GOP opponent."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Harrison County affirms McNeely as Republican nominee for District 71",
+            "source": "WAJR News",
+            "url": "https://wajr.com/2026/05/28/56028/",
+            "date": "2026-05-28",
+            "summary": "Harrison County officials confirmed Tim McNeely as the Republican nominee for the West Virginia House of Delegates District 71 seat after a daylong recount showed he defeated incumbent Del. Laura Kimble by six votes, matching the canvassed margin from the May 12 primary."
+          },
+          {
+            "title": "McNeely stays on top after recount in Harrison House race",
+            "source": "WV MetroNews",
+            "url": "https://wvmetronews.com/2026/05/29/mcneely-stays-on-top-after-recount-in-harrison-house-race/",
+            "date": "2026-05-29",
+            "summary": "A full recount in West Virginia's House District 71 Republican primary confirmed Tim McNeely defeated incumbent Del. Laura Kimble by six votes, preserving canvassed results from the May 12 primary; McNeely will face Democrat Robert Garcia in November."
+          },
+          {
+            "title": "McNeely looks toward November vote after recount victory",
+            "source": "WV MetroNews",
+            "url": "https://wvmetronews.com/2026/05/30/mcneely-looks-toward-november-vote-after-recount-victory/",
+            "date": "2026-05-30",
+            "summary": "Tim McNeely said he is now focused on the November general election after his six-vote recount victory over incumbent Del. Laura Kimble in the West Virginia House District 71 Republican primary."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Wyoming's primaries are crowded. These are the races to watch",
+            "source": "Wyoming Public Media",
+            "url": "https://www.wyomingpublicmedia.org/politics-government/2026-06-01/wyomings-primaries-are-crowded-these-are-the-races-to-watch",
+            "date": "2026-06-01",
+            "summary": "With candidate filing closed May 29, Wyoming faces a crowded August 18 primary featuring about a dozen candidates for the sole U.S. House seat, competitive governor and secretary of state races, and roughly 20 state legislative districts where Freedom Caucus incumbents face challengers."
+          }
+        ]
+      }
     }
   ]
 }
