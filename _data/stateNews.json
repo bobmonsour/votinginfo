@@ -14852,6 +14852,223 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-03",
+      "states": {
+        "AL": [
+          {
+            "title": "Supreme Court reinstates Republican-favored Alabama congressional districts",
+            "source": "Georgia Public Broadcasting",
+            "url": "https://www.gpb.org/news/2026/06/03/supreme-court-reinstates-republican-favored-alabama-congressional-districts",
+            "date": "2026-06-03",
+            "summary": "The U.S. Supreme Court cleared the way for Alabama to use a Republican-drawn congressional map for the 2026 midterms, eliminating one of two majority-Black congressional districts and making the state's delegation six Republican-leaning seats to one Democratic-leaning seat."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Gov. Hobbs and Rep. Biggs exchange attacks ahead of Arizona primary",
+            "source": "AZFamily (3TV/CBS 5)",
+            "url": "https://www.azfamily.com/2026/06/03/gov-hobbs-rep-biggs-exchange-attacks-ahead-arizona-primary/",
+            "date": "2026-06-03",
+            "summary": "Arizona Governor Katie Hobbs and Republican primary frontrunner Rep. Andy Biggs traded campaign attacks with the July 21 primary seven weeks away, as Biggs unveiled an ethics platform targeting Hobbs and her campaign launched an opposition website attacking his record."
+          }
+        ],
+        "CA": [
+          {
+            "title": "California's primary for governor is undecided as candidates vie to be in the top two",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/06/03/nx-s1-5844747/california-primary-election-results-governor",
+            "date": "2026-06-03",
+            "summary": "California's June 2 gubernatorial primary remained too close to call the following morning, with Republican Steve Hilton at 27%, Democrat Xavier Becerra at 26%, and Democrat Tom Steyer at 20% in the top-two contest, with weeks of ballot-counting ahead."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Colorado's 3 Republican candidates for governor square off in first full debate",
+            "source": "Colorado Newsline",
+            "url": "https://coloradonewsline.com/2026/06/02/republican-governor-candidates-first-full-debate/",
+            "date": "2026-06-02",
+            "summary": "State Rep. Scott Bottoms, State Sen. Barb Kirkmeyer, and ministry leader Victor Marx held a contentious televised debate in Denver ahead of Colorado's June 30 Republican gubernatorial primary, clashing over qualifications, character, and unusual topics including exorcisms and alleged federal indictments."
+          }
+        ],
+        "CT": [
+          {
+            "title": "As Ned Lamont touts record, Josh Elliott's campaign strengthens",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/06/02/ned-lamonts-and-josh-elliotts-campaigns-are-turning-up-the-heat/",
+            "date": "2026-06-02",
+            "summary": "Progressive challenger Josh Elliott's campaign for Connecticut governor is growing stronger, with incumbent Gov. Ned Lamont leaning into budget accomplishments and early education investments as the two face off in an August 11 Democratic primary, with a candidate filing deadline of June 9."
+          }
+        ],
+        "DC": [
+          {
+            "title": "A voter's guide to the 2026 D.C. primary election",
+            "source": "The Washington Post",
+            "url": "https://www.washingtonpost.com/dc-md-va/2026/06/03/dcs-2026-primary-guide-voting-key-races-ballot/",
+            "date": "2026-06-03",
+            "summary": "With DC's historic June 16 primary two weeks away, this guide covers the first-ever open mayoral race using ranked-choice voting, the race to succeed 36-year congressional delegate Eleanor Holmes Norton, and multiple D.C. Council contests."
+          }
+        ],
+        "DE": [
+          {
+            "title": "In Fenwick Island, Delaware, nonhumans can still vote",
+            "source": "WHYY",
+            "url": "https://whyy.org/articles/delaware-fenwick-island-voting-nonhumans-superior-court-aclu/",
+            "date": "2026-06-03",
+            "summary": "A Delaware Superior Court dismissed the ACLU's constitutional challenge to Fenwick Island's charter allowing corporations, LLCs, and trusts to vote in municipal elections; the ACLU announced it will appeal to the Delaware Supreme Court, with 214 artificial entities comprising 12% of the town's registered voters."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Florida appeals court rejects bid to send redistricting challenge to state Supreme Court",
+            "source": "CBS12 News",
+            "url": "https://cbs12.com/news/florida/florida-appeals-court-rejects-redistricting-challenge-florida-supreme-court-congressional-lines-gerrymandering-politics-gov-ron-desantis-james-uthmeier-florida-news",
+            "date": "2026-06-02",
+            "summary": "Florida's First District Court of Appeal rejected a motion to fast-track to the state Supreme Court a challenge to Gov. DeSantis's Republican-drawn congressional gerrymander, leaving the new 24-4 GOP-favoring map in place for the 2026 elections while litigation continues."
+          }
+        ],
+        "IA": [
+          {
+            "title": "MAHA-backed Zach Lahn defeats Trump-backed Randy Feenstra in Iowa GOP primary for governor",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/iowa-governor-primary-election-winners-sand-lahn-rcna347471",
+            "date": "2026-06-03",
+            "summary": "Zach Lahn, backed by Robert F. Kennedy Jr.'s MAHA movement, defeated incumbent Rep. Randy Feenstra, who had Trump's endorsement, in the Iowa Republican gubernatorial primary. Lahn will face the Democratic nominee in November."
+          },
+          {
+            "title": "Lahn edges past Feenstra to win Iowa GOP Primary for governor",
+            "source": "Radio Iowa",
+            "url": "https://www.radioiowa.com/2026/06/03/lahn-edges-past-feenstra-to-win-iowa-gop-primary-for-governor/",
+            "date": "2026-06-03",
+            "summary": "Zach Lahn won the Iowa Republican primary for governor, edging out Rep. Randy Feenstra in a race that pitted MAHA-aligned candidates against Trump-backed incumbents across Iowa's 2026 primary ballot."
+          },
+          {
+            "title": "Iowa primary results: Trump-backed Feenstra concedes to Lahn in governor primary; Hinson and Turek will compete for open Senate seat",
+            "source": "ABC News",
+            "url": "https://abcnews.com/Politics/iowa-2026-live-primary-election-results/story?id=133324104",
+            "date": "2026-06-03",
+            "summary": "Iowa's June 2 primary results show Feenstra conceded the GOP gubernatorial race to Zach Lahn. In the open U.S. Senate race, Ashley Hinson and Marco Turek advanced to face off in the general election."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Will Louisiana's last majority-Black district survive Callais? A court will decide",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/will-louisiana-last-majority-black-district-survive-callais-a-court-will-decide/",
+            "date": "2026-06-03",
+            "summary": "A federal court is set to rule on Louisiana's newly redrawn congressional map, which created a second majority-Black district. The case centers on whether the new map will survive a legal challenge that could eliminate the state's last majority-Black congressional district."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Despite national stakes, 2nd District Democrats struggle to gain an edge",
+            "source": "Maine Morning Star",
+            "url": "https://mainemorningstar.com/2026/06/03/despite-national-stakes-2nd-district-democrats-struggle-to-gain-an-edge/",
+            "date": "2026-06-03",
+            "summary": "With Maine's June 9 primary approaching, the four-way Democratic primary in the 2nd Congressional District \u2014 where candidates Joe Baldacci, Matt Dunlap, Paige Loud, and Jordan Wood compete to replace Rep. Jared Golden \u2014 has remained subdued despite the national stakes of the open seat race."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan opens voting for 2026 'I Voted' sticker contest through June 30",
+            "source": "ClickOnDetroit",
+            "url": "https://www.clickondetroit.com/news/local/2026/06/03/michigan-opens-voting-for-2026-i-voted-sticker-contest-through-june-30/",
+            "date": "2026-06-03",
+            "summary": "Michigan Secretary of State opened public voting for the official 2026 'I Voted' sticker design contest through June 30, with winning designs to be distributed at polling stations statewide for November's general election."
+          }
+        ],
+        "MN": [
+          {
+            "title": "More candidates file on last day for county, state house and senate seats",
+            "source": "The Globe (Worthington, MN)",
+            "url": "https://www.dglobe.com/news/local/more-candidates-file-on-last-day-for-county-state-house-and-senate-seats",
+            "date": "2026-06-03",
+            "summary": "Minnesota's candidate filing period for the 2026 election closed June 2 with a wave of last-minute filings for local county, state house, and state senate seats. Candidates have until June 4 to withdraw before the Secretary of State certifies the field for the August 11 primary."
+          }
+        ],
+        "NH": [
+          {
+            "title": "Federal judge strikes down part of New Hampshire's documentary proof of citizenship law",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/06/03/federal-judge-strikes-down-part-of-new-hampshires-documentary-proof-of-citizenship-law-2/",
+            "date": "2026-06-03",
+            "summary": "A federal judge struck down New Hampshire's law requiring documentary proof of citizenship for voter registration (HB 1569), finding it imposed an excessive burden on the right to vote ahead of the state's September 8 primary; the state attorney general plans to appeal."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Rebecca Bennett wins New Jersey Democratic primary, to face Trump ally Kean",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/6/3/rebecca-bennett-wins-new-jersey-democratic-primary-to-face-trump-ally-kean",
+            "date": "2026-06-03",
+            "summary": "Former Navy helicopter pilot Rebecca Bennett won the New Jersey 7th Congressional District Democratic primary, setting up a November race against Republican Rep. Tom Kean Jr., whose months-long unexplained absence from Congress drew intense attention during the campaign."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Deb Haaland snags the Democratic nomination for governor against Sam Bregman",
+            "source": "KUNM",
+            "url": "https://www.kunm.org/local-news/2026-06-03/deb-haaland-snags-the-democratic-nomination-for-governor-against-sam-bregman",
+            "date": "2026-06-03",
+            "summary": "Former Interior Secretary Deb Haaland won New Mexico's Democratic gubernatorial primary with about 72% of the vote over Bernalillo County DA Sam Bregman in the state's first semi-open primary, and will face Republican Rio Rancho Mayor Gregg Hull in November."
+          }
+        ],
+        "OR": [
+          {
+            "title": "After Oregonians reject gas tax, governor's transportation workgroup fixates on messaging, not math",
+            "source": "Oregon Capital Chronicle",
+            "url": "https://oregoncapitalchronicle.com/2026/06/02/after-oregonians-reject-gas-tax-governors-transportation-workgroup-fixates-on-messaging-not-math/",
+            "date": "2026-06-02",
+            "summary": "Following Oregon voters' overwhelming rejection of Measure 120's gas and vehicle fee increases in the May 19 primary, Governor Kotek's transportation workgroup focused on public communication strategy rather than revising the funding proposal itself."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Chris Rabb's campaign was a massive win for Philly progressives. Now, he wants to replicate it across the country.",
+            "source": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com/politics/pennsylvania/chris-rabb-endorsements-progressive-congress-midterms-third-district-20260601.html",
+            "date": "2026-06-01",
+            "summary": "After his decisive May 19 Democratic primary victory in Pennsylvania's 3rd Congressional District, State Rep. Chris Rabb announced endorsements for progressive candidates in other states, reflecting the broader national impact of his Philadelphia-area congressional primary win."
+          }
+        ],
+        "SC": [
+          {
+            "title": "SCETV to host Democratic gubernatorial primary debate tonight",
+            "source": "South Carolina Public Radio",
+            "url": "https://www.southcarolinapublicradio.org/sc-news/2026-06-03/scetv-to-host-democratic-gubernatorial-primary-debate-tonight",
+            "date": "2026-06-03",
+            "summary": "South Carolina Educational Television hosted a Democratic gubernatorial primary debate ahead of the June 9 primary, with early voting ongoing through June 5 and record turnout reported."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Doeden and Rhoden advance to runoff in Republican governor primary, Johnson falls to third",
+            "source": "South Dakota Searchlight",
+            "url": "https://southdakotasearchlight.com/2026/06/03/partial-returns-show-runoff-likely-needed-to-decide-south-dakota-republican-governor-primary/",
+            "date": "2026-06-03",
+            "summary": "Results from South Dakota's June 2 Republican gubernatorial primary show businessman Toby Doeden and Lt. Gov. Tony Rhoden advancing to a July 28 runoff after neither candidate reached the required 35% threshold; former Lt. Gov. Larry Johnson finished third."
+          }
+        ],
+        "TX": [
+          {
+            "title": "National Democrats aim to flip 12 Texas House seats under newly expanded target list",
+            "source": "Texas Tribune",
+            "url": "https://www.texastribune.org/2026/06/03/texas-house-national-democrats-target-list-gop-districts-2026-midterms-legislature/",
+            "date": "2026-06-03",
+            "summary": "The Democratic Legislative Campaign Committee expanded its Texas target list to 12 Republican-held state House districts ahead of the November 2026 elections, focusing resources on seats in suburban areas where Democratic performance has improved."
+          }
+        ],
+        "WA": [
+          {
+            "title": "WA urges US Supreme Court to take redistricting case",
+            "source": "Washington State Standard",
+            "url": "https://washingtonstatestandard.com/2026/06/02/wa-urges-us-supreme-court-to-take-redistricting-case/",
+            "date": "2026-06-02",
+            "summary": "Washington state officials are urging the US Supreme Court to take up a redistricting case involving legislative district maps in the Yakima Valley region, where plaintiffs allege the maps dilute Latino voter representation in violation of the Voting Rights Act."
+          }
+        ]
+      }
     }
   ]
 }

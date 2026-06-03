@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "items": [
     {
-      "text": "Iowa holds primary election day for U.S. Senate, governor, and congressional seats",
-      "url": "https://www.washingtonpost.com/elections/2026/06/02/live-iowa-primary-election-results-2026-senate-house-governor/",
+      "text": "Iowa MAHA-backed Lahn defeats Trump-endorsed Feenstra in GOP governor primary",
+      "url": "https://www.nbcnews.com/politics/2026-election/iowa-governor-primary-election-winners-sand-lahn-rcna347471",
       "abbr": "IA"
     },
     {
-      "text": "Louisiana enacts new congressional map eliminating a majority-Black district; Alabama's map blocked by courts",
-      "url": "https://news.ballotpedia.org/2026/06/02/a-new-congressional-map-is-enacted-in-louisiana-blocked-in-alabama-and-dead-in-south-carolina/",
-      "abbr": "LA"
+      "text": "Federal judge strikes down New Hampshire's documentary proof-of-citizenship voting law",
+      "url": "https://news.ballotpedia.org/2026/06/03/federal-judge-strikes-down-part-of-new-hampshires-documentary-proof-of-citizenship-law-2/",
+      "abbr": "NH"
     },
     {
-      "text": "South Carolina Senate defeats Trump-backed redistricting map amid record early voting for June 9 primary",
-      "url": "https://www.nbcnews.com/politics/2026-election/south-carolinas-redistricting-effort-fails-state-senate-gop-opposition-rcna346962",
-      "abbr": "SC"
+      "text": "California's June 2 gubernatorial primary too close to call in three-way race",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5844747/california-primary-election-results-governor",
+      "abbr": "CA"
     },
     {
-      "text": "Wisconsin filing deadline sets nine-candidate governor's race for August 11 primary",
-      "url": "https://www.wbay.com/2026/06/02/filing-deadline-narrows-wisconsin-governors-race-9-candidates/",
-      "abbr": "WI"
+      "text": "DC's historic June 16 primary features first open mayoral race with ranked-choice voting",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/06/03/dcs-2026-primary-guide-voting-key-races-ballot/",
+      "abbr": "DC"
     },
     {
-      "text": "South Dakota and Arkansas both hold primary elections on June 2",
-      "url": "https://southdakotasearchlight.com/2026/06/02/the-least-bad-option-south-dakotans-explain-their-primary-election-voting-decisions/",
+      "text": "South Dakota Republican governor primary heads to July 28 runoff after no candidate hits 35%",
+      "url": "https://southdakotasearchlight.com/2026/06/03/partial-returns-show-runoff-likely-needed-to-decide-south-dakota-republican-governor-primary/",
       "abbr": "SD"
     }
   ]
