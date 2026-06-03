@@ -2,27 +2,29 @@
   "date": "2026-06-02",
   "items": [
     {
-      "text": "Louisiana scraps majority-Black district in new congressional map",
-      "url": "https://www.jurist.org/news/2026/06/louisiana-approves-new-congressional-map-dismantling-majority-black-district/",
+      "text": "Iowa holds primary election day for U.S. Senate, governor, and congressional seats",
+      "url": "https://www.washingtonpost.com/elections/2026/06/02/live-iowa-primary-election-results-2026-senate-house-governor/",
+      "abbr": "IA"
+    },
+    {
+      "text": "Louisiana enacts new congressional map eliminating a majority-Black district; Alabama's map blocked by courts",
+      "url": "https://news.ballotpedia.org/2026/06/02/a-new-congressional-map-is-enacted-in-louisiana-blocked-in-alabama-and-dead-in-south-carolina/",
       "abbr": "LA"
     },
     {
-      "text": "Colorado governor commutes Tina Peters sentence; election officials warn of chilling effect",
-      "url": "https://www.kunc.org/news/2026-06-01/colorado-elections-clerk-set-to-be-released-from-prison-monday-based-on-her-sentence-commutation",
-      "abbr": "CO"
-    },
-    {
-      "text": "Ohio Republicans push to enshrine photo voter ID in state constitution despite broad opposition",
-      "url": "https://ohiocapitaljournal.com/2026/06/01/ohio-photo-voter-id-amendment-prompts-push-back-across-political-spectrum/",
-      "abbr": "OH"
-    },
-    {
-      "text": "South Carolina shatters early voting record ahead of June 9 primary",
-      "url": "https://www.wistv.com/2026/06/01/early-voting-tracker-record-turnout-continues-sc-primaries/",
+      "text": "South Carolina Senate defeats Trump-backed redistricting map amid record early voting for June 9 primary",
+      "url": "https://www.nbcnews.com/politics/2026-election/south-carolinas-redistricting-effort-fails-state-senate-gop-opposition-rcna346962",
       "abbr": "SC"
     },
     {
-      "text": "Iowa, Montana, New Jersey, New Mexico, and South Dakota hold June 2 primaries or candidate filing deadlines"
+      "text": "Wisconsin filing deadline sets nine-candidate governor's race for August 11 primary",
+      "url": "https://www.wbay.com/2026/06/02/filing-deadline-narrows-wisconsin-governors-race-9-candidates/",
+      "abbr": "WI"
+    },
+    {
+      "text": "South Dakota and Arkansas both hold primary elections on June 2",
+      "url": "https://southdakotasearchlight.com/2026/06/02/the-least-bad-option-south-dakotans-explain-their-primary-election-voting-decisions/",
+      "abbr": "SD"
     }
   ]
 }
