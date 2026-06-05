@@ -1,30 +1,28 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "items": [
     {
-      "text": "Supreme Court allows Alabama map eliminating one majority-Black district",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-alabama-congress-map-eliminate-black-district-rcna346920",
-      "abbr": "AL"
+      "text": "Florida voting groups ask state Supreme Court to block GOP gerrymander before qualifying opens June 8",
+      "url": "https://www.democracydocket.com/news-alerts/pro-voting-groups-ask-florida-supreme-court-to-block-gop-gerrymander/",
+      "abbr": "FL"
     },
     {
-      "text": "South Dakota enters first-ever gubernatorial primary runoff in state history",
-      "url": "https://news.ballotpedia.org/2026/06/04/incumbent-larry-rhoden-and-toby-doeden-advance-to-first-ever-primary-runoff-for-south-dakota-governor/",
+      "text": "Trump orders DOJ investigation into California's slow post-primary vote count as governor race remains unsettled",
+      "url": "https://abc7news.com/post/2026-primary-election-slow-california-vote-count-criticized-trump-republican-governor-hopeful-steve-hilton/19236270/",
+      "abbr": "CA"
+    },
+    {
+      "text": "Louisiana and Illinois face new legal battles over minority voting districts in the wake of the Callais ruling"
+    },
+    {
+      "text": "DC holds its first-ever ranked choice voting primary on June 16 under Initiative 83",
+      "url": "https://wtop.com/dc-election/2026/06/understanding-ranked-choice-voting-ahead-of-its-dc-debut-in-june-primary/",
+      "abbr": "DC"
+    },
+    {
+      "text": "South Dakota opens absentee voting June 12 for the state's first-ever gubernatorial runoff election",
+      "url": "https://www.kotatv.com/2026/06/05/absentee-voting-south-dakota-gop-governor-runoff-begins-june-12/",
       "abbr": "SD"
-    },
-    {
-      "text": "Maryland mail-ballot vendor error draws Trump fraud claims ahead of June 23 primary",
-      "url": "https://www.cbsnews.com/baltimore/news/maryland-board-of-elections-trumps-500000-fake-mail-in-ballots/",
-      "abbr": "MD"
-    },
-    {
-      "text": "Louisiana enacts new congressional map dismantling majority-Black district; court review June 17",
-      "url": "https://www.jurist.org/news/2026/06/louisiana-approves-new-congressional-map-dismantling-majority-black-district/",
-      "abbr": "LA"
-    },
-    {
-      "text": "Minnesota GOP opens three-way governor primary after convention electronic voting dispute",
-      "url": "https://www.startribune.com/demuth-enters-gop-governor-primary-after-challenging-convention-vote/601852078",
-      "abbr": "MN"
     }
   ]
 }
