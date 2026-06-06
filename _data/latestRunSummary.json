@@ -2,27 +2,29 @@
   "date": "2026-06-05",
   "items": [
     {
-      "text": "Florida voting groups ask state Supreme Court to block GOP gerrymander before qualifying opens June 8",
-      "url": "https://www.democracydocket.com/news-alerts/pro-voting-groups-ask-florida-supreme-court-to-block-gop-gerrymander/",
-      "abbr": "FL"
+      "text": "South Carolina breaks early voting record with 250,000+ ballots cast ahead of June 9 primary",
+      "url": "https://www.wrdw.com/2026/06/05/early-voting-record-turnout-continues-sc-primaries/",
+      "abbr": "SC"
     },
     {
-      "text": "Trump orders DOJ investigation into California's slow post-primary vote count as governor race remains unsettled",
-      "url": "https://abc7news.com/post/2026-primary-election-slow-california-vote-count-criticized-trump-republican-governor-hopeful-steve-hilton/19236270/",
-      "abbr": "CA"
+      "text": "Maine Senate Democratic primary thrown into turmoil as candidate Platner faces calls to withdraw",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5847926/platner-controversy-senate-maine-primary-election",
+      "abbr": "ME"
     },
     {
-      "text": "Louisiana and Illinois face new legal battles over minority voting districts in the wake of the Callais ruling"
+      "text": "Iowa 2026 primary turnout tops 19%, up from 16% in 2022",
+      "url": "https://iowacapitaldispatch.com/briefs/unofficial-2026-iowa-primary-turnout-up-from-2022/",
+      "abbr": "IA"
     },
     {
-      "text": "DC holds its first-ever ranked choice voting primary on June 16 under Initiative 83",
-      "url": "https://wtop.com/dc-election/2026/06/understanding-ranked-choice-voting-ahead-of-its-dc-debut-in-june-primary/",
-      "abbr": "DC"
+      "text": "Wyoming GOP sues state over law banning pre-primary party candidate endorsements",
+      "url": "https://wyofile.com/wyoming-gop-sues-state-challenges-constitutionality-of-ban-on-pre-primary-candidate-endorsements/",
+      "abbr": "WY"
     },
     {
-      "text": "South Dakota opens absentee voting June 12 for the state's first-ever gubernatorial runoff election",
-      "url": "https://www.kotatv.com/2026/06/05/absentee-voting-south-dakota-gop-governor-runoff-begins-june-12/",
-      "abbr": "SD"
+      "text": "Hawaii primary field set: 21 incumbents face no challengers after filing deadline",
+      "url": "https://www.staradvertiser.com/2026/06/05/hawaii-news/isle-incumbents-with-no-challengers-will-cruise-to-victory/",
+      "abbr": "HI"
     }
   ]
 }
