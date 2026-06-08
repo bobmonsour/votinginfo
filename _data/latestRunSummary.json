@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-08",
   "items": [
     {
-      "text": "South Carolina breaks early voting record with 250,000+ ballots cast ahead of June 9 primary",
-      "url": "https://www.wrdw.com/2026/06/05/early-voting-record-turnout-continues-sc-primaries/",
-      "abbr": "SC"
+      "text": "Georgia election board allows hand-marked ballots amid QR code deadline dispute",
+      "url": "https://www.timesfreepress.com/news/2026/jun/06/georgia-election-panel-passes-resolution-allowing/",
+      "abbr": "GA"
     },
     {
-      "text": "Maine Senate Democratic primary thrown into turmoil as candidate Platner faces calls to withdraw",
-      "url": "https://www.npr.org/2026/06/05/nx-s1-5847926/platner-controversy-senate-maine-primary-election",
+      "text": "Ohio legislature endorses constitutional amendment to enshrine photo voter ID",
+      "url": "https://www.ohio.news/stories/ohio-house-and-senate-endorse-a-constitutional-amendment-for-voter-id/",
+      "abbr": "OH"
+    },
+    {
+      "text": "New Jersey passes Voting Rights Act creating new enforcement division",
+      "url": "https://newjerseymonitor.com/briefs/nj-assembly-voting-rights-act/",
+      "abbr": "NJ"
+    },
+    {
+      "text": "Maine, South Carolina, and North Dakota head to primaries June 9 using ranked-choice voting",
+      "url": "https://mainemorningstar.com/2026/06/08/election-day-is-tomorrow-some-results-likely-wont-be-known-until-next-week/",
       "abbr": "ME"
     },
     {
-      "text": "Iowa 2026 primary turnout tops 19%, up from 16% in 2022",
-      "url": "https://iowacapitaldispatch.com/briefs/unofficial-2026-iowa-primary-turnout-up-from-2022/",
-      "abbr": "IA"
-    },
-    {
-      "text": "Wyoming GOP sues state over law banning pre-primary party candidate endorsements",
-      "url": "https://wyofile.com/wyoming-gop-sues-state-challenges-constitutionality-of-ban-on-pre-primary-candidate-endorsements/",
-      "abbr": "WY"
-    },
-    {
-      "text": "Hawaii primary field set: 21 incumbents face no challengers after filing deadline",
-      "url": "https://www.staradvertiser.com/2026/06/05/hawaii-news/isle-incumbents-with-no-challengers-will-cruise-to-victory/",
-      "abbr": "HI"
+      "text": "Florida candidate qualifying opens; SAVE Act citizenship requirement faces legal challenges",
+      "url": "https://www.fox35orlando.com/news/florida-moving-toward-stricter-voting-requirements-what-you-need-know",
+      "abbr": "FL"
     }
   ]
 }
