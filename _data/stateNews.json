@@ -16534,6 +16534,386 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-09",
+      "states": {
+        "AK": [
+          {
+            "title": "State opens probe into Sen. Dan Sullivan's namesake challenger as he says he can legally run",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/06/08/sen-dan-sullivans-namesake-challenger-says-he-can-legally-run-and-isnt-backing-down/",
+            "date": "2026-06-08",
+            "summary": "Alaska officials opened an investigation into a Petersburg Republican named Dan J. Sullivan who filed to run for the U.S. Senate seat held by incumbent Dan S. Sullivan, with Lt. Gov. Dahlstrom citing credible allegations that the challenger coordinated with another campaign to confuse voters."
+          },
+          {
+            "title": "Two Dan Sullivans: Alaska Lt. Gov. launches investigation into involvement of 'another candidate'",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/06/09/two-dan-sullivans-alaska-lt-gov-launches-investigation-into-involvement-another-candidate/",
+            "date": "2026-06-09",
+            "summary": "Alaska Lt. Governor Nancy Dahlstrom launched a formal investigation into whether Dan J. Sullivan, a GOP challenger sharing the incumbent senator name, filed his candidacy in coordination with another campaign to mislead voters ahead of the August 18 primary."
+          }
+        ],
+        "AL": [
+          {
+            "title": "2026 Primary Election Runoff Voter Guide",
+            "source": "BirminghamWatch",
+            "url": "https://birminghamwatch.org/elections/2026-elections-voter-guide/2026-primary-election-runoff/",
+            "date": "2026-06-09",
+            "summary": "June 9 is the deadline for mailed-in absentee ballot applications for Alabama's June 16 primary runoff. Runoff races include the U.S. Senate seat vacated by Tommy Tuberville and the Lieutenant Governor's Office."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Arkansas judge tosses lawsuit challenging secretary of state GOP runoff results",
+            "source": "Arkansas Advocate",
+            "url": "https://arkansasadvocate.com/2026/06/08/arkansas-judge-tosses-lawsuit-challenging-secretary-of-state-gop-runoff-results/",
+            "date": "2026-06-08",
+            "summary": "Pulaski County Circuit Judge Tim Fox dismissed Bryan Norris's election challenge to the March 31 Republican runoff for Arkansas Secretary of State with prejudice, finding Norris failed to prove any election laws were violated after six recount verifications."
+          },
+          {
+            "title": "Judge dismisses challenge to Arkansas secretary of state recount",
+            "source": "KAIT8",
+            "url": "https://www.kait8.com/2026/06/09/judge-dismisses-challenge-arkansas-secretary-state-recount/",
+            "date": "2026-06-09",
+            "summary": "A Pulaski County judge dismissed Bryan Norris's challenge to the Arkansas Secretary of State recount, affirming all six counties had identical vote totals after recounts, ending his legal effort to overturn Kim Hammer's 51%-49% primary runoff victory."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Outside counsel investigates 'theft' claims against Heap's office over voting equipment",
+            "source": "KJZZ",
+            "url": "https://www.kjzz.org/politics/2026-06-08/outside-counsel-will-investigate-theft-claims-against-heaps-office-over-voting-equipment",
+            "date": "2026-06-08",
+            "summary": "The Maricopa County Board of Supervisors hired outside counsel to investigate whether Recorder's Office employees improperly removed a pre-tabulation election scanner, resulting in a 0,000 replacement and criminal investigations of election workers ahead of the July 21 primary."
+          },
+          {
+            "title": "Maricopa County recorder, board clash over election equipment investigation",
+            "source": "AZFamily",
+            "url": "https://www.azfamily.com/2026/06/09/maricopa-county-recorder-board-clash-over-election-equipment-investigation/",
+            "date": "2026-06-09",
+            "summary": "Maricopa County Recorder Justin Heap filed an emergency court motion after armed sheriff's deputies visited election workers' homes as part of a criminal investigation, escalating the dispute with the Board of Supervisors over election equipment weeks before the July 21 primary."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Nithya Raman advances over Spencer Pratt to face L.A. Mayor Karen Bass in a runoff",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/nithya-raman-advances-spencer-pratt-face-l-mayor-karen-bass-runoff-rcna347483",
+            "date": "2026-06-09",
+            "summary": "NBC News projected that Los Angeles City Councilmember Nithya Raman will advance to the November runoff against Mayor Karen Bass, after Raman overtook Spencer Pratt in continuing ballot counts from the June 2 California primary election."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Colorado's primary election ballots are in the mail",
+            "source": "KJCT8",
+            "url": "https://www.kjct8.com/2026/06/09/colorados-primary-election-ballots-are-mail/",
+            "date": "2026-06-09",
+            "summary": "Colorado county clerks began mailing June 30 primary election ballots to all active registered voters starting June 8, with drop boxes opened statewide; unaffiliated voters receive both party ballots but may only return one."
+          },
+          {
+            "title": "County Clerks May Begin Mailing Ballots for the 2026 Primary Election",
+            "source": "Yellow Scene Magazine",
+            "url": "https://yellowscene.com/2026/06/09/county-clerks-may-begin-mailing-ballots-for-the-2026-primary-election/",
+            "date": "2026-06-09",
+            "summary": "Colorado county clerks began mailing primary ballots June 8 for the June 30 primary; voters must return ballots by 7 p.m. on Election Day, with a June 22 registration deadline to receive a mailed ballot."
+          }
+        ],
+        "CT": [
+          {
+            "title": "CT Republicans Gather Petition Signatures For MacCormack Primary Challenge",
+            "source": "CT News Junkie",
+            "url": "https://ctnewsjunkie.com/2026/06/08/ct-republicans-gather-petition-signatures-for-maccormack-primary-challenge/",
+            "date": "2026-06-08",
+            "summary": "Connecticut Republicans raced to collect 238 petition signatures by the June 9 filing deadline to place a primary challenger against their own endorsed House candidate Jadon MacCormack, who faced condemnation for anti-LGBTQ statements."
+          },
+          {
+            "title": "Connecticut Republicans seek primary challenger to candidate over anti-gay posts",
+            "source": "WFSB",
+            "url": "https://www.wfsb.com/2026/06/08/connecticut-republicans-seek-primary-challenger-candidate-over-anti-gay-posts/",
+            "date": "2026-06-08",
+            "summary": "Connecticut Republicans were gathering petition signatures to get an alternative candidate on the August 11 primary ballot against endorsed House District 50 candidate Jadon MacCormack, who made extreme anti-LGBTQ statements, with the June 9 deadline driving an urgent signature drive."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Ranked choice voting begins in DC: How to make sure your vote counts",
+            "source": "WJLA",
+            "url": "https://wjla.com/news/local/ranked-choice-voting-washington-dc-elections-rcv-candidates-what-to-do-ballots-ranking-candidates-elections-board-plan-whole-ballot-vote-mayoral-council-congress",
+            "date": "2026-06-09",
+            "summary": "With D.C.'s historic first use of ranked choice voting underway in early voting ahead of the June 16 primary, WJLA explains how voters can fill out ranked choice ballots. Under the new system, voters can rank up to five candidates in races with three or more candidates."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia House Special Runoff Election 2026 Live Results",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-special-elections/georgia-house-runoff-results",
+            "date": "2026-06-09",
+            "summary": "Georgia held special election runoffs on June 9, including the congressional seat vacated by Marjorie Taylor Greene where Republican Clay Fuller, backed by President Trump, defeated Democrat Shawn Harris, and a Lowndes County state house race."
+          },
+          {
+            "title": "Early voting begins in the 2026 Georgia primary runoffs | What's on the ballot and how to find your polling place",
+            "source": "13WMAZ",
+            "url": "https://www.13wmaz.com/article/news/politics/elections/early-voting-begins-2026-georgia-primary-run-offs-whats-on-the-ballot-how-to-find-your-polling-place/93-59520077-3909-446d-bdf6-06787e1f3b40",
+            "date": "2026-06-09",
+            "summary": "Early voting kicked off June 9 across Georgia ahead of the June 16 primary runoff election, with voters weighing in on the Republican governor's race between Lt. Gov. Burt Jones and Rick Jackson, and the GOP U.S. Senate runoff between Derek Dooley and Mike Collins."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii's primary election unlikely to stir voter enthusiasm, turnout",
+            "source": "Hawaii Tribune-Herald",
+            "url": "https://www.hawaiitribune-herald.com/2026/06/09/hawaii-news/hawaiis-primary-election-unlikely-to-stir-voter-enthusiasm-turnout/",
+            "date": "2026-06-09",
+            "summary": "Political analysts predict Hawaii will see continued low voter turnout for the 2026 primary, with the August 8 primary expected to draw less than a third of registered voters due to the absence of high-profile competitive races including no U.S. Senate contest."
+          },
+          {
+            "title": "Primary elections unlikely to stir voter enthusiasm, turnout",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/06/08/hawaii-news/primary-elections-unlikely-to-stir-voter-enthusiasm-turnout/",
+            "date": "2026-06-08",
+            "summary": "Hawaii's August 8 primary is expected to see very low voter participation, with analysts noting only 32.3% of registered voters cast ballots in the previous primary. Party leaders express concern about voter apathy amid few competitive races."
+          },
+          {
+            "title": "Suit challenges campaign spending activity law",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/06/09/hawaii-news/suit-challenges-campaign-spending-activity-law/",
+            "date": "2026-06-09",
+            "summary": "The Grassroot Institute of Hawaii filed a federal lawsuit seeking to invalidate a new state law barring campaign spending activity by companies, labor unions, and other organizations in elections and ballot measures, less than a month after the bill was signed into law."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Beau Bayh defeats Blythe Potter for Democratic secretary of state nomination",
+            "source": "The Republic",
+            "url": "https://www.therepublic.com/2026/06/08/beau-bayh-defeats-blythe-potter-for-democratic-secretary-of-state-nomination/",
+            "date": "2026-06-08",
+            "summary": "Beau Bayh won the Democratic nomination for Indiana secretary of state at the June 6 state convention, earning 61% of delegate votes over challenger Blythe Potter and positioning himself for a general election race against incumbent Republican Diego Morales."
+          },
+          {
+            "title": "Closed primaries are in vogue with Indiana Republicans. But what would they look like?",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/06/08/closed-primaries-are-in-vogue-with-indiana-republicans-but-what-would-they-look-like/",
+            "date": "2026-06-08",
+            "summary": "Indiana Republicans have been pushing to close the state's open primary system following allegations of Democratic crossover voting in a state senate race, with multiple legislative attempts and growing momentum ahead of the June 20 GOP state convention."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas political battles await after 5 Republicans decline to seek reelection to Board of Education",
+            "source": "Kansas Reflector",
+            "url": "https://kansasreflector.com/2026/06/08/kansas-political-battles-await-after-5-republicans-decline-to-seek-reelection-to-board-of-education/",
+            "date": "2026-06-08",
+            "summary": "Five Republican incumbents on the Kansas State Board of Education will not seek reelection in 2026, creating 14-candidate primary races for the August 4 primary and setting up a significant contest for control of the board in November."
+          },
+          {
+            "title": "5 Republicans are leaving Kansas Board of Education, setting up election fight for political control",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/education/2026-06-09/5-republicans-are-leaving-kansas-board-of-education-setting-up-election-fight-for-political-control",
+            "date": "2026-06-09",
+            "summary": "The departure of five Republican Board of Education incumbents, including one who joined a gubernatorial ticket as a running mate, is opening the most competitive board races in years, with Democrats fielding candidates in all five open districts."
+          }
+        ],
+        "ME": [
+          {
+            "title": "It's primary day. Here's what Maine voters need to know.",
+            "source": "Maine Morning Star",
+            "url": "https://mainemorningstar.com/2026/06/09/its-primary-day-heres-what-maine-voters-need-to-know/",
+            "date": "2026-06-09",
+            "summary": "Maine voters headed to polls on June 9 to choose Democratic and Republican nominees for governor, U.S. Senate, Congress, and dozens of legislative seats. Several crowded races are expected to require ranked-choice runoff tabulation, with final results possibly not known until mid-June."
+          },
+          {
+            "title": "Maine Senate primary election live results: Embattled Graham Platner runs",
+            "source": "The Washington Post",
+            "url": "https://www.washingtonpost.com/elections/2026/06/09/maine-senate-primary-election-live-results-embattled-graham-platner-runs/",
+            "date": "2026-06-09",
+            "summary": "Maine voters decided in the June 9 primary who will be the Democratic nominee to challenge incumbent Republican U.S. Sen. Susan Collins in November. Oyster farmer Graham Platner faced former state official David Costello in the Democratic primary, with results expected to take days due to ranked-choice counting."
+          },
+          {
+            "title": "Here are Maine's 2026 primary election results",
+            "source": "VPM/NPR",
+            "url": "https://www.vpm.org/npr-news/2026-06-09/here-are-maines-2026-primary-election-results",
+            "date": "2026-06-09",
+            "summary": "Maine held its June 9 primary with races for U.S. Senate, governor, and both congressional districts. Due to Maine's ranked-choice voting system, final results for several races may not be confirmed until the tabulation process is completed the following week."
+          },
+          {
+            "title": "Maine 2026 live primary election results",
+            "source": "ABC News",
+            "url": "https://abcnews.com/Politics/maine-2026-live-primary-election-results/story?id=133558103",
+            "date": "2026-06-09",
+            "summary": "ABC News tracked live results from Maine's June 9 primary election, covering contests for governor, U.S. Senate, and both congressional districts. The Democratic U.S. Senate primary featured Graham Platner, Janet Mills, and David Costello vying for the nomination to face Sen. Susan Collins in November."
+          },
+          {
+            "title": "How Maine's Tuesday votes will be counted from Election Day to next week",
+            "source": "Bangor Daily News",
+            "url": "https://www.bangordailynews.com/2026/06/09/politics/elections/maine-primary-ranked-choice-voting-counting-joam40zk0w/",
+            "date": "2026-06-09",
+            "summary": "Maine held its June 9 primary election using ranked-choice voting for governor, Congress, and state legislature races. Final results in several races may take up to two weeks as the secretary of state's office conducts ranked-choice tabulation in Augusta."
+          }
+        ],
+        "ND": [
+          {
+            "title": "LIVE BLOG: Read election coverage for June 9, 2026",
+            "source": "Grand Forks Herald",
+            "url": "https://www.grandforksherald.com/news/north-dakota/live-blog-read-election-coverage-for-june-9-2026",
+            "date": "2026-06-09",
+            "summary": "The Grand Forks Herald ran live election coverage for North Dakota's June 9 all-mail primary, featuring the contested U.S. House race between Trump-endorsed Rep. Julie Fedorchak and NDGOP-endorsed Alex Balazs, plus statewide offices and a constitutional ballot measure."
+          },
+          {
+            "title": "Key North Dakota primary races still too close to call, election official says",
+            "source": "Grand Forks Herald",
+            "url": "https://www.grandforksherald.com/news/key-north-dakota-primary-races-still-too-close-to-call-election-official-says",
+            "date": "2026-06-09",
+            "summary": "After North Dakota's June 9 all-mail primary, election officials reported several key races remained too close to call as counties continued tallying roughly 41,000 outstanding ballots on the state's new election results website."
+          },
+          {
+            "title": "North Dakota voters to decide on single subject rule for ballot measures",
+            "source": "InForum",
+            "url": "https://www.inforum.com/news/north-dakota/north-dakota-voters-to-decide-on-single-subject-rule-for-ballot-measures",
+            "date": "2026-06-09",
+            "summary": "North Dakota voters decided on Constitutional Measure 1 on June 9, which would require future constitutional amendments to address a single subject, a measure the legislature approved 75-26 in the House and 30-9 in the Senate."
+          },
+          {
+            "title": "Here are North Dakota's 2026 primary election results",
+            "source": "WFDD/NPR",
+            "url": "https://www.wfdd.org/politics-government/2026-06-09/here-are-north-dakotas-2026-primary-election-results",
+            "date": "2026-06-09",
+            "summary": "North Dakota voters headed to the polls June 9 for primary elections, with incumbent Republican U.S. Rep. Julie Fedorchak facing challenger Alex Balazs, and voters also deciding on Constitutional Amendment 1 that would create a single-subject rule for future constitutional amendments."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Nevada primary election results 2026: Live updates",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/06/09/g-s1-125589/nevada-primary-election-results-2026",
+            "date": "2026-06-09",
+            "summary": "NPR's live coverage of Nevada's June 9 primary election, tracking results for contested races including the governor's race, attorney general, and U.S. House seats. Democratic AG Aaron Ford and Washoe County Commission Chair Alexis Hill were top contenders for the Democratic gubernatorial nomination."
+          },
+          {
+            "title": "Nevada 2026 live primary election results",
+            "source": "ABC News",
+            "url": "https://abcnews.com/Politics/nevada-2026-live-primary-election-results/story?id=133558108",
+            "date": "2026-06-09",
+            "summary": "ABC News tracked live results for Nevada's June 9 primary, covering the governor's race, attorney general, and nonpartisan mayoral races in Henderson and North Las Vegas where the top two finishers advance to the general election."
+          }
+        ],
+        "NY": [
+          {
+            "title": "How to watch New York's 12th Congressional District debate on NY1",
+            "source": "Spectrum News NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/08/how-to-watch-new-york-s-12th-congressional-district-debate-on-ny1",
+            "date": "2026-06-08",
+            "summary": "NY1 announced a live June 9 debate featuring Democratic candidates for the open NY-12 seat being vacated by retiring Rep. Jerry Nadler, including George Conway, Jack Schlossberg, and others, ahead of the June 23 primary."
+          },
+          {
+            "title": "Trump looms large in New York House debate featuring George Conway, Jack Schlossberg",
+            "source": "The Hill",
+            "url": "https://thehill.com/homenews/campaign/5911180-debate-ny-12th-congressional-district-trump/",
+            "date": "2026-06-09",
+            "summary": "Coverage of the NY1-hosted debate for New York's 12th Congressional District Democratic primary, where candidates clashed over tech and crypto industry ties, super PAC funding, and Trump administration policies. Nine candidates compete in the June 23 primary to succeed Rep. Jerry Nadler."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio GOP's voter ID amendment remains unchanged, for now",
+            "source": "The Statehouse News Bureau",
+            "url": "https://www.statenews.org/government-politics/2026-06-08/ohio-gops-voter-id-amendment-remains-unchanged-for-now",
+            "date": "2026-06-08",
+            "summary": "The Ohio House general government committee reviewed the photo voter ID constitutional amendment (SJR 10) but adjourned without making changes, despite pressure from President Trump urging Republicans to place it on the November ballot."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Oregon Primary Election Moves Toward Final Certification as Counties Complete Audits and Ballot Reviews",
+            "source": "Grants Pass Tribune",
+            "url": "https://www.grantspasstribune.com/oregon-primary-election-moves-toward-final-certification-as-counties-complete-audits-and-ballot-reviews/",
+            "date": "2026-06-08",
+            "summary": "County election offices across Oregon are completing ballot reviews, audits, and canvassing required before statewide certification of the May 19 primary results, set for June 25. Officials are conducting mandatory post-election hand count audits required under Oregon law in all 36 counties."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Here are South Carolina's 2026 primary election results",
+            "source": "WFDD",
+            "url": "https://www.wfdd.org/politics-government/2026-06-09/here-are-south-carolinas-2026-primary-election-results",
+            "date": "2026-06-09",
+            "summary": "South Carolina held its June 9 statewide primary with polls open 7 a.m. to 7 p.m. Key races included the Republican governor's primary between Trump-endorsed Lt. Gov. Pamela Evette and Rep. Nancy Mace, plus U.S. Senate and attorney general contests; races without a majority head to a June 23 runoff."
+          },
+          {
+            "title": "South Carolina primary election live results: Evette, Mace vie for governor",
+            "source": "The Washington Post",
+            "url": "https://www.washingtonpost.com/elections/2026/06/09/south-carolina-primary-election-live-results-evette-mace-vie-governor/",
+            "date": "2026-06-09",
+            "summary": "The Washington Post covered live results from South Carolina's June 9 primary, spotlighting the competitive Republican governor's race and noting record early voting turnout with more than 319,000 ballots cast before Election Day."
+          },
+          {
+            "title": "South Carolina heads to the polls today: What to know about voting in the 2026 primary",
+            "source": "Post and Courier",
+            "url": "https://www.postandcourier.com/politics/voting-south-carolina-primary-election-2026/article_dac02ef6-23f5-42e7-ad21-f8f48dc4a30a.html",
+            "date": "2026-06-09",
+            "summary": "Voters in South Carolina headed to the polls for the June 9 primary election, with polls open from 7 a.m. to 7 p.m., coming off a record-breaking early voting period in which more than 319,000 ballots were cast."
+          },
+          {
+            "title": "Polls open in Columbia for primary election day. What to know if you're heading out to vote.",
+            "source": "Post and Courier",
+            "url": "https://www.postandcourier.com/columbia/news/columbia-polls-open-primary-election-2026/article_bdd1eae3-5610-407c-8594-9ea4dcb90dc4.html",
+            "date": "2026-06-09",
+            "summary": "The Post and Courier reported on polls opening across South Carolina on June 9 for the state's first open governor's race in 16 years, with record early turnout of 319,000 ballots already cast before Election Day."
+          },
+          {
+            "title": "SC Primary Election Day: Polling locations, what to bring and ballot changes",
+            "source": "Live 5 News",
+            "url": "https://www.live5news.com/2026/06/09/sc-primary-election-day-polling-locations-what-bring-ballot-changes/",
+            "date": "2026-06-09",
+            "summary": "Live 5 News published an Election Day guide for South Carolina voters covering polling locations, required identification, and ballot changes in effect for the June 9 primary."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Local Texas election officials await appointment of new secretary of state as midterm preparations ramp up",
+            "source": "Texas Tribune",
+            "url": "https://www.texastribune.org/2026/06/08/texas-2026-midterm-new-secretary-of-state-election-officials/",
+            "date": "2026-06-08",
+            "summary": "Following Secretary of State Jane Nelson's resignation effective July 17, local Texas election officials expressed concern that the transition could disrupt midterm preparations including voter registration processing, poll worker recruitment, and election guidance."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Utah same-day voter registration: How to register to vote on election day",
+            "source": "Salt Lake Tribune",
+            "url": "https://www.sltrib.com/news/politics/2026/06/09/same-day-voter-registration-utah/",
+            "date": "2026-06-09",
+            "summary": "The Salt Lake Tribune explains how Utah voters can still register and cast a ballot for the June 23 primary using same-day registration at early voting locations (which begin June 9) or at polling places on election day with two forms of ID. The online registration deadline is June 12."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Del. Kimble challenges election loss, says GOP ballots exceeded number of registered GOP voters",
+            "source": "West Virginia Watch",
+            "url": "https://westvirginiawatch.com/2026/06/08/del-kimble-challenges-election-loss-says-gop-ballots-exceeded-number-of-registered-gop-voters/",
+            "date": "2026-06-08",
+            "summary": "Del. Laura Kimble, R-Harrison, formally challenged her six-vote primary loss to Tim McNeely, filing a contest with the Harrison County Commission citing discrepancies where Republican ballots counted exceeded the number of registered Republicans who voted in multiple precincts."
+          },
+          {
+            "title": "Kimble files election contest after primary loss",
+            "source": "WDTV",
+            "url": "https://www.wdtv.com/2026/06/06/kimble-files-election-contest-after-primary-loss/",
+            "date": "2026-06-06",
+            "summary": "Incumbent Delegate Laura Kimble filed a formal election contest following her narrow six-vote loss to challenger Tim McNeely in the May Republican primary, alleging voting irregularities in Harrison County's 71st House District race."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Judge fills Weston County clerk vacancy",
+            "source": "WyoFile",
+            "url": "https://wyofile.com/judge-fills-weston-county-clerk-vacancy/",
+            "date": "2026-06-09",
+            "summary": "A district court judge appointed James Michael Tooman as Weston County clerk after county commissioners failed to agree on a replacement for the former clerk, who resigned following two years of investigations into election administration mistakes."
+          }
+        ]
+      }
     }
   ]
 }
