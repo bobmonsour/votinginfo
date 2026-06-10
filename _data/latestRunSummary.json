@@ -1,30 +1,29 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "items": [
     {
-      "text": "Wisconsin certifies 9 governor candidates; Bangstad denied ballot access",
-      "url": "https://www.wpr.org/news/controversial-liberal-kirk-bangstad-denied-ballot-access-wisconsin-governor",
-      "abbr": "WI"
+      "text": "South Carolina governor primary heads to runoff as Evette and Wilson advance",
+      "url": "https://www.wbtv.com/2026/06/10/ap-projects-republicans-pamela-evette-alan-wilson-heading-runoff-2026-south-carolina-governor-primary/",
+      "abbr": "SC"
     },
     {
-      "text": "Rhode Island Voting Rights Act stalls for 2026, pledged for 2027",
-      "url": "https://rhodeislandcurrent.com/2026/06/09/better-luck-next-year-rhode-island-voting-rights-act-heres-why-it-stalled-this-session/",
-      "abbr": "RI"
+      "text": "DC and Georgia hold early voting as multiple states enter primary stretch",
+      "abbr": "DC"
     },
     {
-      "text": "Tennessee Democrats drop redistricting lawsuit, leaving gerrymander in place for 2026",
-      "url": "https://www.actionnews5.com/2026/06/09/tennessee-democrats-dropped-their-federal-lawsuit-challenging-states-new-congressional-map-heres-why/",
-      "abbr": "TN"
+      "text": "North Dakota voters approve single-subject rule for future ballot amendments",
+      "url": "https://www.valleynewslive.com/2026/06/10/north-dakota-voters-approve-single-subject-amendment-requirement/",
+      "abbr": "ND"
     },
     {
-      "text": "Oklahoma early voting opens Thursday for June 16 primary",
-      "url": "https://www.kswo.com/2026/06/09/early-voting-oklahoma-primary-election-begins-thursday/",
-      "abbr": "OK"
+      "text": "Virginia court approves settlement protecting student voter registrations",
+      "url": "https://virginiamercury.com/2026/06/09/judge-approves-settlement-over-rejected-virginia-student-voter-registrations/",
+      "abbr": "VA"
     },
     {
-      "text": "UAW endorses El-Sayed for Senate, Benson for governor in Michigan primaries",
-      "url": "https://michiganadvance.com/2026/06/08/uaw-endorsement-of-benson-el-sayed-shakes-up-gubernatorial-u-s-senate-races-in-final-stretch/",
-      "abbr": "MI"
+      "text": "Minnesota Senate race pits DFL-endorsed Flanagan against well-funded Craig ahead of August primary",
+      "url": "https://www.redlakenationnews.com/story/2026/06/08/politics/the-dfl-backed-flanagan-for-senate-but-the-moneys-on-craig/140755.html",
+      "abbr": "MN"
     }
   ]
 }
