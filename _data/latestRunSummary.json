@@ -1,29 +1,29 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "items": [
     {
-      "text": "South Carolina governor primary heads to runoff as Evette and Wilson advance",
-      "url": "https://www.wbtv.com/2026/06/10/ap-projects-republicans-pamela-evette-alan-wilson-heading-runoff-2026-south-carolina-governor-primary/",
+      "text": "Maine's Senate Democratic primary produced a winner — Graham Platner — while the governor's race between Janet Mills and Jared Golden heads to ranked choice tabulation",
+      "url": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways",
+      "abbr": "ME"
+    },
+    {
+      "text": "South Carolina's Republican governor runoff is set for June 23 as Pamela Evette and Alan Wilson trade attacks after advancing from the primary",
+      "url": "https://www.wistv.com/2026/06/11/evette-wilson-trade-barbs-johnson-moving-sc-governor-field-narrows/",
       "abbr": "SC"
     },
     {
-      "text": "DC and Georgia hold early voting as multiple states enter primary stretch",
-      "abbr": "DC"
+      "text": "Florida's Supreme Court approved GOP-redrawn congressional maps for use in the 2026 midterms, rejecting a legal challenge",
+      "url": "https://www.washingtontimes.com/news/2026/jun/10/florida-court-allows-use-new-us-house-districts-drawn-republicans/",
+      "abbr": "FL"
     },
     {
-      "text": "North Dakota voters approve single-subject rule for future ballot amendments",
-      "url": "https://www.valleynewslive.com/2026/06/10/north-dakota-voters-approve-single-subject-amendment-requirement/",
-      "abbr": "ND"
+      "text": "Maryland and Oklahoma both opened early voting this week — Maryland for its June 23 gubernatorial primary, Oklahoma for its June 16 primary starting June 11",
+      "abbr": "MD"
     },
     {
-      "text": "Virginia court approves settlement protecting student voter registrations",
-      "url": "https://virginiamercury.com/2026/06/09/judge-approves-settlement-over-rejected-virginia-student-voter-registrations/",
-      "abbr": "VA"
-    },
-    {
-      "text": "Minnesota Senate race pits DFL-endorsed Flanagan against well-funded Craig ahead of August primary",
-      "url": "https://www.redlakenationnews.com/story/2026/06/08/politics/the-dfl-backed-flanagan-for-senate-but-the-moneys-on-craig/140755.html",
-      "abbr": "MN"
+      "text": "Colorado's June 30 primary mail ballots are arriving in mailboxes as the state ramps up Election Day preparation",
+      "url": "https://www.kunc.org/politics/2026-06-11/as-mail-ballots-arrive-heres-how-colorado-prepares-for-election-day",
+      "abbr": "CO"
     }
   ]
 }
