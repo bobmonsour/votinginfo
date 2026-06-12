@@ -1,29 +1,30 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "items": [
     {
-      "text": "Maine's Senate Democratic primary produced a winner — Graham Platner — while the governor's race between Janet Mills and Jared Golden heads to ranked choice tabulation",
-      "url": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways",
-      "abbr": "ME"
+      "text": "Alaska officials may disqualify namesake Senate challenger Dan J. Sullivan from August primary",
+      "url": "https://www.cnn.com/2026/06/12/politics/alaska-dan-sullivan-senate-election",
+      "abbr": "AK"
     },
     {
-      "text": "South Carolina's Republican governor runoff is set for June 23 as Pamela Evette and Alan Wilson trade attacks after advancing from the primary",
-      "url": "https://www.wistv.com/2026/06/11/evette-wilson-trade-barbs-johnson-moving-sc-governor-field-narrows/",
-      "abbr": "SC"
+      "text": "DC holds its first-ever ranked-choice voting primary on June 16, with results delayed until late June",
+      "url": "https://www.nbcwashington.com/decision-2026/ranked-choice-voting-will-delay-dc-primary-results/4114468/",
+      "abbr": "DC"
     },
     {
-      "text": "Florida's Supreme Court approved GOP-redrawn congressional maps for use in the 2026 midterms, rejecting a legal challenge",
-      "url": "https://www.washingtontimes.com/news/2026/jun/10/florida-court-allows-use-new-us-house-districts-drawn-republicans/",
-      "abbr": "FL"
+      "text": "Ohio legislature sends voter photo ID constitutional amendment to November ballot",
+      "url": "https://ohiocapitaljournal.com/2026/06/10/ohio-republican-lawmakers-send-constitutional-amendment-requiring-voter-photo-id-to-ballot/",
+      "abbr": "OH"
     },
     {
-      "text": "Maryland and Oklahoma both opened early voting this week — Maryland for its June 23 gubernatorial primary, Oklahoma for its June 16 primary starting June 11",
-      "abbr": "MD"
+      "text": "South Dakota holds its first-ever gubernatorial runoff July 28 as absentee voting opens",
+      "url": "https://www.kotatv.com/2026/06/11/qa-what-know-about-south-dakotas-first-gubernatorial-runoff/",
+      "abbr": "SD"
     },
     {
-      "text": "Colorado's June 30 primary mail ballots are arriving in mailboxes as the state ramps up Election Day preparation",
-      "url": "https://www.kunc.org/politics/2026-06-11/as-mail-ballots-arrive-heres-how-colorado-prepares-for-election-day",
-      "abbr": "CO"
+      "text": "NAACP files for federal injunction to block Tennessee's new congressional map splitting Memphis",
+      "url": "https://tennesseelookout.com/2026/06/10/naacp-files-for-federal-court-injunction-to-stop-new-tennessee-congressional-map/",
+      "abbr": "TN"
     }
   ]
 }
