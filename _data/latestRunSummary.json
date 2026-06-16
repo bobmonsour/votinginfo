@@ -2,29 +2,29 @@
   "date": "2026-06-15",
   "items": [
     {
-      "text": "Michigan revokes Antrim County clerk's voter roll access after unauthorized cancellations affecting 1,800 voters",
-      "url": "https://www.votebeat.org/michigan/2026/06/12/antrim-county-victoria-bishop-qualified-voter-file-access-revoked/",
-      "abbr": "MI"
+      "text": "Alaska election official disqualifies Senate candidate who shares name with incumbent Dan Sullivan",
+      "url": "https://www.pbs.org/newshour/politics/senate-candidate-with-same-name-as-incumbent-dan-sullivan-ineligible-for-ballot-official-rules",
+      "abbr": "AK"
     },
     {
-      "text": "Ohio legislature sends voter photo ID constitutional amendment to November ballot",
-      "url": "https://news.ballotpedia.org/2026/06/12/ohio-voters-to-decide-voter-id-amendment-in-november-one-of-five-voter-id-ballot-measures-in-2026/",
-      "abbr": "OH"
-    },
-    {
-      "text": "Arizona Republicans place mail voter ID ballot measure on November ballot, bypassing governor's vetoes",
-      "url": "https://www.votebeat.org/arizona/2026/06/13/2026-ballot-measure-voting-changes-republican-voter-id-fast-election-results/",
+      "text": "Arizona Republicans send mail-ballot voter ID measure to November voters, bypassing governor's veto",
+      "url": "https://www.tucsonsentinel.com/local/report/061526_voting_ballot/republican-legislators-put-measure-change-voting-procedures-november-ballot",
       "abbr": "AZ"
     },
     {
-      "text": "Missouri courts repeatedly rewrite Secretary of State's ballot language as direct democracy fights intensify",
-      "url": "https://missouriindependent.com/2026/06/12/missouri-courts-keep-rewriting-ballot-language-as-fights-over-direct-democracy-intensify/",
-      "abbr": "MO"
+      "text": "Louisiana navigates first closed primary runoff as unaffiliated voters face uncertain future access",
+      "url": "https://lailluminator.com/2026/06/15/louisiana-primary-elections/",
+      "abbr": "LA"
     },
     {
-      "text": "Maine conducts ranked-choice tabulations for three June 9 primary races including governor",
-      "url": "https://www.bangordailynews.com/2026/06/12/politics/elections/maine-2026-primaries-ranked-choice-voting-tabulation/",
-      "abbr": "ME"
+      "text": "New York City early voting hits 44,000 ballots in first three days before June 23 primary",
+      "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/15/early-voting-first-day-numbers-nyc",
+      "abbr": "NY"
+    },
+    {
+      "text": "DC prepares for first ever ranked-choice primary on June 16",
+      "url": "https://www.usnews.com/news/politics/articles/2026-06-15/ap-decision-notes-what-to-expect-in-the-washington-dc-primary",
+      "abbr": "DC"
     }
   ]
 }

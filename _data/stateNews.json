@@ -18133,6 +18133,163 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-15",
+      "states": {
+        "AK": [
+          {
+            "title": "Senate candidate with same name as incumbent Dan Sullivan ineligible for ballot, official rules",
+            "source": "PBS NewsHour",
+            "url": "https://www.pbs.org/newshour/politics/senate-candidate-with-same-name-as-incumbent-dan-sullivan-ineligible-for-ballot-official-rules",
+            "date": "2026-06-15",
+            "summary": "Alaska's Division of Elections director ruled that a U.S. Senate candidate named Dan Sullivan cannot appear on the August 18 primary ballot, finding his candidacy was filed to confuse voters and not in good faith as a genuine bid for office."
+          },
+          {
+            "title": "Alaska candidate with same name as Sen. Dan Sullivan disqualified by election official",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/alaska-senate-candidate-named-dan-sullivan-disqualified-election-rcna350182",
+            "date": "2026-06-15",
+            "summary": "Alaska's election director formally disqualified a Republican Senate candidate sharing the name Dan Sullivan with the incumbent senator, citing his attempt to register using the senator's middle initial as evidence of intent to mislead voters."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Republican legislators put measure to change voting procedures on November ballot",
+            "source": "Tucson Sentinel",
+            "url": "https://www.tucsonsentinel.com/local/report/061526_voting_ballot/republican-legislators-put-measure-change-voting-procedures-november-ballot",
+            "date": "2026-06-15",
+            "summary": "Arizona Republicans approved a ballot referral requiring mail-ballot voter ID, restricting voting centers, and requiring citizenship-only voting, sending it directly to November voters and bypassing Governor Hobbs's veto authority."
+          }
+        ],
+        "CA": [
+          {
+            "title": "California Secretary of State Announces Certification of Congressional District 1 Special Primary Election Results",
+            "source": "California Secretary of State",
+            "url": "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-shirley-n-weber-phd-announces-certification-congressional-district-1-special-primary-election-results",
+            "date": "2026-06-11",
+            "summary": "California Secretary of State Shirley Weber certified the June 2 Congressional District 1 Special Primary Election results on June 11, with the winner advancing to a special general election to fill the remainder of the congressional term."
+          },
+          {
+            "title": "Vote counting winding down in LA and OC",
+            "source": "LAist",
+            "url": "https://laist.com/news/politics/voter-guides/2026-election-california-primary-voter-turnout-los-angeles-county-orange-county",
+            "date": "2026-06-12",
+            "summary": "As of June 12, Los Angeles County reported approximately 37.7% voter turnout in the June 2 primary with outstanding ballots still under signature verification, while Orange County estimated 43% and statewide turnout reached 40.3%."
+          }
+        ],
+        "DC": [
+          {
+            "title": "AP Decision Notes: What to expect in the Washington, DC, primary",
+            "source": "Associated Press",
+            "url": "https://www.usnews.com/news/politics/articles/2026-06-15/ap-decision-notes-what-to-expect-in-the-washington-dc-primary",
+            "date": "2026-06-15",
+            "summary": "AP overview of DC's unprecedented June 16 primary, the first to use ranked-choice voting, with voters choosing among competitive Democratic fields for mayor, House delegate, and four council seats amid federal intervention in the district."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Candidates across the state swarm ballot as qualifying period ends; some win by default",
+            "source": "WUSF",
+            "url": "https://www.wusf.org/politics-issues/2026-06-13/candidates-across-the-state-swarm-ballot-as-qualifying-period-ends-some-win-by-default",
+            "date": "2026-06-13",
+            "summary": "After Florida's candidate qualifying closed June 12, Rep. Byron Donalds leads the Republican field for governor with Trump's endorsement, while David Jolly is the Democratic frontrunner; hundreds of candidates qualified for legislative and congressional seats under a new Republican-leaning map."
+          }
+        ],
+        "HI": [
+          {
+            "title": "The Elections Commission Is Struggling To Elect A New Leader",
+            "source": "Honolulu Civil Beat",
+            "url": "https://civilbeat.org/2026/06/the-elections-commission-is-struggling-to-elect-a-new-leader/",
+            "date": "2026-06-15",
+            "summary": "Hawaii's Elections Commission is deadlocked over choosing a new chair before current chair Mike Curtis's term expires June 30, raising concerns about election oversight and continuity heading into the August 8 primary election."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Idaho primary election results certified",
+            "source": "Boise State Public Radio",
+            "url": "https://www.boisestatepublicradio.org/politics-government/2026-06-10/idaho-primary-election-results-certified",
+            "date": "2026-06-10",
+            "summary": "Idaho's State Board of Canvassers certified primary election results on June 9, officially opening the window for candidates to request recounts; 11,087 Idahoans registered and voted on Election Day following county-level audits across all 44 counties."
+          }
+        ],
+        "LA": [
+          {
+            "title": "No-party voters still have access to Louisiana's closed primaries, for now",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/06/15/louisiana-primary-elections/",
+            "date": "2026-06-15",
+            "summary": "In Louisiana's first year of closed party primaries, unaffiliated voters who chose a party in May's primary can vote in the June 27 runoffs, but the long-term status of no-party voter access to the closed primary system remains legally uncertain."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Board of Canvass Certifies 2026 Primary Election Results",
+            "source": "Bernalillo County",
+            "url": "https://www.bernco.gov/blog/2026/06/15/board-of-canvass-certifies2026-primary-election-results/",
+            "date": "2026-06-15",
+            "summary": "Bernalillo County's Board of Canvass officially certified the results of New Mexico's June 2 primary election on June 15, completing post-election certification for the state's most populous county following the historic first semi-open primary."
+          }
+        ],
+        "NY": [
+          {
+            "title": "More than 16,500 New Yorkers cast ballots on first day of early voting",
+            "source": "NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/14/early-voting-first-day-numbers-nyc",
+            "date": "2026-06-14",
+            "summary": "More than 16,500 New Yorkers voted on the first day of early voting (June 13) for the June 23 primary, led by Manhattan at 7,581 ballots; competitive races include the NY-10 Goldman vs. Lander contest."
+          },
+          {
+            "title": "More than 44,000 New Yorkers cast ballots in first three days of early voting",
+            "source": "NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/15/early-voting-first-day-numbers-nyc",
+            "date": "2026-06-15",
+            "summary": "Through June 15, over 44,000 NYC residents had cast early ballots for the June 23 primary, with Manhattan leading at 19,216 and Brooklyn at 11,438; early voting continues through June 21 before Primary Day."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Wittman seeks to keep 1st District seat, as Democratic challengers face crowded primary",
+            "source": "Virginia Mercury",
+            "url": "https://virginiamercury.com/2026/06/10/wittman-seeks-to-keep-1st-district-seat-as-democratic-challengers-face-crowded-primary/",
+            "date": "2026-06-10",
+            "summary": "Democratic contenders are lining up to challenge longtime Republican incumbent Rob Wittman in Virginia's 1st congressional district, with early voting for the August 4 primary beginning June 18."
+          },
+          {
+            "title": "Early Voting for Aug. 4 Primary Election Begins June 18",
+            "source": "City of Virginia Beach",
+            "url": "https://virginiabeach.gov/connect/blog/early-voting",
+            "date": "2026-06-10",
+            "summary": "Virginia Beach and other Virginia localities announced that early in-person voting for the August 4 primary election begins June 18, with absentee ballots to be mailed no later than June 19 and a voter registration deadline of July 24."
+          }
+        ],
+        "WA": [
+          {
+            "title": "These new Washington laws take effect Thursday",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/06/11/new-washington-state-laws-take-effect-thursday/",
+            "date": "2026-06-11",
+            "summary": "More than 200 new Washington state laws took effect June 11, including major expansions to the state's Voting Rights Act: HB 1750 bars election policies creating material disparate burdens on protected-class voters, HB 1710 reinstates preclearance requirements."
+          },
+          {
+            "title": "More than 200 new laws now in effect in Washington state",
+            "source": "Cascadia Daily News",
+            "url": "https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/",
+            "date": "2026-06-11",
+            "summary": "Washington state's package of new laws effective June 11 includes significant voting rights enhancements: preclearance requirements for jurisdictions with histories of discrimination and tighter rules for challenging voter registrations."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Wyoming Supreme Court considers constitutionality of crossover-voting ban",
+            "source": "WyoFile",
+            "url": "https://wyofile.com/wyoming-supreme-court-considers-constitutionality-of-crossover-voting-ban/",
+            "date": "2026-06-12",
+            "summary": "Wyoming Supreme Court justices heard oral arguments challenging the constitutionality of the state's crossover-voting ban and party affiliation restrictions. Plaintiffs argue the laws violate Wyoming constitutional provisions requiring open, free, and equal elections."
+          }
+        ]
+      }
     }
   ]
 }
