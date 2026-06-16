@@ -1,30 +1,29 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "items": [
     {
-      "text": "Alaska election official disqualifies Senate candidate who shares name with incumbent Dan Sullivan",
-      "url": "https://www.pbs.org/newshour/politics/senate-candidate-with-same-name-as-incumbent-dan-sullivan-ineligible-for-ballot-official-rules",
-      "abbr": "AK"
+      "text": "FBI raids Ohio voter registration group, Democrats call it election-year intimidation",
+      "url": "https://ny1.com/nyc/all-boroughs/news/2026/06/13/fbi-raids-ohio-voting-rights-group",
+      "abbr": "OH"
     },
     {
-      "text": "Arizona Republicans send mail-ballot voter ID measure to November voters, bypassing governor's veto",
-      "url": "https://www.tucsonsentinel.com/local/report/061526_voting_ballot/republican-legislators-put-measure-change-voting-procedures-november-ballot",
-      "abbr": "AZ"
+      "text": "Alabama, Georgia, and Oklahoma hold primary elections on June 16",
+      "abbr": "AL"
     },
     {
-      "text": "Louisiana navigates first closed primary runoff as unaffiliated voters face uncertain future access",
-      "url": "https://lailluminator.com/2026/06/15/louisiana-primary-elections/",
-      "abbr": "LA"
+      "text": "Maine's ranked-choice voting leaves key gubernatorial and congressional primaries undecided a week after Election Day",
+      "url": "https://wgme.com/news/local/ranked-choice-voting-counting-continues-in-key-maine-races-voters-voting-governor-2nd-congressional-district-republican-democratic-primary",
+      "abbr": "ME"
     },
     {
-      "text": "New York City early voting hits 44,000 ballots in first three days before June 23 primary",
-      "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/15/early-voting-first-day-numbers-nyc",
-      "abbr": "NY"
+      "text": "North Carolina Republicans advance sweeping elections bill to restrict early voting, ban ranked-choice voting",
+      "url": "https://www.wral.com/news/nccapitol/nc-election-law-changes-legislature-north-carolina-june-2026/",
+      "abbr": "NC"
     },
     {
-      "text": "DC prepares for first ever ranked-choice primary on June 16",
-      "url": "https://www.usnews.com/news/politics/articles/2026-06-15/ap-decision-notes-what-to-expect-in-the-washington-dc-primary",
-      "abbr": "DC"
+      "text": "Missouri election officials mail ballots using gerrymandered map despite unresolved referendum challenge",
+      "url": "https://missouriindependent.com/2026/06/16/local-election-officials-go-with-missouris-gerrymandered-congressional-map-despite-uncertainty/",
+      "abbr": "MO"
     }
   ]
 }
