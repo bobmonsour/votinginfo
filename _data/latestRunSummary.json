@@ -2,28 +2,29 @@
   "date": "2026-06-16",
   "items": [
     {
-      "text": "FBI raids Ohio voter registration group, Democrats call it election-year intimidation",
-      "url": "https://ny1.com/nyc/all-boroughs/news/2026/06/13/fbi-raids-ohio-voting-rights-group",
-      "abbr": "OH"
-    },
-    {
-      "text": "Alabama, Georgia, and Oklahoma hold primary elections on June 16",
+      "text": "Alabama and Georgia held their June 16 Republican primary runoffs, with Alabama's open U.S. Senate seat (Barry Moore vs. Jared Hudson) and Georgia's contested governor and Senate races on the ballot.",
+      "url": "https://www.nbcnews.com/politics/2026-primary-elections/alabama-senate-runoff-results",
       "abbr": "AL"
     },
     {
-      "text": "Maine's ranked-choice voting leaves key gubernatorial and congressional primaries undecided a week after Election Day",
-      "url": "https://wgme.com/news/local/ranked-choice-voting-counting-continues-in-key-maine-races-voters-voting-governor-2nd-congressional-district-republican-democratic-primary",
-      "abbr": "ME"
+      "text": "DC held its first-ever citywide ranked-choice voting primary on June 16 — choosing a new mayor, congressional delegate, and council members — with results not expected until at least June 21.",
+      "url": "https://news.ballotpedia.org/2026/06/12/d-c-to-hold-first-election-using-ranked-choice-voting-on-june-16/",
+      "abbr": "DC"
     },
     {
-      "text": "North Carolina Republicans advance sweeping elections bill to restrict early voting, ban ranked-choice voting",
-      "url": "https://www.wral.com/news/nccapitol/nc-election-law-changes-legislature-north-carolina-june-2026/",
-      "abbr": "NC"
+      "text": "Several states advanced major election law changes: Arizona placed a voter ID for mail ballots measure on the November ballot, Ohio passed both a voter ID bill and constitutional amendment, and North Carolina is fast-tracking a sweeping 37-page elections omnibus.",
+      "url": "https://www.votebeat.org/arizona/2026/06/13/2026-ballot-measure-voting-changes-republican-voter-id-fast-election-results/",
+      "abbr": "AZ"
     },
     {
-      "text": "Missouri election officials mail ballots using gerrymandered map despite unresolved referendum challenge",
-      "url": "https://missouriindependent.com/2026/06/16/local-election-officials-go-with-missouris-gerrymandered-congressional-map-despite-uncertainty/",
-      "abbr": "MO"
+      "text": "The Trump administration escalated pressure on election administration: ICE obtained voter registration files from counties in Texas and North Carolina, and the FBI raided a Cleveland voting-rights group's offices.",
+      "url": "https://www.axios.com/2026/06/13/ice-voter-files-texas-north-carolina",
+      "abbr": "DC"
+    },
+    {
+      "text": "Michigan's Senate Democrats passed the Michigan Voting Rights Act to protect ballot access as federal VRA protections weaken; Indiana rejected or canceled over 60% of voter registrations flagged under its new proof-of-citizenship law.",
+      "url": "https://www.cbsnews.com/detroit/news/michigan-senate-democrats-voting-rights-act-bill-package/",
+      "abbr": "MI"
     }
   ]
 }
