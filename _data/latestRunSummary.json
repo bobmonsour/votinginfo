@@ -1,30 +1,25 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "items": [
     {
-      "text": "Alabama and Georgia held their June 16 Republican primary runoffs, with Alabama's open U.S. Senate seat (Barry Moore vs. Jared Hudson) and Georgia's contested governor and Senate races on the ballot.",
-      "url": "https://www.nbcnews.com/politics/2026-primary-elections/alabama-senate-runoff-results",
-      "abbr": "AL"
+      "text": "Missouri local election officials filed suit over gerrymandered congressional districts, challenging the new map before November.",
+      "abbr": "MO"
     },
     {
-      "text": "DC held its first-ever citywide ranked-choice voting primary on June 16 — choosing a new mayor, congressional delegate, and council members — with results not expected until at least June 21.",
-      "url": "https://news.ballotpedia.org/2026/06/12/d-c-to-hold-first-election-using-ranked-choice-voting-on-june-16/",
-      "abbr": "DC"
+      "text": "Montana's Democratic Senate candidate Bankhead continued a bipartisan strategy in one of the most closely watched 2026 races.",
+      "abbr": "MT"
     },
     {
-      "text": "Several states advanced major election law changes: Arizona placed a voter ID for mail ballots measure on the November ballot, Ohio passed both a voter ID bill and constitutional amendment, and North Carolina is fast-tracking a sweeping 37-page elections omnibus.",
-      "url": "https://www.votebeat.org/arizona/2026/06/13/2026-ballot-measure-voting-changes-republican-voter-id-fast-election-results/",
-      "abbr": "AZ"
+      "text": "Iowa Libertarians announced they will appeal a court ruling that denied their candidates ballot access for 2026.",
+      "abbr": "IA"
     },
     {
-      "text": "The Trump administration escalated pressure on election administration: ICE obtained voter registration files from counties in Texas and North Carolina, and the FBI raided a Cleveland voting-rights group's offices.",
-      "url": "https://www.axios.com/2026/06/13/ice-voter-files-texas-north-carolina",
-      "abbr": "DC"
+      "text": "South Dakota's Republican gubernatorial runoff moved to the absentee voting phase, with ballots now available for the state's first-ever runoff election.",
+      "abbr": "SD"
     },
     {
-      "text": "Michigan's Senate Democrats passed the Michigan Voting Rights Act to protect ballot access as federal VRA protections weaken; Indiana rejected or canceled over 60% of voter registrations flagged under its new proof-of-citizenship law.",
-      "url": "https://www.cbsnews.com/detroit/news/michigan-senate-democrats-voting-rights-act-bill-package/",
-      "abbr": "MI"
+      "text": "Delaware lawmakers defeated a bill that would have established same-day voter registration, leaving the state's deadline at 24 days before Election Day.",
+      "abbr": "DE"
     }
   ]
 }

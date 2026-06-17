@@ -19220,6 +19220,83 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-17",
+      "states": {
+        "DE": [
+          {
+            "title": "Bill to allow same-day voter registration fails in Delaware House",
+            "source": "WDEL News",
+            "url": "https://www.wdel.com/news/bill-to-allow-same-day-voter-registration-fails-in-delaware-house/article_5df5f836-1179-49e2-9c41-822ffd5b7cca.html",
+            "date": "2026-06-16",
+            "summary": "A constitutional amendment bill to establish same-day voter registration in Delaware failed to reach the required two-thirds majority in the state House. Sponsor Rep. William Bush noted 22 states already allow the practice, while Republican opponents cited poll worker preparedness concerns."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Iowa Libertarians to appeal 2026 ballot access decision",
+            "source": "Radio Iowa",
+            "url": "https://www.radioiowa.com/2026/06/15/iowa-libertarians-to-appeal-2026-ballot-access-decision/",
+            "date": "2026-06-15",
+            "summary": "Iowa Libertarians announced plans to appeal after the State Objections Panel removed two of the party's candidates from the November 2026 general election ballot over paperwork irregularities. Critics characterized the Republican-backed challenges as a pressure campaign to eliminate potential vote-splitters in competitive races."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Judge refuses to block election official from dissolving No Labels Kansas party",
+            "source": "HPPR",
+            "url": "https://www.hppr.org/hppr-news/2026-06-14/judge-refuses-to-block-election-official-from-dissolving-no-labels-kansas-party",
+            "date": "2026-06-14",
+            "summary": "A Kansas judge declined to block the Secretary of State's dissolution of the No Labels Kansas political party, ruling it was a political question to be resolved by the State Objections Board rather than the courts. The ruling confirmed No Labels candidates will not appear on the November 2026 ballot."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri's local election officials assign voters to gerrymandered congressional districts",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-06-17/missouris-local-election-officials-assign-voters-to-gerrymandered-congressional-districts",
+            "date": "2026-06-17",
+            "summary": "Missouri voters in 28 counties have been assigned to a different congressional district under the Republican-drawn map intended to oust Rep. Emanuel Cleaver II, even as a referendum effort and lawsuits could still change where voters end up in November."
+          }
+        ],
+        "MT": [
+          {
+            "title": "In Montana Senate Race, Democrat Bankhead Doubles Down on Bid Against Bodnar",
+            "source": "Flathead Beacon",
+            "url": "https://flatheadbeacon.com/2026/06/15/in-montana-senate-race-democrat-bankhead-doubles-down-on-bid-against-bodnar/",
+            "date": "2026-06-15",
+            "summary": "Democrat Alani Bankhead vowed at her first post-primary press conference to remain in Montana's U.S. Senate race, rejecting calls to step aside in favor of independent Seth Bodnar, who some argue has a better shot at defeating Trump-backed Republican Kurt Alme in November."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Nevada Secretary of State issues second update on 2026 primary ballot count",
+            "source": "News3LV",
+            "url": "https://news3lv.com/news/local/nevada-secretary-of-state-issues-second-update-on-2026-primary-ballot-count",
+            "date": "2026-06-14",
+            "summary": "Nevada's Secretary of State issued a second ballot-processing update showing Clark County at 99 percent tabulated with over 1,400 ballots still needing signature cures before the June 18 canvass deadline."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Home turf snub for McKee as Cumberland Democrats back Foulkes for governor",
+            "source": "Rhode Island Current",
+            "url": "https://rhodeislandcurrent.com/2026/06/16/home-turf-snub-for-mckee-as-cumberland-democrats-back-foulkes-for-governor/",
+            "date": "2026-06-16",
+            "summary": "The Cumberland Democratic Town Committee voted 30-11 to endorse Helena Foulkes over incumbent Gov. Dan McKee for the 2026 Democratic gubernatorial primary, dealing McKee a setback in his home town. McKee trails Foulkes by 20 points in recent polling ahead of the September 8 primary."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Absentee voting for South Dakota's Republican gubernatorial runoff has started; July 13 deadline to register",
+            "source": "DRGNews",
+            "url": "https://drgnews.com/2026/06/16/absentee-voting-for-south-dakotas-republican-gubernatorial-runoff-has-started/",
+            "date": "2026-06-16",
+            "summary": "Absentee voting for South Dakota's July 28 Republican gubernatorial runoff officially began June 12, with the voter registration and party-change deadline set for July 13; voters who applied for a primary absentee ballot will automatically receive a runoff ballot."
+          }
+        ]
+      }
     }
   ]
 }
