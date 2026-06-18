@@ -1,25 +1,30 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "items": [
     {
-      "text": "Missouri local election officials filed suit over gerrymandered congressional districts, challenging the new map before November.",
-      "abbr": "MO"
+      "text": "Alabama and Oklahoma held Republican Senate primaries: Barry Moore won Alabama's runoff, while Tom Hern won Oklahoma's crowded primary, both advancing to November.",
+      "url": "https://www.nbcnews.com/politics/2026-elections/barry-moore-wins-republican-us-senate-runoff-alabama-rcna214892",
+      "abbr": "AL"
     },
     {
-      "text": "Montana's Democratic Senate candidate Bankhead continued a bipartisan strategy in one of the most closely watched 2026 races.",
-      "abbr": "MT"
+      "text": "Washington DC debuted ranked-choice voting in its Democratic primary, dramatically reshaping results and delaying the mayor's race outcome by hours as mail ballots were counted.",
+      "url": "https://wtop.com/dc/2026/06/dc-primary-results-ranked-choice-voting-makes-its-debut-and-brings-big-changes/",
+      "abbr": "DC"
     },
     {
-      "text": "Iowa Libertarians announced they will appeal a court ruling that denied their candidates ballot access for 2026.",
-      "abbr": "IA"
+      "text": "Michigan's Senate passed a state Voting Rights Act package, while Delaware advanced two voting-rights constitutional amendments — state-level VRA activity surging in response to federal court limits.",
+      "url": "https://michiganadvance.com/2026/06/16/michigan-senate-passes-state-voting-rights-act/",
+      "abbr": "MI"
     },
     {
-      "text": "South Dakota's Republican gubernatorial runoff moved to the absentee voting phase, with ballots now available for the state's first-ever runoff election.",
-      "abbr": "SD"
+      "text": "Georgia Republicans voted to ban QR codes on ballots after primary mishaps and then shelved redistricting in a special session despite a court order, leaving maps unresolved.",
+      "url": "https://www.pbs.org/newshour/politics/georgia-republicans-ban-qr-codes-ballots-primary-mishaps",
+      "abbr": "GA"
     },
     {
-      "text": "Delaware lawmakers defeated a bill that would have established same-day voter registration, leaving the state's deadline at 24 days before Election Day.",
-      "abbr": "DE"
+      "text": "Ohio moved a voter photo-ID constitutional amendment to the November ballot, and the FBI searched an Ohio voting-rights organization — two major election-law developments in one week.",
+      "url": "https://ohiocapitaljournal.com/2026/06/10/ohio-voter-photo-id-constitutional-amendment-to-go-on-november-ballot/",
+      "abbr": "OH"
     }
   ]
 }

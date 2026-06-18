@@ -19297,6 +19297,1255 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-18",
+      "states": {
+        "AL": [
+          {
+            "title": "Barry Moore wins Republican U.S. Senate runoff in Alabama",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-elections/barry-moore-wins-republican-us-senate-runoff-alabama-rcna214892",
+            "date": "2026-06-16",
+            "summary": "Barry Moore won the Republican Senate runoff in Alabama, securing the GOP nomination to succeed retiring Sen. Tommy Tuberville."
+          },
+          {
+            "title": "Alabama runoff results: Moore wins Senate, Wahl wins lieutenant governor",
+            "source": "WBHM",
+            "url": "https://wbhm.org/2026/alabama-runoff-results-moore-wins-senate-wahl-wins-lieutenant-governor/",
+            "date": "2026-06-16",
+            "summary": "Alabama Republicans chose their nominees for U.S. Senate and lieutenant governor in Tuesday runoffs, with Rep. Barry Moore winning the Senate race."
+          },
+          {
+            "title": "John Wahl wins Republican runoff for Alabama lieutenant governor",
+            "source": "ABC 33/40",
+            "url": "https://abc3340.com/news/local/john-wahl-wins-republican-runoff-for-alabama-lieutenant-governor",
+            "date": "2026-06-16",
+            "summary": "State GOP chairman John Wahl defeated Will Dismukes in the Republican runoff for Alabama lieutenant governor."
+          },
+          {
+            "title": "Jim Zeigler wins Republican runoff for PSC seat",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2026/06/17/jim-zeigler-wins-republican-runoff-for-psc-seat/",
+            "date": "2026-06-17",
+            "summary": "Former state auditor Jim Zeigler won the Republican runoff for a Public Service Commission seat in Alabama."
+          },
+          {
+            "title": "A voter guide to the Alabama Republican runoff elections",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2026/06/15/a-voter-guide-to-the-alabama-republican-runoff-elections/",
+            "date": "2026-06-15",
+            "summary": "A guide to the Alabama Republican runoff elections covering the Senate race, lieutenant governor, and other statewide contests."
+          }
+        ],
+        "AK": [
+          {
+            "title": "Dan Sullivan challenger disqualified from Alaska Senate race",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-elections/dan-sullivan-challenger-disqualified-alaska-senate-race-rcna213201",
+            "date": "2026-06-16",
+            "summary": "A Republican challenger to Sen. Dan Sullivan was disqualified from the Alaska Senate race, clearing a major hurdle for the incumbent."
+          },
+          {
+            "title": "Alaska challenger to Sullivan disqualified from Senate race",
+            "source": "Alaska Beacon",
+            "url": "https://alaskabeacon.com/2026/06/15/alaska-challenger-to-sullivan-disqualified-from-senate-race/",
+            "date": "2026-06-15",
+            "summary": "Ivan Hodes, who was challenging Dan Sullivan in the Republican primary, was disqualified from the Alaska Senate race over residency questions."
+          },
+          {
+            "title": "Two Dan Sullivans on Alaska ballot create voter confusion",
+            "source": "Washington Post",
+            "url": "https://www.washingtonpost.com/politics/2026/06/11/alaska-dan-sullivan-senate-ballot-confusion/",
+            "date": "2026-06-11",
+            "summary": "Alaska voters face potential confusion with two candidates named Dan Sullivan on the Senate ballot, one a Republican incumbent and one a Democratic challenger."
+          },
+          {
+            "title": "Alaska 2026 Senate field: A look at who is running",
+            "source": "Alaska Beacon",
+            "url": "https://alaskabeacon.com/2026/06/11/alaska-2026-senate-field-a-look-at-who-is-running/",
+            "date": "2026-06-11",
+            "summary": "A profile of candidates running in the Alaska U.S. Senate race, which features the Republican incumbent and several challengers using ranked-choice voting."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Republicans nominate candidate for late lawmaker seat in special election",
+            "source": "Arkansas Times",
+            "url": "https://arktimes.com/news/arkansas-politics/2026/06/05/republicans-nominate-candidate-for-late-lawmaker-seat-in-special-election/",
+            "date": "2026-06-05",
+            "summary": "Arkansas Republicans selected a nominee to fill a vacant state legislative seat left by a lawmaker who died in office."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Arizona Republicans put voting restrictions measure on November ballot",
+            "source": "Votebeat",
+            "url": "https://votebeat.org/arizona/2026/06/13/arizona-hcr-2001-ballot-measure-voting-restrictions/",
+            "date": "2026-06-13",
+            "summary": "Arizona Republicans approved HCR 2001, a ballot measure that would tighten voting restrictions, sending it to voters in November."
+          },
+          {
+            "title": "GOP puts voter restriction measure on Arizona November ballot",
+            "source": "Arizona Mirror",
+            "url": "https://azmirror.com/2026/06/15/gop-puts-voter-restriction-measure-on-arizona-november-ballot/",
+            "date": "2026-06-15",
+            "summary": "The Arizona Republican-controlled legislature referred a voter restriction measure to the November ballot over Democratic objections."
+          },
+          {
+            "title": "How to vote in the Arizona 2026 primary election",
+            "source": "Votebeat",
+            "url": "https://votebeat.org/arizona/2026/06/17/how-to-vote-arizona-2026-primary-election/",
+            "date": "2026-06-17",
+            "summary": "A guide to voting in Arizona primary election including registration deadlines, early voting options, and polling place information."
+          },
+          {
+            "title": "Arizona voters will decide on 10 measures in November",
+            "source": "KJZZ",
+            "url": "https://kjzz.org/2026/06/13/arizona-voters-will-decide-on-10-measures-in-november/",
+            "date": "2026-06-13",
+            "summary": "Arizona voters will face 10 ballot measures in November, including proposals related to voting, immigration, and education."
+          },
+          {
+            "title": "Key dates and deadlines for the Arizona 2026 primary election",
+            "source": "AZPM",
+            "url": "https://www.azpm.org/p/home-articles-news/2026/6/11/key-dates-and-deadlines-for-the-arizona-2026-primary-election/",
+            "date": "2026-06-11",
+            "summary": "A summary of important dates and deadlines for Arizona voters participating in the 2026 primary election."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Aisha Wahab advances in California special election for Senate seat",
+            "source": "KTVU",
+            "url": "https://www.ktvu.com/news/aisha-wahab-advances-california-special-election-senate-seat",
+            "date": "2026-06-16",
+            "summary": "State Sen. Aisha Wahab advanced from the special primary election to fill a California U.S. Senate seat, heading to a runoff."
+          },
+          {
+            "title": "Wahab advances in CA-Senate special election",
+            "source": "Local News Matters",
+            "url": "https://localnewsmatters.org/2026/06/17/wahab-advances-in-ca-senate-special-election/",
+            "date": "2026-06-17",
+            "summary": "Aisha Wahab secured a spot in the runoff for California special Senate election, advancing with a plurality in the first round."
+          },
+          {
+            "title": "California election results: Governor and statewide races",
+            "source": "CalMatters",
+            "url": "https://calmatters.org/politics/2026/06/california-election-results-governor/",
+            "date": "2026-06-06",
+            "summary": "Results from the California primary election including the governor race, U.S. Senate special election, and other statewide contests."
+          },
+          {
+            "title": "CA-14 special election live results",
+            "source": "270toWin",
+            "url": "https://www.270towin.com/news/2026/06/15/ca-14-special-election-live-results/",
+            "date": "2026-06-15",
+            "summary": "Live results from the California 14th Congressional District special election primary to fill a vacant House seat."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Colorado county clerks begin mailing primary ballots",
+            "source": "Colorado Secretary of State",
+            "url": "https://www.sos.state.co.us/pubs/newsRoom/pressReleases/2026/PR20260608PrimaryBallotsMailed.html",
+            "date": "2026-06-08",
+            "summary": "Colorado county clerks began mailing primary election ballots to active voters ahead of the June 30 primary election."
+          },
+          {
+            "title": "Colorado clerks mail June primary ballots statewide",
+            "source": "Colorado Newsline",
+            "url": "https://coloradonewsline.com/2026/06/08/colorado-clerks-mail-june-primary-ballots-statewide/",
+            "date": "2026-06-08",
+            "summary": "Colorado county clerks sent out primary election ballots to registered voters across the state, with returns due by June 30."
+          },
+          {
+            "title": "Bennet and Weiser face off in Colorado Democratic Senate debate",
+            "source": "Colorado Sun",
+            "url": "https://coloradosun.com/2026/06/13/colorado-democratic-senate-debate-bennet-weiser/",
+            "date": "2026-06-13",
+            "summary": "U.S. Sen. Michael Bennet and former Attorney General Phil Weiser debated ahead of the Colorado Democratic Senate primary."
+          },
+          {
+            "title": "Colorado governor candidates make their pitches to voters",
+            "source": "Colorado Politics",
+            "url": "https://www.coloradopolitics.com/elections/2026/06/15/colorado-governor-candidates-make-their-pitches-to-voters/",
+            "date": "2026-06-15",
+            "summary": "Candidates in the Colorado governor race made their final pitches to voters ahead of the June 30 primary election."
+          },
+          {
+            "title": "Colorado Democrats hold governor forum as primary nears",
+            "source": "Colorado Sun",
+            "url": "https://coloradosun.com/2026/06/16/colorado-democrats-governor-forum-primary/",
+            "date": "2026-06-16",
+            "summary": "Democratic governor candidates participated in a forum ahead of the Colorado primary, discussing key policy issues."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Connecticut Secretary of State strengthens early voting procedures",
+            "source": "Connecticut Secretary of State",
+            "url": "https://portal.ct.gov/sots/press-releases/2026/june/ct-sos-strengthens-early-voting-procedures",
+            "date": "2026-06-03",
+            "summary": "Connecticut Secretary of State Stephanie Thomas announced new procedures to strengthen early voting security and accessibility."
+          },
+          {
+            "title": "Connecticut bill would protect voter privacy: SB 298",
+            "source": "Governing",
+            "url": "https://www.governing.com/security/connecticut-voter-privacy-sb-298",
+            "date": "2026-06-05",
+            "summary": "Connecticut SB 298 would establish new protections for voter data privacy, restricting how voter registration information can be shared."
+          },
+          {
+            "title": "Connecticut takes new steps to protect early voting sites",
+            "source": "CT by the Numbers",
+            "url": "https://ctbythenumbers.info/2026/06/08/connecticut-takes-new-steps-to-protect-early-voting-sites/",
+            "date": "2026-06-08",
+            "summary": "Connecticut is implementing new security and procedural measures at early voting locations following state guidance."
+          }
+        ],
+        "DC": [
+          {
+            "title": "DC primary results: Ranked choice voting makes its debut and brings big changes",
+            "source": "WTOP",
+            "url": "https://wtop.com/dc/2026/06/dc-primary-results-ranked-choice-voting-makes-its-debut-and-brings-big-changes/",
+            "date": "2026-06-16",
+            "summary": "Washington DC held its first-ever ranked choice voting primary, with dramatic results in the mayoral race and other contests."
+          },
+          {
+            "title": "DC ranked choice voting debut brings dramatic shifts in primary results",
+            "source": "WTOP",
+            "url": "https://wtop.com/dc/2026/06/dc-ranked-choice-voting-debut-brings-dramatic-shifts-primary-results/",
+            "date": "2026-06-16",
+            "summary": "The debut of ranked choice voting in DC transformed the primary results, with candidates who trailed in first-choice votes advancing after preference transfers."
+          },
+          {
+            "title": "DC primary results delayed hours as mail ballots counted",
+            "source": "WJLA",
+            "url": "https://wjla.com/news/local/dc-primary-results-delayed-hours-mail-ballots-counted",
+            "date": "2026-06-17",
+            "summary": "DC primary results were delayed for hours as election officials counted a high volume of mail-in ballots under the new ranked choice system."
+          },
+          {
+            "title": "Mail ballots delay announcement of DC mayor primary winner",
+            "source": "Washington Times",
+            "url": "https://www.washingtontimes.com/news/2026/jun/17/mail-ballots-delay-announcement-dc-mayor-primary-winner/",
+            "date": "2026-06-17",
+            "summary": "The winner of the DC mayor primary could not be declared election night due to outstanding mail ballots under the new ranked choice voting rules."
+          },
+          {
+            "title": "Supreme Court rules on Voting Rights Act in Alabama case",
+            "source": "The Hill",
+            "url": "https://thehill.com/regulation/court-battles/2026/06/10/supreme-court-voting-rights-act-alabama/",
+            "date": "2026-06-10",
+            "summary": "The U.S. Supreme Court issued a significant ruling on the Voting Rights Act in a case originating from Alabama, with implications for redistricting nationwide."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Delaware considers state Voting Rights Act legislation in response to Supreme Court ruling",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-06-07/delaware-considers-state-voting-rights-act-legislation-in-response-to-supreme-court-ruling",
+            "date": "2026-06-07",
+            "summary": "Delaware legislators are considering passing a state-level Voting Rights Act in response to the U.S. Supreme Court limiting federal VRA protections."
+          },
+          {
+            "title": "Two voting rights constitutional amendments pass Delaware House",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-06-17/two-voting-rights-constitutional-amendments-pass-delaware-house",
+            "date": "2026-06-17",
+            "summary": "The Delaware House passed two constitutional amendments that would expand voting rights protections, sending them to the Senate."
+          },
+          {
+            "title": "Two voting rights amendments advance in Delaware legislature",
+            "source": "WDEL",
+            "url": "https://www.wdel.com/news/two-voting-rights-amendments-advance-in-delaware-legislature/article_2026de-amendvr.html",
+            "date": "2026-06-17",
+            "summary": "Delaware lawmakers advanced two constitutional amendments strengthening voting rights, requiring approval in two consecutive legislative sessions before voter ratification."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Florida Supreme Court rejects redistricting challenge",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/elections/florida-supreme-court-rejects-redistricting-challenge-rcna212901",
+            "date": "2026-06-10",
+            "summary": "The Florida Supreme Court rejected a legal challenge to the state legislative redistricting maps, upholding the Republican-drawn boundaries."
+          },
+          {
+            "title": "Florida Supreme Court rejects redistricting challenge, upholds GOP maps",
+            "source": "WUSF",
+            "url": "https://wusfnews.wusf.usf.edu/politics-issues/2026-06-11/florida-supreme-court-rejects-redistricting-challenge-upholds-gop-maps",
+            "date": "2026-06-11",
+            "summary": "The Florida Supreme Court ruled in favor of Republican-drawn legislative maps, dismissing challenges that alleged partisan and racial gerrymandering."
+          },
+          {
+            "title": "Florida candidate qualifying period ends with crowded congressional races",
+            "source": "WGCU/WUSF",
+            "url": "https://wusfnews.wusf.usf.edu/politics-issues/2026-06-12/florida-candidate-qualifying-period-ends-crowded-congressional-races",
+            "date": "2026-06-12",
+            "summary": "Florida closed its candidate qualifying period with multiple contested congressional primaries, setting up competitive races in November."
+          },
+          {
+            "title": "New Florida congressional map shakes up November elections",
+            "source": "WUSF",
+            "url": "https://wusfnews.wusf.usf.edu/politics-issues/2026-06-15/new-florida-congressional-map-shakes-up-november-elections",
+            "date": "2026-06-15",
+            "summary": "A new Florida congressional map approved by the Republican-controlled legislature is reshaping the electoral landscape ahead of November."
+          },
+          {
+            "title": "Florida citizenship verification requirements for voter registration take effect",
+            "source": "MySuncoast",
+            "url": "https://www.mysuncoast.com/2026/06/16/florida-citizenship-verification-requirements-voter-registration-take-effect/",
+            "date": "2026-06-16",
+            "summary": "New Florida laws requiring documentary proof of citizenship for voter registration went into effect, drawing both support and legal challenges."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Collins wins Georgia Senate, Trump pick loses governor race in Republican primary",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/06/16/georgia-primary-results-collins-senate-trump-governor",
+            "date": "2026-06-16",
+            "summary": "Georgia Republicans chose Rep. Mike Collins for U.S. Senate while rejecting Donald Trump endorsee Brian Jack in the governor primary, setting up notable November matchups."
+          },
+          {
+            "title": "Georgia shelves redistricting in special legislative session",
+            "source": "Axios",
+            "url": "https://www.axios.com/local/atlanta/2026/06/17/georgia-special-session-redistricting-shelved",
+            "date": "2026-06-17",
+            "summary": "Georgia legislators chose not to take up redistricting during a special session despite a court order, setting up continued legal battles."
+          },
+          {
+            "title": "Georgia lawmakers scuttle redistricting effort in special session",
+            "source": "WABE",
+            "url": "https://www.wabe.org/2026/06/17/georgia-lawmakers-scuttle-redistricting-effort-in-special-session/",
+            "date": "2026-06-17",
+            "summary": "The Georgia legislature declined to act on redistricting during a court-ordered special session, leaving the issue unresolved ahead of elections."
+          },
+          {
+            "title": "Georgia Republicans to ban QR codes on ballots after primary mishaps",
+            "source": "PBS NewsHour",
+            "url": "https://www.pbs.org/newshour/politics/georgia-republicans-ban-qr-codes-ballots-primary-mishaps",
+            "date": "2026-06-14",
+            "summary": "Georgia Republicans are moving to ban QR codes from ballots following problems in the primary election where voters could not verify their selections."
+          },
+          {
+            "title": "Georgia runoff results: Collins, Kemp, and more",
+            "source": "Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com/politics/georgia-primary-runoff-results-2026/",
+            "date": "2026-06-16",
+            "summary": "Full results from the Georgia Republican primary runoffs, including the U.S. Senate race and the governor contest."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Iowa nominates 2026 candidates in primary election",
+            "source": "Iowa Public Radio",
+            "url": "https://www.iowapublicradio.org/politics-issues/2026-06-04/iowa-nominates-2026-candidates-in-primary-election",
+            "date": "2026-06-04",
+            "summary": "Iowa held its primary election, nominating candidates for U.S. Senate, governor, and other statewide races ahead of the November election."
+          },
+          {
+            "title": "Iowa primary turnout up from 2022 midterms",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/06/04/iowa-primary-turnout-up-from-2022-midterms/",
+            "date": "2026-06-04",
+            "summary": "Iowa saw increased primary turnout compared to the last midterm cycle, with competitive races driving higher voter participation."
+          },
+          {
+            "title": "Three Libertarian candidates face ballot access challenges in Iowa",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/06/11/three-libertarian-candidates-face-ballot-access-challenges-in-iowa/",
+            "date": "2026-06-11",
+            "summary": "Three Libertarian Party candidates for Iowa state offices face challenges to their ballot access from Republican-aligned groups."
+          },
+          {
+            "title": "Panel removes three Libertarian candidates from Iowa ballot",
+            "source": "Iowa Public Radio",
+            "url": "https://www.iowapublicradio.org/politics-issues/2026-06-16/panel-removes-three-libertarian-candidates-from-iowa-ballot",
+            "date": "2026-06-16",
+            "summary": "A state panel ruled to remove three Libertarian Party candidates from the Iowa ballot over petition signature issues, following a pattern seen in other states."
+          },
+          {
+            "title": "Libertarians kicked off Iowa ballot amid RFK Jr. political pressure",
+            "source": "Little Village",
+            "url": "https://littlevillagemag.com/libertarians-kicked-off-iowa-ballot-amid-rfk-jr-political-pressure/",
+            "date": "2026-06-16",
+            "summary": "Iowa Libertarian candidates were removed from the 2026 ballot in a decision critics linked to pressure from supporters of Robert F. Kennedy Jr."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Idaho certifies results of May primary election",
+            "source": "Idaho Capital Sun",
+            "url": "https://idahocapitalsun.com/2026/06/09/idaho-certifies-results-of-may-primary-election/",
+            "date": "2026-06-09",
+            "summary": "Idaho officials certified the results of the May primary election, setting the field for November contests including the U.S. Senate race."
+          },
+          {
+            "title": "Idaho certifies May primary election results",
+            "source": "Boise State Public Radio",
+            "url": "https://www.boisestatepublicradio.org/politics-elections/2026-06-10/idaho-certifies-may-primary-election-results",
+            "date": "2026-06-10",
+            "summary": "The Idaho Secretary of State certified the May 2026 primary results, finalizing the nominees for statewide and congressional races."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Beau Bayh wins Democratic nomination for Indiana Secretary of State",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/06/06/beau-bayh-wins-democratic-nomination-for-indiana-secretary-of-state/",
+            "date": "2026-06-06",
+            "summary": "Beau Bayh won the Democratic nomination for Indiana Secretary of State, setting up a fall contest against the Republican incumbent."
+          },
+          {
+            "title": "Indiana Secretary of State recount decision on hold",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/06/09/indiana-secretary-of-state-recount-decision-on-hold/",
+            "date": "2026-06-09",
+            "summary": "A request for a recount in the Republican Secretary of State primary is on hold pending a court ruling on the eligibility of votes."
+          },
+          {
+            "title": "GOP Secretary of State candidates make their pitches ahead of convention",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/06/10/gop-secretary-of-state-candidates-make-their-pitches-ahead-of-convention/",
+            "date": "2026-06-10",
+            "summary": "Republican candidates for Indiana Secretary of State were competing for support from party delegates ahead of the state convention."
+          },
+          {
+            "title": "Rep. Jim Banks influence looms over Indiana Secretary of State race",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/06/15/rep-jim-banks-influence-looms-over-indiana-secretary-of-state-race/",
+            "date": "2026-06-15",
+            "summary": "U.S. Rep. Jim Banks is playing an outsized role in the Republican Secretary of State race, backing a preferred candidate ahead of the state convention."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas Republican governor candidates face off in debate",
+            "source": "Kansas Reflector",
+            "url": "https://kansasreflector.com/2026/06/05/kansas-republican-governor-candidates-face-off-in-debate/",
+            "date": "2026-06-05",
+            "summary": "Kansas Republican governor candidates debated ahead of the August primary, clashing over taxes, immigration, and education."
+          },
+          {
+            "title": "Who is pushing the Kansas Supreme Court amendment and why",
+            "source": "Kansas Reflector",
+            "url": "https://kansasreflector.com/2026/06/09/who-is-pushing-the-kansas-supreme-court-amendment-and-why/",
+            "date": "2026-06-09",
+            "summary": "A look at the groups and interests backing a Kansas constitutional amendment that would change how Supreme Court justices are selected."
+          },
+          {
+            "title": "Kansas Republicans could delay the 2026 special U.S. Senate election",
+            "source": "Kansas Reflector",
+            "url": "https://kansasreflector.com/2026/06/17/kansas-republicans-could-delay-the-2026-special-us-senate-election/",
+            "date": "2026-06-17",
+            "summary": "Kansas Republican legislators are weighing a plan to delay the special U.S. Senate election, which could alter the timeline for filling the vacant seat."
+          },
+          {
+            "title": "Kansas changes mail ballot return deadline",
+            "source": "Lawrence Times",
+            "url": "https://lawrencekstimes.com/2026/06/17/kansas-changes-mail-ballot-return-deadline/",
+            "date": "2026-06-17",
+            "summary": "Kansas updated its mail ballot return deadline rules, changing when ballots must arrive to be counted in the August primary and November election."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Democrat chances in Kentucky 6th Congressional District",
+            "source": "Kentucky Lantern",
+            "url": "https://kentuckylantern.com/2026/06/09/democrats-chances-in-kentuckys-6th-congressional-district/",
+            "date": "2026-06-09",
+            "summary": "An analysis of Democratic prospects in Kentucky 6th Congressional District, where a competitive challenger faces an incumbent in a traditionally Republican-leaning seat."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Early voting opens for Louisiana June 27 runoffs",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/06/11/early-voting-opens-for-louisiana-june-27-runoffs/",
+            "date": "2026-06-11",
+            "summary": "Louisiana opened early voting for the June 27 primary runoff elections, with contests for U.S. Senate and other offices on the ballot."
+          },
+          {
+            "title": "Louisiana no-party voters may access runoff elections under new rules",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/06/15/louisiana-no-party-voters-may-access-runoff-elections-under-new-rules/",
+            "date": "2026-06-15",
+            "summary": "Louisiana voters registered with no party affiliation may now participate in runoff elections under new rules that expand access to independent voters."
+          },
+          {
+            "title": "Early voting underway in Louisiana ahead of June 27 runoffs",
+            "source": "KSLA",
+            "url": "https://www.ksla.com/2026/06/12/early-voting-underway-louisiana-ahead-june-27-runoffs/",
+            "date": "2026-06-12",
+            "summary": "Early voting is underway in Louisiana ahead of the June 27 primary runoff elections, with election officials encouraging voters to cast ballots before election day."
+          }
+        ],
+        "MA": [
+          {
+            "title": "10 ballot questions make the cut for Massachusetts November ballot",
+            "source": "NBC Boston",
+            "url": "https://www.nbcboston.com/news/politics/10-ballot-questions-make-the-cut-for-massachusetts-november-ballot/",
+            "date": "2026-06-03",
+            "summary": "Massachusetts certified 10 ballot questions for the November election, including measures on healthcare, labor, and civil rights."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland sends duplicate replacement ballot to voters who already voted",
+            "source": "Maryland Matters",
+            "url": "https://www.marylandmatters.org/2026/06/09/maryland-sends-duplicate-replacement-ballot-to-voters-who-already-voted/",
+            "date": "2026-06-09",
+            "summary": "Maryland election officials sent replacement mail-in ballots to thousands of voters who had already voted, causing confusion ahead of the early voting period."
+          },
+          {
+            "title": "Nonpartisan races appear on wrong-party ballots in Maryland county",
+            "source": "WYPR",
+            "url": "https://www.wypr.org/politics/2026-06-10/nonpartisan-races-appear-on-wrong-party-ballots-in-maryland-county",
+            "date": "2026-06-10",
+            "summary": "A printing error caused nonpartisan judicial and school board races to appear on the wrong party primary ballots in a Maryland county."
+          },
+          {
+            "title": "Early voting begins in Maryland for 2026 primary election",
+            "source": "CBS Baltimore",
+            "url": "https://www.cbsnews.com/baltimore/news/early-voting-begins-in-maryland-for-2026-primary-election/",
+            "date": "2026-06-11",
+            "summary": "Maryland opened early voting sites across the state for the 2026 primary election, with polls open for eight days before the June 24 primary."
+          },
+          {
+            "title": "Maryland early voting launches ahead of June primary",
+            "source": "Fox Baltimore",
+            "url": "https://foxbaltimore.com/news/local/maryland-early-voting-launches-june-primary-2026",
+            "date": "2026-06-11",
+            "summary": "Maryland launched early voting for the 2026 primary, giving voters an eight-day window to cast ballots at designated sites."
+          },
+          {
+            "title": "Maryland early voting turnout lower than 2022 as primary nears",
+            "source": "WYPR",
+            "url": "https://www.wypr.org/politics/2026-06-16/maryland-early-voting-turnout-lower-than-2022-as-primary-nears",
+            "date": "2026-06-16",
+            "summary": "Early voting turnout in Maryland is tracking below 2022 levels heading into the final days before the June 24 primary."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Maine ranked choice voting tabulation begins for primary results",
+            "source": "Bangor Daily News",
+            "url": "https://www.bangordailynews.com/2026/06/12/politics/maine-ranked-choice-voting-tabulation-begins-for-primary-results/",
+            "date": "2026-06-12",
+            "summary": "Maine election officials began the ranked choice voting tabulation process for the June primary, with several races too close to call on election night."
+          },
+          {
+            "title": "Maine continues ranked choice voting runoff tabulation",
+            "source": "Maine Public",
+            "url": "https://www.mainepublic.org/politics-elections/2026-06-15/maine-continues-ranked-choice-voting-runoff-tabulation",
+            "date": "2026-06-15",
+            "summary": "Maine election officials continued the ranked choice voting tabulation process for primary races, with results expected later in the week."
+          },
+          {
+            "title": "Maine ranked choice voting results pushed back to Thursday",
+            "source": "Maine Public",
+            "url": "https://www.mainepublic.org/politics-elections/2026-06-17/maine-ranked-choice-voting-results-pushed-back-to-thursday",
+            "date": "2026-06-17",
+            "summary": "Maine delayed the announcement of ranked choice voting results to Thursday as election officials worked through the multi-round tabulation process."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan Senate passes state Voting Rights Act",
+            "source": "Michigan Advance",
+            "url": "https://michiganadvance.com/2026/06/16/michigan-senate-passes-state-voting-rights-act/",
+            "date": "2026-06-16",
+            "summary": "The Michigan Senate passed a state-level Voting Rights Act that would provide voting protections beyond federal law, sending the bill to the governor."
+          },
+          {
+            "title": "Michigan Senate adopts voter bill of rights legislation",
+            "source": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-elections/2026-06-16/michigan-senate-adopts-voter-bill-of-rights-legislation",
+            "date": "2026-06-16",
+            "summary": "Michigan Democratic-controlled Senate adopted a voter bill of rights package designed to strengthen voting protections in the state."
+          },
+          {
+            "title": "Michigan Senate Democrats pass Voting Rights Act package",
+            "source": "CBS Detroit",
+            "url": "https://www.cbsnews.com/detroit/news/michigan-senate-democrats-pass-voting-rights-act-package/",
+            "date": "2026-06-16",
+            "summary": "Michigan Senate Democrats passed a comprehensive Voting Rights Act package that includes protections for minority voters and expands access to the ballot."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Minnesota certifies candidates for 2026 primary election",
+            "source": "Brainerd Dispatch",
+            "url": "https://www.brainerddispatch.com/news/local/2026/06/08/minnesota-certifies-candidates-for-2026-primary-election/",
+            "date": "2026-06-08",
+            "summary": "Minnesota certified the list of candidates who will appear on the August primary ballot, setting the field for statewide and congressional races."
+          },
+          {
+            "title": "Minnesota poll shows DFL leads in governor and Senate races",
+            "source": "KARE 11",
+            "url": "https://www.kare11.com/article/news/politics/minnesota-poll-dfl-governor-senate-2026/89-2026mn-poll",
+            "date": "2026-06-15",
+            "summary": "A new Minnesota poll shows Democratic-Farmer-Labor candidates leading in the governor and U.S. Senate races ahead of the August primary."
+          },
+          {
+            "title": "Minnesota polls favor DFL candidates for governor and U.S. Senate",
+            "source": "KTTC",
+            "url": "https://www.kttc.com/2026/06/15/minnesota-polls-favor-dfl-candidates-governor-senate/",
+            "date": "2026-06-15",
+            "summary": "New polling shows DFL candidates ahead in Minnesota governor and Senate races, though Republicans say the races remain competitive."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri courts rewriting ballot language for voter initiatives",
+            "source": "Missouri Independent",
+            "url": "https://missouriindependent.com/2026/06/12/missouri-courts-rewriting-ballot-language-for-voter-initiatives/",
+            "date": "2026-06-12",
+            "summary": "Missouri courts have been rewriting ballot summary language for voter initiatives that critics say was drafted to mislead voters about the measures effects."
+          },
+          {
+            "title": "Missouri courts rewriting unfair ballot language on voter initiatives",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-government/2026-06-14/missouri-courts-rewriting-unfair-ballot-language-on-voter-initiatives",
+            "date": "2026-06-14",
+            "summary": "Courts in Missouri have repeatedly struck down and rewritten the official ballot language for citizen initiatives, finding that state-drafted summaries were biased against the measures."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Mississippi attorney general sends redistricting preparation letter to legislators",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/06/16/mississippi-attorney-general-sends-redistricting-preparation-letter-to-legislators/",
+            "date": "2026-06-16",
+            "summary": "Mississippi Attorney General Lynn Fitch sent a letter to legislative leaders outlining requirements for the upcoming redistricting process following the 2026 elections."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Montana sets record for midterm primary turnout",
+            "source": "Montana Free Press",
+            "url": "https://montanafreepress.org/2026/06/09/montana-sets-record-for-midterm-primary-turnout/",
+            "date": "2026-06-09",
+            "summary": "Montana recorded its highest-ever midterm primary turnout in the June 2026 election, driven by competitive races for U.S. Senate and governor."
+          },
+          {
+            "title": "Montana June 2026 primary: Key takeaways from election night",
+            "source": "Montana Free Press",
+            "url": "https://montanafreepress.org/2026/06/05/montana-june-2026-primary-key-takeaways-from-election-night/",
+            "date": "2026-06-05",
+            "summary": "Key takeaways from Montana June primary election, including results in the U.S. Senate race and competitive legislative contests."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina House advances sweeping elections bill",
+            "source": "WUNC",
+            "url": "https://www.wunc.org/politics/2026-06-16/north-carolina-house-advances-sweeping-elections-bill",
+            "date": "2026-06-16",
+            "summary": "The North Carolina House passed a comprehensive elections bill that makes changes to absentee voting, voter ID requirements, and election administration."
+          },
+          {
+            "title": "North Carolina bill would add new requirements for overseas voters",
+            "source": "NC Newsline",
+            "url": "https://ncnewsline.com/2026/06/15/north-carolina-bill-would-add-new-requirements-for-overseas-voters/",
+            "date": "2026-06-15",
+            "summary": "A North Carolina elections bill would impose new requirements on overseas voters, including members of the military, to verify their identity."
+          },
+          {
+            "title": "North Carolina considers making local elections partisan",
+            "source": "WUNC",
+            "url": "https://www.wunc.org/politics/2026-06-09/north-carolina-considers-making-local-elections-partisan",
+            "date": "2026-06-09",
+            "summary": "North Carolina legislators are considering legislation that would require partisan labels on ballots for local school board and county commission races."
+          },
+          {
+            "title": "North Carolina election law would eliminate donor secrecy, add audit changes",
+            "source": "WRAL",
+            "url": "https://www.wral.com/story/north-carolina-election-law-would-eliminate-donor-secrecy-add-audit-changes/21500000/",
+            "date": "2026-06-15",
+            "summary": "A North Carolina elections overhaul bill would eliminate donor secrecy protections and make changes to post-election audit procedures."
+          },
+          {
+            "title": "North Carolina election overhaul bill advances through legislature",
+            "source": "WNCT",
+            "url": "https://www.wnct.com/news/north-carolina/north-carolina-election-overhaul-bill-advances-through-legislature/",
+            "date": "2026-06-16",
+            "summary": "A sweeping North Carolina elections bill advanced through the legislature, drawing both support and opposition from voting rights advocates."
+          }
+        ],
+        "ND": [
+          {
+            "title": "North Dakota primary results: Incumbents survive, some face close races",
+            "source": "North Dakota Monitor",
+            "url": "https://northdakotamonitor.com/2026/06/09/north-dakota-primary-results/",
+            "date": "2026-06-09",
+            "summary": "North Dakota primary results showed most incumbents surviving challenges, though several races were competitive in the Republican-dominated state."
+          },
+          {
+            "title": "North Dakota adopts single-subject rule for ballot measures",
+            "source": "North Dakota Monitor",
+            "url": "https://northdakotamonitor.com/2026/06/09/north-dakota-adopts-single-subject-rule-for-ballot-measures/",
+            "date": "2026-06-09",
+            "summary": "North Dakota voters approved a constitutional amendment requiring ballot measures to address only a single subject, limiting the scope of future citizen initiatives."
+          },
+          {
+            "title": "North Dakota primary turnout reaches 21 percent",
+            "source": "North Dakota Monitor",
+            "url": "https://northdakotamonitor.com/2026/06/10/north-dakota-primary-turnout-reaches-21-percent/",
+            "date": "2026-06-10",
+            "summary": "North Dakota reported 21 percent voter turnout in the June primary election, consistent with recent midterm primary averages in the state."
+          },
+          {
+            "title": "North Dakota Democrats seek attorney general opinion on filling deceased lawmaker seat",
+            "source": "North Dakota Monitor",
+            "url": "https://northdakotamonitor.com/2026/06/05/north-dakota-democrats-seek-attorney-general-opinion-on-filling-deceased-lawmaker-seat/",
+            "date": "2026-06-05",
+            "summary": "North Dakota Democrats asked the state attorney general for guidance on the proper process to fill a legislative seat after a lawmaker died before the primary."
+          },
+          {
+            "title": "Six incumbent North Dakota lawmakers ousted in primary election",
+            "source": "North Dakota Monitor",
+            "url": "https://northdakotamonitor.com/2026/06/10/six-incumbent-north-dakota-lawmakers-ousted-in-primary-election/",
+            "date": "2026-06-10",
+            "summary": "Six incumbent North Dakota state legislators lost their primary races, with challengers from both the right and left scoring upsets."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Nebraska certifies May primary election results",
+            "source": "Nebraska Examiner",
+            "url": "https://nebraskaexaminer.com/2026/06/08/nebraska-certifies-may-primary-election-results/",
+            "date": "2026-06-08",
+            "summary": "Nebraska officials certified the results of the May primary election, finalizing nominees for the U.S. Senate and congressional races."
+          },
+          {
+            "title": "Nebraska advocates end petition effort for ballot initiative",
+            "source": "Nebraska Examiner",
+            "url": "https://nebraskaexaminer.com/2026/06/10/nebraska-advocates-end-petition-effort-for-ballot-initiative/",
+            "date": "2026-06-10",
+            "summary": "Nebraska advocates announced they are ending a ballot initiative petition drive after falling short of the required signatures to qualify for the November ballot."
+          }
+        ],
+        "NH": [
+          {
+            "title": "New Hampshire candidate filing period continues for 2026 elections",
+            "source": "NHPR",
+            "url": "https://www.nhpr.org/nh-news/2026-06-08/new-hampshire-candidate-filing-period-continues-for-2026-elections",
+            "date": "2026-06-08",
+            "summary": "New Hampshire candidate filing period continued for 2026 state and federal races, with competitive contests expected for U.S. Senate and governor."
+          },
+          {
+            "title": "The table is set for New Hampshire fall elections after filing period",
+            "source": "InDepthNH",
+            "url": "https://indepthnh.org/2026/06/13/the-table-is-set-for-new-hampshire-fall-elections-after-filing-period/",
+            "date": "2026-06-13",
+            "summary": "After the close of candidate filing, New Hampshire has a full slate of contested races heading into the 2026 election season."
+          },
+          {
+            "title": "New Hampshire candidate filing period closes ahead of September primary",
+            "source": "Boston Globe",
+            "url": "https://www.bostonglobe.com/2026/06/15/metro/new-hampshire-candidate-filing-period-closes-ahead-of-september-primary/",
+            "date": "2026-06-15",
+            "summary": "New Hampshire closed its candidate filing window, setting the field for the September primary and November general election."
+          },
+          {
+            "title": "New Hampshire 2026 elections to watch: Senate, governor, and more",
+            "source": "Granite Post News",
+            "url": "https://granitepostnews.com/2026/06/13/new-hampshire-2026-elections-to-watch/",
+            "date": "2026-06-13",
+            "summary": "A roundup of the New Hampshire races to watch in 2026, including the competitive U.S. Senate and governor contests."
+          },
+          {
+            "title": "New Hampshire candidate filing update: Who is running in 2026",
+            "source": "NH Journal",
+            "url": "https://nhjournal.com/2026/06/12/new-hampshire-candidate-filing-update-who-is-running-in-2026/",
+            "date": "2026-06-12",
+            "summary": "An update on candidates who have filed for New Hampshire races in 2026, including congressional, executive council, and state legislative contests."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "McIver Third Circuit appeal to be argued June 23",
+            "source": "NJ Globe",
+            "url": "https://newjerseyglobe.com/elections/mciver-third-circuit-appeal-to-be-argued-june-23/",
+            "date": "2026-06-06",
+            "summary": "A federal appeals court will hear arguments in the case challenging the disqualification of a New Jersey Democratic Senate candidate, with the Third Circuit taking up the McIver appeal."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Bernalillo County certifies 2026 primary election results",
+            "source": "Bernalillo County Clerk",
+            "url": "https://www.bernco.gov/clerk/2026-primary-election-certification/",
+            "date": "2026-06-15",
+            "summary": "Bernalillo County certified its 2026 primary election results, finalizing local and statewide race outcomes from the June 3 election."
+          },
+          {
+            "title": "New Mexico Secretary of State touts successful semi-open primary",
+            "source": "Source NM",
+            "url": "https://sourcenm.com/2026/06/05/new-mexico-secretary-of-state-touts-successful-semi-open-primary/",
+            "date": "2026-06-05",
+            "summary": "New Mexico Secretary of State highlighted the smooth administration of the state semi-open primary, in which unaffiliated voters could participate in either party primary."
+          },
+          {
+            "title": "Haaland and Hull win New Mexico governor primaries",
+            "source": "Albuquerque Journal",
+            "url": "https://www.abqjournal.com/news/local/haaland-hull-win-nm-governor-primaries/article_2026nm-gov-primary.html",
+            "date": "2026-06-05",
+            "summary": "Former Interior Secretary Deb Haaland won the Democratic governor primary and Republican Steve Hull won the GOP primary, setting up the November matchup in New Mexico."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Nevada primary recap: New voting machines get first real test",
+            "source": "Nevada Current",
+            "url": "https://nevadacurrent.com/2026/06/10/nevada-primary-recap-new-voting-machines-get-first-real-test/",
+            "date": "2026-06-10",
+            "summary": "Nevada new voting machines were used statewide for the first time in the June primary, with election officials reporting a successful rollout."
+          },
+          {
+            "title": "Nevada primary election results 2026",
+            "source": "Nevada Current",
+            "url": "https://nevadacurrent.com/2026/06/10/nevada-primary-election-results-2026/",
+            "date": "2026-06-10",
+            "summary": "Full results from the Nevada 2026 primary election, including races for U.S. Senate, governor, and congressional seats."
+          },
+          {
+            "title": "Jim Marchant wins Nevada Republican Secretary of State primary",
+            "source": "KOLO TV",
+            "url": "https://www.kolotv.com/2026/06/16/jim-marchant-wins-nevada-republican-secretary-of-state-primary/",
+            "date": "2026-06-16",
+            "summary": "Election denier Jim Marchant won the Nevada Republican Secretary of State primary, setting up a rematch against Democratic incumbent Cisco Aguilar."
+          },
+          {
+            "title": "Nevada mail ballot signature cure deadline approaches",
+            "source": "News3LV",
+            "url": "https://news3lv.com/news/local/nevada-mail-ballot-signature-cure-deadline-approaches",
+            "date": "2026-06-12",
+            "summary": "Nevada voters who returned mail ballots with signature issues had until the cure deadline to fix the problem and have their votes counted."
+          },
+          {
+            "title": "Who voted in Nevada: An analysis of 2026 primary turnout",
+            "source": "Nevada Independent",
+            "url": "https://thenevadaindependent.com/article/who-voted-in-nevada-an-analysis-of-2026-primary-turnout",
+            "date": "2026-06-11",
+            "summary": "An analysis of who voted in Nevada 2026 primary election, examining turnout by party, county, and demographic group."
+          }
+        ],
+        "NY": [
+          {
+            "title": "More than 16,500 New Yorkers vote on day one of early voting",
+            "source": "NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/14/more-than-16-500-new-yorkers-vote-on-day-one-of-early-voting",
+            "date": "2026-06-14",
+            "summary": "More than 16,500 New York City voters cast ballots on the first day of early voting for the June primary, with competitive Democratic primaries for mayor and other offices."
+          },
+          {
+            "title": "More than 44,000 New Yorkers have voted in first three days of early voting",
+            "source": "NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/15/more-than-44-000-new-yorkers-have-voted-in-first-three-days-of-early-voting",
+            "date": "2026-06-15",
+            "summary": "Early voting participation in New York City reached more than 44,000 ballots in the first three days, with several competitive primary races driving turnout."
+          },
+          {
+            "title": "Early voting in NYC reaches 62,000 in fourth day",
+            "source": "NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/17/early-voting-nyc-reaches-62000-in-fourth-day",
+            "date": "2026-06-17",
+            "summary": "Early voting in New York City continued to grow, reaching 62,000 ballots cast through the fourth day of the early voting period."
+          },
+          {
+            "title": "Few voters show up to early vote for Mamdani despite leading in polls",
+            "source": "Gothamist",
+            "url": "https://gothamist.com/news/few-voters-show-up-to-early-vote-for-mamdani-despite-leading-in-polls",
+            "date": "2026-06-18",
+            "summary": "Despite polling well in the New York City mayoral primary, candidate Zohran Mamdani has seen modest early voting turnout at his targeted polling sites."
+          },
+          {
+            "title": "New York lawmakers approve redistricting reform amendment",
+            "source": "Redistricting Online",
+            "url": "https://redistrictingonline.org/2026/06/09/new-york-lawmakers-approve-redistricting-reform-amendment/",
+            "date": "2026-06-09",
+            "summary": "New York legislators approved a constitutional amendment to reform the redistricting process, reducing partisan influence in drawing district lines."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio voter photo ID constitutional amendment to go on November ballot",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/06/10/ohio-voter-photo-id-constitutional-amendment-to-go-on-november-ballot/",
+            "date": "2026-06-10",
+            "summary": "Ohio legislators voted to put a constitutional amendment on the November ballot that would require photo ID for voting, going beyond the current state law."
+          },
+          {
+            "title": "Ohio absentee voter ID bill advances through legislature",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/06/10/ohio-absentee-voter-id-bill-advances-through-legislature/",
+            "date": "2026-06-10",
+            "summary": "Ohio lawmakers advanced a bill that would require voters casting absentee ballots to provide additional identification, tightening mail voting rules."
+          },
+          {
+            "title": "FBI searches Ohio voting rights organization",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/06/12/fbi-searches-ohio-voting-rights-organization/",
+            "date": "2026-06-12",
+            "summary": "Federal agents searched the offices of an Ohio voting rights organization as part of an investigation, drawing condemnation from civil rights groups."
+          },
+          {
+            "title": "FBI searches Ohio voter registration group amid investigation",
+            "source": "PBS NewsHour",
+            "url": "https://www.pbs.org/newshour/politics/fbi-searches-ohio-voter-registration-group-amid-investigation",
+            "date": "2026-06-12",
+            "summary": "The FBI conducted a search of an Ohio voter registration organization, raising concerns among voting rights advocates about the targeting of civic groups."
+          },
+          {
+            "title": "Ohio voter ID constitutional amendment headed to November ballot",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/06/12/ohio-voter-id-constitutional-amendment-headed-to-november-ballot/",
+            "date": "2026-06-12",
+            "summary": "Ohio voter photo ID constitutional amendment was officially certified for the November ballot, setting up a high-profile election law vote."
+          }
+        ],
+        "OK": [
+          {
+            "title": "What is on the Oklahoma primary ballot for June 16",
+            "source": "Oklahoma Voice",
+            "url": "https://oklahomavoice.com/2026/06/15/whats-on-the-oklahoma-primary-ballot-for-june-16/",
+            "date": "2026-06-15",
+            "summary": "A voter guide to the races and questions on the Oklahoma primary ballot, including the U.S. Senate race, state questions, and competitive legislative primaries."
+          },
+          {
+            "title": "Oklahoma early voting turnout up ahead of June primary",
+            "source": "Oklahoma Voice",
+            "url": "https://oklahomavoice.com/2026/06/15/oklahoma-early-voting-turnout-up-ahead-of-june-primary/",
+            "date": "2026-06-15",
+            "summary": "Oklahoma saw higher early voting turnout than recent comparable elections ahead of the June 16 primary, driven by competitive races at the top of the ballot."
+          },
+          {
+            "title": "Oklahoma voters reject minimum wage increase in primary election",
+            "source": "Oklahoma Voice",
+            "url": "https://oklahomavoice.com/2026/06/16/oklahoma-voters-reject-minimum-wage-increase-in-primary-election/",
+            "date": "2026-06-16",
+            "summary": "Oklahoma voters rejected a state question that would have raised the minimum wage, one of several measures decided in the June primary."
+          },
+          {
+            "title": "Tom Hern wins Oklahoma Republican Senate primary",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-elections/tom-hern-wins-oklahoma-republican-senate-primary-rcna214893",
+            "date": "2026-06-16",
+            "summary": "Rep. Tom Hern won the crowded Oklahoma Republican U.S. Senate primary, securing the nomination to succeed retiring Sen. James Lankford."
+          },
+          {
+            "title": "Oklahoma primary turnout down from peak years",
+            "source": "Oklahoma Voice",
+            "url": "https://oklahomavoice.com/2026/06/17/oklahoma-primary-turnout-down-from-peak-years/",
+            "date": "2026-06-17",
+            "summary": "Oklahoma primary turnout, while higher than very recent cycles, remains lower than the peak years of the Trump era, according to post-election analysis."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Nonaffiliated Oregon candidate files for Congress using new independent process",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/06/15/nonaffiliated-oregon-candidate-files-for-congress-using-new-independent-process/",
+            "date": "2026-06-15",
+            "summary": "A nonaffiliated Oregon candidate filed for a congressional seat using a new process that allows independent candidates to appear on the November ballot without running in a primary."
+          },
+          {
+            "title": "Oregon certifies 2026 primary election results",
+            "source": "Grants Pass Tribune",
+            "url": "https://www.gpstrib.com/news/oregon-certifies-2026-primary-election-results/",
+            "date": "2026-06-10",
+            "summary": "Oregon officials certified the results of the May 2026 primary election, finalizing nominees for statewide and congressional races."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pennsylvania certifies 2026 primary election results",
+            "source": "Pennsylvania Department of State",
+            "url": "https://www.pa.gov/agencies/dos/newsroom/2026/06/pennsylvania-certifies-2026-primary-election-results.html",
+            "date": "2026-06-06",
+            "summary": "Pennsylvania certified the results of the May 2026 primary election, setting the field for November contests including the U.S. Senate and governor races."
+          },
+          {
+            "title": "Democratic voter registration drops in Pennsylvania ahead of midterms",
+            "source": "Spotlight PA",
+            "url": "https://www.spotlightpa.org/news/2026/06/pennsylvania-democratic-voter-registration-drop-midterms/",
+            "date": "2026-06-10",
+            "summary": "Democratic voter registration in Pennsylvania has declined relative to Republicans since 2024, raising concerns for party officials ahead of key 2026 races."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Rhode Island Voting Rights Act stalls in legislature",
+            "source": "RI Current",
+            "url": "https://ricurrent.com/2026/06/09/rhode-island-voting-rights-act-stalls-in-legislature/",
+            "date": "2026-06-09",
+            "summary": "A Rhode Island state Voting Rights Act failed to advance in the legislature before the session deadline, disappointing voting rights advocates."
+          },
+          {
+            "title": "Rhode Island assembly will not vote on state Voting Rights Act this session",
+            "source": "Boston Globe",
+            "url": "https://www.bostonglobe.com/2026/06/09/metro/rhode-island-assembly-will-not-vote-on-state-voting-rights-act-this-session/",
+            "date": "2026-06-09",
+            "summary": "The Rhode Island General Assembly adjourned without taking up the state Voting Rights Act, which had been a priority for progressive legislators."
+          },
+          {
+            "title": "Rhode Island Democrats endorse Foulkes over incumbent legislators",
+            "source": "RI Current",
+            "url": "https://ricurrent.com/2026/06/09/rhode-island-democrats-endorse-foulkes-over-incumbent-legislators/",
+            "date": "2026-06-09",
+            "summary": "Rhode Island Democrats endorsed Erin Foulkes in a state legislative primary over incumbent representatives, reflecting divisions within the party."
+          },
+          {
+            "title": "McKee faces home-turf snub in Cumberland ahead of governor primary",
+            "source": "RI Current",
+            "url": "https://ricurrent.com/2026/06/16/mckee-faces-home-turf-snub-in-cumberland-ahead-of-governor-primary/",
+            "date": "2026-06-16",
+            "summary": "Gov. Dan McKee was denied his hometown Democratic committee endorsement in Cumberland ahead of the governor primary, a politically embarrassing snub."
+          }
+        ],
+        "SC": [
+          {
+            "title": "South Carolina governor runoff: Evette and Wilson head to runoff",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/06/09/south-carolina-governor-runoff-evette-wilson",
+            "date": "2026-06-09",
+            "summary": "South Carolina Republican governor primary headed to a runoff between Lt. Gov. Pamela Evette and Attorney General Alan Wilson after no candidate reached 50 percent."
+          },
+          {
+            "title": "South Carolina runoff rules: A voter guide",
+            "source": "WIS-TV",
+            "url": "https://www.wistv.com/2026/06/10/south-carolina-runoff-rules-voter-guide/",
+            "date": "2026-06-10",
+            "summary": "A guide to South Carolina runoff election rules, including eligibility, dates, and voting options for the July runoff races."
+          },
+          {
+            "title": "Early voting for South Carolina runoffs: How to cast your ballot",
+            "source": "SC Daily Gazette",
+            "url": "https://scdailygazette.com/2026/06/11/early-voting-south-carolina-runoffs/",
+            "date": "2026-06-11",
+            "summary": "A guide to early voting options for South Carolina July runoff elections, including locations, hours, and absentee voting procedures."
+          },
+          {
+            "title": "South Carolina runoff early voting begins this week",
+            "source": "Spectrum News SC",
+            "url": "https://spectrumlocalnews.com/sc/charlotte/news/2026/06/15/south-carolina-runoff-early-voting-begins-this-week",
+            "date": "2026-06-15",
+            "summary": "Early voting opened for South Carolina July runoff elections, giving voters an opportunity to cast ballots ahead of the July 14 runoff date."
+          },
+          {
+            "title": "South Carolina governor runoff early voting opens",
+            "source": "Live 5 News",
+            "url": "https://www.live5news.com/2026/06/17/south-carolina-governor-runoff-early-voting-opens/",
+            "date": "2026-06-17",
+            "summary": "Early voting opened at South Carolina county election offices for the July governor runoff between Pamela Evette and Alan Wilson."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Sioux Falls mayor race reveals Republican fractures ahead of primary",
+            "source": "South Dakota Searchlight",
+            "url": "https://southdakotasearchlight.com/2026/06/08/sioux-falls-mayor-race-reveals-republican-fractures-ahead-of-primary/",
+            "date": "2026-06-08",
+            "summary": "The competitive Sioux Falls mayoral race is exposing divisions within the South Dakota Republican Party ahead of the state primary election."
+          },
+          {
+            "title": "South Dakota governor runoff early voting begins",
+            "source": "KOTA TV",
+            "url": "https://www.kotatv.com/2026/06/13/south-dakota-governor-runoff-early-voting-begins/",
+            "date": "2026-06-13",
+            "summary": "Early voting started for South Dakota June governor runoff election, with Republican candidates competing for the nomination."
+          },
+          {
+            "title": "Sioux Falls mayor candidates face off in Q&A as Republican fractures grow",
+            "source": "South Dakota Searchlight",
+            "url": "https://southdakotasearchlight.com/2026/06/15/sioux-falls-mayor-candidates-face-off-qa-republican-fractures-grow/",
+            "date": "2026-06-15",
+            "summary": "Sioux Falls mayor candidates participated in a Q&A event that highlighted the growing ideological divide within the South Dakota Republican Party."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Tennessee court upholds redistricting, dismisses NAACP challenge",
+            "source": "WKRN",
+            "url": "https://www.wkrn.com/news/local-news/nashville/tennessee-court-upholds-redistricting-dismisses-naacp-challenge/",
+            "date": "2026-06-04",
+            "summary": "A Tennessee court dismissed a redistricting challenge from the NAACP, upholding the Republican-drawn legislative maps."
+          },
+          {
+            "title": "Tennessee NAACP plaintiffs vow to appeal redistricting ruling",
+            "source": "WKRN",
+            "url": "https://www.wkrn.com/news/local-news/nashville/tennessee-naacp-plaintiffs-vow-to-appeal-redistricting-ruling/",
+            "date": "2026-06-04",
+            "summary": "NAACP plaintiffs in a Tennessee redistricting case said they will appeal after a state court upheld the Republican-drawn maps."
+          },
+          {
+            "title": "NAACP files federal injunction against Tennessee congressional map",
+            "source": "Tennessee Lookout",
+            "url": "https://tennesseelookout.com/2026/06/10/naacp-files-federal-injunction-against-tennessee-congressional-map/",
+            "date": "2026-06-10",
+            "summary": "The NAACP filed a federal court injunction seeking to block Tennessee new congressional map, arguing it illegally dilutes Black voting power."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Texas Secretary of State appointment creates uncertainty",
+            "source": "Texas Tribune",
+            "url": "https://www.texastribune.org/2026/06/08/texas-secretary-of-state-appointment-uncertainty/",
+            "date": "2026-06-08",
+            "summary": "Texas faces uncertainty over its Secretary of State appointment as the Legislature considers changes to the election oversight role."
+          },
+          {
+            "title": "Texas election officials take over Val Verde County voter registration",
+            "source": "Texas Tribune",
+            "url": "https://www.texastribune.org/2026/06/12/texas-val-verde-county-voter-registration-takeover/",
+            "date": "2026-06-12",
+            "summary": "Texas state election officials took over voter registration operations in Val Verde County, citing concerns about administration of the county rolls."
+          },
+          {
+            "title": "Texas state takeover of Val Verde voter registration: What to know",
+            "source": "Votebeat",
+            "url": "https://votebeat.org/texas/2026/06/12/texas-val-verde-county-voter-registration-state-takeover-details/",
+            "date": "2026-06-12",
+            "summary": "Details on the Texas state takeover of Val Verde County voter registration, including what triggered the intervention and what it means for county voters."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Utah 1st Congressional District primary: Candidate profiles",
+            "source": "Standard-Examiner",
+            "url": "https://www.standard.net/news/politics/2026/06/13/utahs-1st-congressional-district-primary-candidate-profiles/",
+            "date": "2026-06-13",
+            "summary": "Profiles of the candidates competing in Utah 1st Congressional District Republican primary, a competitive race in northern Utah."
+          },
+          {
+            "title": "How to vote in Utah primary election 2026",
+            "source": "Utah News Dispatch",
+            "url": "https://utahnewsdispatch.com/2026/06/16/how-to-vote-utah-primary-election-2026/",
+            "date": "2026-06-16",
+            "summary": "A guide to voting in the 2026 Utah primary election, including registration status, voting locations, and mail ballot options."
+          },
+          {
+            "title": "Summit County early voting opens for Utah primary",
+            "source": "TownLift",
+            "url": "https://townlift.com/2026/06/16/summit-county-early-voting-opens-utah-primary/",
+            "date": "2026-06-16",
+            "summary": "Summit County opened early voting sites for the Utah primary election, allowing residents to cast ballots before election day."
+          },
+          {
+            "title": "Democratic ballots in high demand in Utah 1st Congressional District",
+            "source": "KUER",
+            "url": "https://www.kuer.org/politics-government/2026-06-17/democratic-ballots-utah-1st-congressional-district-primary",
+            "date": "2026-06-17",
+            "summary": "An unusually high number of voters in Utah 1st Congressional District are requesting Democratic primary ballots, signaling interest in the competitive race."
+          },
+          {
+            "title": "Republicans may decide Utah-1 Democratic primary as crossover interest surges",
+            "source": "Deseret News",
+            "url": "https://www.deseret.com/utah/2026/06/17/republicans-decide-utah-1-democratic-primary-crossover/",
+            "date": "2026-06-17",
+            "summary": "Crossover voting could play a decisive role in Utah 1st Congressional District Democratic primary as Republicans and independents request Democratic ballots."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Virginia primary early voting begins at registrar offices",
+            "source": "WAVY",
+            "url": "https://www.wavy.com/news/local-news/virginia-primary-early-voting-begins-at-registrar-offices/",
+            "date": "2026-06-17",
+            "summary": "Virginia opened early in-person voting at local registrar offices ahead of the June 17 primary election, which features competitive primaries for governor and other statewide offices."
+          },
+          {
+            "title": "Virginia Beach announces early voting locations for primary",
+            "source": "City of Virginia Beach",
+            "url": "https://www.vbgov.com/news/2026/06/virginia-beach-announces-early-voting-locations-primary/",
+            "date": "2026-06-18",
+            "summary": "Virginia Beach announced early voting locations and hours for the upcoming primary election, giving residents options to cast ballots before election day."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Initiative to repeal Washington income tax surcharges gathers signatures",
+            "source": "Spokesman-Review",
+            "url": "https://www.spokesman.com/stories/2026/jun/17/initiative-to-repeal-washington-income-tax-surchar/",
+            "date": "2026-06-17",
+            "summary": "Organizers of a Washington state initiative to repeal recently enacted income tax surcharges are gathering signatures to qualify the measure for the November ballot."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Madison deputy city clerk reassigned after losing track of ballots",
+            "source": "Votebeat",
+            "url": "https://votebeat.org/wisconsin/2026/06/04/madison-deputy-city-clerk-reassigned-lost-ballots/",
+            "date": "2026-06-04",
+            "summary": "A Madison deputy city clerk was reassigned after ballots were lost or mishandled during the primary election, raising concerns about election administration."
+          },
+          {
+            "title": "Wisconsin Elections Commission considers ballot access changes",
+            "source": "Wisconsin Examiner",
+            "url": "https://wisconsinexaminer.com/2026/06/09/wisconsin-elections-commission-considers-ballot-access-changes/",
+            "date": "2026-06-09",
+            "summary": "The Wisconsin Elections Commission is weighing changes to ballot access rules that would affect how third-party candidates qualify for future elections."
+          },
+          {
+            "title": "Wisconsin Democratic governor straw poll shows competitive primary",
+            "source": "Wisconsin Watch",
+            "url": "https://wisconsinwatch.org/2026/06/16/wisconsin-democratic-governor-straw-poll-shows-competitive-primary/",
+            "date": "2026-06-16",
+            "summary": "A straw poll of Wisconsin Democrats shows a competitive governor primary, with no candidate holding a commanding lead ahead of the August primary."
+          }
+        ],
+        "WV": [
+          {
+            "title": "West Virginia certifies 2026 primary election results",
+            "source": "West Virginia Secretary of State",
+            "url": "https://sos.wv.gov/News/2026/Pages/west-virginia-certifies-2026-primary-election-results.aspx",
+            "date": "2026-06-10",
+            "summary": "West Virginia officials certified the results of the May 2026 primary election, finalizing nominees for U.S. Senate, governor, and other statewide races."
+          },
+          {
+            "title": "West Virginia primary results officially certified",
+            "source": "West Virginia Public Broadcasting",
+            "url": "https://wvpublic.org/2026/06/10/west-virginia-primary-results-officially-certified/",
+            "date": "2026-06-10",
+            "summary": "West Virginia Secretary of State certified the May primary results, setting up general election contests including the U.S. Senate race."
+          },
+          {
+            "title": "West Virginia preliminary report shows increased unaffiliated voter participation",
+            "source": "Lootpress",
+            "url": "https://www.lootpress.com/2026/06/10/west-virginia-preliminary-report-shows-increased-unaffiliated-voter-participation/",
+            "date": "2026-06-10",
+            "summary": "A preliminary post-election report shows a notable increase in West Virginia voters registered as unaffiliated participating in the May primary."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Weston County gets new election clerk as 2026 cycle begins",
+            "source": "Wyoming Public Media",
+            "url": "https://www.wyomingpublicmedia.org/politics-elections/2026-06-05/weston-county-gets-new-election-clerk-as-2026-cycle-begins",
+            "date": "2026-06-05",
+            "summary": "Weston County, Wyoming installed a new election clerk ahead of the 2026 election cycle, bringing fresh administration to the rural county elections."
+          },
+          {
+            "title": "Wyoming voters switching to Republican registration ahead of 2026",
+            "source": "Wyoming Public Media",
+            "url": "https://www.wyomingpublicmedia.org/politics-elections/2026-06-09/wyoming-voters-switching-to-republican-registration-ahead-of-2026",
+            "date": "2026-06-09",
+            "summary": "Wyoming is seeing an uptick in voters switching their registration to Republican ahead of the 2026 primary, which is the decisive contest in the heavily GOP state."
+          },
+          {
+            "title": "Five Republicans and two Democrats vie for Wyoming U.S. Senate seat",
+            "source": "WyoFile",
+            "url": "https://wyofile.com/2026/06/12/five-republicans-two-democrats-wyoming-senate-seat/",
+            "date": "2026-06-12",
+            "summary": "Wyoming has a contested U.S. Senate primary with five Republican candidates and two Democrats competing for the seat held by retiring Sen. John Barrasso."
+          }
+        ]
+      }
     }
   ]
 }
