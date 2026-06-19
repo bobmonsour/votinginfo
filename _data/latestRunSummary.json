@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "items": [
     {
-      "text": "Alabama and Oklahoma held Republican Senate primaries: Barry Moore won Alabama's runoff, while Tom Hern won Oklahoma's crowded primary, both advancing to November.",
-      "url": "https://www.nbcnews.com/politics/2026-elections/barry-moore-wins-republican-us-senate-runoff-alabama-rcna214892",
-      "abbr": "AL"
+      "text": "Hawaii signs automatic voter registration into law, taking effect January 2027",
+      "url": "https://mauinow.com/2026/06/18/sb2239-automatic-voter-registration-signed-into-law/",
+      "abbr": "HI"
     },
     {
-      "text": "Washington DC debuted ranked-choice voting in its Democratic primary, dramatically reshaping results and delaying the mayor's race outcome by hours as mail ballots were counted.",
-      "url": "https://wtop.com/dc/2026/06/dc-primary-results-ranked-choice-voting-makes-its-debut-and-brings-big-changes/",
-      "abbr": "DC"
-    },
-    {
-      "text": "Michigan's Senate passed a state Voting Rights Act package, while Delaware advanced two voting-rights constitutional amendments — state-level VRA activity surging in response to federal court limits.",
-      "url": "https://michiganadvance.com/2026/06/16/michigan-senate-passes-state-voting-rights-act/",
-      "abbr": "MI"
-    },
-    {
-      "text": "Georgia Republicans voted to ban QR codes on ballots after primary mishaps and then shelved redistricting in a special session despite a court order, leaving maps unresolved.",
-      "url": "https://www.pbs.org/newshour/politics/georgia-republicans-ban-qr-codes-ballots-primary-mishaps",
+      "text": "Georgia Republicans abandon redistricting plans in special session, hand win to voting rights advocates",
+      "url": "https://georgiarecorder.com/2026/06/18/on-redistricting-georgia-gop-lawmakers-concluded-todays-election-risks-outweighed-future-gains/",
       "abbr": "GA"
     },
     {
-      "text": "Ohio moved a voter photo-ID constitutional amendment to the November ballot, and the FBI searched an Ohio voting-rights organization — two major election-law developments in one week.",
-      "url": "https://ohiocapitaljournal.com/2026/06/10/ohio-voter-photo-id-constitutional-amendment-to-go-on-november-ballot/",
-      "abbr": "OH"
+      "text": "Georgia delays QR code ballot-marking device replacement until 2028, keeping contested technology for midterms",
+      "url": "https://www.washingtontimes.com/news/2026/jun/18/georgias-qr-codes-counting-votes-likely-remain-midterms-lawmakers/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Arizona appeals court blocks Maricopa County recorder from taking over election systems before July primary",
+      "url": "https://www.votebeat.org/arizona/2026/06/18/appeals-court-maricopa-county-recorder-justin-heap-board-supervisors-stay-primary/",
+      "abbr": "AZ"
+    },
+    {
+      "text": "Federal judge allows lawsuits against Trump mail-in voting executive order to proceed toward midterms",
+      "url": "https://www.usnews.com/news/politics/articles/2026-06-18/us-judge-narrows-lawsuits-challenging-trumps-executive-order-restricting-mail-in-voting",
+      "abbr": "DC"
     }
   ]
 }

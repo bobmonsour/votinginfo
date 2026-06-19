@@ -20546,6 +20546,300 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-19",
+      "states": {
+        "AZ": [
+          {
+            "title": "Arizona Court of Appeals rules in Maricopa County election dispute as primary draws near",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/06/18/appeals-court-maricopa-county-recorder-justin-heap-board-supervisors-stay-primary/",
+            "date": "2026-06-18",
+            "summary": "A 2-1 Arizona Court of Appeals ruling blocked Maricopa County Recorder Justin Heap from immediately taking over key election IT systems and databases ahead of early voting for the July 21 primary, keeping control with the Board of Supervisors. Recorder Heap announced plans to seek emergency intervention from the Arizona Supreme Court."
+          },
+          {
+            "title": "Arizona appeals court blocks Maricopa County election changes ahead of July 21 primary",
+            "source": "KJZZ",
+            "url": "https://www.kjzz.org/elections/2026-06-18/arizona-appeals-court-blocks-maricopa-county-election-changes-ahead-of-july-21-primary",
+            "date": "2026-06-18",
+            "summary": "The Arizona Court of Appeals stayed a lower court order that had sided with Recorder Justin Heap in the ongoing dispute over who controls election operations in Maricopa County, citing the Purcell principle against last-minute changes close to an election."
+          }
+        ],
+        "CA": [
+          {
+            "title": "California billionaire tax proposal qualifies for the November ballot",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/california-billionaire-tax-proposal-qualifies-november-ballot-rcna350685",
+            "date": "2026-06-18",
+            "summary": "State officials announced that a citizen initiative to impose a one-time tax on the wealthiest Californians has gathered enough signatures to appear on the November 2026 ballot, adding a high-profile direct democracy measure alongside contested congressional and gubernatorial races."
+          },
+          {
+            "title": "California election results: Governor and key 2026 races",
+            "source": "CalMatters",
+            "url": "https://calmatters.org/politics/elections/2026/06/california-primary-election-results-june-2026/",
+            "date": "2026-06-18",
+            "summary": "Republican Steve Hilton and Democrat Xavier Becerra advanced to the November governor's race following the June 2 primary; Democrats' redistricting strategy to net five U.S. House seats is being tested as competitive congressional primaries finalize their November matchups."
+          }
+        ],
+        "DC": [
+          {
+            "title": "US Judge Allows Challenges to Trump's Mail-In Voting Order Ahead of November Elections",
+            "source": "AP / U.S. News & World Report",
+            "url": "https://www.usnews.com/news/politics/articles/2026-06-18/us-judge-narrows-lawsuits-challenging-trumps-executive-order-restricting-mail-in-voting",
+            "date": "2026-06-18",
+            "summary": "A federal judge in Boston ruled that Democratic-led states and voting rights groups can proceed with lawsuits challenging Trump's executive order on mail-in voting ahead of the 2026 midterms, while narrowing the cases to only cover 2026 elections. The ruling keeps alive the possibility of blocking the order before November."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Two voting-related Constitutional Amendments advance in General Assembly",
+            "source": "WDEL News",
+            "url": "https://www.wdel.com/news/update-two-voting-related-constitutional-amendments-advance-in-general-assembly/article_a9c2dbec-345b-4ff4-be9a-5bc16f3d207a.html",
+            "date": "2026-06-18",
+            "summary": "Two Delaware constitutional amendments restoring voting rights for returning citizens passed the House 30-10 and will now move to the Senate, requiring approval in a second legislative session before voters ratify the changes."
+          },
+          {
+            "title": "Delaware House Bill 430 could ban corporations from voting in municipal elections statewide",
+            "source": "WDEL News",
+            "url": "https://www.wdel.com/news/delaware-house-bill-430-could-ban-corporations-from-voting-in-municipal-elections-statewide/article_8a90714d-2f09-535c-a164-e7a937636b73.html",
+            "date": "2026-06-18",
+            "summary": "HB 430, the first leg of a constitutional amendment, advanced through the Delaware House to prohibit corporations and other artificial entities from voting in any Delaware election at any level, in response to a court ruling permitting corporate voting in some municipal elections."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia's GOP-led legislature ditches redistricting plans amid voting rights concerns",
+            "source": "Courthouse News Service",
+            "url": "https://www.courthousenews.com/georgias-gop-led-legislature-ditches-redistricting-plans-amid-voting-rights-concerns/",
+            "date": "2026-06-18",
+            "summary": "Georgia House Speaker Jon Burns announced legislators would not redraw congressional or legislative maps during Governor Kemp's special session, citing pending legal cases and the need for more time after the Supreme Court's Voting Rights Act ruling. Civil rights advocates celebrated the decision."
+          },
+          {
+            "title": "On redistricting, Georgia GOP lawmakers concluded today's election risks outweighed future gains",
+            "source": "Georgia Recorder",
+            "url": "https://georgiarecorder.com/2026/06/18/on-redistricting-georgia-gop-lawmakers-concluded-todays-election-risks-outweighed-future-gains/",
+            "date": "2026-06-18",
+            "summary": "Georgia Republicans calculated that pushing redistricting in a contentious special session risked mobilizing opposition voters ahead of November, deciding the near-term political risks of redrawing maps outweighed potential long-term gains for their party."
+          },
+          {
+            "title": "Voting machine changes postponed to 2028 under new GOP bill",
+            "source": "Georgia Recorder",
+            "url": "https://georgiarecorder.com/2026/06/18/georgia-lawmakers-advance-bill-to-delay-voting-machine-changes-until-2028-presidential-election/",
+            "date": "2026-06-18",
+            "summary": "Georgia's Senate Ethics Committee advanced legislation to delay the state's QR code ballot-counting ban until 2028, extending a deadline originally set by a 2024 law that lacked funding to implement new voting machines before the 2026 elections."
+          },
+          {
+            "title": "Georgia's QR codes for counting votes likely to remain for midterms as lawmakers delay action",
+            "source": "Associated Press",
+            "url": "https://www.washingtontimes.com/news/2026/jun/18/georgias-qr-codes-counting-votes-likely-remain-midterms-lawmakers/",
+            "date": "2026-06-18",
+            "summary": "Georgia lawmakers are advancing a bill to delay replacing the state's QR code-based ballot-marking devices until 2028, meaning the widely criticized voting technology will remain in use for the upcoming November midterm elections."
+          },
+          {
+            "title": "Georgia voting rights advocates celebrate redistricting decision",
+            "source": "Georgia Recorder",
+            "url": "https://georgiarecorder.com/2026/06/18/georgia-redistricting-delay-victory/",
+            "date": "2026-06-18",
+            "summary": "Civil rights groups celebrated after Georgia Republicans abandoned redistricting efforts during the special session, with Sen. Raphael Warnock and coalition allies crediting grassroots pressure for preventing maps that advocates said would dilute minority voting power."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Automatic Voter Registration bill signed into law, set to begin Jan. 1, 2027 in Hawaii",
+            "source": "Maui Now",
+            "url": "https://mauinow.com/2026/06/18/sb2239-automatic-voter-registration-signed-into-law/",
+            "date": "2026-06-18",
+            "summary": "Governor Josh Green signed SB 2239 (Act 67) into law, establishing automatic voter registration statewide beginning January 1, 2027: eligible residents will be automatically registered when applying for or renewing a Hawaii driver's license or state ID unless they opt out."
+          },
+          {
+            "title": "Voter registration going from opt-in to opt-out",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/06/19/hawaii-news/voter-registration-going-from-opt-in-to-opt-out/",
+            "date": "2026-06-19",
+            "summary": "Hawaii's newly signed automatic voter registration law shifts the state from an opt-in to an opt-out system tied to driver's license applications, and will also automatically update address records for already-registered voters, taking effect January 1, 2027."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Record number of measures remain in play for 2026 ballot",
+            "source": "Associated Press",
+            "url": "https://www.yahoo.com/news/articles/record-number-measures-remain-play-012049148.html",
+            "date": "2026-06-17",
+            "summary": "Massachusetts ballot initiative organizers faced a June 17 deadline to submit second-round signatures for a record-breaking slate of up to 12 potential 2026 ballot measures, including proposals for same-day voter registration and a top-two primary system, after the legislature declined to act on any of the certified initiatives."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland leaders raise additional concerns about ballot mix-up as early voting ends",
+            "source": "CBS Baltimore",
+            "url": "https://www.cbsnews.com/baltimore/news/maryland-primary-election-ballot-early-voting/",
+            "date": "2026-06-18",
+            "summary": "As Maryland's early voting period ended June 18, election watchdog groups raised additional concerns about voter confusion and potential participation dropoff resulting from the mail-in ballot printing error, calling for further investigation into the handling of more than 565,000 replacement ballots."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Maine resolves ranked choice primaries, setting up the governor's race and a key House contest",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/maine-resolves-ranked-choice-primaries-setting-governors-race-key-hous-rcna350415",
+            "date": "2026-06-18",
+            "summary": "Maine's ranked-choice tabulation concluded June 18, with Democrat Hannah Pingree winning the gubernatorial nomination and Matt Dunlap narrowly winning the 2nd Congressional District Democratic primary over Joe Baldacci, setting the November general election matchups."
+          },
+          {
+            "title": "Maine governor, congressional nominations decided after ranked choice voting",
+            "source": "WABI TV5",
+            "url": "https://www.wabi.tv/2026/06/18/maine-primary-election-results-expected-thursday-night/",
+            "date": "2026-06-18",
+            "summary": "Maine's ranked-choice voting tabulation resolved the state's primary races, with Republican Bobby Charles set to face Democrat Hannah Pingree for governor in November, providing a clear illustration of how Maine's ranked-choice system continues to shape election outcomes in multi-candidate primary fields."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Candidates Certified for 2026 Primary Election",
+            "source": "Minnesota Secretary of State",
+            "url": "https://sos.mn.gov/about-the-office/news-room/candidates-certified-for-2026-primary-election/",
+            "date": "2026-06-16",
+            "summary": "The Minnesota Secretary of State announced certification of all candidates for federal and state offices for the August 11 primary election. Early in-person and mail voting for the primary begins June 26; same-day registration remains available on Election Day."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Advocates say a sweeping elections bill moving through the NC House undermines voting rights",
+            "source": "NC Newsline",
+            "url": "https://ncnewsline.com/2026/06/17/advocates-say-a-sweeping-elections-bill-moving-through-the-nc-house-undermines-voting-rights/",
+            "date": "2026-06-17",
+            "summary": "Multiple voting rights organizations including Common Cause NC, Democracy NC, and the NC Black Alliance publicly opposed House Bill 958, warning it would undermine voting access through expanded ballot challenges and new restrictions on military and overseas voters requiring photo ID with absentee ballots."
+          },
+          {
+            "title": "NC election law overhaul bill vote delayed as voting rights advocates ramp up opposition",
+            "source": "CBS 17",
+            "url": "https://www.cbs17.com/news/capitol-report/nc-election-law-overhaul-bill-vote-delayed-as-voting-rights-advocates-ramp-up-opposition/",
+            "date": "2026-06-18",
+            "summary": "The North Carolina elections omnibus bill (HB 958) was pulled from the House Rules Committee agenda, delaying an anticipated floor vote as mounting advocacy opposition and constituent pressure prompted Republican leadership to slow the bill's progress."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Primary election results certified; Romero to face Chadwick in Henderson mayor race",
+            "source": "Las Vegas Review-Journal",
+            "url": "https://www.reviewjournal.com/news/politics-and-government/clark-county/clark-county-governments-certify-elections-romero-to-face-chadwick-in-henderson-mayor-race-3840287/",
+            "date": "2026-06-18",
+            "summary": "Clark County governments voted to officially certify the June 9 primary election results on June 18 after an audit found no tabulation errors; Washoe County commissioners also certified their results 4-1, finalizing Nevada's primary election outcomes statewide."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Attorney General James Announces Election Protection Hotline Ahead of June Primary Elections",
+            "source": "New York Attorney General's Office",
+            "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-announces-election-protection-hotline-ahead-june-primary",
+            "date": "2026-06-19",
+            "summary": "New York AG Letitia James announced the Election Protection Hotline for voters experiencing problems during the June 23 primary and ongoing early voting period (June 13-21). The office has also taken legal action to protect against voter registration purges and ensure equitable early voting access."
+          }
+        ],
+        "OH": [
+          {
+            "title": "What changes to absentee voting will Ohioans see during the 2026 election?",
+            "source": "WTOL",
+            "url": "https://www.wtol.com/article/life/legally-speaking/changes-to-absentee-voting-ohioans-will-see-during-the-2026-election-legally-speaking-new-ohio-law/512-3d88ba9c-b470-4d32-a50f-4102ccfb68c6",
+            "date": "2026-06-17",
+            "summary": "Ohio's new law eliminates the prior 4-day postmark grace period, requiring all absentee ballots to be received by boards of elections before polls close on Election Day. The law also adds new steps for verifying voter registrations against state and federal databases."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pennsylvania Must Count Undated Mail-In Ballots, Federal Court Rules",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/pennsylvania-must-count-undated-mail-in-ballots-federal-court-rules/",
+            "date": "2026-06-11",
+            "summary": "A federal court ruled that Pennsylvania cannot reject mail-in ballots with missing or incorrect handwritten dates on return envelopes, finding such rejections violate the First and Fourteenth Amendments. The ruling affects how counties must handle defective mail ballots going into the November 2026 general election."
+          }
+        ],
+        "SC": [
+          {
+            "title": "South Carolina early voting for runoff races will not take place on Juneteenth, state says",
+            "source": "WBTW",
+            "url": "https://www.wbtw.com/news/elections/your-election-headquarters/south-carolina-early-voting-for-runoff-races-will-not-take-place-on-juneteenth-state-says/",
+            "date": "2026-06-18",
+            "summary": "South Carolina election officials confirmed that early voting for the June 23 primary runoff is restricted to June 17-18 only, as state law bars early voting on the Juneteenth state holiday. The two-day window applies to the Republican gubernatorial, attorney general, and agriculture commissioner runoffs."
+          }
+        ],
+        "TN": [
+          {
+            "title": "U.S. Appeals Court stops felon voter restoration change from going through",
+            "source": "Tennessee Lookout",
+            "url": "https://tennesseelookout.com/briefs/u-s-appeals-court-stops-felon-voter-restoration-change-from-going-through/",
+            "date": "2026-06-18",
+            "summary": "The Sixth Circuit Court of Appeals issued an injunction blocking a lower federal court ruling that had found Tennessee violated federal voting law by requiring extra documentation from formerly incarcerated people seeking to restore their voting rights. The appeals court cited proximity to upcoming elections and questioned the NAACP's standing."
+          }
+        ],
+        "UT": [
+          {
+            "title": "There's still time to vote in Utah's primaries — but use a drop box, not the mail, officials say",
+            "source": "Salt Lake Tribune",
+            "url": "https://www.sltrib.com/news/politics/2026/06/18/elections-officials-are/",
+            "date": "2026-06-18",
+            "summary": "Utah election officials are urging primary voters to use ballot drop boxes ahead of the June 23 election due to a new state law requiring ballots to be physically received by county clerks by 8 p.m. on Election Day, eliminating any mail delivery grace period."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Early voting underway for August primaries for Virginia congressional candidates",
+            "source": "WJLA",
+            "url": "https://wjla.com/news/local/virginia-august-congressional-primaries-federal-local-house-senate-representatives-elections-voting-juneteenth-ballots-registration",
+            "date": "2026-06-19",
+            "summary": "Early in-person voting for Virginia's August 4 primary officially began June 19, with offices closed for the Juneteenth holiday having opened June 18. Virginia moved its primary from June to August via HB 29 signed in February, and absentee ballots are being mailed starting June 19."
+          },
+          {
+            "title": "Virginia dual party primary: Early voting begins this week",
+            "source": "WAVY",
+            "url": "https://www.wavy.com/news/politics/virginia-politics/virginia-dual-party-primary-early-voting/",
+            "date": "2026-06-19",
+            "summary": "Early voting opened across Virginia for the August 4 primary featuring both Democratic and Republican congressional races: Democrats in five House districts and Republicans in U.S. Senate and three House races, the first primary under Virginia's newly rescheduled August calendar."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont Governor Signs S.298, An Act Relating to Voter Protections",
+            "source": "Office of Governor Phil Scott",
+            "url": "https://governor.vermont.gov/press-release/action-taken-governor-phil-scott-legislation-june-16-2026",
+            "date": "2026-06-16",
+            "summary": "Governor Phil Scott signed S.298 into law, creating new voter protection measures including strengthened penalties for election interference, a new criminal offense for intimidating voters or election officials, and updated rules on voter checklist use and campaign security disclosures."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin redistricting lawsuits may get ruling after 2026 elections",
+            "source": "The Hill",
+            "url": "https://thehill.com/homenews/state-watch/5647059-wisconsin-redistricting-lawsuits-may-get-ruling-after-2026-elections/",
+            "date": "2026-06-17",
+            "summary": "With both active lawsuits challenging Wisconsin's congressional maps either dismissed or stalled, legal experts say any judicial remedy is essentially off the table for the 2026 midterms. Voters will go to the polls under heavily Republican-advantaged maps despite Wisconsin being a competitive state."
+          },
+          {
+            "title": "Wisconsin court dismisses challenge to Republican gerrymandered congressional map",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/wisconsin-court-dismisses-challenge-to-republican-gerrymandered-congressional-map/",
+            "date": "2026-06-17",
+            "summary": "A three-judge federal panel dismissed a lawsuit challenging Wisconsin's congressional maps, ruling it lacked jurisdiction over partisan gerrymandering claims. The dismissal effectively ends any realistic path to fairer maps before November 2026, leaving the current Republican-advantaged districts in place."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Secretary of State Kris Warner Announces Certification of 2026 Mid-Term Primary Election",
+            "source": "WV Secretary of State",
+            "url": "https://sos.wv.gov/article/secretary-state-kris-warner-announces-certification-2026-mid-term-primary-election-full",
+            "date": "2026-06-12",
+            "summary": "West Virginia's 2026 primary election was certified on June 10 after all 55 counties submitted results. Turnout was 21.02%, and this was the first primary since Republicans closed their party's primary to unaffiliated voters following a 2024 decision by the WV GOP state executive committee."
+          },
+          {
+            "title": "State Primary Election Results Officially Certified",
+            "source": "West Virginia Public Broadcasting",
+            "url": "https://wvpublic.org/story/government/state-primary-election-results-officially-certified/",
+            "date": "2026-06-12",
+            "summary": "West Virginia Public Broadcasting reported on certification of the 2026 primary, noting early voting participation was more than 8% higher than in the 2022 midterm primary. The Democratic Party primary remained open to unaffiliated voters while the Republican primary was closed for the first time in decades."
+          }
+        ]
+      }
     }
   ]
 }
