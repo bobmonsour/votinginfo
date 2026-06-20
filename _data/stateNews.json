@@ -20840,6 +20840,81 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-19",
+      "states": {
+        "CO": [
+          {
+            "title": "Looking for areas where Michael Bennet and Phil Weiser differ on policy? There aren't many.",
+            "source": "The Colorado Sun",
+            "url": "https://coloradosun.com/2026/06/17/phil-weiser-michael-bennet-policy-stance-similarities/",
+            "date": "2026-06-17",
+            "summary": "A Colorado Sun analysis of the Democratic governor primary finds Bennet and Weiser broadly aligned on policy, leaving electability and experience as the key differentiators for voters as the June 30 primary ballot deadline approaches."
+          }
+        ],
+        "DE": [
+          {
+            "title": "State level voting rights act clears Delaware's House",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-06-19/state-level-voting-rights-act-clears-delawares-house",
+            "date": "2026-06-19",
+            "summary": "The Delaware House passed House Bill 444, the Delaware John Lewis Voting Rights Act, on June 19 and sent it to the state Senate. The law would empower the state AG to sue over voter suppression and provide language assistance to voters with limited English proficiency."
+          },
+          {
+            "title": "Delaware House passes John Lewis Voting Rights Act, Senate review next",
+            "source": "WDEL",
+            "url": "https://www.wdel.com/news/delaware-house-passes-john-lewis-voting-rights-act-senate-review-next/article_bdea8990-3319-5a26-bb0b-0d052ac3ef49.html",
+            "date": "2026-06-19",
+            "summary": "WDEL reports on the House passage of the Delaware John Lewis Voting Rights Act (HB 444), establishing new protections against voter suppression, vote dilution, voter intimidation, and election access barriers. The bill now awaits Senate action before the legislative session closes."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Beau Bayh outlines campaign platform for Indiana secretary of state race",
+            "source": "WTHI-TV",
+            "url": "https://www.wthitv.com/2026/06/16/beau-bayh-outlines-campaign-platform-indiana-secretary-state-race/",
+            "date": "2026-06-16",
+            "summary": "Democratic secretary of state nominee Beau Bayh detailed his election administration platform after winning the June 6 convention nomination, positioning himself against Republican incumbent Diego Morales ahead of the November general election for the office that oversees Indiana's elections."
+          }
+        ],
+        "KS": [
+          {
+            "title": "'Coordinated effort': Kansas Republican leaders have a plan to cancel the 2026 U.S. Senate election",
+            "source": "Kansas Reflector",
+            "url": "https://kansasreflector.com/2026/06/19/coordinated-effort-kansas-republican-leaders-have-a-plan-to-cancel-the-2026-u-s-senate-election/",
+            "date": "2026-06-19",
+            "summary": "A Democratic state legislator alleged that Kansas Republican leadership, coordinating with Sen. Roger Marshall's office, deliberately inserted language into SB 105 to cancel or delay a 2026 Senate election if Marshall leaves for a Trump administration post. Legal experts question whether the provision conflicts with the U.S. Constitution's 17th Amendment."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Gov. Kotek won't debate Drazan with Oregon newspaper group",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/06/18/kotek-wont-debate-drazan/",
+            "date": "2026-06-18",
+            "summary": "Oregon Gov. Tina Kotek declined to participate in a gubernatorial debate hosted by the Oregon Newspaper Publishers Association, instead challenging Republican challenger Christine Drazan to three specific debates in Medford, Portland, and Eugene ahead of the November general election."
+          }
+        ],
+        "PA": [
+          {
+            "title": "New Pa. poll shows Shapiro leading handily against Garrity, trouncing Trump in popularity",
+            "source": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com/politics/pennsylvania/shapiro-garrity-pennsylvania-governor-poll-approval-rating-20260618.html",
+            "date": "2026-06-18",
+            "summary": "A Franklin & Marshall College poll conducted June 8-14 found incumbent Gov. Josh Shapiro leading Republican challenger Stacy Garrity 50% to 28% in Pennsylvania's 2026 governor's race. The survey also showed Shapiro with stronger job approval ratings than President Trump among Pennsylvania registered voters."
+          }
+        ],
+        "TX": [
+          {
+            "title": "The Texas GOP wants closed primaries. Here's what that would mean for voters.",
+            "source": "Texas Tribune",
+            "url": "https://www.texastribune.org/2026/06/18/texas-closed-primaries-republican-party-greg-abbott/",
+            "date": "2026-06-18",
+            "summary": "Gov. Greg Abbott publicly backed a push to require voter party registration and close Texas's primaries to non-Republicans at the Texas GOP convention, calling it a top legislative priority for 2027. The proposal would require Texans to register with a party — a significant departure from the state's current open primary system."
+          }
+        ]
+      }
     }
   ]
 }
