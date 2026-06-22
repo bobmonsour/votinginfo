@@ -20915,6 +20915,296 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-22",
+      "states": {
+        "AR": [
+          {
+            "title": "Pete Buttigieg rallies for Chris Jones in Little Rock",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/jun/19/pete-buttigieg-rallies-for-chris-jones-in-little/",
+            "date": "2026-06-19",
+            "summary": "Former U.S. Transportation Secretary Pete Buttigieg endorsed Democratic congressional candidate Chris Jones at a Little Rock rally, calling Arkansas's 2nd Congressional District race against Republican Rep. French Hill a nationally significant contest ahead of the November general election."
+          },
+          {
+            "title": "Buttigieg says Arkansas voters can send message about Trump by flipping GOP-held House seat",
+            "source": "Arkansas Advocate",
+            "url": "https://arkansasadvocate.com/2026/06/19/buttigieg-says-arkansas-voters-can-send-message-about-trump-by-flipping-gop-held-house-seat/",
+            "date": "2026-06-19",
+            "summary": "At a packed Little Rock event, Pete Buttigieg urged Arkansas voters to oust Rep. French Hill in the 2nd Congressional District and said the competitive race is drawing national attention as a potential Democratic pickup seat in the 2026 midterms."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Democratic ballots outpace Republicans' as Colorado's primary vote starts to trickle in",
+            "source": "Colorado Politics",
+            "url": "https://www.coloradopolitics.com/2026/06/18/democratic-ballots-outpace-republicans-as-colorados-primary-vote-starts-to-trickle-in/",
+            "date": "2026-06-18",
+            "summary": "With Colorado's June 30 primary underway by mail, county clerks reported receiving over 230,000 ballots, with Democratic primary ballots outnumbering Republican returns in early counts, though most unaffiliated voter ballots had yet to be processed."
+          },
+          {
+            "title": "Bernie Sanders endorses DeGette challenger Melat Kiros in Colorado's 1st CD Democratic primary",
+            "source": "Colorado Politics",
+            "url": "https://www.coloradopolitics.com/2026/06/19/bernie-sanders-endorses-degette-challenger-melat-kiros-in-colorados-1st-cd-democratic-primary/",
+            "date": "2026-06-19",
+            "summary": "Sen. Bernie Sanders endorsed first-time candidate Melat Kiros in her primary challenge against 15-term incumbent Rep. Diana DeGette ahead of Colorado's June 30 primary, adding national progressive attention to the Denver congressional race."
+          },
+          {
+            "title": "DeGette spars with challengers Kiros, James in final Colorado 1st District candidate forum",
+            "source": "Colorado Newsline",
+            "url": "https://coloradonewsline.com/2026/06/20/degette-spars-with-challengers-kiros-james/",
+            "date": "2026-06-20",
+            "summary": "Rep. Diana DeGette and her Democratic primary challengers Melat Kiros and Wanda James held a final candidate forum in Denver 10 days before Colorado's June 30 primary election, with DeGette defending her incumbency against democratic socialist challenger Kiros."
+          },
+          {
+            "title": "Registered voters on the eve of the 2026 primaries",
+            "source": "Colorado Politics",
+            "url": "https://www.coloradopolitics.com/2026/06/21/registered-voters-on-the-eve-of-the-2026-primaries-cronin-loevy/",
+            "date": "2026-06-21",
+            "summary": "An analysis of Colorado's registered voter rolls ahead of the June 30 primary examines party registration trends and the dominant unaffiliated bloc — which now makes up more than half the electorate — that will shape outcomes in contested races."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Preliminary results from the first ranked choice voting election in Washington, DC",
+            "source": "FairVote",
+            "url": "https://fairvote.org/preliminary-results-from-the-first-ranked-choice-voting-election-in-washington-dc/",
+            "date": "2026-06-21",
+            "summary": "FairVote released preliminary round-by-round RCV tabulation results from DC's first-ever ranked choice voting primary held June 16, finding 99.6% of mayoral voters cast valid ballots and 71% of voters whose first choice was eliminated had their vote transfer to a finalist."
+          },
+          {
+            "title": "Chair of DC elections gives update on tabulating ranked choice votes",
+            "source": "WTOP News",
+            "url": "https://wtop.com/dc/2026/06/chair-of-dc-elections-gives-update-on-tabulating-ranked-choice-votes/",
+            "date": "2026-06-21",
+            "summary": "DC Board of Elections chair explained the multi-round RCV tabulation process after releasing the first round-by-round tallies from the June 16 primary, with an additional release planned for June 24 and final results expected on or after June 26 once remaining mail ballots are counted."
+          }
+        ],
+        "FL": [
+          {
+            "title": "DeSantis clashes with Florida GOP over absence of gubernatorial debate",
+            "source": "Jacksonville Today",
+            "url": "https://jaxtoday.org/2026/06/17/desantis-republican-debate/",
+            "date": "2026-06-17",
+            "summary": "Gov. Ron DeSantis publicly criticized the Republican Party of Florida for canceling its planned gubernatorial debate after only Trump-endorsed Rep. Byron Donalds met the party's polling and fundraising thresholds, saying the decision is counterproductive and harms the Republican primary process."
+          },
+          {
+            "title": "'What a farce:' DeSantis blasts Florida Republican Party over debate controversy",
+            "source": "Click Orlando",
+            "url": "https://www.clickorlando.com/news/florida/2026/06/18/what-a-farce-desantis-blasts-florida-republican-party-over-debate-controversy/",
+            "date": "2026-06-18",
+            "summary": "Gov. DeSantis escalated his criticism of the Florida GOP's decision to exclude three Republican gubernatorial candidates from a June 27 debate event, accusing the party chair of insulting the intelligence of Republican voters with opaque qualification criteria ahead of the August 18 primary."
+          }
+        ],
+        "GA": [
+          {
+            "title": "QR code deadline extension bill clears Senate in a Saturday vote",
+            "source": "Georgia Recorder",
+            "url": "https://georgiarecorder.com/2026/06/20/bill-extending-georgias-ballot-qr-code-deadline-clears-senate-in-a-saturday-vote/",
+            "date": "2026-06-20",
+            "summary": "The Georgia Senate passed a bill along party lines extending the July 1 deadline to remove QR codes from ballot counting until January 2028, while also mandating hand recounts for top-ticket races and creating a committee to select the state's next voting system. Democrats opposed the measure, citing exclusion from the new oversight committee."
+          },
+          {
+            "title": "Georgia lawmakers won't redraw electoral maps during special session",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/06/21/kemps-redistricting-ask-denied-legislature-wont-redraw-electoral-maps-now-record/",
+            "date": "2026-06-21",
+            "summary": "Georgia House Republicans declined Gov. Brian Kemp's call to redraw congressional and state legislative maps during the June special session, shelving the mid-decade redistricting effort despite the Supreme Court's Callais ruling weakening Voting Rights Act protections. The decision means Georgia will use existing maps for the 2026 midterm elections."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Voter guide: Louisiana's June 27 primary runoff election",
+            "source": "WWLTV",
+            "url": "https://www.wwltv.com/article/news/politics/elections/voter-guide-louisianas-june-27-primary-runoff-election/289-2930bd3b-07b9-40f3-a3dc-a2acbed3f6cd",
+            "date": "2026-06-21",
+            "summary": "Louisiana voters head to the polls June 27 for Senate party primary runoffs, with Republican Julia Letlow facing John Fleming and Democrat Jamie Davis facing Gary Crockett to determine nominees for the seat vacated by Bill Cassidy. Only registered party members who voted in the May primary, plus no-party voters who selected a party ballot then, are eligible to participate."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Mass. high court blocks proposal to slash income tax from November ballot",
+            "source": "The Boston Globe",
+            "url": "https://www.bostonglobe.com/2026/06/18/metro/income-tax-cut-ballot-question-sjc-decision/",
+            "date": "2026-06-18",
+            "summary": "The Massachusetts Supreme Judicial Court removed a ballot initiative to cut the state income tax from 5% to 4% from the November 2026 ballot, ruling the attorney general's summary was significantly misleading for omitting the measure's effect on capital gains taxes. More than 100,000 residents had signed petitions to place the measure before voters."
+          },
+          {
+            "title": "Mass. income tax question is off the ballot this fall. Now what?",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/06/19/mass-income-tax-ballot-question-world-cup",
+            "date": "2026-06-19",
+            "summary": "Following the SJC's ruling striking the income tax cut question from the 2026 ballot, attention turns to the remaining ballot initiatives — including rent control and all-party primaries — which still face pending court challenges. The legislature has until July 1 to pass the rent control bill before backers take it to voters."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Unaffiliated voters air grievances on eve of primary they're excluded from",
+            "source": "Maryland Matters",
+            "url": "https://marylandmatters.org/2026/06/19/unaffiliated-voters-air-grievances-on-eve-of-primary-theyre-excluded-from/",
+            "date": "2026-06-19",
+            "summary": "More than 1 million unaffiliated Maryland voters are barred from participating in the June 23 closed primary, prompting advocates to renew calls to open the state's partisan primaries as the election approaches. Unaffiliated voters can only cast ballots in the primary for nonpartisan offices such as the State Board of Education."
+          },
+          {
+            "title": "Early voting ends with light turnout at polls, thousands of mail-in ballots so far",
+            "source": "Maryland Matters",
+            "url": "https://marylandmatters.org/2026/06/19/early-voting-ends-with-light-turnout-at-polls-thousands-of-mail-in-ballots-so-far/",
+            "date": "2026-06-19",
+            "summary": "Maryland's early voting period closed June 19 with more than 138,000 in-person ballots cast and nearly 165,600 mail-in ballots received ahead of the June 23 gubernatorial primary. Watchdog groups Secure the Vote and the Maryland Freedom Caucus raised continuing concerns about the May vendor error that sent roughly 500,000 wrong-party ballots to voters."
+          },
+          {
+            "title": "Maryland leaders raise additional concerns about ballot mix-up as early voting ends",
+            "source": "CBS Baltimore",
+            "url": "https://www.cbsnews.com/baltimore/news/maryland-primary-election-ballot-early-voting/",
+            "date": "2026-06-19",
+            "summary": "As Maryland's early voting period ended, lawmakers and watchdog groups raised unresolved concerns about the May ballot mix-up that sent nearly 500,000 wrong-party mail-in ballots to voters, with some households reporting receiving multiple live ballots. The State Board of Elections maintained that all ballots are safe and voting integrity is intact."
+          }
+        ],
+        "ME": [
+          {
+            "title": "How ranked-choice voting produced surprises in all of Maine's big primaries",
+            "source": "Bangor Daily News",
+            "url": "https://www.bangordailynews.com/2026/06/19/politics/elections/how-ranked-choice-voting-produced-surprises-in-all-of-maines-big-primaries/",
+            "date": "2026-06-19",
+            "summary": "Analysis of Maine's June 9 primaries shows RCV altered outcomes in all major races, with final tabulations released June 19 revealing that candidates who led in first-round counts did not always win once lower-ranked ballot redistributions were applied."
+          },
+          {
+            "title": "Maine Secretary of State's Office announces ranked choice tabulations",
+            "source": "Maine Secretary of State",
+            "url": "https://www.maine.gov/sos/news/maine-secretary-states-office-announces-ranked-choice-tabulations",
+            "date": "2026-06-19",
+            "summary": "Maine's Elections Division completed and released official RCV tabulation results for five June 9 primary races, including the Democratic and Republican gubernatorial contests and the 2nd Congressional District Democratic primary."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan election critics push for investigations ahead of 2026 vote",
+            "source": "Detroit News",
+            "url": "https://www.detroitnews.com/story/news/politics/2026/06/22/michigan-election-critics-push-for-investigations-ahead-of-2026-vote/90599292007/",
+            "date": "2026-06-22",
+            "summary": "Vocal critics of Michigan's election administration are working with the Trump administration's DOJ and seeking investigations into voting matters in the battleground state, adding to election-integrity tensions ahead of the 2026 midterms."
+          },
+          {
+            "title": "Thumbs Up or Thumbs Down? Michigan Senate Advances State Voting Rights Act, But It Faces a Challenge in the GOP-Led House",
+            "source": "American Democracy Minute",
+            "url": "https://www.americandemocracyminute.org/wethepeople/2026/06/21/thumbs-up-or-thumbs-down-michigan-senate-advances-state-voting-rights-act-but-it-faces-a-challenge-in-the-gop-led-house",
+            "date": "2026-06-21",
+            "summary": "The Michigan Senate passed the Michigan Voting Rights Act (SB 961-964) on a 20-17 party-line vote to prohibit discriminatory voting access restrictions and establish a Voting Rights Assistance Fund, but the bill faces uncertain prospects in the Republican-led House."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri voters passed a sales tax cap. Under Amendment 4, it would have failed",
+            "source": "Missouri Independent",
+            "url": "https://missouriindependent.com/2026/06/18/missouri-voters-passed-a-sales-tax-cap-under-amendment-4-it-would-have-failed/",
+            "date": "2026-06-18",
+            "summary": "An analysis illustrates the stakes of Amendment 4 on Missouri's August ballot: a past voter-approved constitutional amendment that passed with 57% statewide would have failed under the proposed new rule requiring majority support in each of Missouri's eight congressional districts."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Democratic Senate candidate says she's 'in it to win it'",
+            "source": "Montana Public Radio",
+            "url": "https://www.mtpr.org/montana-news/2026-06-17/democratic-senate-candidate-says-shes-in-it-to-win-it",
+            "date": "2026-06-17",
+            "summary": "Democratic Senate nominee Alani Bankhead reaffirmed she will not drop out of Montana's open U.S. Senate race despite calls to step aside for independent Seth Bodnar, who simultaneously announced cross-partisan endorsements from former Sens. Jon Tester and Max Baucus and former Republican Gov. Marc Racicot."
+          },
+          {
+            "title": "Divided Montana Senate field helps Republicans",
+            "source": "Semafor",
+            "url": "https://www.semafor.com/article/06/18/2026/divided-montana-senate-field-helps-republicans",
+            "date": "2026-06-18",
+            "summary": "New polling shows Republican Kurt Alme leading Montana's open Senate race with 44% to Democrat Alani Bankhead's 25% and independent Seth Bodnar's 20%, with the split center-left vote likely benefiting Alme's chances in November."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Sweeping election bill stalls after backlash",
+            "source": "Carolina Journal",
+            "url": "https://www.carolinajournal.com/sweeping-election-bill-stalls-after-backlash/",
+            "date": "2026-06-19",
+            "summary": "North Carolina's sweeping elections omnibus bill HB 958 was unexpectedly pulled from the House Rules Committee after intense opposition from the governor, Democratic lawmakers, and protesters, leaving uncertain its proposed changes including a ban on ranked-choice voting and expanded ballot-challenge rules."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey congressman absent from Capitol Hill for months set to return June 30",
+            "source": "CNN Politics",
+            "url": "https://www.cnn.com/2026/06/19/politics/tom-kean-return-june-30-congress",
+            "date": "2026-06-19",
+            "summary": "Republican Rep. Tom Kean Jr. of New Jersey's competitive 7th Congressional District announced he will return to Congress on June 30 after a three-month medical absence, raising questions about his 2026 re-election campaign against Democratic challenger Rebecca Bennett in a top-targeted district."
+          }
+        ],
+        "OH": [
+          {
+            "title": "A week after the FBI searched an Ohio voting-rights group, questions remain",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/06/18/a-week-after-the-fbi-searched-an-ohio-voting-rights-group-questions-remain/",
+            "date": "2026-06-18",
+            "summary": "One week after FBI agents raided the Cleveland offices of the Ohio Organizing Collaborative and seized electronic devices from staff, federal officials have provided no on-the-record explanation for the search warrant. Critics, including two congresswomen, have called the raid voter intimidation targeting a group that registers voters in communities of color ahead of the November midterms."
+          }
+        ],
+        "SC": [
+          {
+            "title": "AP Decision Notes: What to expect in South Carolina's state primary runoff",
+            "source": "Associated Press",
+            "url": "https://www.clickondetroit.com/news/politics/2026/06/22/ap-decision-notes-what-to-expect-in-south-carolinas-state-primary-runoff/",
+            "date": "2026-06-22",
+            "summary": "South Carolina holds its statewide primary runoff on June 23 deciding Republican nominees for governor (Lt. Gov. Pamela Evette vs. AG Alan Wilson), attorney general, and agriculture commissioner, plus the Democratic nominee in the 2nd Congressional District. Registered voters who sat out the June 9 primary are eligible to vote in either party's runoff."
+          }
+        ],
+        "UT": [
+          {
+            "title": "AP Decision Notes: What to expect in Utah's state primary",
+            "source": "Associated Press",
+            "url": "https://www.washingtonpost.com/politics/2026/06/22/utah-primary/f8accb0c-6e2b-11f1-8730-e7fd0e2a6404_story.html",
+            "date": "2026-06-22",
+            "summary": "Utah voters head to the polls June 23 to nominate congressional candidates under a new court-ordered map that created a Democratic-friendly district in Salt Lake City and scrambled the reelection plans of the state's all-Republican delegation. The new boundaries could produce an additional Democratic seat in November, with former Rep. Ben McAdams among the key contenders in the new 1st Congressional District."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont enacts vote denial prohibition, campaign finance changes in 2026 session",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/06/20/vermont-enacts-vote-denial-prohibition-campaign-finance-changes-in-2026-session/",
+            "date": "2026-06-20",
+            "summary": "Vermont Governor Phil Scott signed S.298, the Vermont Voter Protections Act, on June 8, establishing new prohibitions on voting policies that deny or abridge the right to vote based on race, color, language minority status, or disability. The law also authorizes the attorney general to file civil actions against violators, allows candidates to use campaign funds for security measures, and strengthens penalties for election interference and voter intimidation."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Democrats, Republicans weigh in on Boone County registration flip",
+            "source": "WV MetroNews",
+            "url": "https://wvmetronews.com/2026/06/14/democrats-republicans-weigh-in-on-boone-county-registration-flip/",
+            "date": "2026-06-14",
+            "summary": "West Virginia Republicans and Democrats are reacting to Boone County becoming the first county in state history where registered Republicans outnumber registered Democrats, with Republicans holding a narrow 4,892 to 4,887 edge. Democrat registration has fallen 50.1% since 2016 while Republican registration has surged 149.6%, reflecting a broader partisan realignment ahead of November's general election."
+          },
+          {
+            "title": "Registered Republicans surpass Dems in Boone County, WV, for first time; Dems keep focus on turnout",
+            "source": "West Virginia Watch",
+            "url": "https://westvirginiawatch.com/2026/06/16/registered-republicans-surpass-dems-in-boone-county-wv-for-first-time-dems-keep-focus-on-turnout/",
+            "date": "2026-06-16",
+            "summary": "Registered Republicans outnumber registered Democrats in Boone County, West Virginia for the first time in the county's history, as Democrats plan statewide voter registration drives through summer to boost turnout ahead of the November general election. The shift represents a decade-long trend of partisan realignment in a county that was once a Democratic stronghold rooted in organized labor and the coal industry."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Wyoming's secretary of state race attracts newcomers and political veterans",
+            "source": "WyoFile",
+            "url": "https://wyofile.com/wyomings-secretary-of-state-race-attracts-newcomers-and-political-veterans/",
+            "date": "2026-06-19",
+            "summary": "Four Republican candidates and one Democrat are competing for Wyoming's secretary of state post, an office that oversees the state's elections, ahead of the August 18 primary. The race will determine who oversees Wyoming's 2026 general election administration."
+          },
+          {
+            "title": "Five Republicans, 2 Democrats vie for US Senate in Wyoming primaries",
+            "source": "WyoFile",
+            "url": "https://wyofile.com/five-republicans-2-democrats-vie-for-us-senate-in-wyoming-primaries/",
+            "date": "2026-06-19",
+            "summary": "Five Republican and two Democratic candidates have filed to run for Wyoming's open U.S. Senate seat in the August 18 primaries, with Rep. Harriet Hageman considered the frontrunner among GOP candidates. Wyoming's 2026 cycle is defined by a large number of open seats including governor, secretary of state, and two of the state's three congressional positions."
+          }
+        ]
+      }
     }
   ]
 }
