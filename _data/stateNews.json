@@ -21205,6 +21205,65 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-06-22",
+      "states": {
+        "CO": [
+          {
+            "title": "In-Person Voting for the 2026 Primary Election Available Starting June 22",
+            "source": "Colorado Secretary of State",
+            "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260622VotingCentersOpen.html",
+            "date": "2026-06-22",
+            "summary": "The Colorado Secretary of State announced 137 in-person voting centers and 437 drop boxes are now open statewide for the June 30 primary. Eligible Coloradans can register and vote in person at any voting center through 7 p.m. on Election Day."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Engling captures Republican bid for Indiana secretary of state",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/06/20/republican/",
+            "date": "2026-06-20",
+            "summary": "Max Engling won the Republican nomination for Indiana Secretary of State at the GOP state convention in Fort Wayne, capturing 53% of the delegate vote on the second ballot. Engling will face Democrat Beau Bayh in November in a race that will determine who oversees Indiana elections."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Marylanders go to the polls for pivotal primaries in governor, congressional races",
+            "source": "The Washington Times",
+            "url": "https://www.washingtontimes.com/news/2026/jun/22/marylanders-go-polls-pivotal-primaries-governor-congressional-races/",
+            "date": "2026-06-22",
+            "summary": "Maryland voters head to the polls June 23 for competitive Democratic and Republican gubernatorial primaries, along with several congressional races. Democrats outnumber Republicans 2-to-1 statewide, making the Democratic primary the decisive contest for governor."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Absentee voting begins this week in Minnesota's primary election",
+            "source": "WDAY Radio",
+            "url": "https://www.wdayradionow.com/news/regional-news/early-voting-begins-friday-in-minnesotas-primary/",
+            "date": "2026-06-22",
+            "summary": "Absentee voting for Minnesota's August 11 primary opens Friday, June 26, allowing voters to cast ballots by mail or in person at local election offices. Minnesota voters will need a witness who is a U.S. citizen aged 18 or older by Election Day, or a notary."
+          }
+        ],
+        "NY": [
+          {
+            "title": "More than 170,000 New Yorkers cast ballots during early voting",
+            "source": "NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/22/nyc-early-voting-ends-june-2026-primary",
+            "date": "2026-06-22",
+            "summary": "Early voting in New York City ended June 21 with 172,743 check-ins recorded across the five boroughs, led by Manhattan with 67,369 ballots. Voters head to the polls June 23 for primary races in several congressional districts and city contests."
+          }
+        ],
+        "TX": [
+          {
+            "title": "James Talarico leads Ken Paxton in Texas Senate race poll after GOP runoff",
+            "source": "The Hill",
+            "url": "https://thehill.com/homenews/campaign/5902035-texas-senate-race-poll/",
+            "date": "2026-06-19",
+            "summary": "A new poll shows Democrat James Talarico leading Republican Ken Paxton 47%-44% in Texas's U.S. Senate race, with Cook Political Report shifting the race rating from 'Likely Republican' to 'Lean Republican' following Paxton's runoff win over incumbent John Cornyn."
+          }
+        ]
+      }
     }
   ]
 }
