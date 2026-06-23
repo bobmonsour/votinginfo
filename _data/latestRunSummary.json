@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "items": [
     {
-      "text": "Maryland voters head to the polls June 23 for competitive gubernatorial and congressional primaries",
-      "url": "https://www.washingtontimes.com/news/2026/jun/22/marylanders-go-polls-pivotal-primaries-governor-congressional-races/",
+      "text": "South Carolina Republican gubernatorial runoff underway today between Evette and Wilson",
+      "url": "https://www.postandcourier.com/politics/vote-sc-2026-primary-runoff-election/article_148ce5c9-596a-40da-a422-195762161386.html",
+      "abbr": "SC"
+    },
+    {
+      "text": "Maryland holding competitive gubernatorial and congressional primaries today",
+      "url": "https://wtop.com/maryland-election/2026/06/on-primary-election-day-in-maryland-voters-are-deciding-several-highly-competitive-races/",
       "abbr": "MD"
     },
     {
-      "text": "NYC early voting wraps with 172,743 check-ins before June 23 primary races",
-      "url": "https://ny1.com/nyc/all-boroughs/politics/2026/06/22/nyc-early-voting-ends-june-2026-primary",
-      "abbr": "NY"
+      "text": "Massachusetts top-two jungle primary cleared for November ballot by state Supreme Judicial Court",
+      "url": "https://www.wbur.org/news/2026/06/22/all-party-primary-mass-sjc-november-ballot",
+      "abbr": "MA"
     },
     {
-      "text": "Texas Senate race tightens — Cook shifts outlook as Talarico leads Paxton in first post-runoff poll",
-      "url": "https://thehill.com/homenews/campaign/5902035-texas-senate-race-poll/",
-      "abbr": "TX"
+      "text": "ACLU commits $50 million to 2026 midterms including election certification monitoring in battleground states",
+      "url": "https://www.nbcnews.com/politics/2026-election/aclu-monitor-election-certification-part-50-million-midterm-effort-rcna349632",
+      "abbr": "DC"
     },
     {
-      "text": "Colorado June 30 primary voting centers and drop boxes open statewide",
-      "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260622VotingCentersOpen.html",
-      "abbr": "CO"
-    },
-    {
-      "text": "Indiana Republicans tap newcomer Max Engling as surprise secretary of state nominee at state convention",
-      "url": "https://indianacapitalchronicle.com/2026/06/20/republican/",
-      "abbr": "IN"
+      "text": "Washington state USPS skips hearing on mail-in ballot rules requiring voter list sharing",
+      "url": "https://washingtonstatestandard.com/2026/06/22/postal-service-skips-hearing-with-wa-lawmakers-on-mail-in-ballot-rules/",
+      "abbr": "WA"
     }
   ]
 }
