@@ -2,29 +2,39 @@
   "date": "2026-06-23",
   "items": [
     {
-      "text": "South Carolina Republican gubernatorial runoff underway today between Evette and Wilson",
-      "url": "https://www.postandcourier.com/politics/vote-sc-2026-primary-runoff-election/article_148ce5c9-596a-40da-a422-195762161386.html",
-      "abbr": "SC"
+      "text": "New York's June 23 primary tests progressive vs. establishment Dems in key House races",
+      "url": "https://www.npr.org/2026/06/23/g-s1-127536/ny-primary-election-results-2026",
+      "abbr": "NY"
     },
     {
-      "text": "Maryland holding competitive gubernatorial and congressional primaries today",
-      "url": "https://wtop.com/maryland-election/2026/06/on-primary-election-day-in-maryland-voters-are-deciding-several-highly-competitive-races/",
-      "abbr": "MD"
+      "text": "Alaska lawmakers probe removal of same-named Dan Sullivan from August Senate primary ballot",
+      "url": "https://alaskabeacon.com/2026/06/23/alaska-legislators-probe-decision-to-remove-candidate-from-the-ballot/",
+      "abbr": "AK"
     },
     {
-      "text": "Massachusetts top-two jungle primary cleared for November ballot by state Supreme Judicial Court",
-      "url": "https://www.wbur.org/news/2026/06/22/all-party-primary-mass-sjc-november-ballot",
+      "text": "Massachusetts SJC strikes rent control question from November ballot over religious exemption",
+      "url": "https://www.boston.com/news/local-news/2026/06/23/sjc-blocks-rent-control-question-from-ballot/",
       "abbr": "MA"
     },
     {
-      "text": "ACLU commits $50 million to 2026 midterms including election certification monitoring in battleground states",
-      "url": "https://www.nbcnews.com/politics/2026-election/aclu-monitor-election-certification-part-50-million-midterm-effort-rcna349632",
-      "abbr": "DC"
+      "text": "Kansas law could allow GOP leaders to cancel Senate elections if Marshall vacates his seat",
+      "url": "https://kansasreflector.com/2026/06/23/kansas-gop-leaders-alarming-plot-to-cancel-u-s-senate-elections-unfolded-in-plain-sight-last-year/",
+      "abbr": "KS"
     },
     {
-      "text": "Washington state USPS skips hearing on mail-in ballot rules requiring voter list sharing",
-      "url": "https://washingtonstatestandard.com/2026/06/22/postal-service-skips-hearing-with-wa-lawmakers-on-mail-in-ballot-rules/",
-      "abbr": "WA"
+      "text": "Virginia civil rights group seeks faster court action on ex-felon voter registration compliance",
+      "url": "https://virginiamercury.com/2026/06/23/civil-rights-group-files-motion-to-speed-up-va-s-reform-of-voter-registration-process-for-ex-felons/",
+      "abbr": "VA"
+    },
+    {
+      "text": "RNC sues Nebraska over election law critics say permits nonresidents to register and vote",
+      "url": "https://nebraskaexaminer.com/2026/06/22/republican-national-committee-sues-nebraska-over-state-election-law/",
+      "abbr": "NE"
+    },
+    {
+      "text": "Indiana Republicans pick Jim Banks ally Max Engling for Secretary of State in convention upset",
+      "url": "https://news.ballotpedia.org/2026/06/23/banks-endorsed-adviser-wins-republican-nomination-for-indiana-secretary-of-state-at-party-convention/",
+      "abbr": "IN"
     }
   ]
 }
