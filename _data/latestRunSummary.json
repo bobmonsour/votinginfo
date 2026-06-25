@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "items": [
     {
-      "text": "Connecticut enacted no-excuse absentee voting, becoming the 29th state to allow it, along with a ballot cure process and other election reforms.",
-      "url": "https://news.ballotpedia.org/2026/06/23/connecticut-enacts-no-excuse-absentee-voting-four-other-election-bills-in-2026/",
-      "abbr": "CT"
-    },
-    {
-      "text": "Arizona opened in-person early voting for its July 21 primary on June 24, with Maricopa County adding 17 more early voting sites than in 2022.",
-      "url": "https://www.azfamily.com/2026/06/24/early-voting-arizonas-primary-elections-kicks-off/",
-      "abbr": "AZ"
-    },
-    {
-      "text": "Georgia's legislature sent a revised QR code ballot tabulation bill to Gov. Kemp, delaying the ban to 2028 and narrowing mandatory hand recount requirements.",
-      "url": "https://georgiarecorder.com/2026/06/23/ballot-qr-code-bill-headed-to-governor-after-georgia-lawmakers-scale-back-hand-counting-requirement/",
+      "text": "Georgia special session ends with QR code deadline extended, redistricting abandoned",
+      "url": "https://www.gpb.org/news/2026/06/24/special-session-ends-lawmakers-postpone-mandated-changes-georgias-election-system",
       "abbr": "GA"
     },
     {
-      "text": "South Carolina's June 24 runoffs determined nominees for governor and other key races following the state's competitive primary season.",
-      "url": "https://www.live5news.com/2026/06/24/sc-runoff-election-results-candidates-will-face-off-in-november/",
-      "abbr": "SC"
+      "text": "Court permanently blocks key parts of Trump's first anti-voting executive order",
+      "url": "https://thenevadaindependent.com/article/nevada-officials-praise-federal-judges-blocking-of-trump-elections-executive-order",
+      "abbr": "NV"
     },
     {
-      "text": "Texas faced calls to fix its statewide voter registration system after a civil-rights audit found accuracy and accessibility problems.",
-      "url": "https://www.texastribune.org/2026/06/24/texas-team-voter-registration-system-civil-rights/",
-      "abbr": "TX"
+      "text": "Sixth Circuit deals biggest setback yet to Trump DOJ voter roll demands",
+      "url": "https://www.cnn.com/2026/06/24/politics/appeals-court-rejects-demand-confidential-voter-roll-data",
+      "abbr": "DC"
+    },
+    {
+      "text": "New York progressive wave: Mamdani allies oust incumbents in House primaries",
+      "url": "https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html",
+      "abbr": "NY"
+    },
+    {
+      "text": "North Carolina elections omnibus advances through House committee on party-line vote",
+      "url": "https://www.wral.com/news/nccapitol/election-law-changes-house-rules-committee-june-2026/",
+      "abbr": "NC"
     }
   ]
 }
