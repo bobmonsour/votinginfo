@@ -1,40 +1,30 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "items": [
     {
-      "text": "New York's June 23 primary tests progressive vs. establishment Dems in key House races",
-      "url": "https://www.npr.org/2026/06/23/g-s1-127536/ny-primary-election-results-2026",
-      "abbr": "NY"
+      "text": "Connecticut enacted no-excuse absentee voting, becoming the 29th state to allow it, along with a ballot cure process and other election reforms.",
+      "url": "https://news.ballotpedia.org/2026/06/23/connecticut-enacts-no-excuse-absentee-voting-four-other-election-bills-in-2026/",
+      "abbr": "CT"
     },
     {
-      "text": "Alaska lawmakers probe removal of same-named Dan Sullivan from August Senate primary ballot",
-      "url": "https://alaskabeacon.com/2026/06/23/alaska-legislators-probe-decision-to-remove-candidate-from-the-ballot/",
-      "abbr": "AK"
+      "text": "Arizona opened in-person early voting for its July 21 primary on June 24, with Maricopa County adding 17 more early voting sites than in 2022.",
+      "url": "https://www.azfamily.com/2026/06/24/early-voting-arizonas-primary-elections-kicks-off/",
+      "abbr": "AZ"
     },
     {
-      "text": "Massachusetts SJC strikes rent control question from November ballot over religious exemption",
-      "url": "https://www.boston.com/news/local-news/2026/06/23/sjc-blocks-rent-control-question-from-ballot/",
-      "abbr": "MA"
+      "text": "Georgia's legislature sent a revised QR code ballot tabulation bill to Gov. Kemp, delaying the ban to 2028 and narrowing mandatory hand recount requirements.",
+      "url": "https://georgiarecorder.com/2026/06/23/ballot-qr-code-bill-headed-to-governor-after-georgia-lawmakers-scale-back-hand-counting-requirement/",
+      "abbr": "GA"
     },
     {
-      "text": "Kansas law could allow GOP leaders to cancel Senate elections if Marshall vacates his seat",
-      "url": "https://kansasreflector.com/2026/06/23/kansas-gop-leaders-alarming-plot-to-cancel-u-s-senate-elections-unfolded-in-plain-sight-last-year/",
-      "abbr": "KS"
+      "text": "South Carolina's June 24 runoffs determined nominees for governor and other key races following the state's competitive primary season.",
+      "url": "https://www.live5news.com/2026/06/24/sc-runoff-election-results-candidates-will-face-off-in-november/",
+      "abbr": "SC"
     },
     {
-      "text": "Virginia civil rights group seeks faster court action on ex-felon voter registration compliance",
-      "url": "https://virginiamercury.com/2026/06/23/civil-rights-group-files-motion-to-speed-up-va-s-reform-of-voter-registration-process-for-ex-felons/",
-      "abbr": "VA"
-    },
-    {
-      "text": "RNC sues Nebraska over election law critics say permits nonresidents to register and vote",
-      "url": "https://nebraskaexaminer.com/2026/06/22/republican-national-committee-sues-nebraska-over-state-election-law/",
-      "abbr": "NE"
-    },
-    {
-      "text": "Indiana Republicans pick Jim Banks ally Max Engling for Secretary of State in convention upset",
-      "url": "https://news.ballotpedia.org/2026/06/23/banks-endorsed-adviser-wins-republican-nomination-for-indiana-secretary-of-state-at-party-convention/",
-      "abbr": "IN"
+      "text": "Texas faced calls to fix its statewide voter registration system after a civil-rights audit found accuracy and accessibility problems.",
+      "url": "https://www.texastribune.org/2026/06/24/texas-team-voter-registration-system-civil-rights/",
+      "abbr": "TX"
     }
   ]
 }
