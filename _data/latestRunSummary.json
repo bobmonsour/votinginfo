@@ -1,30 +1,28 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "items": [
     {
-      "text": "Michigan opens absentee voting 40 days ahead of August 4 primary",
-      "url": "https://www.votebeat.org/michigan/2026/06/25/how-to-vote-primary-election-2026-early-absentee-ballot-id/",
-      "abbr": "MI"
+      "text": "Louisiana Senate runoff set for June 27 as Fleming-Letlow race tightens",
+      "url": "https://www.fox8live.com/2026/06/24/senate-runoff-polls-show-tighter-gap-between-fleming-letlow/",
+      "abbr": "LA"
     },
     {
-      "text": "Ohio Gov. DeWine vetoes bill requiring photo ID copy for mail-in voting",
-      "url": "https://ohiocapitaljournal.com/2026/06/25/ohio-gov-mike-dewine-vetoes-bill-requiring-mail-in-voters-show-a-copy-of-their-id-to-vote/",
+      "text": "California billionaire tax qualifies for November ballot after last-minute deal collapses",
+      "url": "https://www.nbcnews.com/politics/2026-election/california-billionaire-tax-proposal-qualifies-november-ballot-rcna350685",
+      "abbr": "CA"
+    },
+    {
+      "text": "Ohio Republicans weigh veto override after DeWine kills absentee voter photo ID bill",
+      "url": "https://www.wcpo.com/news/state/state-ohio/will-ohio-republicans-override-gov-dewines-voter-photo-id-veto",
       "abbr": "OH"
     },
     {
-      "text": "Utah Senate president ousted in primary over data center backlash",
-      "url": "https://thehill.com/homenews/campaign/5939668-utah-data-center-voter-backlash/",
-      "abbr": "UT"
+      "text": "South Carolina: Alan Wilson wins Republican governor runoff over Lt. Gov. Pamela Evette",
+      "url": "https://www.nbcnews.com/politics/2026-election/south-carolina-governor-runoff-election-winner-wilson-rcna351122",
+      "abbr": "SC"
     },
     {
-      "text": "Maine ranked-choice count wraps after a 17-hour final session",
-      "url": "https://themainemonitor.org/inside-final-day-ranked-choice-voting-count/",
-      "abbr": "ME"
-    },
-    {
-      "text": "Federal judge blocks Trump executive order restricting mail voting",
-      "url": "https://www.votebeat.org/national/2026/06/25/trump-election-overhaul-mail-voting-executive-order-blocked-talwani-usps-dhs/",
-      "abbr": "WI"
+      "text": "Delaware races to pass voting rights bills — including John Lewis Act — before June 30 close"
     }
   ]
 }
