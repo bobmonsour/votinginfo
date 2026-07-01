@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "items": [
     {
-      "text": "SCOTUS 5-4 upholds state grace periods for mail ballots arriving after Election Day in Watson v. RNC, rejecting the Republican National Committee's challenge to voting access.",
-      "url": "https://www.votebeat.org/national/2026/06/29/supreme-court-watson-rnc-mail-ballots-absentee-deadline-grace-period/",
-      "abbr": "DC"
+      "text": "North Carolina House passes sweeping election overhaul bill expanding state oversight",
+      "url": "https://www.carolinajournal.com/nc-house-passes-election-bill-but-senate-path-remains-uncertain/",
+      "abbr": "NC"
     },
     {
-      "text": "Supreme Court agrees to hear Arizona NVRA case that could badly weaken the federal law protecting voter registration — a potential major rollback of voting rights.",
-      "url": "https://www.democracydocket.com/news-alerts/supreme-court-will-hear-arizona-case-that-could-badly-weaken-key-federal-law-protecting-voter-registration/",
-      "abbr": "AZ"
+      "text": "Connecticut's no-excuse absentee voting law takes effect, making it the 29th such state",
+      "url": "https://www.wshu.org/connecticut-news/2026-06-30/new-ct-laws-no-excuse-absentee-voting",
+      "abbr": "CT"
     },
     {
-      "text": "Federal judge strikes down Trump's 2026 executive order targeting voter rolls and mail-in ballots as unconstitutional and unlawful.",
-      "url": "https://www.aclu.org/press-releases/voting-rights-groups-applaud-ruling-declaring-2026-executive-order-interference-with-voter-rolls-and-mail-in-ballots-unconstitutional-and-unlawful",
-      "abbr": "CA"
+      "text": "Mississippi's SHIELD Act citizenship-verification law for voter registration takes effect July 1",
+      "url": "https://www.wlox.com/2026/07/01/july-1-new-mississippi-laws-take-effect-today/",
+      "abbr": "MS"
     },
     {
-      "text": "SAVE America Act (proof-of-citizenship voting requirement) stalls in Congress as Trump's opposition to the bill blocks must-pass defense legislation; House Republicans are split.",
-      "url": "https://www.wyomingpublicmedia.org/2026-06-25/trump-keeps-sabotaging-legislation-over-a-voting-bill-heres-whats-in-it",
-      "abbr": "WY"
+      "text": "Colorado progressive wave: DSA-backed Melat Kiros defeats 29-year incumbent in Denver primary",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries",
+      "abbr": "CO"
     },
     {
-      "text": "South Dakota ousts its top election official at the GOP state convention in favor of a hand-counting advocate; New Hampshire appeals ruling striking down its proof-of-citizenship voting law.",
-      "url": "https://southdakotasearchlight.com/2026/06/27/states-top-election-official-loses-nomination-to-challenger-who-supports-hand-counting/",
-      "abbr": "SD"
+      "text": "Delaware passes John Lewis Voting Rights Act and corporate voting ban in final session push",
+      "url": "https://www.wdel.com/news/delaware-lawmakers-pass-flurry-of-bills-in-final-session-push/article_96dd3679-db3e-56e6-a645-f1458513e171.html",
+      "abbr": "DE"
     }
   ]
 }
