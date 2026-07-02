@@ -1,30 +1,35 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "items": [
     {
-      "text": "North Carolina House passes sweeping election overhaul bill expanding state oversight",
-      "url": "https://www.carolinajournal.com/nc-house-passes-election-bill-but-senate-path-remains-uncertain/",
-      "abbr": "NC"
+      "text": "Louisiana Republicans outnumber registered Democrats for first time in state history",
+      "url": "https://www.wafb.com/2026/07/02/republicans-outnumber-registered-democrats-louisiana-first-time-state-history/",
+      "abbr": "LA"
     },
     {
-      "text": "Connecticut's no-excuse absentee voting law takes effect, making it the 29th such state",
-      "url": "https://www.wshu.org/connecticut-news/2026-06-30/new-ct-laws-no-excuse-absentee-voting",
-      "abbr": "CT"
+      "text": "Republican states demand restored citizenship database access for voter roll purges",
+      "url": "https://www.democracydocket.com/news-alerts/red-states-demand-restored-access-to-citizenship-database-for-purging-voters/",
+      "abbr": "DC"
     },
     {
-      "text": "Mississippi's SHIELD Act citizenship-verification law for voter registration takes effect July 1",
-      "url": "https://www.wlox.com/2026/07/01/july-1-new-mississippi-laws-take-effect-today/",
-      "abbr": "MS"
+      "text": "Federal court strikes Arkansas ballot initiative petition restrictions as unconstitutional",
+      "url": "https://apnews.com/article/ballot-measures-arkansas-lawsuit-petitions-2219ea055b52a7759682368da9950e9c",
+      "abbr": "AR"
     },
     {
-      "text": "Colorado progressive wave: DSA-backed Melat Kiros defeats 29-year incumbent in Denver primary",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries",
-      "abbr": "CO"
+      "text": "Florida residency lawsuit threatens to remove gubernatorial candidate Fishback from primary ballot",
+      "url": "https://www.miaminewtimes.com/news/do-d-c-records-prove-fishbacks-ineligibility-in-florida-governor-race-40563155/",
+      "abbr": "FL"
     },
     {
-      "text": "Delaware passes John Lewis Voting Rights Act and corporate voting ban in final session push",
-      "url": "https://www.wdel.com/news/delaware-lawmakers-pass-flurry-of-bills-in-final-session-push/article_96dd3679-db3e-56e6-a645-f1458513e171.html",
-      "abbr": "DE"
+      "text": "Idaho new voter ID affidavit law takes effect, requiring date of birth or license number",
+      "url": "https://cdapress.com/news/2026/jul/01/these-new-laws-are-set-to-go-into-effect-in-idaho-on-july-1/",
+      "abbr": "ID"
+    },
+    {
+      "text": "Arizona vote-by-mail initiative withdrawn before signature submission over recorder concerns",
+      "url": "https://ktar.com/arizona-politics-news/election/vote-by-mail-ballot/5885213/",
+      "abbr": "AZ"
     }
   ]
 }

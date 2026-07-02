@@ -24475,6 +24475,283 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-02",
+      "states": {
+        "AL": [
+          {
+            "title": "NAACP Alabama stresses voter education as election season heats up",
+            "source": "Alabama Political Reporter",
+            "url": "https://www.alreporter.com/2026/07/01/naacp-alabama-stresses-voter-education-as-election-season-heats-up/",
+            "date": "2026-07-01",
+            "summary": "Alabama NAACP leaders held a virtual Statewide Freedom Call to outline voter engagement strategies ahead of the August 11 special primary election, focusing outreach on the 2nd and 7th Congressional Districts affected by the court-ordered redistricting. State Conference President Ronald Ali said a senior field organizer is targeting voter engagement in those districts, while Legal Redress Chair Shalela Dowdy stressed education for voters navigating the new congressional map."
+          }
+        ],
+        "AK": [
+          {
+            "title": "Alaska Might Have Finally Solved Its Two Dan Sullivans Problem",
+            "source": "Newsweek",
+            "url": "https://www.newsweek.com/odds-dan-sullivans-advancing-alaska-senate-race-court-ruling-12145780",
+            "date": "2026-07-01",
+            "summary": "Alaska's Division of Elections released sample ballots showing how it will distinguish incumbent Sen. Dan S. Sullivan from challenger Daniel J. Sullivan Jr. on the August 18 primary ballot, following the Alaska Supreme Court's ruling that the challenger must remain on the ballot. The incumbent will appear as 'Sullivan, Dan S. (Registered Republican) Incumbent' while the challenger will be listed as 'Sullivan, Daniel J. Jr.' without a party designation, a design the court directed elections officials to implement using existing ballot design law."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Mohave County will debut new ballot paper with added security measures in July primary",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/07/02/mohave-county-runbeck-ballot-paper-watermarks-security-2026-election/",
+            "date": "2026-07-02",
+            "summary": "Mohave County is implementing 'Ballot Guard' security paper featuring watermarks, embedded security fibers, and microprinting for the July 21 primary — the first use of such paper in an Arizona election. Initial testing showed a 3.6% multi-feed error rate that improved to 0.7% after the paper acclimated to the printing environment, meeting national standards for ballot tabulation accuracy."
+          },
+          {
+            "title": "AZ vote-by-mail initiative won't make November ballot after campaign withholds signatures",
+            "source": "KTAR News",
+            "url": "https://ktar.com/arizona-politics-news/election/vote-by-mail-ballot/5885213/",
+            "date": "2026-07-01",
+            "summary": "The Protect the Vote Arizona campaign announced it will not submit roughly 439,000 raw signatures for the 'Free, Fair and Secure Elections Act,' a proposed constitutional amendment that would have enshrined vote-by-mail and extended early voting rights. The campaign cited concerns about disclosing voter data to Maricopa County Recorder Justin Heap, an official they oppose, and plans to redirect efforts toward opposing HCR 2001, the voter ID ballot measure already set for November."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Challengers score victories in lawsuit against Arkansas' restrictions on citizen ballot initiatives",
+            "source": "The Associated Press",
+            "url": "https://apnews.com/article/ballot-measures-arkansas-lawsuit-petitions-2219ea055b52a7759682368da9950e9c",
+            "date": "2026-07-02",
+            "summary": "A federal court ruled in favor of challengers contesting Arkansas laws that restrict citizen ballot initiatives, finding key provisions governing petition circulators and signature gathering to be unconstitutional. The ruling marks a significant victory for direct-democracy advocates who argued the restrictions made it nearly impossible for citizens to place measures on the statewide ballot."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Connecticut expands first responder benefits, no-excuse absentee voting among 80 new laws taking effect July 1",
+            "source": "WFSB",
+            "url": "https://www.wfsb.com/2026/07/01/connecticut-expands-first-responder-benefits-no-excuse-absentee-voting-among-80-new-laws-taking-effect-july-1/",
+            "date": "2026-07-01",
+            "summary": "Connecticut's new no-excuse absentee voting law took effect July 1, allowing any registered voter to request an absentee ballot without providing a specific reason, joining 28 other states with such policies. The change is part of 80 new laws taking effect, implementing a constitutional amendment approved by voters in 2024."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Do D.C. records prove Fishback's ineligibility in Florida governor race?",
+            "source": "Miami New Times",
+            "url": "https://www.miaminewtimes.com/news/do-d-c-records-prove-fishbacks-ineligibility-in-florida-governor-race-40563155/",
+            "date": "2026-07-01",
+            "summary": "Lt. Gov. Jay Collins filed suit to remove Republican gubernatorial candidate James Fishback from the August 18 primary ballot, citing Washington D.C. voter registration and homestead property records as evidence he fails the state constitution's seven-year Florida residency requirement. A court ruling is needed by around July 4 to avoid affecting overseas ballot mailings."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Unopposed For Reelection, Honolulu Budget Chair Isn't Afraid To Fight Admin",
+            "source": "Honolulu Civil Beat",
+            "url": "https://civilbeat.org/2026/07/unopposed-for-reelection-honolulu-budget-chair-isnt-afraid-to-oppose-admin/",
+            "date": "2026-07-02",
+            "summary": "Honolulu City Council Budget Chair Val Okimoto, running unopposed for reelection on the August 8 primary ballot, has spent her first year clashing with Mayor Rick Blangiardi's administration over city budget priorities and council oversight, establishing a track record that will shape her uncontested return to the ʻAiea-Mililani district seat."
+          }
+        ],
+        "ID": [
+          {
+            "title": "These new laws are set to go into effect in Idaho on July 1",
+            "source": "Coeur d'Alene Press",
+            "url": "https://cdapress.com/news/2026/jul/01/these-new-laws-are-set-to-go-into-effect-in-idaho-on-july-1/",
+            "date": "2026-07-01",
+            "summary": "Among Idaho's 350-plus new laws taking effect July 1, SB 1322 tightens voter ID affidavit requirements by mandating that voters who lack photo ID and use a signed affidavit must now also provide their date of birth or Idaho driver's license number — information election judges must verify before issuing a ballot."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Bailey campaign embraces artificial intelligence in new era of politics",
+            "source": "Capitol News Illinois",
+            "url": "https://capitolnewsillinois.com/news/bailey-campaign-embraces-artificial-intelligence-in-new-era-of-politics/",
+            "date": "2026-06-30",
+            "summary": "Republican gubernatorial candidate Darren Bailey's campaign is flooding social media with AI-generated images and videos to drive engagement against Gov. JB Pritzker, while all three major candidates support a proposed Illinois bill that would require written or spoken disclaimers on AI-generated political ads, with fines for violations."
+          },
+          {
+            "title": "New Illinois Republican Party chair hopes for 'JB fatigue' in tough midterm",
+            "source": "Capitol News Illinois",
+            "url": "https://capitolnewsillinois.com/news/new-illinois-republican-party-chair-hopes-for-jb-fatigue-in-tough-midterm/",
+            "date": "2026-07-01",
+            "summary": "Newly elected Illinois GOP Chair Bob Grogan is emphasizing state-specific issues like property taxes over national Trump themes as he tries to rebuild a party that has not won a statewide race in over a decade, facing a substantial fundraising gap against Democrats in the 2026 general election cycle."
+          }
+        ],
+        "LA": [
+          {
+            "title": "State Rep. Gabe Firment announces candidacy for Louisiana's 5th Congressional District",
+            "source": "KALB",
+            "url": "https://www.kalb.com/2026/07/01/state-rep-gabe-firment-announces-candidacy-louisianas-5th-congressional-district/",
+            "date": "2026-07-01",
+            "summary": "State Rep. Gabe Firment announced his candidacy for Louisiana's open 5th Congressional District, the seat being vacated by Julia Letlow who won the June 27 GOP Senate runoff. Firment, a Rapides Parish native who has served in the Louisiana House since 2019, chairs the House Insurance Committee and is the first candidate to formally enter the race."
+          },
+          {
+            "title": "Republicans outnumber registered Democrats in Louisiana for first time in state history",
+            "source": "WAFB",
+            "url": "https://www.wafb.com/2026/07/02/republicans-outnumber-registered-democrats-louisiana-first-time-state-history/",
+            "date": "2026-07-01",
+            "summary": "For the first time in Louisiana history, Republicans outnumber registered Democrats in voter registration. As of July 1, the GOP holds 1,064,496 registered voters compared to Democrats' 1,062,135, a shift of roughly 2,300 voters, with approximately 820,000 no-party registrants. Gov. Jeff Landry celebrated the milestone while Democratic Party chairman Randal Gaines blamed the Republican policy agenda."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland primary election live returns",
+            "source": "Baltimore Sun",
+            "url": "https://www.baltimoresun.com/2026/07/01/maryland-primary-election-returns-results/",
+            "date": "2026-07-01",
+            "summary": "Partial and unofficial vote counts from Maryland's June 23 primary election, covering governor, attorney general, comptroller, General Assembly, all eight congressional districts, and local offices in six counties. Final results including second mail-in canvasses and provisional ballots are expected July 6. A Carroll County state's attorney race shifted by just two votes between candidates in the latest count."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Markey's lead over Moulton still narrow in new Massachusetts Senate primary poll",
+            "source": "Axios Boston",
+            "url": "https://www.axios.com/local/boston/2026/07/01/markey-moulton-massachusetts-senate-primary-poll-june-2026-uhn-survey",
+            "date": "2026-07-01",
+            "summary": "A new UNH Survey Center poll shows Sen. Ed Markey leading Rep. Seth Moulton 41%-35% in the Massachusetts Democratic Senate primary, a narrower margin than April's 46%-33% split, with undecided voters jumping to 23%. Both candidates have three summer debates scheduled before the September 1 primary."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan Democrats use 'One Big Beautiful Bill' anniversary to renew attacks on GOP agenda",
+            "source": "Michigan Advance",
+            "url": "https://michiganadvance.com/2026/07/01/michigan-democrats-use-one-big-beautiful-bill-anniversary-to-renew-attacks-on-gop-agenda/",
+            "date": "2026-07-01",
+            "summary": "Michigan Democratic elected officials and AFL-CIO President Ron Bieber held a press event calling out Republican U.S. Senate candidate Mike Rogers for his support of the One Big Beautiful Bill Act and President Trump's agenda. The event marks Democrats' escalating campaign attacks on Rogers as the August 4 Senate primary approaches."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Rep. Wesley Bell and former Rep. Cori Bush are again running against each other in the Democratic primary for Missouri's 1st Congressional District",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/06/30/rep-wesley-bell-and-former-rep-cori-bush-are-again-running-against-each-other-in-the-democratic-primary-for-missouris-1st-congressional-district/",
+            "date": "2026-06-30",
+            "summary": "Incumbent Rep. Wesley Bell and former Rep. Cori Bush face a rematch in the August 4 Democratic primary for Missouri's 1st Congressional District; Bell is backed by House Democratic leadership while Bush has the support of Sen. Bernie Sanders and Our Revolution."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Affordable healthcare emerges as a voter priority in purple Nevada",
+            "source": "The Nevada Independent",
+            "url": "https://thenevadaindependent.com/article/affordable-healthcare-emerges-as-a-voter-priority-in-purple-nevada",
+            "date": "2026-07-01",
+            "summary": "Healthcare costs have emerged as the decisive electoral issue in Nevada's 2026 gubernatorial race between Republican Gov. Joe Lombardo and Democratic AG Aaron Ford, with most respondents saying healthcare costs will influence whom they vote for in November, particularly among Democratic and independent voters."
+          },
+          {
+            "title": "Las Vegas City Council's Allen-Palenske, Brune take second oath of office; Diaz appointed as mayor pro tem",
+            "source": "Las Vegas Review-Journal",
+            "url": "https://www.reviewjournal.com/news/politics-and-government/las-vegas/las-vegas-city-councils-allen-palenske-brune-take-second-oath-of-office-diaz-appointed-as-mayor-pro-tem-3845370/",
+            "date": "2026-07-01",
+            "summary": "Two Las Vegas City Council members took their oaths of office for second terms on July 1 after winning re-election in June's local elections — Councilwoman Brune won a contested three-way race with 56.7% of the vote, while Councilwoman Allen-Palenske ran unopposed; Councilwoman Diaz was also unanimously appointed mayor pro tem."
+          }
+        ],
+        "NH": [
+          {
+            "title": "UNH poll shows tight races for governor and U.S. Senate",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/politics/2026-07-01/unh-poll-shows-tight-races-for-governor-and-u-s-senate-2026-midterms",
+            "date": "2026-07-01",
+            "summary": "A new University of New Hampshire survey shows the 2026 races narrowing: Democrat Chris Pappas leads the Senate primary 53%-29% over Karishma Manzur (down from a 43-point April lead), Republican John Sununu leads the GOP primary 59%-20%, and Gov. Kelly Ayotte holds a 44%-39% edge over Democrat Cinde Warmington in the governor's race ahead of the September 8 primary."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Mo Brown declares victory over longtime state Assemblyman Bill Magnarelli in Democratic primary for CNY seat",
+            "source": "Spectrum News",
+            "url": "https://spectrumlocalnews.com/nys/central-ny/politics/2026/06/30/mo--brown-declares-victory-in-state-assembly-primary-race",
+            "date": "2026-06-30",
+            "summary": "After absentee ballots were counted, Onondaga County Legislator Maurice 'Mo' Brown defeated 28-year incumbent Bill Magnarelli in the Democratic primary for New York's 129th Assembly District; with no Republican opponent, Brown is effectively assured the seat in November."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Nearly every proposed Oregon initiative won't make it onto the November ballot",
+            "source": "Salem Reporter",
+            "url": "https://www.salemreporter.com/2026/06/30/nearly-every-proposed-oregon-initiative-wont-make-it-onto-the-november-ballot/",
+            "date": "2026-06-30",
+            "summary": "Nearly all proposed Oregon ballot initiatives failed to collect enough signatures by the July 2 deadline. Only IP28, an animal rights measure that would limit hunting and trapping, gathered sufficient signatures — approximately 138,335, surpassing the 117,173 required. An open primary initiative and several other measures fell short and will not appear on the November ballot."
+          }
+        ],
+        "PA": [
+          {
+            "title": "'Dark money' group paid Democrat Janelle Stelson for disappearing podcast",
+            "source": "Spotlight PA",
+            "url": "https://www.spotlightpa.org/news/2026/07/janelle-stelson-45000-dark-money-podcast-federal-government/",
+            "date": "2026-07-02",
+            "summary": "Democrat Janelle Stelson, who is challenging Rep. Scott Perry in Pennsylvania's 10th Congressional District, received $45,000 from 'Voting for America,' a dark money nonprofit, for podcast production work. The podcasts Stelson produced for the group are no longer accessible online, raising questions about the arrangement as she seeks a rematch against Perry in a competitive district."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Kevin O'Leary's company says J. Stuart Adams' election loss won't impact Box Elder data center plan",
+            "source": "The Salt Lake Tribune",
+            "url": "https://www.sltrib.com/news/politics/2026/07/01/kevin-olearys-company-says-j/",
+            "date": "2026-07-01",
+            "summary": "Following Utah Senate President J. Stuart Adams' upset primary loss to challenger Stephanie Hollist — driven largely by his support for the controversial Box Elder County data center — Kevin O'Leary's company says the project will proceed regardless, stating 'from our perspective, it is business as usual.' The piece examines whether Adams' historic defeat, the first for a sitting Utah Senate president in modern history, will have any practical effect on the massive proposed data center development."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont Public's 2026 primary election debates: How to listen, watch and submit questions",
+            "source": "Vermont Public",
+            "url": "https://www.vermontpublic.org/about-us/2026-07-01/vermont-public-2026-primary-election-debates",
+            "date": "2026-07-01",
+            "summary": "Vermont Public announced it will host two primary election debates in late July featuring Democratic candidates for governor and lieutenant governor, ahead of the August 11, 2026 primary. The station is inviting viewers to submit questions via email and provided details on how to watch and listen to the debates."
+          },
+          {
+            "title": "This could be the year Democrats unseat Gov. Scott, pollster says",
+            "source": "WCAX",
+            "url": "https://www.wcax.com/2026/07/01/this-could-be-year-democrats-unseat-gov-scott-pollster-says/",
+            "date": "2026-07-01",
+            "summary": "A University of New Hampshire pollster says Democrats could potentially defeat Gov. Phil Scott in November 2026 if they nominate a well-funded, prominent candidate, as Scott's approval rating has declined to 51%, his lowest in four years. However, 70% of likely primary voters remain unfamiliar with both Democratic challengers, Aly Richards and Amanda Janoo."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Harrison County Commission hears arguments in Laura Kimble election challenge",
+            "source": "WDTV",
+            "url": "https://www.wdtv.com/2026/07/01/harrison-county-commission-hears-arguments-laura-kimble-election-challenge/",
+            "date": "2026-07-01",
+            "summary": "The Harrison County Commission heard arguments in an election contest filed by Laura Kimble, who is challenging the results of a recent local race. The commission is serving as the adjudicating body for the election challenge under West Virginia law."
+          },
+          {
+            "title": "Delegate Daniel Linville is named 'director of special projects' by Morrisey",
+            "source": "WV MetroNews",
+            "url": "https://wvmetronews.com/2026/06/29/delegate-daniel-linville-resigns-from-house-citing-upcoming-opportunity/",
+            "date": "2026-06-29",
+            "summary": "West Virginia Delegate Daniel Linville resigned from the House of Delegates after being appointed director of special projects by Governor Patrick Morrisey. His resignation creates a legislative vacancy that will require a special appointment process to fill."
+          }
+        ],
+        "WI": [
+          {
+            "title": "WEC finds probable violation in April instance of duplicate absentee ballots being sent out",
+            "source": "WBAY",
+            "url": "https://www.wbay.com/2026/07/01/wec-finds-probable-violation-april-instance-duplicate-absentee-ballots-being-sent-out/",
+            "date": "2026-07-01",
+            "summary": "The Wisconsin Elections Commission found a probable violation stemming from an April incident in which the City of Green Bay sent duplicate absentee ballots to some voters. The commission is taking action against the municipality over the mailing error."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Red states demand restored access to citizenship database for purging voters",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/red-states-demand-restored-access-to-citizenship-database-for-purging-voters/",
+            "date": "2026-07-01",
+            "summary": "A coalition of Republican-led states filed a legal demand seeking restored access to the federal SAVE citizenship verification database, which they use to identify and remove non-citizens from voter rolls. The states argue the database access is essential to their voter roll maintenance programs."
+          },
+          {
+            "title": "A federal law bans late voter roll purges. Republicans are pushing to reinterpret it.",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court",
+            "date": "2026-07-01",
+            "summary": "NPR reports on Republican efforts to reinterpret the National Voter Registration Act's 90-day quiet period that prohibits systematic voter roll purges close to federal elections. The push comes as several states face legal challenges over aggressive voter list maintenance programs in the run-up to the 2026 midterms."
+          },
+          {
+            "title": "What the SCOTUS campaign finance ruling means, according to an expert",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/07/01/nx-s1-5876087/supreme-court-political-party-spending-ruling-trevor-potter",
+            "date": "2026-07-01",
+            "summary": "NPR reports on the Supreme Court's recent ruling loosening restrictions on coordinated spending between political parties and their candidates, and what it means for campaign finance in the 2026 elections. The decision could significantly increase the role parties play in funding and directing candidate campaigns."
+          }
+        ]
+      }
     }
   ]
 }
