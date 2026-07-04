@@ -1,35 +1,30 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "items": [
     {
-      "text": "Louisiana Republicans outnumber registered Democrats for first time in state history",
-      "url": "https://www.wafb.com/2026/07/02/republicans-outnumber-registered-democrats-louisiana-first-time-state-history/",
-      "abbr": "LA"
+      "text": "Supreme Court upholds states' ability to count mail ballots received after Election Day if postmarked by Election Day, defeating Trump-aligned challenge",
+      "url": "https://www.statenews.org/government-politics/2026-06-29/ohio-mail-in-ballots-unaffected-by-us-supreme-court-ruling",
+      "abbr": "OH"
     },
     {
-      "text": "Republican states demand restored citizenship database access for voter roll purges",
-      "url": "https://www.democracydocket.com/news-alerts/red-states-demand-restored-access-to-citizenship-database-for-purging-voters/",
-      "abbr": "DC"
-    },
-    {
-      "text": "Federal court strikes Arkansas ballot initiative petition restrictions as unconstitutional",
-      "url": "https://apnews.com/article/ballot-measures-arkansas-lawsuit-petitions-2219ea055b52a7759682368da9950e9c",
-      "abbr": "AR"
-    },
-    {
-      "text": "Florida residency lawsuit threatens to remove gubernatorial candidate Fishback from primary ballot",
-      "url": "https://www.miaminewtimes.com/news/do-d-c-records-prove-fishbacks-ineligibility-in-florida-governor-race-40563155/",
-      "abbr": "FL"
-    },
-    {
-      "text": "Idaho new voter ID affidavit law takes effect, requiring date of birth or license number",
-      "url": "https://cdapress.com/news/2026/jul/01/these-new-laws-are-set-to-go-into-effect-in-idaho-on-july-1/",
-      "abbr": "ID"
-    },
-    {
-      "text": "Arizona vote-by-mail initiative withdrawn before signature submission over recorder concerns",
-      "url": "https://ktar.com/arizona-politics-news/election/vote-by-mail-ballot/5885213/",
+      "text": "Supreme Court agrees to hear Arizona's proof-of-citizenship voter registration law, a case affecting 43,000+ registered voters",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-weigh-arizonas-proof-citizenship-voting-law-rcna351239",
       "abbr": "AZ"
+    },
+    {
+      "text": "Connecticut's no-excuse absentee voting law takes effect July 1, fulfilling a voter-approved constitutional amendment",
+      "url": "https://ctmirror.org/2026/06/29/new-ct-laws-july-1-2026/",
+      "abbr": "CT"
+    },
+    {
+      "text": "New Jersey becomes first state to enact voting rights reform in direct response to the Supreme Court's Louisiana v. Callais ruling",
+      "url": "https://www.nj.gov/governor/news/2026/approved/20260702a.shtml",
+      "abbr": "NJ"
+    },
+    {
+      "text": "Delaware AG wins two federal court victories striking down Trump executive orders on proof-of-citizenship voter registration and a new election-enforcement commission",
+      "url": "https://news.delaware.gov/2026/07/02/attorney-general-jennings-announces-two-major-victories-striking-down-executive-orders-on-elections/",
+      "abbr": "DE"
     }
   ]
 }
