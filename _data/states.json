@@ -460,7 +460,7 @@
       "Valid photo ID or two non-photo IDs"
     ],
     "officialUrl": "https://azsos.gov/elections",
-    "lastVerified": "2026-05-22",
+    "lastVerified": "2026-07-06",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -653,6 +653,11 @@
         "date": "2026-07-02",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Pending Legislation",
+        "description": "Updated HB 2492/SCOTUS status: cert granted June 29, 2026 (No. 25-1017), per AZ Secretary of State and Ballotpedia"
       }
     ],
     "recentLegislation": [],
@@ -660,8 +665,8 @@
       {
         "bill": "HB 2492 (9th Circuit ruling / SCOTUS cert petition)",
         "year": 2025,
-        "description": "9th Circuit unanimously found that Arizona's 2022 documentary proof of citizenship laws (HB 2492/HB 2243) were enacted with discriminatory intent; blocked requirements for proof of citizenship to vote for president and to vote by mail. 9th Circuit denied rehearing Sep 22, 2025. RNC and Arizona Senate Republicans filed a petition for certiorari at the U.S. Supreme Court on Feb 19, 2026 (RNC v. Mi Familia Vota, No. 25-1017).",
-        "status": "Blocked by 9th Circuit (Feb 2025); rehearing denied Sep 2025; SCOTUS cert petition filed Feb 19, 2026 (No. 25-1017), pending",
+        "description": "9th Circuit unanimously found that Arizona's 2022 documentary proof of citizenship laws (HB 2492/HB 2243) were enacted with discriminatory intent; blocked requirements for proof of citizenship to vote for president and to vote by mail. 9th Circuit denied rehearing Sep 22, 2025. RNC and Arizona Senate Republicans filed a petition for certiorari at the U.S. Supreme Court on Feb 19, 2026 (RNC v. Mi Familia Vota, No. 25-1017). The U.S. Supreme Court granted certiorari on June 29, 2026; the case will be heard in the term beginning October 2026 and does not affect Arizona's 2026 elections (existing DPOC and voter-ID rules remain in effect).",
+        "status": "Blocked by 9th Circuit (Feb 2025); rehearing denied Sep 2025; SCOTUS granted certiorari June 29, 2026 (No. 25-1017); argument in term beginning Oct 2026, decision expected by June 2027",
         "dateAdded": "2026-02-28",
         "active": true
       },
@@ -891,7 +896,7 @@
       "Last 4 of SSN if no DL"
     ],
     "officialUrl": "https://www.sos.ca.gov/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-06",
     "notes": "California automatically registers eligible citizens through the DMV (motor voter).",
     "confidenceLevel": "High",
     "sources": [
@@ -1094,6 +1099,11 @@
         "date": "2026-07-01",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Pending Legislation",
+        "description": "Added Proposition 39, voter-ID/citizenship-verification initiative qualified for the Nov 3, 2026 ballot, per California Secretary of State and CalMatters"
       }
     ],
     "recentLegislation": [
@@ -1106,7 +1116,16 @@
         "active": true
       }
     ],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "Proposition 39 (2026 ballot initiative)",
+        "year": 2026,
+        "description": "Citizen initiative to amend the California Constitution to require voter ID when casting a ballot, require election officials to verify the citizenship of registered voters, and maintain accurate voter rolls (including providing the last four digits of an ID number on mail ballots).",
+        "status": "Qualified for the November 3, 2026 statewide ballot (certified after more than 1 million valid signatures); requires voter approval",
+        "dateAdded": "2026-07-06",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Colorado",
@@ -1432,7 +1451,7 @@
       {
         "date": "2026-05-10",
         "field": "Pending Legislation",
-        "description": "Added HB 5001 (no-excuse absentee enabling + admin reforms) \u2014 passed both chambers May 6-7, 2026 and awaiting Governor's signature, per CT General Assembly bill page and CT Mirror / CT News Junkie / ACLU CT"
+        "description": "Added HB 5001 (no-excuse absentee enabling + admin reforms) — passed both chambers May 6-7, 2026 and awaiting Governor's signature, per CT General Assembly bill page and CT Mirror / CT News Junkie / ACLU CT"
       },
       {
         "date": "2026-05-10",
@@ -1562,7 +1581,7 @@
       {
         "bill": "HB 5001 (Public Act 26-42)",
         "year": 2026,
-        "description": "An Act Concerning Absentee Voting for All and Various Other Reforms to the Administration of Elections \u2014 eliminates the excuse requirement for absentee ballots (implementing the November 2024 constitutional amendment); also adds absentee-ballot tracking software, allows 17-year-olds who will be 18 by election day to vote absentee/early, makes tampering with an absentee-ballot drop box a class D felony, and elevates harassment of election workers to a felony on a second offense.",
+        "description": "An Act Concerning Absentee Voting for All and Various Other Reforms to the Administration of Elections — eliminates the excuse requirement for absentee ballots (implementing the November 2024 constitutional amendment); also adds absentee-ballot tracking software, allows 17-year-olds who will be 18 by election day to vote absentee/early, makes tampering with an absentee-ballot drop box a class D felony, and elevates harassment of election workers to a felony on a second offense.",
         "status": "Signed by Gov. Lamont May 19, 2026 as Public Act 26-42; effective immediately upon signing",
         "dateAdded": "2026-05-10",
         "active": true
@@ -2308,7 +2327,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://elections.hawaii.gov/",
-    "lastVerified": "2026-06-13",
+    "lastVerified": "2026-07-06",
     "notes": "Hawaii is a vote-by-mail state.",
     "confidenceLevel": "High",
     "sources": [
@@ -2476,19 +2495,24 @@
         "date": "2026-07-02",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Recent Legislation",
+        "description": "SB 2239 signed as Act 67 (automatic voter registration, effective Jan 1, 2027); moved from pending to recent per Senate press release and Maui Now"
       }
     ],
-    "recentLegislation": [],
-    "pendingLegislation": [
+    "recentLegislation": [
       {
-        "bill": "SB 2239",
+        "bill": "SB 2239 (Act 67)",
         "year": 2026,
-        "description": "Shifts voter registration from opt-in to opt-out (\"automatic\"): residents are automatically registered or updated at DMV/state-ID transactions unless they decline. Effective January 1, 2027 if enacted.",
-        "status": "Passed legislature (Senate 24-1, House 40-11); sent to Gov. Green early May 2026; awaiting governor's action",
-        "dateAdded": "2026-06-13",
+        "description": "Establishes automatic (opt-out) voter registration statewide: residents are automatically registered or updated at DMV/state-ID transactions unless they decline. Effective January 1, 2027.",
+        "status": "Signed by Gov. Green as Act 67 (May 29, 2026); effective Jan 1, 2027",
+        "dateAdded": "2026-07-06",
         "active": true
       }
-    ]
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Idaho",
@@ -2582,7 +2606,7 @@
       {
         "date": "2026-05-05",
         "field": "Recent Legislation",
-        "description": "Added S 1322 (2026) \u2014 amends voter ID affidavit process to require date of birth or Idaho DL/ID number on affidavit, signed by Gov. Little March 31, 2026, effective July 1, 2026, per Ballotpedia News and LegiScan"
+        "description": "Added S 1322 (2026) — amends voter ID affidavit process to require date of birth or Idaho DL/ID number on affidavit, signed by Gov. Little March 31, 2026, effective July 1, 2026, per Ballotpedia News and LegiScan"
       },
       {
         "date": "2026-05-05",
@@ -2704,7 +2728,7 @@
       {
         "bill": "S 1322",
         "year": 2026,
-        "description": "Amends voter ID affidavit process \u2014 voters using affidavit in lieu of photo ID must also provide either date of birth or Idaho driver's license/ID number, in addition to name and address.",
+        "description": "Amends voter ID affidavit process — voters using affidavit in lieu of photo ID must also provide either date of birth or Idaho driver's license/ID number, in addition to name and address.",
         "status": "Signed by Gov. Brad Little March 31, 2026; effective July 1, 2026",
         "dateAdded": "2026-05-05",
         "active": true
@@ -3164,7 +3188,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://sos.iowa.gov/elections/",
-    "lastVerified": "2026-05-10",
+    "lastVerified": "2026-07-06",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3357,6 +3381,11 @@
         "date": "2026-07-01",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Recent Legislation",
+        "description": "Added five 2026 enacted election bills (SF 2218, HF 2601, HF 2501, SF 140, SF 2472) per Ballotpedia and Iowa Capital Dispatch"
       }
     ],
     "recentLegislation": [
@@ -3374,6 +3403,46 @@
         "description": "Grants Secretary of State authority to contract with federal/state agencies for voter roll citizenship verification; allows citizenship challenges at polls; bans ranked-choice voting statewide; increases threshold for political party status",
         "status": "Signed June 2, 2025",
         "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "SF 2218",
+        "year": 2026,
+        "description": "Requires the state registrar of voters to annually verify the U.S. citizenship status of all registered voters through the federal SAVE system.",
+        "status": "Signed by Gov. Reynolds June 2, 2026",
+        "dateAdded": "2026-07-06",
+        "active": true
+      },
+      {
+        "bill": "HF 2601",
+        "year": 2026,
+        "description": "Prohibits foreign nationals and noncitizens from contributing to ballot-measure campaigns.",
+        "status": "Signed by Gov. Reynolds June 2, 2026",
+        "dateAdded": "2026-07-06",
+        "active": true
+      },
+      {
+        "bill": "HF 2501",
+        "year": 2026,
+        "description": "Eliminates the option for a voter without acceptable ID to have another registered voter attest to their identity at the polls.",
+        "status": "Enacted 2026",
+        "dateAdded": "2026-07-06",
+        "active": true
+      },
+      {
+        "bill": "SF 140",
+        "year": 2026,
+        "description": "Prohibits satellite absentee voting stations from being placed on school property when a school-related measure is on that election's ballot.",
+        "status": "Signed by Gov. Reynolds June 2, 2026",
+        "dateAdded": "2026-07-06",
+        "active": true
+      },
+      {
+        "bill": "SF 2472",
+        "year": 2026,
+        "description": "Enables voters to authorize a levy rate exceeding the state-law maximum at an election held on or after July 1, 2026.",
+        "status": "Signed by Gov. Reynolds June 2, 2026",
+        "dateAdded": "2026-07-06",
         "active": true
       }
     ],
@@ -4075,7 +4144,7 @@
     "sameDayRegistration": true,
     "earlyVoting": {
       "available": true,
-      "details": "In-person absentee voting available at town clerk offices 30\u201345 days before election."
+      "details": "In-person absentee voting available at town clerk offices 30–45 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -5506,7 +5575,7 @@
       {
         "date": "2026-05-22",
         "field": "Pending Legislation",
-        "description": "Added HB 174 / SB 152 (wide-reaching elections bill including felony voting rights restoration for most probation/parole cases) \u2014 passed both chambers May 2026, awaiting Gov. Kehoe by July 15 deadline, per KCUR/NPR and St. Louis Public Radio"
+        "description": "Added HB 174 / SB 152 (wide-reaching elections bill including felony voting rights restoration for most probation/parole cases) — passed both chambers May 2026, awaiting Gov. Kehoe by July 15 deadline, per KCUR/NPR and St. Louis Public Radio"
       },
       {
         "date": "2026-05-23",
@@ -6330,7 +6399,7 @@
     "eligibilityAge": "18",
     "idRequirements": {
       "toRegister": "Proof of identity required (not just an ID number): driver's license, government-issued photo ID, passport, or naturalization papers. Under HB 1569 (effective Nov 2024), all first-time registrants must provide hard-copy documentary proof of U.S. citizenship: U.S. passport, birth certificate, or naturalization papers. Proof of domicile also required. On May 28, 2026, a federal court struck down HB 1569's elimination of the qualified-voter affidavit as unconstitutional, reinstating the affidavit option (attesting to citizenship under penalty of perjury) for registration; the state has said it will appeal.",
-      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569. Under HB 323 (effective June 2, 2026), student IDs \u2014 including government-issued college/university IDs \u2014 are no longer accepted; only government-issued IDs such as driver's licenses, state IDs, passports, and military IDs qualify."
+      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569. Under HB 323 (effective June 2, 2026), student IDs — including government-issued college/university IDs — are no longer accepted; only government-issued IDs such as driver's licenses, state IDs, passports, and military IDs qualify."
     },
     "registrationDeadline": "Same-day registration available on election day",
     "registrationMethods": {
@@ -6681,7 +6750,7 @@
       {
         "date": "2026-05-22",
         "field": "Recent Legislation",
-        "description": "Added A4745 / S420 (early voting expansion for May municipal nonpartisan elections \u2014 7 days starting 8 days before Election Day) signed by Gov. Sherrill April 6, 2026 per NJ Governor's Office press release"
+        "description": "Added A4745 / S420 (early voting expansion for May municipal nonpartisan elections — 7 days starting 8 days before Election Day) signed by Gov. Sherrill April 6, 2026 per NJ Governor's Office press release"
       },
       {
         "date": "2026-05-24",
@@ -6773,7 +6842,7 @@
       {
         "bill": "A4745 / S420",
         "year": 2026,
-        "description": "Permits municipalities that hold nonpartisan elections in May to extend in-person early voting to begin 8 days before Election Day (ending 2 days before), giving voters 7 days of early voting \u2014 an increase of 4 days over previous law.",
+        "description": "Permits municipalities that hold nonpartisan elections in May to extend in-person early voting to begin 8 days before Election Day (ending 2 days before), giving voters 7 days of early voting — an increase of 4 days over previous law.",
         "status": "Signed by Gov. Sherrill April 6, 2026",
         "dateAdded": "2026-05-22",
         "active": true
@@ -7264,7 +7333,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.ncsbe.gov/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-06",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -7422,10 +7491,32 @@
         "date": "2026-07-01",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Pending Legislation",
+        "description": "Added SB 921 (voter-ID constitutional amendment on the Nov 2026 ballot) and HB 958 (elections omnibus), per Ballotpedia and Carolina Public Press"
       }
     ],
     "recentLegislation": [],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "Senate Bill 921 (Require Voter ID Amendment)",
+        "year": 2026,
+        "description": "Proposed constitutional amendment extending North Carolina's photo-ID requirement to all voters, including those voting by mail (currently photo ID is required only for in-person voting).",
+        "status": "Passed the legislature (Senate 30-19; House with all Republicans in favor); on the November 2026 statewide ballot; requires voter approval",
+        "dateAdded": "2026-07-06",
+        "active": true
+      },
+      {
+        "bill": "House Bill 958 (elections omnibus)",
+        "year": 2026,
+        "description": "36-page omnibus elections bill covering absentee/provisional ballot counting deadlines, ranked-choice voting, and the state auditor's role in elections; would give county boards until the fifth business day after Election Day to count absentee/provisional ballots and let voters cure ballots and registrations.",
+        "status": "Moving through the 2025-2026 legislature; not enacted as of July 2026",
+        "dateAdded": "2026-07-06",
+        "active": true
+      }
+    ]
   },
   {
     "state": "North Dakota",
@@ -7635,7 +7726,7 @@
       {
         "bill": "HB 1165",
         "year": 2025,
-        "description": "Created a receipt deadline for absentee/mail-in ballots \u2014 ballots must now be received by the close of polls on Election Day. Previously, ballots postmarked by the day before Election Day and received within 13 days after were counted.",
+        "description": "Created a receipt deadline for absentee/mail-in ballots — ballots must now be received by the close of polls on Election Day. Previously, ballots postmarked by the day before Election Day and received within 13 days after were counted.",
         "status": "Signed into law April 28, 2025; effective August 1, 2025",
         "dateAdded": "2026-05-22",
         "active": true
@@ -7664,7 +7755,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (effective March 20, 2026) eliminated the post-Election Day grace period \u2014 absentee ballots must now be received by close of polls on Election Day.",
+      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (effective March 20, 2026) eliminated the post-Election Day grace period — absentee ballots must now be received by close of polls on Election Day.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon release from prison.",
@@ -8118,7 +8209,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "All elections conducted entirely by mail. Ballots mailed 14\u201318 days before election."
+      "details": "All elections conducted entirely by mail. Ballots mailed 14–18 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -8907,7 +8998,7 @@
     "abbreviation": "SD",
     "eligibilityAge": "18 (may register at 17 if turning 18 by election day)",
     "idRequirements": {
-      "toRegister": "SD driver's license or non-driver ID number; if no DL, last 4 of SSN. If neither, applicant must provide a personal identification affidavit facilitated by the registration examiner.",
+      "toRegister": "First-time registrants must provide documentary proof of U.S. citizenship (SD driver's license/ID issued after July 1, 2025; out-of-state ID verifying citizenship; tribal ID; or a photocopy of a birth certificate, U.S. passport, Consular Report of Birth Abroad, or naturalization certificate) per SB 175. Registrants who do not provide it are registered as 'federal-only' voters (president and Congress). Registration also requires an SD driver's license or non-driver ID number; if none, the last 4 of SSN.",
       "toVote": "Photo ID required (free voter ID available)"
     },
     "registrationDeadline": "15 days before election",
@@ -8928,10 +9019,11 @@
     },
     "felonyVotingRules": "Rights restored upon completion of sentence (incarceration). People on parole or probation for a felony may not vote.",
     "documentationNeeded": [
-      "Valid photo ID or signed affidavit"
+      "Documentary proof of U.S. citizenship (first-time registrants)",
+      "Valid photo ID"
     ],
     "officialUrl": "https://sdsos.gov/elections-voting/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-06",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -9104,6 +9196,11 @@
         "date": "2026-07-01",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "ID Requirements",
+        "description": "Updated registration ID / documentation to reflect SB 175 documentary-proof-of-citizenship requirement (federal-only fallback), per SD Secretary of State and Ballotpedia"
       }
     ],
     "recentLegislation": [
@@ -9847,7 +9944,7 @@
       "Driver's license number or last 4 of SSN"
     ],
     "officialUrl": "https://sos.vermont.gov/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-06",
     "notes": "Vermont allows incarcerated individuals to vote, along with Maine and DC.",
     "confidenceLevel": "High",
     "sources": [
@@ -9990,9 +10087,23 @@
         "date": "2026-07-02",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Recent Legislation",
+        "description": "Added S.298 (Act 70), Vermont Voter Protections Act, signed June 8, 2026, per Vermont Legislature"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "S.298 (Act 70) — Vermont Voter Protections Act",
+        "year": 2026,
+        "description": "Strengthens penalties for election interference and voter intimidation, and updates voter-checklist maintenance and election-security provisions. Does not change voter registration or ID requirements.",
+        "status": "Signed by Gov. Scott June 8, 2026",
+        "dateAdded": "2026-07-06",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -10019,13 +10130,13 @@
       "details": "No-excuse absentee voting available for all registered voters.",
       "noExcuseRequired": true
     },
-    "felonyVotingRules": "As of June 1, 2026, per the federal court ruling in King v. Youngkin, Virginia can no longer disenfranchise people convicted of felonies except for a narrow set of common-law felonies (murder, manslaughter, arson, burglary, robbery, rape, sodomy, mayhem, larceny). Eligible non-common-law felons can register to vote without gubernatorial restoration starting June 1, 2026. Until then, the existing process \u2014 apply to the governor for restoration after completion of sentence \u2014 still applies.",
+    "felonyVotingRules": "Per the federal court ruling in King v. Youngkin, in effect since June 1, 2026, Virginia can no longer disenfranchise people convicted of felonies except for a narrow set of common-law felonies (murder, manslaughter, arson, burglary, robbery, rape, sodomy, mayhem, larceny). Eligible non-common-law felons can register to vote without gubernatorial restoration. Implementation is still settling: Virginia ELECT has directed local officials to stop denying these registrations but to hold the applications, so many are not yet fully processed.",
     "documentationNeeded": [
       "Valid ID (photo or non-photo accepted)",
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.elections.virginia.gov/",
-    "lastVerified": "2026-05-05",
+    "lastVerified": "2026-07-06",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -10183,6 +10294,11 @@
         "date": "2026-07-01",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Felony Voting Rules",
+        "description": "King v. Youngkin now in effect (June 1, 2026 passed); updated tense and noted Virginia ELECT hold-not-deny guidance, per ACLU of Virginia and VPM"
       }
     ],
     "recentLegislation": [
@@ -10190,7 +10306,7 @@
         "bill": "King v. Youngkin (federal court ruling)",
         "year": 2026,
         "description": "Federal court ruling barring Virginia from disenfranchising people convicted of felonies except for a narrow set of common-law felonies (murder, manslaughter, arson, burglary, robbery, rape, sodomy, mayhem, larceny). Eliminates need for gubernatorial restoration for non-common-law felonies.",
-        "status": "Implementation begins June 1, 2026 (extended from May 1)",
+        "status": "In effect since June 1, 2026 (extended from May 1); Virginia ELECT directing localities to hold, not deny, affected registrations",
         "dateAdded": "2026-05-05",
         "active": true
       }
@@ -10395,7 +10511,7 @@
     "eligibilityAge": "18 (may pre-register at 17)",
     "idRequirements": {
       "toRegister": "WV DMV ID number or last 4 of SSN. If neither, write \"NONE\" and a voter ID number is assigned. First-time voters must show ID with registration or when first voting. WV accepts out-of-state driver's licenses for voting. Online registration requires a WV DMV-issued ID.",
-      "toVote": "Photo ID required per HB 3016 (effective July 11, 2025). Accepted: WV driver's license or state ID, U.S. passport, U.S. military photo ID, or tribal photo ID. Voters without photo ID may cast a provisional ballot."
+      "toVote": "Photo ID required per HB 3016 (effective July 11, 2025). Accepted: WV driver's license or state ID; U.S. passport or passport card; photo employee ID issued by a local, state, or federal government; photo student ID from a WV institution of higher education or a WV high school; and U.S. military photo ID. (The document must be issued by West Virginia, a WV political subdivision/instrumentality, or the U.S. government and show the voter's name and photo.) Voters without acceptable photo ID may cast a provisional ballot."
     },
     "registrationDeadline": "21 days before election",
     "registrationMethods": {
@@ -10418,7 +10534,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.wv.gov/elections/",
-    "lastVerified": "2026-05-26",
+    "lastVerified": "2026-07-06",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -10480,7 +10596,7 @@
       {
         "date": "2026-05-10",
         "field": "Pending Legislation",
-        "description": "Added SJR 9 \u2014 constitutional amendment placing 'only U.S. citizens who are state citizens may vote' question on the November 3, 2026 ballot. Per Ballotpedia News and WV Record, with WV Legislature SJR 9 enrolled text providing Tier-1 corroboration."
+        "description": "Added SJR 9 — constitutional amendment placing 'only U.S. citizens who are state citizens may vote' question on the November 3, 2026 ballot. Per Ballotpedia News and WV Record, with WV Legislature SJR 9 enrolled text providing Tier-1 corroboration."
       },
       {
         "date": "2026-05-10",
@@ -10571,6 +10687,11 @@
         "date": "2026-07-02",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "ID Requirements",
+        "description": "Corrected HB 3016 accepted photo-ID list: removed tribal ID (not on statute), added government-employee and WV student photo IDs, per HB 3016 bill text and West Virginia Watch"
       }
     ],
     "recentLegislation": [
@@ -10872,7 +10993,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://sos.wyo.gov/Elections/",
-    "lastVerified": "2026-05-26",
+    "lastVerified": "2026-07-06",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -10969,7 +11090,7 @@
       {
         "date": "2026-05-26",
         "field": "Recent Legislation",
-        "description": "Updated HB 156 status \u2014 initial federal challenge (Equality State Policy Center v. Gray) dismissed without prejudice July 2025; law in effect. Removed stale 'under legal challenge' language from idRequirements and legislation status, per Wyoming Public Media and Democracy Docket"
+        "description": "Updated HB 156 status — initial federal challenge (Equality State Policy Center v. Gray) dismissed without prejudice July 2025; law in effect. Removed stale 'under legal challenge' language from idRequirements and legislation status, per Wyoming Public Media and Democracy Docket"
       },
       {
         "date": "2026-05-28",
@@ -11040,14 +11161,19 @@
         "date": "2026-07-01",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Recent Legislation",
+        "description": "Updated HB 156 to include its 30-day durational residency requirement, per Bolts and Wyoming Public Media"
       }
     ],
     "recentLegislation": [
       {
         "bill": "HB 156",
         "year": 2025,
-        "description": "Requires documentary proof of U.S. citizenship to register to vote",
-        "status": "Became law without governor's signature; effective July 2025 (initial federal challenge dismissed without prejudice July 2025)",
+        "description": "Requires documentary proof of U.S. citizenship to register to vote, and establishes a new durational residency requirement: voters must have resided in Wyoming for at least 30 days before an election.",
+        "status": "Became law without governor's signature; effective July 2025; federal challenges (including Equality State Policy Center v. Gray) dismissed on standing grounds in July 2025; law remains in effect",
         "dateAdded": "2026-02-25",
         "active": true
       }
@@ -11084,7 +11210,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.dcboe.org/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-06",
     "notes": "DC allows incarcerated individuals to vote. As a federal district, DC residents have no voting representation in Congress.",
     "confidenceLevel": "High",
     "sources": [
@@ -11287,9 +11413,23 @@
         "date": "2026-07-02",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-06",
+        "field": "Recent Legislation",
+        "description": "Added Initiative 83 (ranked-choice voting), first used in the June 16, 2026 primary, per Ballotpedia and FairVote"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "Initiative 83 (ranked-choice voting)",
+        "year": 2026,
+        "description": "Voter-approved initiative (November 2024, ~73%) establishing ranked-choice voting for DC elections. The DC Council voted 8-4 (July 14, 2025) to fund the ranked-choice-voting component; the open-primary component was not funded.",
+        "status": "In effect; ranked-choice voting used for the first time in the June 16, 2026 primary",
+        "dateAdded": "2026-07-06",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   }
 ]
