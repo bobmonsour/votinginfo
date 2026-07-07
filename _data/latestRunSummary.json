@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-07",
   "items": [
     {
-      "text": "New Jersey becomes first state to enact voting rights reform in direct response to the Supreme Court's Louisiana v. Callais ruling",
-      "url": "https://www.nj.gov/governor/news/2026/approved/20260702a.shtml",
-      "abbr": "NJ"
-    },
-    {
-      "text": "Louisville voters may have received wrong ballots for years due to post-redistricting precinct errors",
-      "url": "https://www.lpm.org/news/2026-07-02/voters-across-louisville-may-have-gotten-the-wrong-ballots-for-years",
-      "abbr": "KY"
-    },
-    {
-      "text": "FBI and Alaska AG investigating whether Dan J. Sullivan's same-name Senate candidacy constitutes a conspiracy to confuse voters",
-      "url": "https://www.nbcnews.com/politics/2026-election/dan-sullivan-saga-alaska-senate-race-investigation-sources-say-rcna352679",
+      "text": "DOJ, FBI launch investigation into Alaska same-name Senate ballot scheme",
+      "url": "https://abcnews.com/Politics/doj-launches-investigation-alaska-candidate-same-sitting-senator/story?id=134442958",
       "abbr": "AK"
     },
     {
-      "text": "Delaware AG wins two federal court victories striking down Trump executive orders on proof-of-citizenship voter registration and election enforcement",
-      "url": "https://news.delaware.gov/2026/07/02/attorney-general-jennings-announces-two-major-victories-striking-down-executive-orders-on-elections/",
-      "abbr": "DE"
+      "text": "Federal courts have rejected Trump's election authority expansion 10 consecutive times",
+      "url": "https://www.delawarepublic.org/2026-07-03/courts-have-protected-states-rights-to-manage-elections-despite-trumps-efforts",
+      "abbr": "DC"
     },
     {
-      "text": "Washington state income tax opponents file 511,000 signatures to put repeal initiative on November ballot",
-      "url": "https://www.spokesman.com/stories/2026/jul/02/wa-income-tax-foes-file-signatures-to-get-repeal-m/",
-      "abbr": "WA"
+      "text": "North Carolina residents receive bogus voter registration mailers; state board issues guidance",
+      "url": "https://nsjonline.com/article/2026/07/nc-bogus-voter-registration-mailers/",
+      "abbr": "NC"
+    },
+    {
+      "text": "Michigan budget cuts $43M for aging voting machine replacement",
+      "url": "https://bridgemi.com/michigan-government/michigan-lawmakers-pass-84b-budget-67-bills-in-marathon-session/",
+      "abbr": "MI"
+    },
+    {
+      "text": "Wyoming's new proof-of-citizenship and notarization voter registration rules now in effect",
+      "url": "https://oilcity.news/community/elections/2026/07/03/registering-to-vote-in-wyoming-heres-what-you-need-to-know/",
+      "abbr": "WY"
     }
   ]
 }
