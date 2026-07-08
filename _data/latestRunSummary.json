@@ -1,40 +1,30 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "items": [
     {
-      "text": "Maine Senate nominee Platner faces calls to quit over sexual assault allegation",
-      "url": "https://www.mainepublic.org/politics/2026-07-07/the-behind-the-scenes-scramble-begins-to-replace-graham-platner-as-he-weighs-his-future",
-      "abbr": "ME"
+      "text": "DOJ threatens criminal charges for election officials over noncitizen voting",
+      "url": "https://www.nbcnews.com/politics/elections/doj-warns-criminal-charges-state-election-officials-non-citizen-voting-rcna353433",
+      "abbr": "DC"
     },
     {
-      "text": "Kentucky investigators find 1,800 Louisville households received wrong ballots for years",
-      "url": "https://www.npr.org/2026/07/06/nx-s1-5879191/some-voters-in-louisville-kentucky-got-wrong-ballots-for-years",
-      "abbr": "KY"
+      "text": "NC GOP operative using state job to pressure county early voting schedules reassigned",
+      "url": "https://www.nbcnews.com/politics/2026-election/north-carolina-republican-operative-shaping-states-early-voting-plans-rcna353471",
+      "abbr": "NC"
     },
     {
-      "text": "New Jersey enacts John Lewis Voter Empowerment Act as state-level voting rights law",
-      "url": "https://newjerseyglobe.com/campaigns/sherrill-signs-john-r-lewis-voter-empowerment-act-into-law-creating-new-jerseys-own-voting-rights-statute/",
-      "abbr": "NJ"
+      "text": "South Carolina Republicans sue to close primary elections to registered party members only",
+      "url": "https://www.wistv.com/2026/07/08/sc-republicans-sue-state-election-commission-over-open-primary-rule/",
+      "abbr": "SC"
     },
     {
-      "text": "Michigan DOJ election monitors spark voter intimidation controversy ahead of August primary",
-      "url": "https://bridgemi.com/michigan-government/doj-to-send-election-monitors-to-detroit-lansing-east-lansing/",
-      "abbr": "MI"
+      "text": "Louisiana Republicans surpass Democrats in voter registration for first time in state history",
+      "url": "https://lailluminator.com/2026/07/07/republican-voter-louisiana/",
+      "abbr": "LA"
     },
     {
-      "text": "Texas AG Paxton may have voted illegally at wrong address in six elections",
-      "url": "https://www.texastribune.org/2026/07/07/ken-paxton-voting-election-law/",
-      "abbr": "TX"
-    },
-    {
-      "text": "Alaska investigators probe fake 'Dan Sullivan' Senate candidacy to deceive voters",
-      "url": "https://www.nbcnews.com/politics/2026-election/dan-sullivan-saga-alaska-senate-race-investigation-sources-say-rcna352679",
-      "abbr": "AK"
-    },
-    {
-      "text": "Colorado Republican governor primary still undecided with ballot cure deadline approaching",
-      "url": "https://www.coloradopolitics.com/2026/07/06/republican-victor-marx-maintains-slim-lead-over-barb-kirkmeyer-in-colorado-republican-governor-contest/",
-      "abbr": "CO"
+      "text": "Indiana proof-of-citizenship law cancels naturalized citizen's registration after system outage",
+      "url": "https://indianacapitalchronicle.com/2026/07/02/longtime-citizen-flagged-voter-registration-revoked-in-proof-of-citizenship-debacle/",
+      "abbr": "IN"
     }
   ]
 }
