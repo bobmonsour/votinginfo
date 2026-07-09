@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "items": [
     {
-      "text": "DOJ threatens criminal charges for election officials over noncitizen voting",
-      "url": "https://www.nbcnews.com/politics/elections/doj-warns-criminal-charges-state-election-officials-non-citizen-voting-rcna353433",
-      "abbr": "DC"
+      "text": "Colorado enacts elections omnibus and seven other voting-related laws from its 2026 session",
+      "url": "https://news.ballotpedia.org/2026/07/08/colorado-lawmakers-enact-omnibus-elections-bill-seven-other-election-related-laws-in-2026-session/",
+      "abbr": "CO"
     },
     {
-      "text": "NC GOP operative using state job to pressure county early voting schedules reassigned",
-      "url": "https://www.nbcnews.com/politics/2026-election/north-carolina-republican-operative-shaping-states-early-voting-plans-rcna353471",
+      "text": "Illinois and Washington state officials review DOJ prosecution threats over noncitizen voter rolls",
+      "url": "https://www.kuow.org/stories/doj-threatens-wa-election-officials-with-prosecution-if-noncitizens-vote",
+      "abbr": "WA"
+    },
+    {
+      "text": "Minnesota begins election machine testing as federal election security support diminishes",
+      "url": "https://minnesotareformer.com/briefs/minnesota-begins-routine-election-machine-tests-as-feds-retreat-from-election-security/",
+      "abbr": "MN"
+    },
+    {
+      "text": "Maine Democrats plan convention to replace Senate candidate after Graham Platner's withdrawal",
+      "url": "https://www.axios.com/2026/07/09/democrats-maine-senate-race-replace-platner",
+      "abbr": "ME"
+    },
+    {
+      "text": "North Carolina legislature to take up sweeping elections omnibus bill HB 958 on July 27 return",
+      "url": "https://ncnewsline.com/2026/07/09/delayed-by-budget-talks-nc-legislature-still-has-plenty-to-do/",
       "abbr": "NC"
-    },
-    {
-      "text": "South Carolina Republicans sue to close primary elections to registered party members only",
-      "url": "https://www.wistv.com/2026/07/08/sc-republicans-sue-state-election-commission-over-open-primary-rule/",
-      "abbr": "SC"
-    },
-    {
-      "text": "Louisiana Republicans surpass Democrats in voter registration for first time in state history",
-      "url": "https://lailluminator.com/2026/07/07/republican-voter-louisiana/",
-      "abbr": "LA"
-    },
-    {
-      "text": "Indiana proof-of-citizenship law cancels naturalized citizen's registration after system outage",
-      "url": "https://indianacapitalchronicle.com/2026/07/02/longtime-citizen-flagged-voter-registration-revoked-in-proof-of-citizenship-debacle/",
-      "abbr": "IN"
     }
   ]
 }
