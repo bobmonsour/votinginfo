@@ -1,40 +1,28 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "items": [
     {
-      "text": "DOJ threatens criminal prosecution of election officials in all 50 states over noncitizen voting",
-      "url": "https://molawyersmedia.com/2026/07/09/doj-warns-state-officials-prosecution-noncitizen-voting/",
+      "text": "Trump fires all Election Assistance Commission members ahead of 2026 midterms",
+      "url": "https://www.news4jax.com/news/politics/2026/07/10/donald-trump-ousts-election-commission-members-in-latest-push-to-reshape-us-voting-process/",
       "abbr": "DC"
     },
     {
-      "text": "Wisconsin investigates Green Bay clerk over duplicate absentee ballot mailings to hundreds of voters",
-      "url": "https://www.wpr.org/news/state-elections-commission-orders-investigation-into-green-bay-issuing-duplicate-ballots",
-      "abbr": "WI"
+      "text": "ACLU challenges new Kansas election law as violating National Voter Registration Act",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-07-10/aclu-kansas-election-law-federal-voting-rights",
+      "abbr": "KS"
     },
     {
-      "text": "Montana court blocks GOP bylaws requiring dues and loyalty oath barring collaboration with Democrats",
-      "url": "https://dailyinterlake.com/news/2026/jul/09/judge-blocks-new-montana-gop-bylaws/",
-      "abbr": "MT"
+      "text": "DOJ warns state election officials of criminal prosecution if noncitizens vote",
+      "url": "https://wvmetronews.com/2026/07/08/west-virginia-gets-doj-letter-saying-state-officials-could-face-criminal-charges-if-noncitizens-vote/",
+      "abbr": "WV"
     },
     {
-      "text": "Maryland schedules redistricting special session after Supreme Court weakened federal Voting Rights Act",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4641423/maryland-redistricting-action-not-way-wes-moore-wanted/",
-      "abbr": "MD"
+      "text": "Maine Democrats race to replace Senate nominee after campaign suspension",
+      "url": "https://www.cbsnews.com/news/maine-democrats-senate-candidates-replace-graham-platner/",
+      "abbr": "ME"
     },
     {
-      "text": "Hawaii lawmakers press for USPS ballot contingency plan — election officials say none exists",
-      "url": "https://www.staradvertiser.com/2026/07/09/hawaii-news/hawaii-lawmakers-want-a-plan-b-if-usps-wont-deliver-ballots/",
-      "abbr": "HI"
-    },
-    {
-      "text": "Nebraska submits 186,000 signatures to shield voter-passed laws from legislative override",
-      "url": "https://news.ballotpedia.org/2026/07/09/signatures-submitted-for-four-2026-ballot-measures-that-would-limit-legislative-changes-to-the-initiative-process-in-arkansas-missouri-montana-and-nebraska/",
-      "abbr": "NE"
-    },
-    {
-      "text": "Minnesota cut off from federal election security briefings as DOJ sues over voter roll access",
-      "url": "https://www.startribune.com/minnesota-election-security-sec-state-steve-simon-federal-intel-trump-voter-fraud/601863688",
-      "abbr": "MN"
+      "text": "Michigan, Colorado, Alaska, and Connecticut all see competitive primary activity"
     }
   ]
 }
