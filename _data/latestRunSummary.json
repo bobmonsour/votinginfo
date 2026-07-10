@@ -2,29 +2,39 @@
   "date": "2026-07-09",
   "items": [
     {
-      "text": "Colorado enacts elections omnibus and seven other voting-related laws from its 2026 session",
-      "url": "https://news.ballotpedia.org/2026/07/08/colorado-lawmakers-enact-omnibus-elections-bill-seven-other-election-related-laws-in-2026-session/",
-      "abbr": "CO"
+      "text": "DOJ threatens criminal prosecution of election officials in all 50 states over noncitizen voting",
+      "url": "https://molawyersmedia.com/2026/07/09/doj-warns-state-officials-prosecution-noncitizen-voting/",
+      "abbr": "DC"
     },
     {
-      "text": "Illinois and Washington state officials review DOJ prosecution threats over noncitizen voter rolls",
-      "url": "https://www.kuow.org/stories/doj-threatens-wa-election-officials-with-prosecution-if-noncitizens-vote",
-      "abbr": "WA"
+      "text": "Wisconsin investigates Green Bay clerk over duplicate absentee ballot mailings to hundreds of voters",
+      "url": "https://www.wpr.org/news/state-elections-commission-orders-investigation-into-green-bay-issuing-duplicate-ballots",
+      "abbr": "WI"
     },
     {
-      "text": "Minnesota begins election machine testing as federal election security support diminishes",
-      "url": "https://minnesotareformer.com/briefs/minnesota-begins-routine-election-machine-tests-as-feds-retreat-from-election-security/",
+      "text": "Montana court blocks GOP bylaws requiring dues and loyalty oath barring collaboration with Democrats",
+      "url": "https://dailyinterlake.com/news/2026/jul/09/judge-blocks-new-montana-gop-bylaws/",
+      "abbr": "MT"
+    },
+    {
+      "text": "Maryland schedules redistricting special session after Supreme Court weakened federal Voting Rights Act",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4641423/maryland-redistricting-action-not-way-wes-moore-wanted/",
+      "abbr": "MD"
+    },
+    {
+      "text": "Hawaii lawmakers press for USPS ballot contingency plan — election officials say none exists",
+      "url": "https://www.staradvertiser.com/2026/07/09/hawaii-news/hawaii-lawmakers-want-a-plan-b-if-usps-wont-deliver-ballots/",
+      "abbr": "HI"
+    },
+    {
+      "text": "Nebraska submits 186,000 signatures to shield voter-passed laws from legislative override",
+      "url": "https://news.ballotpedia.org/2026/07/09/signatures-submitted-for-four-2026-ballot-measures-that-would-limit-legislative-changes-to-the-initiative-process-in-arkansas-missouri-montana-and-nebraska/",
+      "abbr": "NE"
+    },
+    {
+      "text": "Minnesota cut off from federal election security briefings as DOJ sues over voter roll access",
+      "url": "https://www.startribune.com/minnesota-election-security-sec-state-steve-simon-federal-intel-trump-voter-fraud/601863688",
       "abbr": "MN"
-    },
-    {
-      "text": "Maine Democrats plan convention to replace Senate candidate after Graham Platner's withdrawal",
-      "url": "https://www.axios.com/2026/07/09/democrats-maine-senate-race-replace-platner",
-      "abbr": "ME"
-    },
-    {
-      "text": "North Carolina legislature to take up sweeping elections omnibus bill HB 958 on July 27 return",
-      "url": "https://ncnewsline.com/2026/07/09/delayed-by-budget-talks-nc-legislature-still-has-plenty-to-do/",
-      "abbr": "NC"
     }
   ]
 }
