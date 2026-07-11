@@ -41,8 +41,11 @@ Apply the Pacific Time date everywhere "today" is referenced — branch names, t
 Before making any changes, create a working branch so all modifications can be reviewed before merging into main.
 
 1. Ensure the working tree is clean (`git status`). If there are uncommitted changes, stop and ask the user how to proceed.
-2. Create and switch to a new branch named `research/YYYY-MM-DD` (using today's date). If that branch already exists (e.g. from an earlier run the same day), append a numeric suffix: `research/YYYY-MM-DD-2`, `research/YYYY-MM-DD-3`, etc.
-3. Confirm the branch name to the user before continuing. Skip this confirmation in autonomous mode.
+2. **Normalize the base to current `origin/main` before branching.** A scheduled cloud container can come up with a detached `HEAD` or a stale local `main` ref that is behind `origin/main` (e.g. it predates the same day's earlier run). If you branch from that stale base, the later merge into `main` will not fast-forward and the push will be rejected as non-fast-forward — the run then aborts and the update is lost. To guarantee a current base regardless of how the checkout came up, run:
+   - `git fetch origin main`
+   - `git checkout -B main origin/main` (force-points the local `main` branch at the freshly fetched `origin/main`, attaching HEAD to it even if it was detached; safe because this skill never carries un-pushed local commits on `main`)
+3. Create and switch to a new branch named `research/YYYY-MM-DD` (using today's date). If that branch already exists (e.g. from an earlier run the same day), append a numeric suffix: `research/YYYY-MM-DD-2`, `research/YYYY-MM-DD-3`, etc.
+4. Confirm the branch name to the user before continuing. Skip this confirmation in autonomous mode.
 
 ## Data file
 
@@ -326,8 +329,8 @@ After all file changes are complete:
 
    **Autonomous mode (News update autonomous):** Automatically merge into main, push, and delete the research branch:
    1. `git checkout main`
-   2. `git merge research/YYYY-MM-DD` (fast-forward expected)
+   2. `git merge research/YYYY-MM-DD` (fast-forward expected — `main` was pointed at `origin/main` during Branch creation, so the research branch is a strict descendant)
    3. `git push origin main`
    4. `git branch -d research/YYYY-MM-DD`
 
-   If the merge is not a fast-forward or any step fails, do **not** force the operation. Leave the branch in place, abort cleanly, and report the failure so the routine surfaces a non-success exit.
+   If the merge is not a fast-forward or any step fails, do **not** force the operation. Leave the branch in place, abort cleanly, and report the failure so the routine surfaces a non-success exit. (This is the fail-safe that fired on the 2026-07-10 5pm run, when a stale detached checkout produced a non-fast-forward push; the base-normalization step in Branch creation above is what prevents that state from recurring.)
