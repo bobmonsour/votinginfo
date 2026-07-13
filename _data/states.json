@@ -460,6 +460,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -708,6 +713,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -915,6 +925,11 @@
       },
       {
         "date": "2026-07-09",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1177,6 +1192,11 @@
       },
       {
         "date": "2026-07-09",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -1551,7 +1571,7 @@
       {
         "date": "2026-05-10",
         "field": "Pending Legislation",
-        "description": "Added HB 5001 (no-excuse absentee enabling + admin reforms) — passed both chambers May 6-7, 2026 and awaiting Governor's signature, per CT General Assembly bill page and CT Mirror / CT News Junkie / ACLU CT"
+        "description": "Added HB 5001 (no-excuse absentee enabling + admin reforms) \u2014 passed both chambers May 6-7, 2026 and awaiting Governor's signature, per CT General Assembly bill page and CT Mirror / CT News Junkie / ACLU CT"
       },
       {
         "date": "2026-05-10",
@@ -1687,6 +1707,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1701,7 +1726,7 @@
       {
         "bill": "HB 5001 (Public Act 26-42)",
         "year": 2026,
-        "description": "An Act Concerning Absentee Voting for All and Various Other Reforms to the Administration of Elections — eliminates the excuse requirement for absentee ballots (implementing the November 2024 constitutional amendment); also adds absentee-ballot tracking software, allows 17-year-olds who will be 18 by election day to vote absentee/early, makes tampering with an absentee-ballot drop box a class D felony, and elevates harassment of election workers to a felony on a second offense.",
+        "description": "An Act Concerning Absentee Voting for All and Various Other Reforms to the Administration of Elections \u2014 eliminates the excuse requirement for absentee ballots (implementing the November 2024 constitutional amendment); also adds absentee-ballot tracking software, allows 17-year-olds who will be 18 by election day to vote absentee/early, makes tampering with an absentee-ballot drop box a class D felony, and elevates harassment of election workers to a felony on a second offense.",
         "status": "Signed by Gov. Lamont May 19, 2026 as Public Act 26-42; effective immediately upon signing",
         "dateAdded": "2026-05-10",
         "active": true
@@ -2144,6 +2169,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2435,6 +2465,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2675,6 +2710,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2781,7 +2821,7 @@
       {
         "date": "2026-05-05",
         "field": "Recent Legislation",
-        "description": "Added S 1322 (2026) — amends voter ID affidavit process to require date of birth or Idaho DL/ID number on affidavit, signed by Gov. Little March 31, 2026, effective July 1, 2026, per Ballotpedia News and LegiScan"
+        "description": "Added S 1322 (2026) \u2014 amends voter ID affidavit process to require date of birth or Idaho DL/ID number on affidavit, signed by Gov. Little March 31, 2026, effective July 1, 2026, per Ballotpedia News and LegiScan"
       },
       {
         "date": "2026-05-05",
@@ -2907,13 +2947,18 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
       {
         "bill": "S 1322",
         "year": 2026,
-        "description": "Amends voter ID affidavit process — voters using affidavit in lieu of photo ID must also provide either date of birth or Idaho driver's license/ID number, in addition to name and address.",
+        "description": "Amends voter ID affidavit process \u2014 voters using affidavit in lieu of photo ID must also provide either date of birth or Idaho driver's license/ID number, in addition to name and address.",
         "status": "Signed by Gov. Brad Little March 31, 2026; effective July 1, 2026",
         "dateAdded": "2026-05-05",
         "active": true
@@ -3086,6 +3131,11 @@
       },
       {
         "date": "2026-07-09",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3606,6 +3656,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3902,6 +3957,11 @@
       },
       {
         "date": "2026-07-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -4373,6 +4433,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -4404,7 +4469,7 @@
     "sameDayRegistration": true,
     "earlyVoting": {
       "available": true,
-      "details": "In-person absentee voting available at town clerk offices 30–45 days before election."
+      "details": "In-person absentee voting available at town clerk offices 30\u201345 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -4612,6 +4677,11 @@
       },
       {
         "date": "2026-07-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -5127,6 +5197,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -5369,6 +5444,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -5592,6 +5672,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -5794,6 +5879,11 @@
         "date": "2026-07-08",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -5935,7 +6025,7 @@
       {
         "date": "2026-05-22",
         "field": "Pending Legislation",
-        "description": "Added HB 174 / SB 152 (wide-reaching elections bill including felony voting rights restoration for most probation/parole cases) — passed both chambers May 2026, awaiting Gov. Kehoe by July 15 deadline, per KCUR/NPR and St. Louis Public Radio"
+        "description": "Added HB 174 / SB 152 (wide-reaching elections bill including felony voting rights restoration for most probation/parole cases) \u2014 passed both chambers May 2026, awaiting Gov. Kehoe by July 15 deadline, per KCUR/NPR and St. Louis Public Radio"
       },
       {
         "date": "2026-05-23",
@@ -6049,6 +6139,11 @@
       },
       {
         "date": "2026-07-09",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -6323,6 +6418,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -6549,6 +6649,11 @@
       },
       {
         "date": "2026-07-09",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -6808,6 +6913,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -6819,7 +6929,7 @@
     "eligibilityAge": "18",
     "idRequirements": {
       "toRegister": "Proof of identity required (not just an ID number): driver's license, government-issued photo ID, passport, or naturalization papers. Under HB 1569 (effective Nov 2024), all first-time registrants must provide hard-copy documentary proof of U.S. citizenship: U.S. passport, birth certificate, or naturalization papers. Proof of domicile also required. On May 28, 2026, a federal court struck down HB 1569's elimination of the qualified-voter affidavit as unconstitutional, reinstating the affidavit option (attesting to citizenship under penalty of perjury) for registration; the state has said it will appeal.",
-      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569. Under HB 323 (effective June 2, 2026), student IDs — including government-issued college/university IDs — are no longer accepted; only government-issued IDs such as driver's licenses, state IDs, passports, and military IDs qualify."
+      "toVote": "Photo ID required. Voters without ID must retrieve it before voting; the challenged voter affidavit option was eliminated by HB 1569. Under HB 323 (effective June 2, 2026), student IDs \u2014 including government-issued college/university IDs \u2014 are no longer accepted; only government-issued IDs such as driver's licenses, state IDs, passports, and military IDs qualify."
     },
     "registrationDeadline": "Same-day registration available on election day",
     "registrationMethods": {
@@ -7026,6 +7136,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -7180,7 +7295,7 @@
       {
         "date": "2026-05-22",
         "field": "Recent Legislation",
-        "description": "Added A4745 / S420 (early voting expansion for May municipal nonpartisan elections — 7 days starting 8 days before Election Day) signed by Gov. Sherrill April 6, 2026 per NJ Governor's Office press release"
+        "description": "Added A4745 / S420 (early voting expansion for May municipal nonpartisan elections \u2014 7 days starting 8 days before Election Day) signed by Gov. Sherrill April 6, 2026 per NJ Governor's Office press release"
       },
       {
         "date": "2026-05-24",
@@ -7281,13 +7396,18 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
       {
         "bill": "A4745 / S420",
         "year": 2026,
-        "description": "Permits municipalities that hold nonpartisan elections in May to extend in-person early voting to begin 8 days before Election Day (ending 2 days before), giving voters 7 days of early voting — an increase of 4 days over previous law.",
+        "description": "Permits municipalities that hold nonpartisan elections in May to extend in-person early voting to begin 8 days before Election Day (ending 2 days before), giving voters 7 days of early voting \u2014 an increase of 4 days over previous law.",
         "status": "Signed by Gov. Sherrill April 6, 2026",
         "dateAdded": "2026-05-22",
         "active": true
@@ -7976,6 +8096,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -8205,13 +8330,18 @@
         "date": "2026-07-07",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
       {
         "bill": "HB 1165",
         "year": 2025,
-        "description": "Created a receipt deadline for absentee/mail-in ballots — ballots must now be received by the close of polls on Election Day. Previously, ballots postmarked by the day before Election Day and received within 13 days after were counted.",
+        "description": "Created a receipt deadline for absentee/mail-in ballots \u2014 ballots must now be received by the close of polls on Election Day. Previously, ballots postmarked by the day before Election Day and received within 13 days after were counted.",
         "status": "Signed into law April 28, 2025; effective August 1, 2025",
         "dateAdded": "2026-05-22",
         "active": true
@@ -8240,7 +8370,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (effective March 20, 2026) eliminated the post-Election Day grace period — absentee ballots must now be received by close of polls on Election Day.",
+      "details": "No-excuse absentee voting by mail available for all registered voters. Note: SB 293 (effective March 20, 2026) eliminated the post-Election Day grace period \u2014 absentee ballots must now be received by close of polls on Election Day.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon release from prison.",
@@ -8460,6 +8590,11 @@
       },
       {
         "date": "2026-07-09",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -8688,6 +8823,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -8719,7 +8859,7 @@
     "sameDayRegistration": false,
     "earlyVoting": {
       "available": true,
-      "details": "All elections conducted entirely by mail. Ballots mailed 14–18 days before election."
+      "details": "All elections conducted entirely by mail. Ballots mailed 14\u201318 days before election."
     },
     "mailInVoting": {
       "available": true,
@@ -8882,6 +9022,11 @@
       },
       {
         "date": "2026-07-09",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -9290,6 +9435,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -9553,6 +9703,11 @@
         "date": "2026-07-08",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -9781,6 +9936,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -10000,6 +10160,11 @@
       },
       {
         "date": "2026-07-08",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -10275,6 +10440,11 @@
       },
       {
         "date": "2026-07-09",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -10726,7 +10896,7 @@
     ],
     "recentLegislation": [
       {
-        "bill": "S.298 (Act 70) — Vermont Voter Protections Act",
+        "bill": "S.298 (Act 70) \u2014 Vermont Voter Protections Act",
         "year": 2026,
         "description": "Strengthens penalties for election interference and voter intimidation, and updates voter-checklist maintenance and election-security provisions. Does not change voter registration or ID requirements.",
         "status": "Signed by Gov. Scott June 8, 2026",
@@ -11150,6 +11320,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -11251,7 +11426,7 @@
       {
         "date": "2026-05-10",
         "field": "Pending Legislation",
-        "description": "Added SJR 9 — constitutional amendment placing 'only U.S. citizens who are state citizens may vote' question on the November 3, 2026 ballot. Per Ballotpedia News and WV Record, with WV Legislature SJR 9 enrolled text providing Tier-1 corroboration."
+        "description": "Added SJR 9 \u2014 constitutional amendment placing 'only U.S. citizens who are state citizens may vote' question on the November 3, 2026 ballot. Per Ballotpedia News and WV Record, with WV Legislature SJR 9 enrolled text providing Tier-1 corroboration."
       },
       {
         "date": "2026-05-10",
@@ -11623,6 +11798,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -11765,7 +11945,7 @@
       {
         "date": "2026-05-26",
         "field": "Recent Legislation",
-        "description": "Updated HB 156 status — initial federal challenge (Equality State Policy Center v. Gray) dismissed without prejudice July 2025; law in effect. Removed stale 'under legal challenge' language from idRequirements and legislation status, per Wyoming Public Media and Democracy Docket"
+        "description": "Updated HB 156 status \u2014 initial federal challenge (Equality State Policy Center v. Gray) dismissed without prejudice July 2025; law in effect. Removed stale 'under legal challenge' language from idRequirements and legislation status, per Wyoming Public Media and Democracy Docket"
       },
       {
         "date": "2026-05-28",
@@ -11849,6 +12029,11 @@
       },
       {
         "date": "2026-07-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -12121,6 +12306,11 @@
       },
       {
         "date": "2026-07-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
       }

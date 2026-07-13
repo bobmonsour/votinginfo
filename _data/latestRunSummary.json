@@ -1,28 +1,28 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-13",
   "items": [
     {
-      "text": "Trump fires all Election Assistance Commission members ahead of 2026 midterms",
-      "url": "https://www.news4jax.com/news/politics/2026/07/10/donald-trump-ousts-election-commission-members-in-latest-push-to-reshape-us-voting-process/",
+      "text": "DOJ deploys election monitors to New Hampshire ahead of September primary",
+      "url": "https://www.unionleader.com/news/politics/state/trumps-doj-sending-election-monitors-to-manchester-nashua-for-primaries/article_ba8ec60b-efeb-46df-a2ca-adfbfa92066c.html",
+      "abbr": "NH"
+    },
+    {
+      "text": "DOJ threats against election officials over noncitizen voting draw state-by-state condemnation in Nevada, Rhode Island, and Illinois"
+    },
+    {
+      "text": "South Carolina scrambles to fill Lindsey Graham's Senate seat for special election",
+      "url": "https://www.nbcnews.com/politics/2026-election/scramble-replacement-lindsey-graham-midterm-election-senate-seat-rcna552739",
+      "abbr": "SC"
+    },
+    {
+      "text": "Idaho abortion ballot initiative shows bipartisan support with 61% approval in new poll",
+      "url": "https://www.eastidahonews.com/2026/07/in-deep-red-idaho-support-for-ballot-question-on-abortion-access-is-spread-across-party-lines/",
+      "abbr": "ID"
+    },
+    {
+      "text": "Federal judge delivers DOJ's 12th straight voter-data loss, dismissing New York demand",
+      "url": "https://www.democracydocket.com/news-alerts/judge-throws-out-justice-department-new-york-voter-registration-data-demand/",
       "abbr": "DC"
-    },
-    {
-      "text": "ACLU challenges new Kansas election law as violating National Voter Registration Act",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-07-10/aclu-kansas-election-law-federal-voting-rights",
-      "abbr": "KS"
-    },
-    {
-      "text": "DOJ warns state election officials of criminal prosecution if noncitizens vote",
-      "url": "https://wvmetronews.com/2026/07/08/west-virginia-gets-doj-letter-saying-state-officials-could-face-criminal-charges-if-noncitizens-vote/",
-      "abbr": "WV"
-    },
-    {
-      "text": "Maine Democrats race to replace Senate nominee after campaign suspension",
-      "url": "https://www.cbsnews.com/news/maine-democrats-senate-candidates-replace-graham-platner/",
-      "abbr": "ME"
-    },
-    {
-      "text": "Michigan, Colorado, Alaska, and Connecticut all see competitive primary activity"
     }
   ]
 }
