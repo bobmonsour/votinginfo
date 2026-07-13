@@ -99,6 +99,10 @@ Two scheduled remote agents run the `/voting-research` skill in autonomous News 
 
 Both share the identical prompt/config. Because pushes to `main` auto-deploy via Cloudflare Workers Builds, each run handles the full content-refresh cycle without human intervention: clone → news capture → commit on research branch → fast-forward merge → push → branch deletion → CF build/deploy.
 
+Both routines run **`claude-sonnet-5`** (set in each trigger's `job_config.ccr.session_context.model`; to change it, update the routine via the `/schedule` skill or the dashboard — it only affects future runs). Their `allowed_tools` is `Bash, Read, Write, Edit, Glob, Grep, WebSearch, WebFetch` (no `Task`/`Agent`), so the run is a single agent that parallelizes only at the tool-call level, not by spawning subagents.
+
+**Workflows are disabled** for this repo via `"disableWorkflows": true` in `.claude/settings.json` (committed, so it reaches the cloud clone). This is deliberate: a run once fanned the 51-state gather into a dynamic multi-agent workflow, which (a) pauses an unattended run on the "multi-agent workflow usage warning" permission prompt, and (b) gives every leaf subagent the prompt's blanket git authorization, so one of them committed and pushed to `main` on its own before the orchestrator intended. Disabling workflows forces the single-agent path — the sequential gather → commit → merge → push the prompt describes, with no rogue subagent pushes. Note `.claude/*` is in the CF build-watch excludes, so committing this setting does not trigger a deploy, but the routine still only picks it up after the change is pushed to `main` (it clones fresh each run). If workflows are ever re-enabled for speed, add `Task` to `allowed_tools` and tighten the prompt so only the orchestrator commits/pushes.
+
 ### State flags
 
 State cards and detail pages show flag images. The 50 states use `flagcdn.com/w40/us-{abbr}.png` (w80 on detail pages). DC uses a local SVG at `/img/flags/dc.svg`. The source switch is a Nunjucks conditional on `state.abbreviation == "DC"`.
