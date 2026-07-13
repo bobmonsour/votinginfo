@@ -1,4 +1,5 @@
 {
+  "disableWorkflows": true,
   "hooks": {
     "SessionStart": [
       {
