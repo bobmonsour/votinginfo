@@ -2,27 +2,44 @@
   "date": "2026-07-13",
   "items": [
     {
-      "text": "DOJ deploys election monitors to New Hampshire ahead of September primary",
-      "url": "https://www.unionleader.com/news/politics/state/trumps-doj-sending-election-monitors-to-manchester-nashua-for-primaries/article_ba8ec60b-efeb-46df-a2ca-adfbfa92066c.html",
-      "abbr": "NH"
+      "text": "Gary Peters endorses Haley Stevens in contested Michigan Senate primary",
+      "url": "https://michiganadvance.com/2026/07/13/haley-stevens-gets-nod-from-the-retiring-gary-peters-the-senator-whom-she-seeks-to-replace/",
+      "abbr": "MI"
     },
     {
-      "text": "DOJ threats against election officials over noncitizen voting draw state-by-state condemnation in Nevada, Rhode Island, and Illinois"
-    },
-    {
-      "text": "South Carolina scrambles to fill Lindsey Graham's Senate seat for special election",
-      "url": "https://www.nbcnews.com/politics/2026-election/scramble-replacement-lindsey-graham-midterm-election-senate-seat-rcna552739",
-      "abbr": "SC"
-    },
-    {
-      "text": "Idaho abortion ballot initiative shows bipartisan support with 61% approval in new poll",
-      "url": "https://www.eastidahonews.com/2026/07/in-deep-red-idaho-support-for-ballot-question-on-abortion-access-is-spread-across-party-lines/",
+      "text": "Idaho abortion-rights initiative officially qualifies for November ballot",
+      "url": "https://www.kmvt.com/2026/07/13/initiative-end-idahos-strict-abortion-ban-qualifies-novembers-general-election-ballot/",
       "abbr": "ID"
     },
     {
-      "text": "Federal judge delivers DOJ's 12th straight voter-data loss, dismissing New York demand",
-      "url": "https://www.democracydocket.com/news-alerts/judge-throws-out-justice-department-new-york-voter-registration-data-demand/",
-      "abbr": "DC"
+      "text": "Kentucky sees its largest monthly voter registration jump since 2024",
+      "url": "https://fox56news.com/news/kentucky/kentucky-sees-jump-in-voter-registration-with-over-11k-new-registrations-in-june/",
+      "abbr": "KY"
+    },
+    {
+      "text": "Massachusetts high court reinstates one GOP candidate, blocks another amid signature-fraud claims",
+      "url": "https://www.wbur.org/news/2026/07/13/walsh-manning-martin-republican-signature-fraud-accusations-rulings",
+      "abbr": "MA"
+    },
+    {
+      "text": "West Virginia federal judge dismisses DOJ voter-data lawsuit, extending DOJ's losing streak to 13",
+      "url": "https://wvmetronews.com/2026/07/13/federal-judge-dismisses-u-s-doj-lawsuit-over-unredacted-west-virginia-voter-registration-data/",
+      "abbr": "WV"
+    },
+    {
+      "text": "Missouri's Amendment 4 splits rural and urban voters ahead of August ballot fight",
+      "url": "https://missouriindependent.com/2026/07/13/amendment-4-puts-rural-missouri-at-center-of-fight-over-ballot-power/",
+      "abbr": "MO"
+    },
+    {
+      "text": "Wisconsin Lt. Gov. Rodriguez fires campaign manager over finance-filing errors",
+      "url": "https://fox11online.com/news/election/lt-gov-sara-rodriguez-fires-campaign-manager-in-race-for-wisconsin-governor-finance-filings-mismanagement-inaccuracies",
+      "abbr": "WI"
+    },
+    {
+      "text": "Alaska GOP brands same-named Senate candidate a 'sham' meant to confuse voters",
+      "url": "https://alaskapublic.org/news/politics/elections/2026-07-13/to-the-gop-hes-a-sham-candidate-at-home-hes-mr-sullivan-ex-teacher-and-alaska-senate-hopeful",
+      "abbr": "AK"
     }
   ]
 }
