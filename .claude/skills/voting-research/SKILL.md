@@ -36,6 +36,12 @@ TZ=America/Los_Angeles date +%H%M
 
 Apply the Pacific Time date everywhere "today" is referenced — branch names, the research report filename, the new entry in `_data/stateNews.json`'s `runs` array, `_data/latestRunSummary.json`, `lastVerified` updates in `_data/states.json`, and `changes` entries in `_data/states.json`. **Never** apply this date to a news item's `date` field — that field is the article's actual publication date and is verified against the source page (see Link and date verification below).
 
+## Editing the JSON data files (applies to every mode)
+
+Edit `_data/stateNews.json`, `_data/states.json`, and `_data/latestRunSummary.json` with **surgical, scoped text edits** — use the **Edit** tool to touch only the specific entries involved (append a run object to `runs`, add a `changes` entry, update a single field). **Never round-trip a whole file through `JSON.parse` → `JSON.stringify` / Node re-serialization to write it back.** These files store non-ASCII punctuation (em dashes, curly quotes, en dashes) as `\uXXXX` escapes — `stateNews.json` alone contains 500+ of them — and re-serializing silently rewrites every one as a literal Unicode character. The result is a several-hundred-line diff for what should be a handful of changed lines: the noise buries the real change, risks committing unintended edits across the whole file, and defeats review.
+
+After writing any of these files, run `git diff --stat` and confirm the changed-line count is proportionate to the edit (a news append is typically tens of lines, not hundreds). If the diff is unexpectedly large, the file was almost certainly re-serialized — revert (`git checkout -- <file>`) and redo the change with surgical `Edit` calls.
+
 ## Branch creation
 
 Before making any changes, create a working branch so all modifications can be reviewed before merging into main.
@@ -224,7 +230,7 @@ After filtering, briefly report to the user — per state — the threshold date
 ### Writing news data
 
 1. Append a new entry to the `runs` array with today's date and all states that had news items remaining after filtering. States with no qualifying news items are omitted from that run.
-2. Write the updated file back, preserving all previous runs.
+2. Make this a **surgical `Edit`-tool insertion** of the new run object into the existing `runs` array — do **not** re-serialize the whole file (see "Editing the JSON data files" above; a full rewrite mangles the 500+ `\uXXXX` escapes and produces a huge phantom diff). All previous runs are preserved automatically because they are never touched.
 
 Structure of a run entry:
 
