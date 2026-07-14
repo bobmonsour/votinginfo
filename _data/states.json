@@ -1957,6 +1957,11 @@
         "date": "2026-07-08",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-14",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -9771,6 +9776,11 @@
       },
       {
         "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-14",
         "field": "Recent News",
         "description": "Added recent news items"
       }

@@ -27321,6 +27321,38 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-14",
+      "states": {
+        "DE": [
+          {
+            "title": "Candidate Filing Deadline for Delaware General Election is Tuesday, July 14",
+            "source": "WGMD",
+            "url": "https://www.wgmd.com/candidate-filing-deadline-for-delaware-general-election-is-tuesday-july-14/",
+            "date": "2026-07-14",
+            "summary": "Delaware's candidate filing deadline for the September 15 primary election closes at noon on Tuesday, July 14, setting the ballot for races including U.S. Senate (Democratic incumbent Chris Coons), U.S. House (incumbent Sarah McBride), and numerous state legislative seats."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Election officials prepare for special SC primary to fill Lindsey Graham's Senate seat",
+            "source": "Fox Carolina",
+            "url": "https://www.foxcarolina.com/2026/07/14/special-primary-set-fill-sen-grahams-senate-seat/",
+            "date": "2026-07-14",
+            "summary": "South Carolina election officials began preparations for a compressed special Republican primary election on August 11, with candidate filing opening July 21 and the winner to face Democratic nominee Annie Andrews in the November general election."
+          }
+        ],
+        "SD": [
+          {
+            "title": "The Republican gubernatorial primary runoff is two weeks away: What you need to know",
+            "source": "KOTATV",
+            "url": "https://www.kotatv.com/2026/07/14/republican-gubernatorial-primary-runoff-is-two-weeks-away-what-you-need-know/",
+            "date": "2026-07-14",
+            "summary": "With two weeks until South Dakota's historic July 28 GOP gubernatorial runoff, KOTATV outlined the race between incumbent Gov. Larry Rhoden and businessman Toby Doeden — the first runoff for governor in state history — explaining why the runoff was triggered and what voters need to know."
+          }
+        ]
+      }
     }
   ]
 }
