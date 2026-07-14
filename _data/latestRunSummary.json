@@ -1,45 +1,25 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "items": [
     {
-      "text": "Gary Peters endorses Haley Stevens in contested Michigan Senate primary",
-      "url": "https://michiganadvance.com/2026/07/13/haley-stevens-gets-nod-from-the-retiring-gary-peters-the-senator-whom-she-seeks-to-replace/",
-      "abbr": "MI"
+      "text": "Arizona primary voters face last-day mail ballot deadline ahead of July 21 vote",
+      "url": "https://www.yahoo.com/news/politics/articles/last-day-mail-arizona-primary-120234332.html",
+      "abbr": "AZ"
     },
     {
-      "text": "Idaho abortion-rights initiative officially qualifies for November ballot",
-      "url": "https://www.kmvt.com/2026/07/13/initiative-end-idahos-strict-abortion-ban-qualifies-novembers-general-election-ballot/",
-      "abbr": "ID"
+      "text": "Veterans PAC launches ad campaign for Bronin in Connecticut's 1st District primary",
+      "url": "https://ctmirror.org/2026/07/14/votevets-luke-bronin-john-larson-ct-1st-congressional-district/",
+      "abbr": "CT"
     },
     {
-      "text": "Kentucky sees its largest monthly voter registration jump since 2024",
-      "url": "https://fox56news.com/news/kentucky/kentucky-sees-jump-in-voter-registration-with-over-11k-new-registrations-in-june/",
-      "abbr": "KY"
+      "text": "Montana court upholds state's voter photo ID requirement",
+      "url": "https://nbcmontana.com/news/local/montana-court-upholds-voter-photo-id-law",
+      "abbr": "MT"
     },
     {
-      "text": "Massachusetts high court reinstates one GOP candidate, blocks another amid signature-fraud claims",
-      "url": "https://www.wbur.org/news/2026/07/13/walsh-manning-martin-republican-signature-fraud-accusations-rulings",
-      "abbr": "MA"
-    },
-    {
-      "text": "West Virginia federal judge dismisses DOJ voter-data lawsuit, extending DOJ's losing streak to 13",
-      "url": "https://wvmetronews.com/2026/07/13/federal-judge-dismisses-u-s-doj-lawsuit-over-unredacted-west-virginia-voter-registration-data/",
-      "abbr": "WV"
-    },
-    {
-      "text": "Missouri's Amendment 4 splits rural and urban voters ahead of August ballot fight",
-      "url": "https://missouriindependent.com/2026/07/13/amendment-4-puts-rural-missouri-at-center-of-fight-over-ballot-power/",
-      "abbr": "MO"
-    },
-    {
-      "text": "Wisconsin Lt. Gov. Rodriguez fires campaign manager over finance-filing errors",
-      "url": "https://fox11online.com/news/election/lt-gov-sara-rodriguez-fires-campaign-manager-in-race-for-wisconsin-governor-finance-filings-mismanagement-inaccuracies",
-      "abbr": "WI"
-    },
-    {
-      "text": "Alaska GOP brands same-named Senate candidate a 'sham' meant to confuse voters",
-      "url": "https://alaskapublic.org/news/politics/elections/2026-07-13/to-the-gop-hes-a-sham-candidate-at-home-hes-mr-sullivan-ex-teacher-and-alaska-senate-hopeful",
-      "abbr": "AK"
+      "text": "South Dakota registration deadline passes as absentee voting opens for GOP gubernatorial runoff",
+      "url": "https://drgnews.com/2026/07/13/absentee-voting-for-south-dakotas-republican-gubernatorial-runoff-has-started/",
+      "abbr": "SD"
     }
   ]
 }

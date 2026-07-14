@@ -27280,6 +27280,47 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-14",
+      "states": {
+        "AZ": [
+          {
+            "title": "It's the last day to mail in your Arizona primary ballot",
+            "source": "Arizona Republic",
+            "url": "https://www.yahoo.com/news/politics/articles/last-day-mail-arizona-primary-120234332.html",
+            "date": "2026-07-14",
+            "summary": "Arizona Republic reports July 14 is the final day for primary voters to mail back their early ballots in time to be counted for the July 21 primary."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Veterans group gives Bronin a boost on airwaves ahead of primary",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/07/14/votevets-luke-bronin-john-larson-ct-1st-congressional-district/",
+            "date": "2026-07-14",
+            "summary": "A PAC backing Democratic veterans is launching a nearly $1 million ad campaign for Luke Bronin ahead of the August 11 primary against incumbent Rep. John Larson in Connecticut's 1st Congressional District."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Montana court upholds voter photo ID law",
+            "source": "NBC Montana",
+            "url": "https://nbcmontana.com/news/local/montana-court-upholds-voter-photo-id-law",
+            "date": "2026-07-13",
+            "summary": "A Montana court upheld the state's voter photo ID law, with Secretary of State Christi Jacobsen calling the ruling a win for election integrity while critics warn it could burden some eligible voters."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Deadline to get registered to vote or change party affiliation to be eligible to vote in South Dakota's Republican gubernatorial runoff election is Monday; Absentee voting is underway",
+            "source": "DRG News",
+            "url": "https://drgnews.com/2026/07/13/absentee-voting-for-south-dakotas-republican-gubernatorial-runoff-has-started/",
+            "date": "2026-07-13",
+            "summary": "South Dakota's registration and party-affiliation deadline for the July 28 Republican gubernatorial runoff was July 13, and absentee voting for the runoff is now underway."
+          }
+        ]
+      }
     }
   ]
 }
