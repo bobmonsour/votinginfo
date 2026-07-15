@@ -27353,6 +27353,56 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-14",
+      "states": {
+        "AK": [
+          {
+            "title": "To vote in Alaska's primary elections, residents must register by July 19 — here's how",
+            "source": "Juneau Empire",
+            "url": "https://www.juneauempire.com/2026/07/14/to-vote-in-alaskas-primary-elections-residents-must-register-by-july-19-heres-how/",
+            "date": "2026-07-14",
+            "summary": "Alaska voters must register by July 19 to take part in the August 18 primary election, where they will choose candidates for governor, the state legislature, and Congress under the state's top-four primary system."
+          }
+        ],
+        "KS": [
+          {
+            "title": "ACLU alleges new Kansas election statute violates federal voting rights laws",
+            "source": "HPPR",
+            "url": "https://www.hppr.org/hppr-news/2026-07-14/aclu-alleges-new-kansas-election-statute-violates-federal-voting-rights-laws",
+            "date": "2026-07-14",
+            "summary": "The ACLU of Kansas and League of Women Voters of Kansas warned of a potential lawsuit alleging that House Bill 2437, the SAVE Kansas Act's voter-roll and registration restrictions, conflicts with the federal National Voter Registration Act."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri governor signs elections law restoring some voting rights and limiting automatic donations",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-07-14/missouri-governor-signs-elections-law-restoring-some-voting-rights-and-limiting-automatic-donations",
+            "date": "2026-07-14",
+            "summary": "Gov. Mike Kehoe signed a bill restoring voting rights to many Missourians on probation or parole, while also barring candidates from collecting automatic recurring campaign donations without explicit donor consent."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey becomes the 11th state to enact a state-level voting rights act",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/07/14/new-jersey-becomes-the-11th-state-to-enact-a-state-level-voting-rights-act-2/",
+            "date": "2026-07-14",
+            "summary": "Gov. Mikie Sherrill signed the John R. Lewis Voter Empowerment Act, making New Jersey the 11th state with a state-level voting rights act and creating a new Division of Voting Rights to enforce state election laws."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Early voting underway for Lynchburg's dual primary election",
+            "source": "WDBJ7",
+            "url": "https://www.wdbj7.com/2026/07/14/early-voting-underway-lynchburgs-dual-primary-election/",
+            "date": "2026-07-14",
+            "summary": "The City of Lynchburg reminded voters that early, no-excuse in-person voting is available through August 1 ahead of the August 4 dual primary election."
+          }
+        ]
+      }
     }
   ]
 }

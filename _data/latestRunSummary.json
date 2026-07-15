@@ -2,19 +2,29 @@
   "date": "2026-07-14",
   "items": [
     {
-      "text": "South Carolina election officials prepare for compressed August 11 special primary to fill Lindsey Graham's Senate seat",
-      "url": "https://www.foxcarolina.com/2026/07/14/special-primary-set-fill-sen-grahams-senate-seat/",
-      "abbr": "SC"
+      "text": "New Jersey enacts the John R. Lewis Voter Empowerment Act, becoming the 11th state with a voting rights act",
+      "url": "https://news.ballotpedia.org/2026/07/14/new-jersey-becomes-the-11th-state-to-enact-a-state-level-voting-rights-act-2/",
+      "abbr": "NJ"
     },
     {
-      "text": "Delaware candidate filing deadline closes at noon today, setting the September 15 primary ballot",
-      "url": "https://www.wgmd.com/candidate-filing-deadline-for-delaware-general-election-is-tuesday-july-14/",
-      "abbr": "DE"
+      "text": "Missouri governor signs bill restoring voting rights to many on probation or parole",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-07-14/missouri-governor-signs-elections-law-restoring-some-voting-rights-and-limiting-automatic-donations",
+      "abbr": "MO"
     },
     {
-      "text": "South Dakota's historic GOP gubernatorial runoff between Gov. Rhoden and Toby Doeden is two weeks away",
-      "url": "https://www.kotatv.com/2026/07/14/republican-gubernatorial-primary-runoff-is-two-weeks-away-what-you-need-know/",
-      "abbr": "SD"
+      "text": "ACLU and League of Women Voters warn Kansas's SAVE Act voter-roll law may violate federal law",
+      "url": "https://www.hppr.org/hppr-news/2026-07-14/aclu-alleges-new-kansas-election-statute-violates-federal-voting-rights-laws",
+      "abbr": "KS"
+    },
+    {
+      "text": "Alaska primary voters face a July 19 registration deadline ahead of the August 18 primary",
+      "url": "https://www.juneauempire.com/2026/07/14/to-vote-in-alaskas-primary-elections-residents-must-register-by-july-19-heres-how/",
+      "abbr": "AK"
+    },
+    {
+      "text": "Early voting opens in Lynchburg, Virginia ahead of the August 4 dual primary",
+      "url": "https://www.wdbj7.com/2026/07/14/early-voting-underway-lynchburgs-dual-primary-election/",
+      "abbr": "VA"
     }
   ]
 }
