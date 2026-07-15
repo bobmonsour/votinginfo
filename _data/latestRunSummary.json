@@ -1,30 +1,25 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "items": [
     {
-      "text": "New Jersey enacts the John R. Lewis Voter Empowerment Act, becoming the 11th state with a voting rights act",
-      "url": "https://news.ballotpedia.org/2026/07/14/new-jersey-becomes-the-11th-state-to-enact-a-state-level-voting-rights-act-2/",
-      "abbr": "NJ"
+      "text": "Louisiana enacts 20 election bills, including new congressional maps and stricter voter ID rules",
+      "url": "https://news.ballotpedia.org/2026/07/14/louisiana-enacts-20-election-bills-during-2026-session-including-new-congressional-maps-and-voter-id-changes/",
+      "abbr": "LA"
     },
     {
-      "text": "Missouri governor signs bill restoring voting rights to many on probation or parole",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-07-14/missouri-governor-signs-elections-law-restoring-some-voting-rights-and-limiting-automatic-donations",
-      "abbr": "MO"
+      "text": "Idaho attorney general's office fires back at DOJ over noncitizen voter-roll demands",
+      "url": "https://www.boisestatepublicradio.org/politics-government/2026-07-14/idaho-attorney-general-icy-doj-voter-roll-letter",
+      "abbr": "ID"
     },
     {
-      "text": "ACLU and League of Women Voters warn Kansas's SAVE Act voter-roll law may violate federal law",
-      "url": "https://www.hppr.org/hppr-news/2026-07-14/aclu-alleges-new-kansas-election-statute-violates-federal-voting-rights-laws",
-      "abbr": "KS"
+      "text": "DNC drops bid to intervene in RNC's Nebraska lawsuit after state pledges to defend voting law",
+      "url": "https://www.yahoo.com/news/politics/articles/dnc-won-t-intervene-rnc-214348035.html",
+      "abbr": "NE"
     },
     {
-      "text": "Alaska primary voters face a July 19 registration deadline ahead of the August 18 primary",
-      "url": "https://www.juneauempire.com/2026/07/14/to-vote-in-alaskas-primary-elections-residents-must-register-by-july-19-heres-how/",
-      "abbr": "AK"
-    },
-    {
-      "text": "Early voting opens in Lynchburg, Virginia ahead of the August 4 dual primary",
-      "url": "https://www.wdbj7.com/2026/07/14/early-voting-underway-lynchburgs-dual-primary-election/",
-      "abbr": "VA"
+      "text": "Wisconsin election officials detail rules and deadlines ahead of the August 11 primary",
+      "url": "https://www.wpr.org/news/wisconsin-primaries-election-governor-vote",
+      "abbr": "WI"
     }
   ]
 }

@@ -27403,6 +27403,47 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-15",
+      "states": {
+        "ID": [
+          {
+            "title": "Idaho AG's office sends icy reply to DOJ's voter roll letter",
+            "source": "Idaho Capital Sun",
+            "url": "https://www.boisestatepublicradio.org/politics-government/2026-07-14/idaho-attorney-general-icy-doj-voter-roll-letter",
+            "date": "2026-07-14",
+            "summary": "Idaho Attorney General Raul Labrador's office fired back at the Justice Department for contacting Secretary of State Phil McGrane directly over noncitizen voter rolls, urging DOJ to drop its lawsuit and accusing it of bypassing the state's counsel."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Louisiana enacts 20 election bills during 2026 session, including new congressional maps and voter ID changes",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/07/14/louisiana-enacts-20-election-bills-during-2026-session-including-new-congressional-maps-and-voter-id-changes/",
+            "date": "2026-07-14",
+            "summary": "Gov. Jeff Landry signed 20 election-related bills from the 2026 session, including a redrawn congressional map following Louisiana v. Callais and stricter voter ID document requirements taking effect in 2027."
+          }
+        ],
+        "NE": [
+          {
+            "title": "DNC won't intervene in RNC lawsuit against Nebraska voting law after state pledges defense",
+            "source": "Nebraska Examiner",
+            "url": "https://www.yahoo.com/news/politics/articles/dnc-won-t-intervene-rnc-214348035.html",
+            "date": "2026-07-14",
+            "summary": "The Democratic National Committee withdrew its bid to intervene in the RNC's lawsuit challenging a Nebraska law allowing some U.S. citizens who have never lived in the state to vote, after state officials pledged to defend the statute themselves."
+          }
+        ],
+        "WI": [
+          {
+            "title": "The Wisconsin primaries are less than a month away. Here's what to know before you vote.",
+            "source": "Wisconsin Public Radio",
+            "url": "https://www.wpr.org/news/wisconsin-primaries-election-governor-vote",
+            "date": "2026-07-15",
+            "summary": "Wisconsin Elections Commission Administrator Meagan Wolfe outlined voting procedures ahead of the state's August 11 partisan primary, including absentee deadlines and a new rule barring early voters from changing their ballot after casting it."
+          }
+        ]
+      }
     }
   ]
 }
