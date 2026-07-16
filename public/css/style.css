@@ -659,7 +659,7 @@ h3 {
 	font-family: var(--font-serif);
 	font-size: 1.12rem;
 	font-weight: 500;
-	color: var(--ink);
+	color: #000;
 	text-decoration: underline;
 	text-decoration-color: var(--rule);
 	text-underline-offset: 3px;
@@ -1544,6 +1544,7 @@ h3 {
 .news-list a {
 	font-weight: 600;
 	font-size: 0.95rem;
+	color: #000;
 }
 
 .news-meta {
