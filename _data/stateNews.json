@@ -27503,6 +27503,29 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-16",
+      "states": {
+        "MI": [
+          {
+            "title": "Poll: Where Michigan Democratic voters stand with U.S. Senate candidates Stevens, El-Sayed",
+            "source": "WDIV ClickOnDetroit",
+            "url": "https://www.clickondetroit.com/news/local/2026/07/14/poll-where-michigan-democratic-voters-stand-with-us-senate-candidates-stevens-el-sayed/",
+            "date": "2026-07-14",
+            "summary": "A WDIV/Detroit News poll of likely Democratic primary voters, conducted July 8-11, shows how the field stands in Michigan's open U.S. Senate primary ahead of the August election."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Should it be easier to throw out NC voters' ballots? Elections board to consider new rules",
+            "source": "WRAL",
+            "url": "https://www.wral.com/news/nccapitol/nc-election-board-rule-proposal-change-republican-voter-id-mail-voting-july-2026/",
+            "date": "2026-07-16",
+            "summary": "North Carolina's State Board of Elections is set to consider Republican-backed rule changes that would make it easier for county officials to reject mail ballots over technicalities and to reject voter ID exemption requests by simple majority vote."
+          }
+        ]
+      }
     }
   ]
 }

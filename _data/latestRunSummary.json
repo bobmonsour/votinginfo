@@ -1,35 +1,15 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "items": [
     {
-      "text": "Missouri and other GOP states push to make constitutional amendments harder to pass",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-07-15/some-states-will-ask-voters-to-make-it-harder-to-pass-constitutional-amendments",
-      "abbr": "MO"
-    },
-    {
-      "text": "South Carolina clarifies voter eligibility for special GOP primary after Graham's death",
-      "url": "https://www.live5news.com/2026/07/15/who-can-vote-republican-primary-replace-lindsey-graham-sc-officials-weigh/",
-      "abbr": "SC"
-    },
-    {
-      "text": "Arizona's primary a week out, with contested races for governor and secretary of state",
-      "url": "https://www.kjzz.org/the-show/2026-07-15/arizonas-primary-election-is-around-the-corner-here-are-the-most-consequential-races-to-watch",
-      "abbr": "AZ"
-    },
-    {
-      "text": "Tennessee early voting opens July 17 ahead of August 6 primaries",
-      "url": "https://www.wkms.org/government-politics/2026-07-15/tennessee-early-voting-begins-july-17",
-      "abbr": "TN"
-    },
-    {
-      "text": "Hawaii primary ballots set to reach voters by July 21",
-      "url": "https://kauainownews.com/2026/07/15/voters-to-receive-ballot-by-july-21-for-upcoming-hawaii-primary-elections/",
-      "abbr": "HI"
-    },
-    {
-      "text": "North Carolina county adopts early voting plan for fall midterms, pending state approval",
-      "url": "https://portcitydaily.com/local-news/2026/07/15/nhc-early-voting-schedule-put-forth-for-midterm-elections-state-approval-still-needed/",
+      "text": "North Carolina elections board weighs rules making it easier to reject mail ballots",
+      "url": "https://www.wral.com/news/nccapitol/nc-election-board-rule-proposal-change-republican-voter-id-mail-voting-july-2026/",
       "abbr": "NC"
+    },
+    {
+      "text": "New poll shows tight Michigan Democratic Senate primary between Stevens and El-Sayed",
+      "url": "https://www.clickondetroit.com/news/local/2026/07/14/poll-where-michigan-democratic-voters-stand-with-us-senate-candidates-stevens-el-sayed/",
+      "abbr": "MI"
     }
   ]
 }
