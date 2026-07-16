@@ -27444,6 +27444,65 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-15",
+      "states": {
+        "AZ": [
+          {
+            "title": "Arizona's primary election is around the corner. Here are the most consequential races to watch",
+            "source": "KJZZ",
+            "url": "https://www.kjzz.org/the-show/2026-07-15/arizonas-primary-election-is-around-the-corner-here-are-the-most-consequential-races-to-watch",
+            "date": "2026-07-15",
+            "summary": "With Arizona's primary election a week away, KJZZ previewed the most competitive statewide races, including a contested Republican gubernatorial primary and heated contests for attorney general and secretary of state."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Voters to receive ballot by July 21 for upcoming Hawai'i Primary Elections",
+            "source": "Kauai Now",
+            "url": "https://kauainownews.com/2026/07/15/voters-to-receive-ballot-by-july-21-for-upcoming-hawaii-primary-elections/",
+            "date": "2026-07-15",
+            "summary": "Hawaii's Office of Elections said primary election ballots will reach voters by July 21, reminding them to sign return envelopes and noting the Aug. 8 receipt deadline."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri and other GOP states ask voters to make it harder to pass constitutional amendments",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-07-15/some-states-will-ask-voters-to-make-it-harder-to-pass-constitutional-amendments",
+            "date": "2026-07-15",
+            "summary": "Missouri's Amendment 4 on the August 2026 ballot would require constitutional amendments to pass in each congressional district rather than just statewide, making future ballot initiatives significantly harder to approve."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NHC early voting schedule put forth for midterm elections, state approval still needed",
+            "source": "Port City Daily",
+            "url": "https://portcitydaily.com/local-news/2026/07/15/nhc-early-voting-schedule-put-forth-for-midterm-elections-state-approval-still-needed/",
+            "date": "2026-07-15",
+            "summary": "New Hanover County's Board of Elections unanimously adopted an early voting plan for the November 2026 general election, spanning Oct. 15-31 across five sites, pending North Carolina State Board approval."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Who can vote in the Republican primary to replace Lindsey Graham? SC officials weigh in",
+            "source": "Live 5 News",
+            "url": "https://www.live5news.com/2026/07/15/who-can-vote-republican-primary-replace-lindsey-graham-sc-officials-weigh/",
+            "date": "2026-07-15",
+            "summary": "The South Carolina Election Commission clarified that voters who cast ballots in the June Republican primary or didn't vote in June are eligible for the Aug. 11 special GOP primary to fill the late Sen. Lindsey Graham's seat, while June Democratic primary voters are excluded."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Tennessee early voting begins July 17",
+            "source": "WKMS",
+            "url": "https://www.wkms.org/government-politics/2026-07-15/tennessee-early-voting-begins-july-17",
+            "date": "2026-07-15",
+            "summary": "Early voting for Tennessee's Aug. 6 primaries, including the governor's race, runs July 17 through Aug. 1, with registered voters required to present valid photo ID."
+          }
+        ]
+      }
     }
   ]
 }
