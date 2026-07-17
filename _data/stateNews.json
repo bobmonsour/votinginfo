@@ -27576,6 +27576,36 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-17",
+      "states": {
+        "HI": [
+          {
+            "title": "Hawaii to DOJ on election law compliance help: No thanks",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/07/17/hawaii-news/hawaii-to-doj-on-election-law-compliance-help-no-thanks/",
+            "date": "2026-07-17",
+            "summary": "Hawaii's chief election officer declined a Department of Justice offer of assistance with federal voter-eligibility compliance, saying the state already has safeguards in place and has found no widespread noncitizen voting."
+          },
+          {
+            "title": "Hawaii officials defend local election security",
+            "source": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/07/17/hawaii-officials-defend-local-election-security/",
+            "date": "2026-07-16",
+            "summary": "State and county election officials outlined the safeguards protecting Hawaii's mail-in voting system against tampering and illegal voting, including felony penalties for false ballot affirmations."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Dan Osborn officially in Nebraska's U.S. Senate race",
+            "source": "WOWT",
+            "url": "https://www.wowt.com/2026/07/16/dan-osborn-officially-nebraskas-us-senate-race/",
+            "date": "2026-07-16",
+            "summary": "The Nebraska Secretary of State certified independent U.S. Senate candidate Dan Osborn's petition signatures, confirming his place on the November ballot against incumbent Republican Pete Ricketts."
+          }
+        ]
+      }
     }
   ]
 }
