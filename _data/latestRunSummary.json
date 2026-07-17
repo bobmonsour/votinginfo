@@ -2,14 +2,29 @@
   "date": "2026-07-16",
   "items": [
     {
-      "text": "North Carolina elections board weighs rules making it easier to reject mail ballots",
-      "url": "https://www.wral.com/news/nccapitol/nc-election-board-rule-proposal-change-republican-voter-id-mail-voting-july-2026/",
-      "abbr": "NC"
+      "text": "Kansas judge blocks law that repealed 3-day grace period for mail ballots",
+      "url": "https://www.kmuw.org/government/2026-07-16/kansas-judge-temporarily-blocks-election-law-repealing-3-day-grace-period-for-mail-in-ballots",
+      "abbr": "KS"
     },
     {
-      "text": "New poll shows tight Michigan Democratic Senate primary between Stevens and El-Sayed",
-      "url": "https://www.clickondetroit.com/news/local/2026/07/14/poll-where-michigan-democratic-voters-stand-with-us-senate-candidates-stevens-el-sayed/",
-      "abbr": "MI"
+      "text": "New Missouri law restores voting rights to thousands of former prisoners",
+      "url": "https://www.newstribune.com/news/2026/jul/16/new-missouri-law-gives-voting-rights-back-to/",
+      "abbr": "MO"
+    },
+    {
+      "text": "Maine Democrats race to pick new Senate nominee after Platner exits race",
+      "url": "https://www.cnn.com/2026/07/15/politics/graham-platner-maine-democrats-convention-us-senate-susan-collins",
+      "abbr": "ME"
+    },
+    {
+      "text": "Tennessee reminds voters early voting for August primary starts July 17",
+      "url": "https://www.wbbjtv.com/2026/07/16/secretary-state-reminds-tennesseans-early-voting-august-primary-county-general-elections/",
+      "abbr": "TN"
+    },
+    {
+      "text": "Alaskans with felony records may still be eligible to vote once discharged",
+      "url": "https://www.alaskasnewssource.com/2026/07/15/have-felony-record-alaska-you-may-still-be-eligible-vote/",
+      "abbr": "AK"
     }
   ]
 }

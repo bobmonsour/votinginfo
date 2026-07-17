@@ -27526,6 +27526,56 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-16",
+      "states": {
+        "AK": [
+          {
+            "title": "Have a felony record in Alaska? You may still be eligible to vote",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/07/15/have-felony-record-alaska-you-may-still-be-eligible-vote/",
+            "date": "2026-07-15",
+            "summary": "Alaskans with felony convictions may still regain voting eligibility once unconditionally discharged from Department of Corrections supervision, a distinction that can trip up voters ahead of the state's Aug. 18 primary."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas judge temporarily blocks election law repealing 3-day grace period for mail-in ballots",
+            "source": "KMUW",
+            "url": "https://www.kmuw.org/government/2026-07-16/kansas-judge-temporarily-blocks-election-law-repealing-3-day-grace-period-for-mail-in-ballots",
+            "date": "2026-07-16",
+            "summary": "A Douglas County judge issued a temporary injunction blocking a Kansas law that repealed the state's 3-day grace period for mail-in ballots, finding challengers substantially likely to prevail."
+          }
+        ],
+        "ME": [
+          {
+            "title": "The frenzied sprint among Maine Democrats hoping to replace Graham Platner",
+            "source": "CNN",
+            "url": "https://www.cnn.com/2026/07/15/politics/graham-platner-maine-democrats-convention-us-senate-susan-collins",
+            "date": "2026-07-15",
+            "summary": "Maine Democrats are racing to pick a new U.S. Senate nominee at a July 25 emergency convention after Graham Platner dropped out, with state law setting a July 27 deadline to submit the replacement's name for the ballot."
+          }
+        ],
+        "MO": [
+          {
+            "title": "New Missouri law gives voting rights back to select former prisoners",
+            "source": "Jefferson City News Tribune",
+            "url": "https://www.newstribune.com/news/2026/jul/16/new-missouri-law-gives-voting-rights-back-to/",
+            "date": "2026-07-16",
+            "summary": "A new Missouri law taking effect Aug. 28 restores voting rights to thousands of formerly incarcerated residents who are on parole or probation for certain nonviolent offenses."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Secretary of State reminds Tennesseans of early voting for August Primary and County General Elections",
+            "source": "WBBJ TV",
+            "url": "https://www.wbbjtv.com/2026/07/16/secretary-state-reminds-tennesseans-early-voting-august-primary-county-general-elections/",
+            "date": "2026-07-16",
+            "summary": "Tennessee's Secretary of State reminded voters that early voting for the Aug. 6 primary and county general elections begins July 17 and runs through Aug. 1."
+          }
+        ]
+      }
     }
   ]
 }
