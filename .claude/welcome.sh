@@ -17,6 +17,9 @@ WORKFLOW
    the voting-research skill into _data/stateNews.json.
 3. Do NOT push or deploy. Pushing to main auto-deploys via Cloudflare Workers Builds,
    so leave changes committed locally at most unless explicitly asked to push.
+
+SKILLS
+- voting-research (skill) — Deep-dive research across all 51 state entries — verifies voting data against authoritative sources and gathers recent per-state election news into _data/stateNews.json (full, requirements-only, or news-only modes).
 EOF
 
 jq -nc --arg m "$MESSAGE" '{systemMessage: $m}'
