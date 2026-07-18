@@ -27606,6 +27606,65 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-17",
+      "states": {
+        "FL": [
+          {
+            "title": "Here are the key dates you need to know ahead of the 2026 Florida elections",
+            "source": "WUSF Public Media",
+            "url": "https://www.wusf.org/politics-issues/2026-07-17/2026-florida-elections-key-dates-need-to-know",
+            "date": "2026-07-17",
+            "summary": "A rundown of key 2026 Florida election deadlines, including the July 20 party-registration deadline for the August primary and voter photo ID requirements."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Race against the mail: Kansas judge restores ballot grace period ahead of August primary",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/07/17/race-against-mail-kansas-judge-restores-ballot-grace-period-ahead-august-primary/",
+            "date": "2026-07-17",
+            "summary": "A Kansas judge issued a temporary injunction blocking Senate Bill 4's repeal of the three-day mail ballot grace period, restoring the prior rule ahead of the Aug. 4 primary."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Ballot stuffer: Mass. officials say record-tying nine questions slated to go before voters in November",
+            "source": "The Boston Globe",
+            "url": "https://www.bostonglobe.com/2026/07/17/metro/massachusetts-ballot-questions-certified-galvin/",
+            "date": "2026-07-17",
+            "summary": "Massachusetts certified a record-tying nine ballot questions for the November election, including proposals on election-day registration and a top-two primary system."
+          }
+        ],
+        "NC": [
+          {
+            "title": "New elections rules could make ballot rejections easier in North Carolina",
+            "source": "WFAE",
+            "url": "https://www.wfae.org/politics/2026-07-17/new-elections-rules-could-make-ballot-rejections-easier-in-north-carolina",
+            "date": "2026-07-17",
+            "summary": "North Carolina's State Board of Elections approved new rules making it easier to reject ballots over voter ID issues, requiring only a majority vote instead of bipartisan agreement."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Oklahoma election officials highlight security measures amid White House security concerns",
+            "source": "News9",
+            "url": "https://www.news9.com/politics/oklahoma-election-security-measures",
+            "date": "2026-07-17",
+            "summary": "Oklahoma's State Election Board detailed its election security protocols, including hand-marked paper ballots and offline voting devices, following White House claims about election interference."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Utah Lt. Gov. tells DOJ not to interfere in state's elections",
+            "source": "KPCW",
+            "url": "https://www.kpcw.org/state-regional/2026-07-17/utah-lt-gov-tells-doj-not-to-interfere-in-states-elections",
+            "date": "2026-07-17",
+            "summary": "Utah's election director pushed back on a DOJ letter demanding access to the state's voter database, saying Utah already complies with state and federal election law."
+          }
+        ]
+      }
     }
   ]
 }

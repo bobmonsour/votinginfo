@@ -2,19 +2,34 @@
   "date": "2026-07-17",
   "items": [
     {
-      "text": "Hawaii declines DOJ offer to help with federal voter-eligibility compliance",
-      "url": "https://www.staradvertiser.com/2026/07/17/hawaii-news/hawaii-to-doj-on-election-law-compliance-help-no-thanks/",
-      "abbr": "HI"
+      "text": "Kansas judge restores three-day mail ballot grace period ahead of August primary",
+      "url": "https://www.kctv5.com/2026/07/17/race-against-mail-kansas-judge-restores-ballot-grace-period-ahead-august-primary/",
+      "abbr": "KS"
     },
     {
-      "text": "Hawaii officials detail safeguards protecting mail-in voting security",
-      "url": "https://www.hawaiinewsnow.com/2026/07/17/hawaii-officials-defend-local-election-security/",
-      "abbr": "HI"
+      "text": "North Carolina elections board makes it easier to reject ballots over voter ID",
+      "url": "https://www.wfae.org/politics/2026-07-17/new-elections-rules-could-make-ballot-rejections-easier-in-north-carolina",
+      "abbr": "NC"
     },
     {
-      "text": "Dan Osborn qualifies for Nebraska's November U.S. Senate ballot",
-      "url": "https://www.wowt.com/2026/07/16/dan-osborn-officially-nebraskas-us-senate-race/",
-      "abbr": "NE"
+      "text": "Utah pushes back on DOJ demand for access to state voter database",
+      "url": "https://www.kpcw.org/state-regional/2026-07-17/utah-lt-gov-tells-doj-not-to-interfere-in-states-elections",
+      "abbr": "UT"
+    },
+    {
+      "text": "Oklahoma details election security protocols amid White House interference claims",
+      "url": "https://www.news9.com/politics/oklahoma-election-security-measures",
+      "abbr": "OK"
+    },
+    {
+      "text": "Massachusetts certifies record-tying nine ballot questions for November",
+      "url": "https://www.bostonglobe.com/2026/07/17/metro/massachusetts-ballot-questions-certified-galvin/",
+      "abbr": "MA"
+    },
+    {
+      "text": "Florida voters face July 20 deadline to register or switch parties for August primary",
+      "url": "https://www.wusf.org/politics-issues/2026-07-17/2026-florida-elections-key-dates-need-to-know",
+      "abbr": "FL"
     }
   ]
 }
