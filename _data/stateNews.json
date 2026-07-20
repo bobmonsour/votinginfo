@@ -27665,6 +27665,83 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-20",
+      "states": {
+        "AZ": [
+          {
+            "title": "AP Decision Notes: What to expect in Arizona's state primary",
+            "source": "The Associated Press",
+            "url": "https://www.clickorlando.com/news/politics/2026/07/20/ap-decision-notes-what-to-expect-in-arizonas-state-primary/",
+            "date": "2026-07-20",
+            "summary": "Arizona Republicans are set to select a gubernatorial nominee in the July 21 primary, with four candidates competing to challenge Democratic Gov. Katie Hobbs in November."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Civil rights leaders announce 'March on Washington' to defend voting rights",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/news/us-news/civil-rights-leaders-announce-march-washington-defend-voting-rights-rcna587599",
+            "date": "2026-07-15",
+            "summary": "Civil rights leaders announced an August 28 march on Washington to oppose a Supreme Court ruling that weakened Voting Rights Act protections against discriminatory voting laws."
+          }
+        ],
+        "FL": [
+          {
+            "title": "A key voting deadline is coming up in Florida. Here's what to know",
+            "source": "Tampa Bay Times",
+            "url": "https://www.tampabay.com/news/florida-politics/elections/2026/07/19/vote-primary-election-midterms-candidates-registration-id-ballot/",
+            "date": "2026-07-19",
+            "summary": "A Tampa Bay Times guide reminds Florida voters that the deadline to register or change party affiliation ahead of the August 18 primary is July 20."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii to DOJ on election help: No thanks",
+            "source": "West Hawaii Today",
+            "url": "https://www.westhawaiitoday.com/2026/07/18/hawaii-news/hawaii-to-doj-on-election-help-no-thanks/",
+            "date": "2026-07-18",
+            "summary": "Hawaii's chief election officer declined a U.S. Department of Justice offer of assistance on voter-eligibility compliance, saying the state already follows federal and state election law."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri election officials assure voting systems are safe, reliable",
+            "source": "ABC17News",
+            "url": "https://abc17news.com/news/2026/07/17/missouri-election-officials-assure-voting-systems-are-safe-reliable/",
+            "date": "2026-07-17",
+            "summary": "Missouri election officials pushed back on claims of voting system vulnerabilities, citing the state's decentralized process and recent legislative improvements to provisional ballot and military voter protocols."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Rep. Ralph Norman launches bid for Lindsey Graham's Senate seat",
+            "source": "WIS-TV",
+            "url": "https://www.wistv.com/2026/07/18/rep-ralph-norman-launches-bid-lindsey-grahams-senate-seat/",
+            "date": "2026-07-18",
+            "summary": "U.S. Rep. Ralph Norman launched his campaign for South Carolina's vacant U.S. Senate seat following Sen. Lindsey Graham's death, becoming the third major candidate in the race."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Election Security Update from Texas Secretary of State Nelson",
+            "source": "Texas Secretary of State",
+            "url": "https://www.sos.state.tx.us/about/newsreleases/2026/071626.shtml",
+            "date": "2026-07-16",
+            "summary": "Texas Secretary of State Jane Nelson announced election security initiatives including a review of all 254 counties, removal of over 8,500 voter registrations tied to commercial mailboxes, and a new secure military ballot option."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Washington voters begin casting primary election ballots",
+            "source": "Washington State Standard",
+            "url": "https://www.spokanepublicradio.org/regional-news/2026-07-18/washington-voters-begin-casting-primary-election-ballots",
+            "date": "2026-07-18",
+            "summary": "Washington's 18-day primary voting period began, with all state legislative seats, 10 U.S. House seats, and five state Supreme Court seats on the ballot for the August 4 primary."
+          }
+        ]
+      }
     }
   ]
 }

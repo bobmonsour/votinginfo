@@ -1,34 +1,44 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-20",
   "items": [
     {
-      "text": "Kansas judge restores three-day mail ballot grace period ahead of August primary",
-      "url": "https://www.kctv5.com/2026/07/17/race-against-mail-kansas-judge-restores-ballot-grace-period-ahead-august-primary/",
-      "abbr": "KS"
+      "text": "South Carolina's GOP Senate field grows as Ralph Norman enters race for Graham's seat",
+      "url": "https://www.wistv.com/2026/07/18/rep-ralph-norman-launches-bid-lindsey-grahams-senate-seat/",
+      "abbr": "SC"
     },
     {
-      "text": "North Carolina elections board makes it easier to reject ballots over voter ID",
-      "url": "https://www.wfae.org/politics/2026-07-17/new-elections-rules-could-make-ballot-rejections-easier-in-north-carolina",
-      "abbr": "NC"
+      "text": "Civil rights leaders announce August march on Washington to defend voting rights",
+      "url": "https://www.nbcnews.com/news/us-news/civil-rights-leaders-announce-march-washington-defend-voting-rights-rcna587599",
+      "abbr": "DC"
     },
     {
-      "text": "Utah pushes back on DOJ demand for access to state voter database",
-      "url": "https://www.kpcw.org/state-regional/2026-07-17/utah-lt-gov-tells-doj-not-to-interfere-in-states-elections",
-      "abbr": "UT"
+      "text": "Hawaii declines DOJ offer of help on voter-eligibility compliance",
+      "url": "https://www.westhawaiitoday.com/2026/07/18/hawaii-news/hawaii-to-doj-on-election-help-no-thanks/",
+      "abbr": "HI"
     },
     {
-      "text": "Oklahoma details election security protocols amid White House interference claims",
-      "url": "https://www.news9.com/politics/oklahoma-election-security-measures",
-      "abbr": "OK"
+      "text": "Texas announces county-by-county security review and purge of commercial-address registrations",
+      "url": "https://www.sos.state.tx.us/about/newsreleases/2026/071626.shtml",
+      "abbr": "TX"
     },
     {
-      "text": "Massachusetts certifies record-tying nine ballot questions for November",
-      "url": "https://www.bostonglobe.com/2026/07/17/metro/massachusetts-ballot-questions-certified-galvin/",
-      "abbr": "MA"
+      "text": "Missouri election officials defend voting system security amid federal criticism",
+      "url": "https://abc17news.com/news/2026/07/17/missouri-election-officials-assure-voting-systems-are-safe-reliable/",
+      "abbr": "MO"
     },
     {
-      "text": "Florida voters face July 20 deadline to register or switch parties for August primary",
-      "url": "https://www.wusf.org/politics-issues/2026-07-17/2026-florida-elections-key-dates-need-to-know",
+      "text": "Washington's 18-day primary voting window opens ahead of August 4 election",
+      "url": "https://www.spokanepublicradio.org/regional-news/2026-07-18/washington-voters-begin-casting-primary-election-ballots",
+      "abbr": "WA"
+    },
+    {
+      "text": "Arizona Republicans head to the polls to pick a challenger to Gov. Katie Hobbs",
+      "url": "https://www.clickorlando.com/news/politics/2026/07/20/ap-decision-notes-what-to-expect-in-arizonas-state-primary/",
+      "abbr": "AZ"
+    },
+    {
+      "text": "Florida's voter registration deadline for the August primary arrives",
+      "url": "https://www.tampabay.com/news/florida-politics/elections/2026/07/19/vote-primary-election-midterms-candidates-registration-id-ballot/",
       "abbr": "FL"
     }
   ]
