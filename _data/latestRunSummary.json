@@ -2,44 +2,29 @@
   "date": "2026-07-20",
   "items": [
     {
-      "text": "South Carolina's GOP Senate field grows as Ralph Norman enters race for Graham's seat",
-      "url": "https://www.wistv.com/2026/07/18/rep-ralph-norman-launches-bid-lindsey-grahams-senate-seat/",
-      "abbr": "SC"
+      "text": "Maine Democrats rally around Troy Jackson to replace Graham Platner as Senate nominee",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner",
+      "abbr": "ME"
     },
     {
-      "text": "Civil rights leaders announce August march on Washington to defend voting rights",
-      "url": "https://www.nbcnews.com/news/us-news/civil-rights-leaders-announce-march-washington-defend-voting-rights-rcna587599",
-      "abbr": "DC"
+      "text": "North Carolina elections board adopts stricter rules for rejecting mail ballots",
+      "url": "https://www.wfae.org/politics/2026-07-20/state-elections-board-tightens-rules-for-mail-ballots",
+      "abbr": "NC"
     },
     {
-      "text": "Hawaii declines DOJ offer of help on voter-eligibility compliance",
-      "url": "https://www.westhawaiitoday.com/2026/07/18/hawaii-news/hawaii-to-doj-on-election-help-no-thanks/",
-      "abbr": "HI"
+      "text": "Kansas judge blocks repeal of the state's 3-day mail ballot grace period",
+      "url": "https://www.hppr.org/hppr-news/2026-07-20/kansas-judge-temporarily-blocks-election-law-repealing-3-day-grace-period-for-mail-in-ballots",
+      "abbr": "KS"
     },
     {
-      "text": "Texas announces county-by-county security review and purge of commercial-address registrations",
-      "url": "https://www.sos.state.tx.us/about/newsreleases/2026/071626.shtml",
-      "abbr": "TX"
+      "text": "Beshear questions Kentucky law requiring a special election for a Senate vacancy",
+      "url": "https://spectrumnews1.com/ky/louisville/news/2026/07/17/contested-question-beshear-noncommittal-on-following-senate-vacancy-plan",
+      "abbr": "KY"
     },
     {
-      "text": "Missouri election officials defend voting system security amid federal criticism",
-      "url": "https://abc17news.com/news/2026/07/17/missouri-election-officials-assure-voting-systems-are-safe-reliable/",
-      "abbr": "MO"
-    },
-    {
-      "text": "Washington's 18-day primary voting window opens ahead of August 4 election",
-      "url": "https://www.spokanepublicradio.org/regional-news/2026-07-18/washington-voters-begin-casting-primary-election-ballots",
-      "abbr": "WA"
-    },
-    {
-      "text": "Arizona Republicans head to the polls to pick a challenger to Gov. Katie Hobbs",
-      "url": "https://www.clickorlando.com/news/politics/2026/07/20/ap-decision-notes-what-to-expect-in-arizonas-state-primary/",
-      "abbr": "AZ"
-    },
-    {
-      "text": "Florida's voter registration deadline for the August primary arrives",
-      "url": "https://www.tampabay.com/news/florida-politics/elections/2026/07/19/vote-primary-election-midterms-candidates-registration-id-ballot/",
-      "abbr": "FL"
+      "text": "Early voting underway in Georgia's 13th District special election ahead of July 28",
+      "url": "https://www.decaturish.com/news/dekalb/congressional-district-13-special-election-voting-underway/article_97d1de3d-e0cd-4db6-ab0b-cf3b8a0f6789.html",
+      "abbr": "GA"
     }
   ]
 }

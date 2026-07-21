@@ -27742,6 +27742,110 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-20",
+      "states": {
+        "FL": [
+          {
+            "title": "Orange County voters kept the Supervisor of Elections Office busy Monday",
+            "source": "My News 13",
+            "url": "https://mynews13.com/fl/orlando/news/2026/07/20/today-is-the-deadline-to-register-to-vote-in-election-primaries",
+            "date": "2026-07-20",
+            "summary": "Florida's July 20 book-closing deadline to register or change party affiliation for the August 18 primary drew heavy in-person turnout at county election offices."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Congressional District 13 special election voting underway",
+            "source": "Decaturish",
+            "url": "https://www.decaturish.com/news/dekalb/congressional-district-13-special-election-voting-underway/article_97d1de3d-e0cd-4db6-ab0b-cf3b8a0f6789.html",
+            "date": "2026-07-15",
+            "summary": "Early voting is underway for Georgia's 13th Congressional District special election to fill the seat of the late Rep. David Scott, with Election Day set for July 28."
+          }
+        ],
+        "HI": [
+          {
+            "title": "History shows every vote counts in Hawaii legislative races",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/07/19/hawaii-news/history-shows-every-vote-counts-in-hawaii-legislative-races/",
+            "date": "2026-07-19",
+            "summary": "A look at past razor-thin Hawaii legislative races underscores the stakes of the 2026 cycle, where all 51 House seats and 14 of 25 Senate seats are contested."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas judge temporarily blocks election law repealing 3-day grace period for mail-in ballots",
+            "source": "High Plains Public Radio",
+            "url": "https://www.hppr.org/hppr-news/2026-07-20/kansas-judge-temporarily-blocks-election-law-repealing-3-day-grace-period-for-mail-in-ballots",
+            "date": "2026-07-20",
+            "summary": "A Douglas County judge issued a temporary injunction blocking a new Kansas law that would have eliminated the three-day grace period for mail ballots postmarked by Election Day."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Beshear questions Kentucky law on filling a U.S. Senate vacancy",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/ky/louisville/news/2026/07/17/contested-question-beshear-noncommittal-on-following-senate-vacancy-plan",
+            "date": "2026-07-20",
+            "summary": "Gov. Andy Beshear questioned Kentucky's 2024 law requiring a special election to fill a U.S. Senate vacancy, suggesting the state constitution may give him appointment power instead."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner",
+            "date": "2026-07-20",
+            "summary": "State Senate President Troy Jackson emerged as the frontrunner to replace Graham Platner as Maine's Democratic U.S. Senate nominee after rivals Shenna Bellows and Nirav Shah withdrew."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Voting is open for the 2026 primary election. Here's what to know.",
+            "source": "KAXE",
+            "url": "https://www.kaxe.org/elections/2026-07-17/voting-open-2026-mn-primary-election-what-to-know",
+            "date": "2026-07-17",
+            "summary": "Minnesota's August 11 primary voting is underway via mail, early in-person, and Election Day options, with online and Election Day registration still available."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri ballot measure campaigns dominate fundraising and spending for August primary",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-07-19/missouri-ballot-measure-campaigns-fundraising-august-primary",
+            "date": "2026-07-19",
+            "summary": "Campaigns around four constitutional amendments on Missouri's August 4 primary ballot have raised more than $27 million, dominating the state's midterm fundraising."
+          }
+        ],
+        "NC": [
+          {
+            "title": "State elections board tightens rules for mail ballots",
+            "source": "WFAE",
+            "url": "https://www.wfae.org/politics/2026-07-20/state-elections-board-tightens-rules-for-mail-ballots",
+            "date": "2026-07-20",
+            "summary": "North Carolina's elections board voted along party lines to adopt rules making it easier for county officials to reject mail ballots over envelope or sealing irregularities."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Early voting deadline approaches for Virginia primary election",
+            "source": "WSET",
+            "url": "https://wset.com/news/local/early-voting-deadline-approaches-for-virginia-primary-election-2026",
+            "date": "2026-07-20",
+            "summary": "Early voting continues for Virginia's August 4 primary, though turnout has lagged past cycles amid the date's shift from the traditional June primary."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Here's what you need to know to vote in the August primary election in Milwaukee",
+            "source": "Milwaukee Neighborhood News Service",
+            "url": "https://milwaukeenns.org/2026/07/19/heres-what-you-need-to-know-to-vote-in-the-august-primary-election-in-milwaukee",
+            "date": "2026-07-19",
+            "summary": "A voter guide for Milwaukee's August 11 partisan primary covers registration deadlines, early voting locations, and drop-box options."
+          }
+        ]
+      }
     }
   ]
 }
