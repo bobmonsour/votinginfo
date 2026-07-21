@@ -1,30 +1,29 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "items": [
     {
-      "text": "Maine Democrats rally around Troy Jackson to replace Graham Platner as Senate nominee",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner",
-      "abbr": "ME"
+      "text": "Arizona Republicans pick a gubernatorial nominee in July 21 primary",
+      "url": "https://www.wfdd.org/politics-government/2026-07-21/here-are-arizonas-2026-primary-election-results",
+      "abbr": "AZ"
     },
     {
-      "text": "North Carolina elections board adopts stricter rules for rejecting mail ballots",
-      "url": "https://www.wfae.org/politics/2026-07-20/state-elections-board-tightens-rules-for-mail-ballots",
-      "abbr": "NC"
+      "text": "Wisconsin reverses guidance, will no longer let voters void returned absentee ballots",
+      "url": "https://www.votebeat.org/wisconsin/2026/07/21/absentee-ballot-spoiling-elections-commission-guidance-reversal/",
+      "abbr": "WI"
     },
     {
-      "text": "Kansas judge blocks repeal of the state's 3-day mail ballot grace period",
-      "url": "https://www.hppr.org/hppr-news/2026-07-20/kansas-judge-temporarily-blocks-election-law-repealing-3-day-grace-period-for-mail-in-ballots",
-      "abbr": "KS"
+      "text": "Hawaii enacts seven 2026 election bills, including a corporate political activity ban",
+      "url": "https://news.ballotpedia.org/2026/07/19/hawaii-enacts-seven-election-bills-in-2026-session-including-prohibition-on-corporate-political-activity/",
+      "abbr": "HI"
     },
     {
-      "text": "Beshear questions Kentucky law requiring a special election for a Senate vacancy",
-      "url": "https://spectrumnews1.com/ky/louisville/news/2026/07/17/contested-question-beshear-noncommittal-on-following-senate-vacancy-plan",
-      "abbr": "KY"
+      "text": "Washington and Virginia voters begin casting ballots for their August primaries",
+      "abbr": "WA"
     },
     {
-      "text": "Early voting underway in Georgia's 13th District special election ahead of July 28",
-      "url": "https://www.decaturish.com/news/dekalb/congressional-district-13-special-election-voting-underway/article_97d1de3d-e0cd-4db6-ab0b-cf3b8a0f6789.html",
-      "abbr": "GA"
+      "text": "New York's NYC open-primaries ballot fight continues amid redistricting update",
+      "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-07-20-26/",
+      "abbr": "NY"
     }
   ]
 }

@@ -27846,6 +27846,65 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-21",
+      "states": {
+        "AZ": [
+          {
+            "title": "Here are Arizona's 2026 primary election results",
+            "source": "NPR",
+            "url": "https://www.wfdd.org/politics-government/2026-07-21/here-are-arizonas-2026-primary-election-results",
+            "date": "2026-07-21",
+            "summary": "NPR's live results tracker for Arizona's July 21 primary covers the Republican gubernatorial contest and other statewide and U.S. House races."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii enacts seven election bills in 2026 session, including prohibition on corporate political activity",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/07/19/hawaii-enacts-seven-election-bills-in-2026-session-including-prohibition-on-corporate-political-activity/",
+            "date": "2026-07-19",
+            "summary": "Hawaii's legislature passed seven election bills in its 2026 session, most notably SB 2471, which restricts corporations from engaging in political activity in state elections."
+          }
+        ],
+        "NY": [
+          {
+            "title": "NY Elections, Census and Redistricting Update 07/20/26",
+            "source": "CityLand",
+            "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-07-20-26/",
+            "date": "2026-07-20",
+            "summary": "An update on litigation over NYC's disbanded Charter Revision Commission and its open-primaries ballot proposal, plus a new state law letting the legislature set constitutional amendment ballot language."
+          }
+        ],
+        "VA": [
+          {
+            "title": "What to know about Virginia's Aug. 4 Primary Election: Early voting, deadlines and candidates",
+            "source": "WSLS",
+            "url": "https://www.wsls.com/news/2026/07/21/the-aug-4-virginia-primary-is-now-two-weeks-away-heres-what-to-know/",
+            "date": "2026-07-21",
+            "summary": "A voter guide to Virginia's August 4 primary covering early in-person voting through Aug. 1, the July 24 registration and mail-ballot deadlines, and candidates on the ballot."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Washington voters begin casting primary election ballots",
+            "source": "The Daily World",
+            "url": "https://www.thedailyworld.com/2026/07/20/washington-voters-begin-casting-primary-election-ballots/",
+            "date": "2026-07-20",
+            "summary": "Voting is underway in Washington's August 4 primary, which will winnow candidates for all state legislative seats, all 10 U.S. House seats, and five state Supreme Court seats."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Can Wisconsin voters void a returned absentee ballot? Issue could head back to court",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/07/21/absentee-ballot-spoiling-elections-commission-guidance-reversal/",
+            "date": "2026-07-21",
+            "summary": "The Wisconsin Elections Commission reversed course and will no longer let voters void an absentee ballot they've already returned, a change that could reignite litigation over ballot spoiling."
+          }
+        ]
+      }
     }
   ]
 }
