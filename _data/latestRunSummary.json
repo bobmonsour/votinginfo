@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "items": [
     {
-      "text": "New Jersey discloses DMV glitch registered 6,600 noncitizens to vote",
-      "url": "https://www.inquirer.com/politics/new-jersey/noncitizens-voting-registration-glitch-nj-20260721.html",
-      "abbr": "NJ"
+      "text": "Federal judge rules DOJ has no authority to demand Connecticut's voter rolls",
+      "url": "https://ctnewsjunkie.com/2026/07/20/judge-doj-has-no-authority-to-demand-ct-voter-lists/",
+      "abbr": "CT"
     },
     {
-      "text": "Florida judge weighs whether gubernatorial candidate Fishback meets residency rule",
-      "url": "https://www.wflx.com/2026/07/21/florida-judge-weigh-whether-james-fishback-can-remain-gubernatorial-ballot/",
-      "abbr": "FL"
+      "text": "Trump releases documents alleging China compromised voter rolls in 18 states",
+      "url": "https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893",
+      "abbr": "DC"
     },
     {
-      "text": "Indiana officials defend election security as Trump casts doubt nationally",
-      "url": "https://www.wfyi.org/statewide/2026-07-17/indiana-2026-midterm-election-security-trump-claims",
-      "abbr": "IN"
+      "text": "Maryland election chief tells feds voter rolls are secure amid DOJ pressure",
+      "url": "https://wtop.com/maryland/2026/07/maryland-election-official-tells-feds-voter-rolls-are-secure-removing-voters-must-be-certain/",
+      "abbr": "MD"
     },
     {
-      "text": "Missouri opens no-excuse absentee voting for its August 4 primary",
-      "url": "https://www.kfvs12.com/2026/07/21/early-voting-begins-missouri-primary-election/",
-      "abbr": "MO"
+      "text": "Illinois high schools must now offer students voter registration opportunities",
+      "url": "https://www.wthitv.com/2026/07/14/illinois-law-requires-high-schools-offer-students-voter-registration-opportunity/",
+      "abbr": "IL"
     },
     {
-      "text": "South Carolina and DOJ set overseas voter deadlines for special Senate primary",
-      "url": "https://www.southcarolinapublicradio.org/sc-news/2026-07-21/state-election-commission-department-of-justice-outline-overseas-voting-for-august-primary",
-      "abbr": "SC"
+      "text": "Wyoming opens primary early voting under new citizenship and residency proof rules",
+      "url": "https://oilcity.news/community/elections/2026/07/21/wyoming-early-voting-starts-now-what-voters-campaigns-need-to-know/",
+      "abbr": "WY"
     }
   ]
 }

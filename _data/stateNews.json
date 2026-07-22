@@ -27955,6 +27955,56 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-22",
+      "states": {
+        "CT": [
+          {
+            "title": "Judge: DOJ Has No Authority To Demand CT Voter Lists",
+            "source": "CT News Junkie",
+            "url": "https://ctnewsjunkie.com/2026/07/20/judge-doj-has-no-authority-to-demand-ct-voter-lists/",
+            "date": "2026-07-20",
+            "summary": "A federal judge ruled the Department of Justice lacks authority under the Civil Rights Act of 1960 to compel Connecticut to hand over its voter registration list, dismissing a Trump administration lawsuit."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Trump says documents show voting vulnerabilities, China meddling and fraud",
+            "source": "ABC News",
+            "url": "https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893",
+            "date": "2026-07-17",
+            "summary": "President Trump released declassified documents alleging China compromised voter registration data in 18 states, though the redacted materials did not substantiate claims that any votes were altered."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Illinois law requires high schools to offer students voter registration opportunity",
+            "source": "WTHI-TV",
+            "url": "https://www.wthitv.com/2026/07/14/illinois-law-requires-high-schools-offer-students-voter-registration-opportunity/",
+            "date": "2026-07-14",
+            "summary": "Gov. J.B. Pritzker signed the 'Reverend Jesse Jackson Young Voter Empowerment' law requiring Illinois high schools to give students an opportunity to register to vote."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland election official tells feds voter rolls are secure, removing voters 'must be certain'",
+            "source": "WTOP News",
+            "url": "https://wtop.com/maryland/2026/07/maryland-election-official-tells-feds-voter-rolls-are-secure-removing-voters-must-be-certain/",
+            "date": "2026-07-16",
+            "summary": "Maryland's Elections Administrator Jared DeMarinis responded to a DOJ letter threatening prosecution, saying the state's voter roll maintenance follows federal and state law and 'must be certain' before removing anyone."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Wyoming early voting starts now; what voters, campaigns need to know",
+            "source": "Oil City News",
+            "url": "https://oilcity.news/community/elections/2026/07/21/wyoming-early-voting-starts-now-what-voters-campaigns-need-to-know/",
+            "date": "2026-07-21",
+            "summary": "Wyoming's primary election early voting period opened July 21, with new documentary proof-of-residency and citizenship requirements taking effect for the first time."
+          }
+        ]
+      }
     }
   ]
 }
