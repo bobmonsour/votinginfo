@@ -27905,6 +27905,56 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-21",
+      "states": {
+        "FL": [
+          {
+            "title": "Judge to rule Monday on James Fishback's candidacy after one-day eligibility hearing",
+            "source": "WFLX",
+            "url": "https://www.wflx.com/2026/07/21/florida-judge-weigh-whether-james-fishback-can-remain-gubernatorial-ballot/",
+            "date": "2026-07-21",
+            "summary": "A Tallahassee judge held a hearing on whether Republican gubernatorial candidate James Fishback meets Florida's seven-year residency requirement, after Lt. Gov. Jay Collins challenged his eligibility over Washington, D.C. voting and property records."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Indiana election officials defend the vote's security as Trump sows doubt",
+            "source": "WFYI",
+            "url": "https://www.wfyi.org/statewide/2026-07-17/indiana-2026-midterm-election-security-trump-claims",
+            "date": "2026-07-17",
+            "summary": "Indiana election officials pushed back on President Trump's claims of election vulnerabilities, citing bipartisan audits, paper ballot trails, and voter ID requirements as safeguards ahead of the midterm election."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Early voting begins in Missouri for primary election",
+            "source": "KFVS12",
+            "url": "https://www.kfvs12.com/2026/07/21/early-voting-begins-missouri-primary-election/",
+            "date": "2026-07-21",
+            "summary": "No-excuse absentee voting began in Missouri for the August 4 primary, with officials anticipating strong turnout and reminding voters to bring photo ID and select a party ballot under the state's open primary system."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey reveals glitch allowed 6,600 noncitizens to register to vote ahead of 2024 election",
+            "source": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com/politics/new-jersey/noncitizens-voting-registration-glitch-nj-20260721.html",
+            "date": "2026-07-21",
+            "summary": "Gov. Mikie Sherrill disclosed that a software error in New Jersey's motor vehicle system improperly registered about 6,600 noncitizens to vote between June 2023 and June 2024, with fewer than 400 casting ballots."
+          }
+        ],
+        "SC": [
+          {
+            "title": "State Election Commission, Department of Justice outline overseas voting for August primary",
+            "source": "South Carolina Public Radio",
+            "url": "https://www.southcarolinapublicradio.org/sc-news/2026-07-21/state-election-commission-department-of-justice-outline-overseas-voting-for-august-primary",
+            "date": "2026-07-21",
+            "summary": "The DOJ and South Carolina Election Commission reached an agreement on notification deadlines and ballot procedures for military and overseas voters ahead of the August 11 special Republican U.S. Senate primary."
+          }
+        ]
+      }
     }
   ]
 }

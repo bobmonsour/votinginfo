@@ -2,28 +2,29 @@
   "date": "2026-07-21",
   "items": [
     {
-      "text": "Arizona Republicans pick a gubernatorial nominee in July 21 primary",
-      "url": "https://www.wfdd.org/politics-government/2026-07-21/here-are-arizonas-2026-primary-election-results",
-      "abbr": "AZ"
+      "text": "New Jersey discloses DMV glitch registered 6,600 noncitizens to vote",
+      "url": "https://www.inquirer.com/politics/new-jersey/noncitizens-voting-registration-glitch-nj-20260721.html",
+      "abbr": "NJ"
     },
     {
-      "text": "Wisconsin reverses guidance, will no longer let voters void returned absentee ballots",
-      "url": "https://www.votebeat.org/wisconsin/2026/07/21/absentee-ballot-spoiling-elections-commission-guidance-reversal/",
-      "abbr": "WI"
+      "text": "Florida judge weighs whether gubernatorial candidate Fishback meets residency rule",
+      "url": "https://www.wflx.com/2026/07/21/florida-judge-weigh-whether-james-fishback-can-remain-gubernatorial-ballot/",
+      "abbr": "FL"
     },
     {
-      "text": "Hawaii enacts seven 2026 election bills, including a corporate political activity ban",
-      "url": "https://news.ballotpedia.org/2026/07/19/hawaii-enacts-seven-election-bills-in-2026-session-including-prohibition-on-corporate-political-activity/",
-      "abbr": "HI"
+      "text": "Indiana officials defend election security as Trump casts doubt nationally",
+      "url": "https://www.wfyi.org/statewide/2026-07-17/indiana-2026-midterm-election-security-trump-claims",
+      "abbr": "IN"
     },
     {
-      "text": "Washington and Virginia voters begin casting ballots for their August primaries",
-      "abbr": "WA"
+      "text": "Missouri opens no-excuse absentee voting for its August 4 primary",
+      "url": "https://www.kfvs12.com/2026/07/21/early-voting-begins-missouri-primary-election/",
+      "abbr": "MO"
     },
     {
-      "text": "New York's NYC open-primaries ballot fight continues amid redistricting update",
-      "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-07-20-26/",
-      "abbr": "NY"
+      "text": "South Carolina and DOJ set overseas voter deadlines for special Senate primary",
+      "url": "https://www.southcarolinapublicradio.org/sc-news/2026-07-21/state-election-commission-department-of-justice-outline-overseas-voting-for-august-primary",
+      "abbr": "SC"
     }
   ]
 }
