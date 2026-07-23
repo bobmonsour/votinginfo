@@ -28089,6 +28089,74 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-23",
+      "states": {
+        "AK": [
+          {
+            "title": "Seventeen governor candidates vie for votes in Alaska's primary election",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-07-22/seventeen-governor-candidates-vie-for-votes-in-alaskas-primary-election",
+            "date": "2026-07-22",
+            "summary": "Seventeen candidates are competing for governor in Alaska's Aug. 18 primary, with the top four advancing to a ranked-choice general election."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Arizona primary results: Live updates on statewide, local races",
+            "source": "AZ Luminaria",
+            "url": "https://azluminaria.org/2026/07/22/arizona-primary-results-live-updates-on-statewide-local-races/",
+            "date": "2026-07-22",
+            "summary": "Arizona's July 21 primary produced results in the governor, attorney general, secretary of state and other statewide races, including Andy Biggs winning the GOP gubernatorial primary."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Westport registrars demonstrate voting machines as federal pressures mount",
+            "source": "Connecticut Mirror",
+            "url": "https://ctmirror.org/2026/07/22/westport-ct-voting-machines/",
+            "date": "2026-07-22",
+            "summary": "Westport election registrars publicly demonstrated their voting tabulators ahead of the August primary, pushing back on federal claims that more oversight of local elections is needed."
+          }
+        ],
+        "FL": [
+          {
+            "title": "How Florida election supervisors are protecting the 2026 vote",
+            "source": "Tampa Bay Times",
+            "url": "https://www.tampabay.com/news/florida-politics/elections/2026/07/22/florida-election-security-trump-what-to-know-mail-ballot-fraud/",
+            "date": "2026-07-22",
+            "summary": "Tampa Bay-area election supervisors detail the safeguards they use to prevent fraud and secure the vote ahead of Florida's 2026 elections."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Absentee voting surges ahead of Michigan primary election",
+            "source": "KCRG (Gray Media)",
+            "url": "https://www.kcrg.com/video/2026/07/22/absentee-voting-surges-ahead-michigan-primary-election/",
+            "date": "2026-07-22",
+            "summary": "Michigan voters are requesting and returning absentee ballots at a record pace with about two weeks left before the state's Aug. 4 primary."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey accidentally registered 6,600 noncitizens to vote years ago, governor says",
+            "source": "ABC News",
+            "url": "https://abcnews.com/US/new-jersey-accidentally-registered-6600-noncitizens-vote-governor/story?id=134959825",
+            "date": "2026-07-22",
+            "summary": "Gov. Mikie Sherrill said a software error had wrongly registered about 6,600 noncitizens to vote, with fewer than 400 actually casting ballots, amid federal claims of much larger numbers."
+          }
+        ],
+        "SD": [
+          {
+            "title": "7 things to know ahead of the SD gubernatorial runoff",
+            "source": "South Dakota News Watch / KOTA",
+            "url": "https://www.kotatv.com/2026/07/23/7-things-know-ahead-sd-gubernatorial-runoff/",
+            "date": "2026-07-23",
+            "summary": "South Dakota Republicans head into a first-ever gubernatorial runoff on July 28 between Gov. Larry Rhoden and businessman Toby Doeden after neither cleared the 35% primary threshold."
+          }
+        ]
+      }
     }
   ]
 }
