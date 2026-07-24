@@ -28171,6 +28171,167 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-24",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska sends 3,000 letters asking voters to verify their citizenship ahead of this year's elections",
+            "source": "Click2Houston",
+            "url": "https://www.click2houston.com/news/politics/2026/07/23/alaska-sends-3000-letters-asking-voters-to-verify-their-citizenship-ahead-of-this-years-elections/",
+            "date": "2026-07-23",
+            "summary": "Alaska's Division of Elections sent about 3,000 letters to registered voters requesting citizenship verification ahead of the Aug. 18 primary, an unusually high number officials attributed to outdated data matching."
+          },
+          {
+            "title": "Alaska elections division official blocks journalist's camera after hearing on U.S. Senate race ballot listing",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/07/23/alaska-elections-division-official-blocks-journalists-camera-after-hearing-on-us-senate-race-ballot-listing/",
+            "date": "2026-07-23",
+            "summary": "A Division of Elections spokesperson blocked a news camera during questioning about the director's decision to omit party affiliation from a same-named Senate candidate's ballot listing."
+          },
+          {
+            "title": "Get Out the Native Vote initiative galvanizes Alaska Native voters for the 2026 elections",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-07-23/get-out-the-native-vote-initiative-galvanizes-alaska-native-voters-for-the-2026-elections",
+            "date": "2026-07-23",
+            "summary": "A Native-led voter mobilization campaign is working to boost Alaska Native voter education and turnout ahead of the August primary and November midterm elections."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Two Unaffiliated Candidates Qualify for General Election Ballot",
+            "source": "Colorado Secretary of State",
+            "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260715Candidates.html",
+            "date": "2026-07-15",
+            "summary": "Two unaffiliated candidates, Allison Madrigal for state House District 38 and Travis Star Nelson for state Senate District 35, qualified for Colorado's November general election ballot by petition."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Absentee ballot access a boon for older voters in CT, AARP says",
+            "source": "Connecticut Public",
+            "url": "https://www.ctpublic.org/news/2026-07-23/absentee-ballot-access-a-boon-for-older-voters-in-ct-aarp-says",
+            "date": "2026-07-23",
+            "summary": "Connecticut's new no-excuse absentee voting law is especially helpful for older voters, AARP says, ahead of the state's Aug. 11 primary and Nov. 3 general election."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Orange County opens voting equipment testing to public ahead of 2026 primary",
+            "source": "Click Orlando",
+            "url": "https://www.clickorlando.com/news/local/2026/07/23/orange-county-opens-voting-equipment-testing-to-public-ahead-of-2026-primary/",
+            "date": "2026-07-23",
+            "summary": "Orange County's elections office opened public testing of voting equipment ahead of the 2026 primary, part of routine pre-election transparency measures before early voting begins August 3."
+          }
+        ],
+        "HI": [
+          {
+            "title": "History shows every vote counts in Hawaii legislative races",
+            "source": "The Garden Island",
+            "url": "https://www.thegardenisland.com/2026/07/24/hawaii-news/history-shows-every-vote-counts-in-hawaii-legislative-races/",
+            "date": "2026-07-24",
+            "summary": "A look at past close margins in Hawaii legislative races underscores the importance of turnout ahead of the state's Aug. 8 primary election."
+          },
+          {
+            "title": "Voter Service Centers to open on Oahu for Primary Elections",
+            "source": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/07/24/voter-service-centers-open-oahu/",
+            "date": "2026-07-24",
+            "summary": "Oahu voter service centers will open July 27 through the Aug. 8 primary election day, with extended hours on election day itself."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Here's how Illinois election authorities guard against noncitizen voting",
+            "source": "NPR Illinois",
+            "url": "https://www.nprillinois.org/illinois/2026-07-23/heres-how-illinois-election-authorities-guard-against-noncitizen-voting",
+            "date": "2026-07-23",
+            "summary": "Illinois election officials described safeguards preventing noncitizens from registering to vote, noting only 10 such cases have been found statewide since 1982."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Greg Ballard, former mayor, certified for Indiana secretary of state ballot",
+            "source": "WRTV",
+            "url": "https://www.wrtv.com/news/politics/greg-ballard-former-mayor-certified-for-indiana-secretary-of-state-ballot",
+            "date": "2026-07-23",
+            "summary": "Former Indianapolis Mayor Greg Ballard was certified for the November ballot as an independent Lincoln Party candidate for Indiana secretary of state after submitting over 40,000 petition signatures."
+          }
+        ],
+        "KS": [
+          {
+            "title": "KC Election Board error leaves hundreds of voters missing races on their absentee ballots",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/07/22/kc-election-board-error-left-hundreds-voters-missing-races-their-absentee-ballots/",
+            "date": "2026-07-21",
+            "summary": "A Kansas City Election Board error omitted two Jackson County Legislature at-large races from 251 absentee ballots; the board is issuing supplemental ballots ahead of the Aug. 4 election."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Federal court dismisses DOJ attempt to obtain Kentucky voter rolls",
+            "source": "WKYT",
+            "url": "https://www.wkyt.com/2026/07/24/federal-court-dismisses-doj-attempt-obtain-kentucky-voter-rolls/",
+            "date": "2026-07-23",
+            "summary": "A federal court rejected the DOJ's lawsuit seeking Kentucky's unredacted voter registration data after Secretary of State Michael Adams refused to turn over sensitive voter information."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Minnesota sees promising early voting turnout as election officials grapple with new challenges",
+            "source": "InForum (Duluth News Tribune)",
+            "url": "https://www.duluthnewstribune.com/news/minnesota/minnesota-sees-promising-early-voting-turnout-as-election-officials-grapple-with-new-challenges",
+            "date": "2026-07-20",
+            "summary": "Absentee ballot requests for Minnesota's Aug. 11 primary are already surpassing prior cycles, even as officials navigate voter concerns about immigration enforcement and changes to federal-state election partnerships."
+          }
+        ],
+        "MO": [
+          {
+            "title": "What you need to know: Early voting now open in Missouri",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/07/22/what-you-need-know-early-voting-now-open-missouri/",
+            "date": "2026-07-22",
+            "summary": "Missouri's no-excuse absentee voting period opened ahead of the Aug. 4 primary, with voters weighing in on several constitutional amendments including a proposal to phase out the state income tax."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey governor's disclosure of noncitizens on voter rolls sharpens confrontation with Trump administration",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/07/23/new-jersey-voter-registration-snafu-fuels-national-debate/",
+            "date": "2026-07-23",
+            "summary": "Gov. Mikie Sherrill disclosed that a state DMV software glitch improperly registered about 6,600 noncitizens to vote between 2023 and 2024, intensifying a standoff with the DOJ over voter data."
+          }
+        ],
+        "RI": [
+          {
+            "title": "McKee's lucky day at ballot placement lottery",
+            "source": "Rhode Island Current",
+            "url": "https://rhodeislandcurrent.com/2026/07/17/mckees-lucky-day-at-ballot-placement-lottery/",
+            "date": "2026-07-17",
+            "summary": "Gov. Dan McKee won the top ballot spot for the Sept. 8 Democratic gubernatorial primary at Rhode Island's ballot placement lottery, which also set candidate order for the November general election."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Here's a Look at the Top Lines from Texas' July Campaign Finance Reports",
+            "source": "The Texan",
+            "url": "https://thetexan.news/elections/2026/heres-a-look-at-the-top-lines-from-texas-july-campaign-finance-reports/article_0bc50754-759d-4272-9aef-c12071072f46.html",
+            "date": "2026-07-20",
+            "summary": "Texas candidates' July campaign finance reports showed Democratic state Rep. James Talarico significantly outraising Republican Ken Paxton in the competitive U.S. Senate race."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Democrats file lawsuit challenging guidance on absentee ballots",
+            "source": "Wisconsin Public Radio",
+            "url": "https://www.wpr.org/news/democrats-file-lawsuit-challenging-wec-guidance-absentee-ballots-primary-2026",
+            "date": "2026-07-23",
+            "summary": "A Democratic group sued the Wisconsin Elections Commission over guidance barring voters from replacing absentee ballots cast for candidates who later dropped out of the chaotic August gubernatorial primary."
+          }
+        ]
+      }
     }
   ]
 }

@@ -1,10 +1,33 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "items": [
     {
-      "text": "Hawaii launches voter education push after high blank-ballot rates in OHA races",
-      "url": "https://www.staradvertiser.com/2026/07/23/hawaii-news/high-blank-ballot-rates-prompt-oha-voter-education-effort/",
-      "abbr": "HI"
+      "text": "New Jersey governor's noncitizen voter registration disclosure escalates fight with DOJ",
+      "url": "https://www.votebeat.org/national/2026/07/23/new-jersey-voter-registration-snafu-fuels-national-debate/",
+      "abbr": "NJ"
+    },
+    {
+      "text": "Federal court dismisses DOJ lawsuit seeking Kentucky's unredacted voter rolls",
+      "url": "https://www.wkyt.com/2026/07/24/federal-court-dismisses-doj-attempt-obtain-kentucky-voter-rolls/",
+      "abbr": "KY"
+    },
+    {
+      "text": "Wisconsin Democrats sue over guidance blocking replacement absentee ballots",
+      "url": "https://www.wpr.org/news/democrats-file-lawsuit-challenging-wec-guidance-absentee-ballots-primary-2026",
+      "abbr": "WI"
+    },
+    {
+      "text": "Alaska sends unusually high number of citizenship-verification letters to voters",
+      "url": "https://www.click2houston.com/news/politics/2026/07/23/alaska-sends-3000-letters-asking-voters-to-verify-their-citizenship-ahead-of-this-years-elections/",
+      "abbr": "AK"
+    },
+    {
+      "text": "Missouri and Kansas open no-excuse absentee voting ahead of Aug. 4 primaries"
+    },
+    {
+      "text": "Indiana certifies independent Lincoln Party candidate for secretary of state ballot",
+      "url": "https://www.wrtv.com/news/politics/greg-ballard-former-mayor-certified-for-indiana-secretary-of-state-ballot",
+      "abbr": "IN"
     }
   ]
 }
