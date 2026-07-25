@@ -28332,6 +28332,74 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-24",
+      "states": {
+        "CA": [
+          {
+            "title": "California Secretary of State Shirley N. Weber, Ph.D., Announces the Statewide Voter Information Guide for the November 3, 2026, General Election Is Available for Public Review",
+            "source": "California Secretary of State",
+            "url": "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-shirley-n-weber-phd-announces-statewide-voter-information-guide-november-3-2026-general-election-avai",
+            "date": "2026-07-21",
+            "summary": "California's official Voter Information Guide for the Nov. 3 general election is available for public review through Aug. 10, offered in 10 languages with proposition summaries and candidate statements."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland approves $109 million voting machine contract despite concerns",
+            "source": "The Baltimore Sun",
+            "url": "https://www.baltimoresun.com/2026/07/24/maryland-approves-voting-machine-contract/",
+            "date": "2026-07-24",
+            "summary": "Maryland's Board of Public Works approved an $85 million base contract, potentially reaching $109 million with renewals, with Election Systems and Software for new voting equipment ahead of the 2028 election, over objections that the system lacks full certification."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Early, in-person voting starts Saturday across Michigan: What to know",
+            "source": "WILX",
+            "url": "https://www.wilx.com/2026/07/24/early-in-person-voting-starts-saturday-across-michigan-what-know/",
+            "date": "2026-07-24",
+            "summary": "Early in-person voting for Michigan's Aug. 4 primary begins July 25 and runs through Aug. 2, with some sites open an extra day, ahead of races for governor, U.S. Senate, and all 13 U.S. House seats."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "States review voter registration systems after New Jersey's noncitizen error",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/elections/states-review-voter-registration-systems-new-jerseys-noncitizen-error-rcna589042",
+            "date": "2026-07-24",
+            "summary": "After New Jersey disclosed a software error that improperly registered about 6,600 noncitizens to vote, roughly 400 of whom cast ballots, at least 11 other states have begun reviewing their own voter registration systems."
+          }
+        ],
+        "NM": [
+          {
+            "title": "New Mexico Democrats to use ranked choice voting to pick new lieutenant governor nominee",
+            "source": "KUNM",
+            "url": "https://www.kunm.org/kunm-news-update/2026-07-24/fri-new-mexico-democrats-to-use-ranked-choice-voting-to-pick-new-lieutenant-governor-nominee-more",
+            "date": "2026-07-24",
+            "summary": "New Mexico's Democratic Party will use electronic ranked-choice voting over four days to pick a new lieutenant governor nominee after Maggie Toulouse Oliver's campaign suspension, with results announced July 30."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pennsylvania secretary responds to Trump administration's threat of criminal charges over noncitizen voters",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/07/15/al-schmidt-trump-department-justice-noncitizen-voting-criminal-prosecution-midterms/",
+            "date": "2026-07-15",
+            "summary": "Pennsylvania Secretary of the Commonwealth Al Schmidt rejected a DOJ warning of possible prosecution over noncitizen voting, saying the state already maintains rigorous voter-roll standards and has canceled over 300,000 ineligible registrations."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Lawsuit aims to give voters worried about mail delays an election day option",
+            "source": "Wisconsin Public Radio",
+            "url": "https://www.wpr.org/news/lawsuit-league-women-voters-law-forward-provisional-ballot-election-day-2026",
+            "date": "2026-07-24",
+            "summary": "The League of Women Voters and Law Forward sued to let Wisconsin voters worried about postal delays cast a provisional ballot on Election Day if their mailed absentee ballot has not yet arrived."
+          }
+        ]
+      }
     }
   ]
 }

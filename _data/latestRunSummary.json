@@ -2,32 +2,27 @@
   "date": "2026-07-24",
   "items": [
     {
-      "text": "New Jersey governor's noncitizen voter registration disclosure escalates fight with DOJ",
-      "url": "https://www.votebeat.org/national/2026/07/23/new-jersey-voter-registration-snafu-fuels-national-debate/",
+      "text": "States review their voter rolls after New Jersey's noncitizen registration error",
+      "url": "https://www.nbcnews.com/politics/elections/states-review-voter-registration-systems-new-jerseys-noncitizen-error-rcna589042",
       "abbr": "NJ"
     },
     {
-      "text": "Federal court dismisses DOJ lawsuit seeking Kentucky's unredacted voter rolls",
-      "url": "https://www.wkyt.com/2026/07/24/federal-court-dismisses-doj-attempt-obtain-kentucky-voter-rolls/",
-      "abbr": "KY"
-    },
-    {
-      "text": "Wisconsin Democrats sue over guidance blocking replacement absentee ballots",
-      "url": "https://www.wpr.org/news/democrats-file-lawsuit-challenging-wec-guidance-absentee-ballots-primary-2026",
+      "text": "Wisconsin voters sue for an Election Day option if absentee ballots arrive late",
+      "url": "https://www.wpr.org/news/lawsuit-league-women-voters-law-forward-provisional-ballot-election-day-2026",
       "abbr": "WI"
     },
     {
-      "text": "Alaska sends unusually high number of citizenship-verification letters to voters",
-      "url": "https://www.click2houston.com/news/politics/2026/07/23/alaska-sends-3000-letters-asking-voters-to-verify-their-citizenship-ahead-of-this-years-elections/",
-      "abbr": "AK"
+      "text": "Pennsylvania rebuffs DOJ threat of prosecution over noncitizen voting claims",
+      "url": "https://www.votebeat.org/pennsylvania/2026/07/15/al-schmidt-trump-department-justice-noncitizen-voting-criminal-prosecution-midterms/",
+      "abbr": "PA"
     },
     {
-      "text": "Missouri and Kansas open no-excuse absentee voting ahead of Aug. 4 primaries"
+      "text": "Maryland approves $109 million voting machine contract despite certification concerns",
+      "url": "https://www.baltimoresun.com/2026/07/24/maryland-approves-voting-machine-contract/",
+      "abbr": "MD"
     },
     {
-      "text": "Indiana certifies independent Lincoln Party candidate for secretary of state ballot",
-      "url": "https://www.wrtv.com/news/politics/greg-ballard-former-mayor-certified-for-indiana-secretary-of-state-ballot",
-      "abbr": "IN"
+      "text": "Michigan and New Mexico open new voting windows ahead of their primaries"
     }
   ]
 }
