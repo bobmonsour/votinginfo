@@ -1,28 +1,35 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-27",
   "items": [
     {
-      "text": "States review their voter rolls after New Jersey's noncitizen registration error",
-      "url": "https://www.nbcnews.com/politics/elections/states-review-voter-registration-systems-new-jerseys-noncitizen-error-rcna589042",
-      "abbr": "NJ"
+      "text": "Federal judge dismisses DOJ lawsuit seeking Kentucky's full voter data",
+      "url": "https://www.lpm.org/news/2026-07-24/federal-judge-dismisses-doj-lawsuit-seeking-kentucky-voter-data",
+      "abbr": "KY"
     },
     {
-      "text": "Wisconsin voters sue for an Election Day option if absentee ballots arrive late",
-      "url": "https://www.wpr.org/news/lawsuit-league-women-voters-law-forward-provisional-ballot-election-day-2026",
+      "text": "Kansas voters weigh Supreme Court election measure as early voting begins",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-07-27/kansas-supreme-court-election-ballot-measure-early-voting",
+      "abbr": "KS"
+    },
+    {
+      "text": "Michigan's early voting opens statewide ahead of August 4 primary",
+      "url": "https://www.wndu.com/2026/07/25/early-voting-is-underway-michigan-ahead-aug-4-primary-heres-what-know/",
+      "abbr": "MI"
+    },
+    {
+      "text": "Guilford becomes 22nd North Carolina county divided over early voting sites",
+      "url": "https://www.wfae.org/education/2026-07-25/nc-county-election-boards-divided-guilford-becomes-22nd-to-split-over-early-voting-plan",
+      "abbr": "NC"
+    },
+    {
+      "text": "Wisconsin's ban on election betting draws pushback from prediction market Kalshi",
+      "url": "https://www.kpbs.org/news/science-technology/2026/07/27/kalshi-attacks-wisconsin-law-banning-election-bets-as-voter-suppression",
       "abbr": "WI"
     },
     {
-      "text": "Pennsylvania rebuffs DOJ threat of prosecution over noncitizen voting claims",
-      "url": "https://www.votebeat.org/pennsylvania/2026/07/15/al-schmidt-trump-department-justice-noncitizen-voting-criminal-prosecution-midterms/",
-      "abbr": "PA"
-    },
-    {
-      "text": "Maryland approves $109 million voting machine contract despite certification concerns",
-      "url": "https://www.baltimoresun.com/2026/07/24/maryland-approves-voting-machine-contract/",
-      "abbr": "MD"
-    },
-    {
-      "text": "Michigan and New Mexico open new voting windows ahead of their primaries"
+      "text": "Washington state primary features historic slate of Supreme Court races",
+      "url": "https://www.kuow.org/elections/2026-07-24/what-to-watch-in-washington-states-2026-primary-election",
+      "abbr": "WA"
     }
   ]
 }

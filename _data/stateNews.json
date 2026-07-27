@@ -28400,6 +28400,65 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-27",
+      "states": {
+        "KS": [
+          {
+            "title": "Organizers make final pitches on Kansas Supreme Court ballot measure amid early voting",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-07-27/kansas-supreme-court-election-ballot-measure-early-voting",
+            "date": "2026-07-27",
+            "summary": "With early voting underway ahead of the August 4 primary, supporters and opponents made final pitches on a constitutional amendment that would shift Kansas Supreme Court justice selection from merit-based appointment to direct election."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Federal judge dismisses DOJ lawsuit seeking Kentucky voter data",
+            "source": "Louisville Public Media",
+            "url": "https://www.lpm.org/news/2026-07-24/federal-judge-dismisses-doj-lawsuit-seeking-kentucky-voter-data",
+            "date": "2026-07-24",
+            "summary": "A federal judge dismissed a Department of Justice lawsuit seeking Kentucky's complete voter registration records, including Social Security numbers, part of a pattern of courts rejecting similar administration requests nationwide."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Early voting is underway in Michigan ahead of the Aug. 4 primary. Here's what to know",
+            "source": "WNDU",
+            "url": "https://www.wndu.com/2026/07/25/early-voting-is-underway-michigan-ahead-aug-4-primary-heres-what-know/",
+            "date": "2026-07-25",
+            "summary": "Statewide early in-person voting began July 25 and runs through August 2 ahead of Michigan's August 4 primary, which includes races for governor, U.S. Senate and all 13 U.S. House seats."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NC county election boards divided; Guilford becomes 22nd to split over early voting plan",
+            "source": "WFAE",
+            "url": "https://www.wfae.org/education/2026-07-25/nc-county-election-boards-divided-guilford-becomes-22nd-to-split-over-early-voting-plan",
+            "date": "2026-07-25",
+            "summary": "Guilford County's elections board became the 22nd North Carolina county this cycle to split along party lines over its early voting plan, with a dispute over campus polling sites now headed to the state board for resolution."
+          }
+        ],
+        "WA": [
+          {
+            "title": "What to watch in Washington state's 2026 primary election",
+            "source": "KUOW",
+            "url": "https://www.kuow.org/elections/2026-07-24/what-to-watch-in-washington-states-2026-primary-election",
+            "date": "2026-07-24",
+            "summary": "Washington's August 4 primary features competitive congressional races, a historic number of state Supreme Court contests, and legislative races reflecting divisions within the state's Democratic party."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
+            "source": "KPBS",
+            "url": "https://www.kpbs.org/news/science-technology/2026/07/27/kalshi-attacks-wisconsin-law-banning-election-bets-as-voter-suppression",
+            "date": "2026-07-27",
+            "summary": "Prediction market company Kalshi pushed back after Wisconsin's Elections Commission warned that voters who bet on an election they can vote in risk losing their ability to cast a ballot under an 1849 state law."
+          }
+        ]
+      }
     }
   ]
 }
