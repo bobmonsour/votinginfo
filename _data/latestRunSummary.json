@@ -1,38 +1,25 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "items": [
     {
-      "text": "Appeals court upholds block on Trump's mail-in voting order across 23 states",
-      "url": "https://www.yahoo.com/news/politics/articles/appeals-court-upholds-block-trumps-002740774.html",
-      "abbr": "DC"
+      "text": "Arizona judge allows bundled election-law ballot measure, Prop 144, to proceed",
+      "url": "https://azcapitoltimes.com/news/2026/07/27/judge-allows-comprehensive-election-measure-to-proceed/",
+      "abbr": "AZ"
     },
     {
-      "text": "Georgia special election to fill late Rep. David Scott's seat could shift House balance",
-      "url": "https://www.clickorlando.com/news/politics/2026/07/27/ap-decision-notes-what-to-expect-in-georgias-13th-congressional-district-special-election/",
-      "abbr": "GA"
+      "text": "RNC lawsuit targets Nebraska law letting overseas citizens with a parent in-state register",
+      "url": "https://www.yahoo.com/news/politics/articles/116-overseas-voters-registered-vote-185622376.html",
+      "abbr": "NE"
     },
     {
-      "text": "Four Democrats compete in special primary for Alabama's 6th Congressional District",
-      "url": "https://alabamareflector.com/2026/07/27/four-democrats-vie-for-central-alabama-congressional-seat-in-special-primary-election/",
-      "abbr": "AL"
-    },
-    {
-      "text": "South Carolina voters navigate special primary rules after Lindsey Graham's death",
-      "url": "https://www.wbtv.com/2026/07/24/south-carolina-special-election-post-lindsey-grahams-death-what-know-who-can-vote/",
+      "text": "South Carolina tapped to host first-in-the-South 2028 Democratic presidential primary",
+      "url": "https://charlestoncitypaper.com/2026/07/27/s-c-to-see-invasion-of-2028-democratic-presidential-candidates/",
       "abbr": "SC"
     },
     {
-      "text": "Michigan emerges as a top battleground with wide-open governor and Senate races",
-      "url": "https://spectrumlocalnews.com/mi/michigan/news/2026/07/27/michigan-elections-battleground-state",
-      "abbr": "MI"
-    },
-    {
-      "text": "New Mexico Democrats pick lieutenant governor nominee through ranked-choice voting",
-      "url": "https://www.santafenewmexican.com/news/local_news/democratic-lieutenant-governor-hopefuls-make-last-minute-pitches-to-party-panel/article_a082a4f2-e615-425a-814e-0f7bcb004cc5.html",
+      "text": "Report finds complex ballot language and low literacy drive New Mexico voter drop-off",
+      "url": "https://www.abqjournal.com/news/the-literacy-test-behind-the-voting-curtain/3088318",
       "abbr": "NM"
-    },
-    {
-      "text": "Virginia and Florida voters head into early voting ahead of their August primaries"
     }
   ]
 }

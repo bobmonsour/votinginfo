@@ -28536,6 +28536,47 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-28",
+      "states": {
+        "AZ": [
+          {
+            "title": "Judge allows comprehensive election measure to proceed",
+            "source": "Arizona Capitol Times",
+            "url": "https://azcapitoltimes.com/news/2026/07/27/judge-allows-comprehensive-election-measure-to-proceed/",
+            "date": "2026-07-27",
+            "summary": "A Maricopa County judge ruled that Arizona's Proposition 144, a constitutional amendment bundling several election law changes including voter ID and citizenship requirements, can proceed to the November ballot as a single measure."
+          }
+        ],
+        "NE": [
+          {
+            "title": "116 overseas voters are registered to vote under a Nebraska law targeted by the RNC",
+            "source": "Nebraska Examiner",
+            "url": "https://www.yahoo.com/news/politics/articles/116-overseas-voters-registered-vote-185622376.html",
+            "date": "2026-07-27",
+            "summary": "A Republican National Committee lawsuit challenges a Nebraska law allowing U.S. citizens who have never resided in the state, but have a parent registered there, to vote; only 116 overseas voters are registered under the provision, with minimal turnout impact so far."
+          }
+        ],
+        "NM": [
+          {
+            "title": "The literacy test behind the voting curtain",
+            "source": "Albuquerque Journal",
+            "url": "https://www.abqjournal.com/news/the-literacy-test-behind-the-voting-curtain/3088318",
+            "date": "2026-07-27",
+            "summary": "A report examines how complex ballot language and low literacy rates contribute to voter drop-off on New Mexico's constitutional amendments and bond measures, with advocates pushing for more accessible wording."
+          }
+        ],
+        "SC": [
+          {
+            "title": "S.C. to see invasion of 2028 Democratic presidential candidates",
+            "source": "Charleston City Paper",
+            "url": "https://charlestoncitypaper.com/2026/07/27/s-c-to-see-invasion-of-2028-democratic-presidential-candidates/",
+            "date": "2026-07-27",
+            "summary": "South Carolina was selected to host the first-in-the-South 2028 Democratic presidential primary, drawing early visits from national Democratic contenders."
+          }
+        ]
+      }
     }
   ]
 }
