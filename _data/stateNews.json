@@ -28459,6 +28459,83 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-27",
+      "states": {
+        "AL": [
+          {
+            "title": "Four Democrats vie for central Alabama congressional seat in special primary election",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2026/07/27/four-democrats-vie-for-central-alabama-congressional-seat-in-special-primary-election/",
+            "date": "2026-07-27",
+            "summary": "Four Democrats are competing in a special primary for Alabama's 6th Congressional District, with the winner set to face the Republican nominee in November for the Shelby-area seat."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Early voting begins soon ahead of Florida's primary election",
+            "source": "News4Jax",
+            "url": "https://www.news4jax.com/vote-2026/2026/07/27/early-voting-begins-soon-ahead-of-floridas-primary-election/",
+            "date": "2026-07-27",
+            "summary": "Northeast Florida counties are preparing for early voting ahead of the August 18 primary, with details on voting windows and eligibility for school board and judicial races."
+          }
+        ],
+        "GA": [
+          {
+            "title": "AP Decision Notes: What to expect in Georgia's 13th Congressional District special election",
+            "source": "Associated Press",
+            "url": "https://www.clickorlando.com/news/politics/2026/07/27/ap-decision-notes-what-to-expect-in-georgias-13th-congressional-district-special-election/",
+            "date": "2026-07-27",
+            "summary": "Six candidates are competing in a special election to fill the Georgia 13th District seat left vacant by the death of Rep. David Scott, a race that could affect the narrow U.S. House balance of power."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Governor, Senate and Congress: Here's why political experts say Michigan is one of the states to watch",
+            "source": "Spectrum News",
+            "url": "https://spectrumlocalnews.com/mi/michigan/news/2026/07/27/michigan-elections-battleground-state",
+            "date": "2026-07-27",
+            "summary": "Michigan's 2026 races for governor, U.S. Senate and all 13 U.S. House seats are drawing national attention as a bellwether for control of Congress."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Democratic lieutenant governor hopefuls make last-minute pitches to party panel",
+            "source": "Santa Fe New Mexican",
+            "url": "https://www.santafenewmexican.com/news/local_news/democratic-lieutenant-governor-hopefuls-make-last-minute-pitches-to-party-panel/article_a082a4f2-e615-425a-814e-0f7bcb004cc5.html",
+            "date": "2026-07-25",
+            "summary": "Four Democratic candidates pitched New Mexico's State Central Committee for the party's lieutenant governor nomination, using ranked-choice voting to replace a candidate who withdrew for health reasons."
+          }
+        ],
+        "SC": [
+          {
+            "title": "South Carolina special election post-Lindsey Graham's death: What to know, who can vote, more",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/07/24/south-carolina-special-election-post-lindsey-grahams-death-what-know-who-can-vote/",
+            "date": "2026-07-24",
+            "summary": "A voter guide for South Carolina's August 11 special Republican primary to select a successor to the late Sen. Lindsey Graham, covering eligibility, registration and early voting details."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Here's Your 2026 Voting Guide for Virginia's August 4 Primaries",
+            "source": "Northern Virginia Magazine",
+            "url": "https://northernvirginiamag.com/news/2026/07/27/heres-your-2026-voting-guide-for-virginias-august-4-primaries/",
+            "date": "2026-07-27",
+            "summary": "A voting guide for Virginia's August 4 primaries covering registration deadlines, early voting options and candidates in the U.S. Senate, House and local races."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Appeals court upholds block on Trump's mail ballot restrictions in 23 States",
+            "source": "Associated Press",
+            "url": "https://www.yahoo.com/news/politics/articles/appeals-court-upholds-block-trumps-002740774.html",
+            "date": "2026-07-27",
+            "summary": "The 1st U.S. Circuit Court of Appeals upheld an injunction blocking President Trump's executive order restricting mail-in voting in 23 states and DC, finding the order likely exceeds presidential authority over election administration."
+          }
+        ]
+      }
     }
   ]
 }

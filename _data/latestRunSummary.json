@@ -2,34 +2,37 @@
   "date": "2026-07-27",
   "items": [
     {
-      "text": "Federal judge dismisses DOJ lawsuit seeking Kentucky's full voter data",
-      "url": "https://www.lpm.org/news/2026-07-24/federal-judge-dismisses-doj-lawsuit-seeking-kentucky-voter-data",
-      "abbr": "KY"
+      "text": "Appeals court upholds block on Trump's mail-in voting order across 23 states",
+      "url": "https://www.yahoo.com/news/politics/articles/appeals-court-upholds-block-trumps-002740774.html",
+      "abbr": "DC"
     },
     {
-      "text": "Kansas voters weigh Supreme Court election measure as early voting begins",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-07-27/kansas-supreme-court-election-ballot-measure-early-voting",
-      "abbr": "KS"
+      "text": "Georgia special election to fill late Rep. David Scott's seat could shift House balance",
+      "url": "https://www.clickorlando.com/news/politics/2026/07/27/ap-decision-notes-what-to-expect-in-georgias-13th-congressional-district-special-election/",
+      "abbr": "GA"
     },
     {
-      "text": "Michigan's early voting opens statewide ahead of August 4 primary",
-      "url": "https://www.wndu.com/2026/07/25/early-voting-is-underway-michigan-ahead-aug-4-primary-heres-what-know/",
+      "text": "Four Democrats compete in special primary for Alabama's 6th Congressional District",
+      "url": "https://alabamareflector.com/2026/07/27/four-democrats-vie-for-central-alabama-congressional-seat-in-special-primary-election/",
+      "abbr": "AL"
+    },
+    {
+      "text": "South Carolina voters navigate special primary rules after Lindsey Graham's death",
+      "url": "https://www.wbtv.com/2026/07/24/south-carolina-special-election-post-lindsey-grahams-death-what-know-who-can-vote/",
+      "abbr": "SC"
+    },
+    {
+      "text": "Michigan emerges as a top battleground with wide-open governor and Senate races",
+      "url": "https://spectrumlocalnews.com/mi/michigan/news/2026/07/27/michigan-elections-battleground-state",
       "abbr": "MI"
     },
     {
-      "text": "Guilford becomes 22nd North Carolina county divided over early voting sites",
-      "url": "https://www.wfae.org/education/2026-07-25/nc-county-election-boards-divided-guilford-becomes-22nd-to-split-over-early-voting-plan",
-      "abbr": "NC"
+      "text": "New Mexico Democrats pick lieutenant governor nominee through ranked-choice voting",
+      "url": "https://www.santafenewmexican.com/news/local_news/democratic-lieutenant-governor-hopefuls-make-last-minute-pitches-to-party-panel/article_a082a4f2-e615-425a-814e-0f7bcb004cc5.html",
+      "abbr": "NM"
     },
     {
-      "text": "Wisconsin's ban on election betting draws pushback from prediction market Kalshi",
-      "url": "https://www.kpbs.org/news/science-technology/2026/07/27/kalshi-attacks-wisconsin-law-banning-election-bets-as-voter-suppression",
-      "abbr": "WI"
-    },
-    {
-      "text": "Washington state primary features historic slate of Supreme Court races",
-      "url": "https://www.kuow.org/elections/2026-07-24/what-to-watch-in-washington-states-2026-primary-election",
-      "abbr": "WA"
+      "text": "Virginia and Florida voters head into early voting ahead of their August primaries"
     }
   ]
 }
