@@ -1,40 +1,29 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "items": [
     {
-      "text": "Arizona judge allows bundled election-law ballot measure, Prop 144, to proceed",
-      "url": "https://azcapitoltimes.com/news/2026/07/27/judge-allows-comprehensive-election-measure-to-proceed/",
-      "abbr": "AZ"
-    },
-    {
-      "text": "New Jersey begins removing noncitizens improperly registered to vote after MVC software error",
-      "url": "https://newjerseymonitor.com/2026/07/28/sherrill-voter-registration-update/",
-      "abbr": "NJ"
-    },
-    {
-      "text": "RNC lawsuit targets Nebraska law letting overseas citizens with a parent in-state register",
-      "url": "https://www.yahoo.com/news/politics/articles/116-overseas-voters-registered-vote-185622376.html",
-      "abbr": "NE"
-    },
-    {
-      "text": "Wisconsin Elections Commission Democrats intervene in lawsuit over absentee ballot-spoiling rules",
-      "url": "https://wislawjournal.com/2026/07/28/wisconsin-elections-commission-members-join-ballot-lawsuit/",
-      "abbr": "WI"
-    },
-    {
-      "text": "North Carolina voting rights groups ramp up voter assistance amid new ballot-rejection rules",
-      "url": "https://ncnewsline.com/2026/07/27/nc-voting-rights-groups-say-theyll-increase-efforts-to-help-voters-overcome-obstacles/",
+      "text": "NC Senate advances bill cutting primary early voting from 17 to 10 days",
+      "url": "https://www.wunc.org/politics/2026-07-28/nc-senate-moves-pair-of-elections-bill-forward-would-cut-early-voting-days-in-primary-elections",
       "abbr": "NC"
     },
     {
-      "text": "South Carolina tapped to host first-in-the-South 2028 Democratic presidential primary",
-      "url": "https://charlestoncitypaper.com/2026/07/27/s-c-to-see-invasion-of-2028-democratic-presidential-candidates/",
-      "abbr": "SC"
+      "text": "Illinois officials detail noncitizen-voting safeguards as DOJ presses for voter database access",
+      "url": "https://www.kwqc.com/2026/07/24/heres-how-illinois-election-authorities-guard-against-noncitizen-voting/",
+      "abbr": "IL"
     },
     {
-      "text": "Report finds complex ballot language and low literacy drive New Mexico voter drop-off",
-      "url": "https://www.abqjournal.com/news/the-literacy-test-behind-the-voting-curtain/3088318",
+      "text": "Connecticut officials call DMV registration of an undocumented immigrant an isolated anomaly",
+      "url": "https://www.ctpublic.org/news/2026-07-24/election-officials-motor-voter-registration-of-noncitizen-an-anomaly",
+      "abbr": "CT"
+    },
+    {
+      "text": "Santa Fe County rolls out 38-foot mobile voting unit for rural and disabled voters",
+      "url": "https://www.santafenewmexican.com/news/elections/the-roundhouse-report-santa-fe-county-to-roll-out-voting-vehicle-to-expand-access/article_c276beff-2c9a-49ea-9626-e4327aeb2b9b.html",
       "abbr": "NM"
+    },
+    {
+      "text": "Michigan, Kansas primary turnout builds early with in-person and mail voting underway",
+      "abbr": "MI"
     }
   ]
 }

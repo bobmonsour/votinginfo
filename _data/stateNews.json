@@ -28604,6 +28604,81 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-29",
+      "states": {
+        "CT": [
+          {
+            "title": "CT primary election 2026: Who's running and how to vote",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/07/27/ct-primary-election-2026-voter-guide/",
+            "date": "2026-07-27",
+            "summary": "A voter guide to Connecticut's 2026 primary elections covers the candidates and how to vote, including the state's first use of no-excuse absentee balloting in a primary."
+          },
+          {
+            "title": "Election officials: 'Motor voter' registration of noncitizen an anomaly",
+            "source": "Connecticut Public",
+            "url": "https://www.ctpublic.org/news/2026-07-24/election-officials-motor-voter-registration-of-noncitizen-an-anomaly",
+            "date": "2026-07-24",
+            "summary": "State officials say a 2018 DMV 'motor voter' registration of an undocumented immigrant was an isolated anomaly distinct from New Jersey's larger registration glitch, as House Republicans push for an audit of Connecticut's automatic registration system."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Here's how Illinois election authorities guard against noncitizen voting",
+            "source": "KWQC",
+            "url": "https://www.kwqc.com/2026/07/24/heres-how-illinois-election-authorities-guard-against-noncitizen-voting/",
+            "date": "2026-07-24",
+            "summary": "Illinois election officials describe the safeguards used to keep noncitizens off the voter rolls as the DOJ sues for access to the state's full voter database, part of a wave of similar lawsuits that federal judges have repeatedly rejected."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Governor Kelly casts vote for 2026 Primary Election",
+            "source": "WIBW",
+            "url": "https://www.wibw.com/2026/07/28/governor-kelly-casts-vote-2026-primary-election/",
+            "date": "2026-07-28",
+            "summary": "Kansas Gov. Laura Kelly cast her ballot as in-person advance voting opened statewide ahead of the Aug. 4 primary election."
+          }
+        ],
+        "MI": [
+          {
+            "title": "One week before the Primary Election, over 832,000 Michiganders have cast their ballot",
+            "source": "Michigan Department of State",
+            "url": "https://www.michigan.gov/sos/resources/news/2026/07/29/one-week-before-the-primary-election-over-832000-michiganders-have-cast-their-ballot",
+            "date": "2026-07-29",
+            "summary": "Michigan's Secretary of State reports more than 832,000 voters had already cast ballots a week before the Aug. 4 primary, with nearly 2 million mail ballots requested statewide."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NC Senate moves pair of elections bill forward, would cut early voting days in primary elections",
+            "source": "WUNC",
+            "url": "https://www.wunc.org/politics/2026-07-28/nc-senate-moves-pair-of-elections-bill-forward-would-cut-early-voting-days-in-primary-elections",
+            "date": "2026-07-28",
+            "summary": "The NC Senate advanced a bill cutting early voting days in primaries from 17 to 10 while expanding noncitizen voter-roll checks, alongside a separate bill extending the ballot-curing window from three to five days."
+          }
+        ],
+        "NM": [
+          {
+            "title": "The Roundhouse Report: Santa Fe County to roll out voting vehicle to expand access",
+            "source": "Santa Fe New Mexican",
+            "url": "https://www.santafenewmexican.com/news/elections/the-roundhouse-report-santa-fe-county-to-roll-out-voting-vehicle-to-expand-access/article_c276beff-2c9a-49ea-9626-e4327aeb2b9b.html",
+            "date": "2026-07-28",
+            "summary": "Santa Fe County unveiled a 38-foot mobile voting precinct with 15 voting stations and wheelchair access to serve rural, elderly, and disabled voters during early voting and on Election Day."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Voter registration deadline July 31; Six races and two questions on the Aug. 25 ballot",
+            "source": "Kay NewsCow",
+            "url": "https://kaynewscow.com/2026/07/20/voter-registration-deadline-july-31-six-races-and-two-questions-on-the-aug-25-ballot/",
+            "date": "2026-07-20",
+            "summary": "Kay County, Oklahoma election officials remind voters that July 31 is the deadline to register or update registration ahead of the Aug. 25 runoff primary election."
+          }
+        ]
+      }
     }
   ]
 }
