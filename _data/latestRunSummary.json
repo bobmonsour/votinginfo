@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "items": [
     {
-      "text": "D.C. Circuit lets Trump's mail-voting order stand for now as Supreme Court weighs emergency appeal",
-      "url": "https://www.democracydocket.com/news-alerts/appeals-court-backs-trump-bid-to-block-some-mail-ballots-for-now-as-supreme-court-mulls-issue/",
-      "abbr": "DC"
+      "text": "Two Democrats head to runoff in Georgia's 13th District special election",
+      "url": "https://rollcall.com/2026/07/28/2-democrats-advance-to-runoff-in-georgia-special-election/",
+      "abbr": "GA"
     },
     {
-      "text": "Illinois elections board tells DOJ its voter-roll practices already comply with federal law",
-      "url": "https://capitolnewsillinois.com/news/illinois-state-elections-board-tells-doj-it-follows-federal-law-on-voting-integrity/",
-      "abbr": "IL"
+      "text": "Indiana Recount Commission rejects bid to subpoena voters in three-vote-margin primary",
+      "url": "https://www.wfyi.org/statewide/2026-07-28/the-right-thing-to-do-morales-shoots-down-effort-to-subpoena-voters-in-tight-indiana-senate-race",
+      "abbr": "IN"
     },
     {
-      "text": "Alaskans to decide ballot measure repealing ranked-choice voting and reinstating closed primaries",
-      "url": "https://alaskapublic.org/news/politics/elections/2026-07-29/alaskans-to-vote-on-ballot-measure-that-would-overhaul-state-election-system",
-      "abbr": "AK"
+      "text": "Ohio lawmakers float lowering the voting age to 16 for local elections",
+      "url": "https://www.statenews.org/government-politics/2026-07-29/should-16-and-17-year-olds-be-allowed-to-vote-in-ohio-two-lawmakers-think-so",
+      "abbr": "OH"
     },
     {
-      "text": "RNC lawsuit targets Nebraska law letting 116 overseas voters with a state-resident parent cast ballots",
-      "url": "https://www.1011now.com/2026/07/28/116-overseas-voters-are-registered-vote-under-nebraska-law-targeted-by-rnc/",
-      "abbr": "NE"
+      "text": "West Virginia wins dismissal of DOJ lawsuit over unredacted voter registration data",
+      "url": "https://sos.wv.gov/article/secretary-state-kris-warner-announces-dismissal-doj-lawsuit-over-unredacted-voter",
+      "abbr": "WV"
     }
   ]
 }

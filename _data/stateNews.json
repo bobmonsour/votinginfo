@@ -28720,6 +28720,47 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-30",
+      "states": {
+        "GA": [
+          {
+            "title": "2 Democrats advance to runoff in Georgia special election",
+            "source": "Roll Call",
+            "url": "https://rollcall.com/2026/07/28/2-democrats-advance-to-runoff-in-georgia-special-election/",
+            "date": "2026-07-28",
+            "summary": "Marcye Scott and Everton Blair advanced to an Aug. 25 runoff in Georgia's 13th Congressional District special election after neither secured a majority in the five-way primary to fill the late Rep. David Scott's seat."
+          }
+        ],
+        "IN": [
+          {
+            "title": "'The right thing to do.' Morales shoots down effort to subpoena voters in tight Indiana senate race",
+            "source": "WFYI",
+            "url": "https://www.wfyi.org/statewide/2026-07-28/the-right-thing-to-do-morales-shoots-down-effort-to-subpoena-voters-in-tight-indiana-senate-race",
+            "date": "2026-07-28",
+            "summary": "Indiana's Recount Commission rejected a request to subpoena voters in a three-vote-margin state Senate Republican primary, with Secretary of State Diego Morales saying voter eligibility challenges belong at the polls, not after the fact."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Should 16 and 17 year olds be allowed to vote in Ohio? Two lawmakers think so",
+            "source": "The Statehouse News Bureau",
+            "url": "https://www.statenews.org/government-politics/2026-07-29/should-16-and-17-year-olds-be-allowed-to-vote-in-ohio-two-lawmakers-think-so",
+            "date": "2026-07-29",
+            "summary": "Two Ohio Democratic lawmakers introduced a constitutional amendment to lower the voting age to 16 for state and local elections, though the measure faces long odds in the Republican-controlled legislature."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Secretary of State Kris Warner announces dismissal of DOJ lawsuit over unredacted voter registration data",
+            "source": "West Virginia Secretary of State",
+            "url": "https://sos.wv.gov/article/secretary-state-kris-warner-announces-dismissal-doj-lawsuit-over-unredacted-voter",
+            "date": "2026-07-14",
+            "summary": "A federal court dismissed a DOJ lawsuit seeking West Virginia's unredacted voter registration data, with Secretary Warner saying the ruling affirmed state law protections for sensitive voter information."
+          }
+        ]
+      }
     }
   ]
 }
