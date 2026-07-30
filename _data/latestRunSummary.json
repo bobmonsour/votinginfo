@@ -2,28 +2,24 @@
   "date": "2026-07-29",
   "items": [
     {
-      "text": "NC Senate advances bill cutting primary early voting from 17 to 10 days",
-      "url": "https://www.wunc.org/politics/2026-07-28/nc-senate-moves-pair-of-elections-bill-forward-would-cut-early-voting-days-in-primary-elections",
-      "abbr": "NC"
+      "text": "D.C. Circuit lets Trump's mail-voting order stand for now as Supreme Court weighs emergency appeal",
+      "url": "https://www.democracydocket.com/news-alerts/appeals-court-backs-trump-bid-to-block-some-mail-ballots-for-now-as-supreme-court-mulls-issue/",
+      "abbr": "DC"
     },
     {
-      "text": "Illinois officials detail noncitizen-voting safeguards as DOJ presses for voter database access",
-      "url": "https://www.kwqc.com/2026/07/24/heres-how-illinois-election-authorities-guard-against-noncitizen-voting/",
+      "text": "Illinois elections board tells DOJ its voter-roll practices already comply with federal law",
+      "url": "https://capitolnewsillinois.com/news/illinois-state-elections-board-tells-doj-it-follows-federal-law-on-voting-integrity/",
       "abbr": "IL"
     },
     {
-      "text": "Connecticut officials call DMV registration of an undocumented immigrant an isolated anomaly",
-      "url": "https://www.ctpublic.org/news/2026-07-24/election-officials-motor-voter-registration-of-noncitizen-an-anomaly",
-      "abbr": "CT"
+      "text": "Alaskans to decide ballot measure repealing ranked-choice voting and reinstating closed primaries",
+      "url": "https://alaskapublic.org/news/politics/elections/2026-07-29/alaskans-to-vote-on-ballot-measure-that-would-overhaul-state-election-system",
+      "abbr": "AK"
     },
     {
-      "text": "Santa Fe County rolls out 38-foot mobile voting unit for rural and disabled voters",
-      "url": "https://www.santafenewmexican.com/news/elections/the-roundhouse-report-santa-fe-county-to-roll-out-voting-vehicle-to-expand-access/article_c276beff-2c9a-49ea-9626-e4327aeb2b9b.html",
-      "abbr": "NM"
-    },
-    {
-      "text": "Michigan, Kansas primary turnout builds early with in-person and mail voting underway",
-      "abbr": "MI"
+      "text": "RNC lawsuit targets Nebraska law letting 116 overseas voters with a state-resident parent cast ballots",
+      "url": "https://www.1011now.com/2026/07/28/116-overseas-voters-are-registered-vote-under-nebraska-law-targeted-by-rnc/",
+      "abbr": "NE"
     }
   ]
 }

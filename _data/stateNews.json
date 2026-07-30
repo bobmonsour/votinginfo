@@ -28679,6 +28679,47 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-29",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaskans to vote on ballot measure that would overhaul state election system",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-07-29/alaskans-to-vote-on-ballot-measure-that-would-overhaul-state-election-system",
+            "date": "2026-07-29",
+            "summary": "A November ballot measure would repeal Alaska's ranked-choice voting system, reinstate closed party primaries, and eliminate 2020-era campaign finance disclosure rules."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Appeals court backs Trump bid to block some mail ballots, for now, as Supreme Court mulls issue",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/appeals-court-backs-trump-bid-to-block-some-mail-ballots-for-now-as-supreme-court-mulls-issue/",
+            "date": "2026-07-28",
+            "summary": "The D.C. Circuit Court of Appeals declined to block Trump's executive order restricting mail voting while litigation continues, as the Supreme Court separately weighs an emergency appeal on the same order."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Illinois state elections board tells DOJ it follows federal law on voting integrity",
+            "source": "Capitol News Illinois",
+            "url": "https://capitolnewsillinois.com/news/illinois-state-elections-board-tells-doj-it-follows-federal-law-on-voting-integrity/",
+            "date": "2026-07-29",
+            "summary": "The Illinois State Board of Elections responded to a DOJ letter threatening prosecution, asserting its voter-roll maintenance practices comply with the National Voter Registration Act."
+          }
+        ],
+        "NE": [
+          {
+            "title": "116 overseas voters are registered to vote under a Nebraska law targeted by the RNC",
+            "source": "1011 KOLN/KGIN",
+            "url": "https://www.1011now.com/2026/07/28/116-overseas-voters-are-registered-vote-under-nebraska-law-targeted-by-rnc/",
+            "date": "2026-07-28",
+            "summary": "New data show 116 overseas voters are registered under a Nebraska law allowing citizens with a parent in the state to vote there, a law the RNC is suing to overturn."
+          }
+        ]
+      }
     }
   ]
 }
