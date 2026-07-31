@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "items": [
     {
-      "text": "California AG sued over Proposition 39 voter ID ballot language",
-      "url": "https://www.kpbs.org/news/politics/2026/07/30/lawsuit-over-voter-id-initiative-language-is-a-california-tradition",
-      "abbr": "CA"
-    },
-    {
-      "text": "Kansas voters told to return mail ballots in person after grace-period confusion",
-      "url": "https://www.wibw.com/2026/07/29/what-you-need-know-vote-kansas-august-primary-elections/",
+      "text": "Kansas voters to decide whether to elect Supreme Court justices directly",
+      "url": "https://news.ballotpedia.org/2026/07/31/kansas-voters-to-decide-whether-to-become-the-22nd-state-to-elect-supreme-court-members-or-keep-unique-bar-controlled-commission/",
       "abbr": "KS"
     },
     {
-      "text": "New York court rejects NYC open-primaries charter commission bid",
-      "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-07-27-26/",
-      "abbr": "NY"
+      "text": "Arizona's new ID-verify option for mail ballots speeds primary results",
+      "url": "https://www.votebeat.org/arizona/2026/07/30/maricopa-pima-counties-id-verify-popular-voters-faster-election-results-2026/",
+      "abbr": "AZ"
     },
     {
-      "text": "Wisconsin judge bars absentee voters from recasting ballots after candidate withdrawal",
-      "url": "https://urbanmilwaukee.com/2026/07/30/judge-rejects-attempt-to-let-absentee-voters-recast-ballots-after-candidates-withdraw/",
-      "abbr": "WI"
+      "text": "South Dakota's first-ever gubernatorial runoff sends Rhoden to November",
+      "url": "https://www.kotatv.com/2026/07/28/sd-republican-gubernatorial-runoff-how-we-got-here/",
+      "abbr": "SD"
     },
     {
-      "text": "West Virginia panel to weigh disqualifying jailed ex-lawmaker from November ballot",
-      "url": "https://wvmetronews.com/2026/07/29/fayette-county-republican-chair-calls-for-former-del-pritts-disqualification-from-november-ballot/",
-      "abbr": "WV"
+      "text": "Vermont voters to weigh collective-bargaining and equal-protection amendments",
+      "url": "https://www.wcax.com/2026/07/28/vermont-voters-consider-2-constitutional-amendments-november-ballot/",
+      "abbr": "VT"
+    },
+    {
+      "text": "Hawaii primary ballot counting underway with bipartisan observers reporting no fraud",
+      "url": "https://www.thegardenisland.com/2026/07/31/hawaii-news/volunteers-vouch-for-process-as-first-ballots-counted/",
+      "abbr": "HI"
     }
   ]
 }

@@ -28811,6 +28811,81 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-31",
+      "states": {
+        "AK": [
+          {
+            "title": "Here's when to expect results in Alaska's 2026 statewide primary election",
+            "source": "Alaska Beacon",
+            "url": "https://alaskabeacon.com/2026/07/30/heres-when-to-expect-results-in-alaskas-2026-statewide-primary-election/",
+            "date": "2026-07-30",
+            "summary": "Early in-person voting began for Alaska's Aug. 18 primary, with the Division of Elections outlining when preliminary results will be released and noting final counts won't be certain until absentee ballots are tallied through Aug. 28."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Arizona's new ID-verify option for mail ballots proves popular in primary election",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/07/30/maricopa-pima-counties-id-verify-popular-voters-faster-election-results-2026/",
+            "date": "2026-07-30",
+            "summary": "A new optional ID-verification process for mail ballot drop-offs drew about 30% of Maricopa County voters and 50% of Pima County voters in the primary, letting officials skip signature verification and speed up results."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii voter service centers now open for in-person registration, voting",
+            "source": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/07/28/hawaii-voter-service-centers-now-open-in-person-registration-voting/",
+            "date": "2026-07-27",
+            "summary": "Voter service centers opened statewide for in-person registration and voting ahead of Hawaii's Aug. 8 primary, with additional pop-up centers opening the following week on Maui, Kauai, and the Big Island."
+          },
+          {
+            "title": "Volunteers vouch for process as first ballots counted",
+            "source": "The Garden Island",
+            "url": "https://www.thegardenisland.com/2026/07/31/hawaii-news/volunteers-vouch-for-process-as-first-ballots-counted/",
+            "date": "2026-07-31",
+            "summary": "Party volunteers observing the counting of Hawaii's first mail-in primary ballots at the state Capitol reported no evidence of fraud or tampering in the process."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas voters to decide whether to become the 22nd state to elect supreme court members or keep unique bar-controlled commission",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/07/31/kansas-voters-to-decide-whether-to-become-the-22nd-state-to-elect-supreme-court-members-or-keep-unique-bar-controlled-commission/",
+            "date": "2026-07-31",
+            "summary": "Kansans will vote Aug. 4 on a constitutional amendment that would replace the state's bar-controlled judicial nominating commission with direct elections of Supreme Court justices."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Election 2026: Nebraska Senate candidates campaign amid unusual controversies",
+            "source": "1011now.com",
+            "url": "https://www.1011now.com/2026/07/31/election-2026-nebraska-senate-candidates-campaign-amid-unusual-controversies/",
+            "date": "2026-07-30",
+            "summary": "Independent Dan Osborn's challenge to Republican Sen. Pete Ricketts has been complicated by ballot-access disputes and a legal fight over the Democratic nominee's withdrawal and replacement."
+          }
+        ],
+        "SD": [
+          {
+            "title": "SD Republican gubernatorial runoff: How we got here",
+            "source": "KOTA Territory News",
+            "url": "https://www.kotatv.com/2026/07/28/sd-republican-gubernatorial-runoff-how-we-got-here/",
+            "date": "2026-07-28",
+            "summary": "Gov. Larry Rhoden defeated Toby Doeden in South Dakota's first-ever gubernatorial runoff after neither candidate cleared 35% in the June primary, and will face Democrat Dan Ahlers in November."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont voters to consider 2 constitutional amendments on November ballot",
+            "source": "WCAX",
+            "url": "https://www.wcax.com/2026/07/28/vermont-voters-consider-2-constitutional-amendments-november-ballot/",
+            "date": "2026-07-28",
+            "summary": "Gov. Phil Scott formally proclaimed that two constitutional amendments -- protecting collective bargaining rights and guaranteeing equal protection under the law -- will appear on Vermont's November ballot."
+          }
+        ]
+      }
     }
   ]
 }
