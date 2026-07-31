@@ -2,23 +2,28 @@
   "date": "2026-07-30",
   "items": [
     {
-      "text": "Two Democrats head to runoff in Georgia's 13th District special election",
-      "url": "https://rollcall.com/2026/07/28/2-democrats-advance-to-runoff-in-georgia-special-election/",
-      "abbr": "GA"
+      "text": "California AG sued over Proposition 39 voter ID ballot language",
+      "url": "https://www.kpbs.org/news/politics/2026/07/30/lawsuit-over-voter-id-initiative-language-is-a-california-tradition",
+      "abbr": "CA"
     },
     {
-      "text": "Indiana Recount Commission rejects bid to subpoena voters in three-vote-margin primary",
-      "url": "https://www.wfyi.org/statewide/2026-07-28/the-right-thing-to-do-morales-shoots-down-effort-to-subpoena-voters-in-tight-indiana-senate-race",
-      "abbr": "IN"
+      "text": "Kansas voters told to return mail ballots in person after grace-period confusion",
+      "url": "https://www.wibw.com/2026/07/29/what-you-need-know-vote-kansas-august-primary-elections/",
+      "abbr": "KS"
     },
     {
-      "text": "Ohio lawmakers float lowering the voting age to 16 for local elections",
-      "url": "https://www.statenews.org/government-politics/2026-07-29/should-16-and-17-year-olds-be-allowed-to-vote-in-ohio-two-lawmakers-think-so",
-      "abbr": "OH"
+      "text": "New York court rejects NYC open-primaries charter commission bid",
+      "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-07-27-26/",
+      "abbr": "NY"
     },
     {
-      "text": "West Virginia wins dismissal of DOJ lawsuit over unredacted voter registration data",
-      "url": "https://sos.wv.gov/article/secretary-state-kris-warner-announces-dismissal-doj-lawsuit-over-unredacted-voter",
+      "text": "Wisconsin judge bars absentee voters from recasting ballots after candidate withdrawal",
+      "url": "https://urbanmilwaukee.com/2026/07/30/judge-rejects-attempt-to-let-absentee-voters-recast-ballots-after-candidates-withdraw/",
+      "abbr": "WI"
+    },
+    {
+      "text": "West Virginia panel to weigh disqualifying jailed ex-lawmaker from November ballot",
+      "url": "https://wvmetronews.com/2026/07/29/fayette-county-republican-chair-calls-for-former-del-pritts-disqualification-from-november-ballot/",
       "abbr": "WV"
     }
   ]

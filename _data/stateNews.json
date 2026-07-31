@@ -28761,6 +28761,56 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-07-30",
+      "states": {
+        "CA": [
+          {
+            "title": "Lawsuit over voter ID initiative language is a California tradition",
+            "source": "KPBS Public Media",
+            "url": "https://www.kpbs.org/news/politics/2026/07/30/lawsuit-over-voter-id-initiative-language-is-a-california-tradition",
+            "date": "2026-07-30",
+            "summary": "A pro-voter ID group sued California Attorney General Rob Bonta, alleging he altered the official ballot title and summary for Proposition 39's voter ID measure to mislead voters."
+          }
+        ],
+        "KS": [
+          {
+            "title": "What you need to know to vote in the Kansas August primary elections",
+            "source": "WIBW",
+            "url": "https://www.wibw.com/2026/07/29/what-you-need-know-vote-kansas-august-primary-elections/",
+            "date": "2026-07-29",
+            "summary": "Kansas Secretary of State Scott Schwab clarified voting procedures for the August primary, including party-affiliation rules for partisan races and confusion over the mail ballot grace period after recent court rulings."
+          }
+        ],
+        "NY": [
+          {
+            "title": "NY Elections, Census and Redistricting Update 07/27/26",
+            "source": "CityLand",
+            "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-07-27-26/",
+            "date": "2026-07-27",
+            "summary": "A state court rejected Mayor Adams' Charter Revision Commission bid to place an open-primaries question on the ballot, while a pending bill would require boards of elections to extend voting hours after disruptions."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Judge Rejects Attempt to Let Absentee Voters Recast Ballots After Candidates Withdraw",
+            "source": "Urban Milwaukee",
+            "url": "https://urbanmilwaukee.com/2026/07/30/judge-rejects-attempt-to-let-absentee-voters-recast-ballots-after-candidates-withdraw/",
+            "date": "2026-07-30",
+            "summary": "A Dane County judge ruled that Wisconsin absentee voters who already returned ballots cannot void them and vote again after Lt. Gov. Sara Rodriguez withdrew from the gubernatorial primary."
+          }
+        ],
+        "WV": [
+          {
+            "title": "State Election Commission to meet, discuss former Del. Pritt's potential disqualification from November ballot",
+            "source": "WV MetroNews",
+            "url": "https://wvmetronews.com/2026/07/29/fayette-county-republican-chair-calls-for-former-del-pritts-disqualification-from-november-ballot/",
+            "date": "2026-07-29",
+            "summary": "West Virginia's State Election Commission will meet Aug. 7 to weigh whether former Delegate David Elliott Pritt should be disqualified from the November ballot following his felony arrest and resignation."
+          }
+        ]
+      }
     }
   ]
 }
