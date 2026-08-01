@@ -6354,14 +6354,14 @@
     "documentationNeeded": [
       "Valid photo ID or affidavit ballot"
     ],
-    "officialUrl": "https://www.sos.ms.gov/elections",
+    "officialUrl": "https://www.sos.ms.gov/elections-voting",
     "lastVerified": "2026-07-31",
     "notes": "Mississippi is one of the few states with no online voter registration and no early voting.",
     "confidenceLevel": "High",
     "sources": [
       {
         "name": "Mississippi Official Election Website",
-        "url": "https://www.sos.ms.gov/elections"
+        "url": "https://www.sos.ms.gov/elections-voting"
       },
       {
         "name": "Vote.org - Mississippi",

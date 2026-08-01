@@ -2,7 +2,7 @@
 name: voting-research
 description: Deep dive research across all 51 state entries to verify voting data accuracy against authoritative sources and gather recent election-related news items for each state and Washington DC.
 disable-model-invocation: true
-allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *), Bash(git *)
+allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *), Bash(git *), Bash(curl *)
 ---
 
 # Research and Verify State Voting Data
@@ -99,10 +99,68 @@ These rules govern when a discrepancy should be flagged:
 3. **Tier 3 requires corroboration** — a single Tier 3 source is NOT sufficient on its own. At least two Tier 3 sources must agree on the discrepancy before flagging it.
 4. **Higher tier wins conflicts** — if Tier 1 and Tier 2 disagree, Tier 1 (the official state site) prevails. If Tier 3 sources contradict a Tier 1 or Tier 2 source, the higher-tier source wins.
 
+### Fetch fallback ladder
+
+Many official state election sites sit behind CDN bot management that returns **HTTP 403 to the
+`WebFetch` fetcher specifically** — the page is reachable, the tool's user agent is not. Do not
+treat a 403 as "source unavailable" and silently drop to Tier 3. Work down this ladder instead:
+
+1. **`WebFetch`** — always try this first. It returns cleaned, extracted text.
+2. **`curl` with a descriptive project user agent** — if `WebFetch` returns 403:
+
+   ```bash
+   curl -sL --max-time 20 \
+     -A 'usvoting.info-research/1.0 (+https://usvoting.info; voter-info verification)' \
+     -H 'Accept: text/html,application/xhtml+xml' \
+     '<url>' | sed 's/<[^>]*>//g' | tr -s ' \n' ' \n'
+   ```
+
+   This clears most state-site blocks. Identify the project honestly — **do not spoof a Chrome
+   or other browser user agent** to get past a block. If an honest UA is refused, the site is
+   refusing this project, and the next rung applies.
+3. **Wayback Machine** — if step 2 is still 403, check for an archived snapshot:
+   `curl -s 'http://archive.org/wayback/available?url=<url-without-scheme>'`, then fetch the
+   returned snapshot URL. A snapshot is still a Tier 1 read, but **cite the snapshot URL and its
+   timestamp**, and treat anything enacted after that timestamp as unverified.
+4. **Alternate official host** — many states publish the same information on a second `.gov`
+   host that is not blocked (e.g. `georgia.gov` alongside `sos.ga.gov`). Still Tier 1.
+5. **Tier 3 corroboration** — only after 1–4 fail. Follow the two-source Tier 3 rule and record
+   the state under Verification gaps in the report.
+
+Because this relies on `curl`, the retrieved HTML is raw — strip tags before reading it, and be
+aware that JavaScript-rendered pages may come back empty. An empty body is a failed fetch, not
+an empty page; continue down the ladder.
+
+### Robots.txt opt-outs — do not work around
+
+Some official sites explicitly opt out of Claude in `robots.txt`. That is a deliberate publisher
+decision, not a misconfigured WAF, and this skill **respects it**. Never use the `curl` rung to
+retrieve a page from a host whose `robots.txt` disallows `ClaudeBot`.
+
+Known opt-outs as of the 2026-07-31 run — treat these as Tier 3-only states and say so in the
+report rather than re-testing them each run:
+
+- **IL** — `elections.il.gov` (`User-agent: ClaudeBot` / `Disallow: /`)
+- **WA** — `sos.wa.gov` (same)
+
+If a Tier 1 host newly starts returning 403 on the honest-UA rung, check its `robots.txt` before
+escalating to Wayback. If it names `ClaudeBot`, add it to this list instead of routing around it.
+
+### Verification gaps section
+
+Every Requirements-update and Full-run report must end with a **Verification gaps** section
+listing each state whose Tier 1 or Tier 2 source could not be read directly, with the reason
+(`403 after honest-UA retry`, `robots.txt opt-out`, `404 — URL moved`, certificate error, …) and
+which rung of the ladder ultimately supplied the finding. Findings for those states are
+**provisional** and must be labeled as such, not presented as a confirmed clean bill of health.
+
+If the failure was a `404`, the stored `officialUrl` is probably stale — flag it as a discrepancy
+to fix rather than logging it as a gap.
+
 ### Research process
 
 1. Read `_data/states.json` in full.
-2. For each state, use WebSearch and WebFetch to check current data against the authoritative sources listed above.
+2. For each state, use WebSearch and WebFetch to check current data against the authoritative sources listed above. When a Tier 1 or Tier 2 fetch returns 403, follow the Fetch fallback ladder before falling back to Tier 3.
 3. Focus especially on:
    - Legislative changes enacted since the `lastVerified` date for each state
    - Any pending legislation that has been enacted or defeated
