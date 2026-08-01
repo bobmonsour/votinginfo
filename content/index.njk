@@ -7,6 +7,7 @@ fullBleed: true
 {% set newsAbbrs = stateNews.runs | latestRunAbbrs %}
 {% set newsCount = stateNews.runs | latestRunCount %}
 {% set latestRunDate = stateNews.runs | latestRunDate %}
+{% set latestRunTime = stateNews.runs | latestRunTime | formatTime %}
 {% set sortedStates = states | sort(false, false, "state") %}
 
 <section class="masthead">
@@ -14,12 +15,10 @@ fullBleed: true
 		<h1>Election news, voter registration &amp; voting <em>requirements</em> for all 50 states and Washington, D.C.</h1>
 		<p class="lede">Election law news, registration deadlines, ID rules, mail-in policy, and more &mdash; sourced from credible sources.</p>
 		<div class="meta-row">
-			<div><strong>51</strong> jurisdictions</div>
-			<span class="dot-sep">·</span>
 			<div><strong>{{ newsCount }}</strong> news items this run</div>
 			{% if latestRunDate %}
 			<span class="dot-sep">·</span>
-			<div><strong>{{ latestRunDate | formatDate }}</strong></div>
+			<div><strong>{{ latestRunDate | formatDateLong }}{% if latestRunTime %} {{ latestRunTime }} PT{% endif %}</strong></div>
 			{% endif %}
 		</div>
 	</div>
@@ -110,7 +109,7 @@ fullBleed: true
 
 		<div class="result-row">
 			<span aria-live="polite">Showing <strong id="visible-count">{{ states | length }}</strong> of <strong>{{ states | length }}</strong> jurisdictions</span>
-			<span>Last updated <strong>{{ states | latestVerified | formatDate }}</strong></span>
+			<span>Last updated <strong>{{ states | latestVerified | formatDateLong }}</strong></span>
 		</div>
 
 		<div class="inline-rail">

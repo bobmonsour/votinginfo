@@ -287,14 +287,26 @@ After filtering, briefly report to the user — per state — the threshold date
 
 ### Writing news data
 
-1. Append a new entry to the `runs` array with today's date and all states that had news items remaining after filtering. States with no qualifying news items are omitted from that run.
+1. Append a new entry to the `runs` array with today's date, this run's scheduled slot (see below), and all states that had news items remaining after filtering. States with no qualifying news items are omitted from that run.
 2. Make this a **surgical `Edit`-tool insertion** of the new run object into the existing `runs` array — do **not** re-serialize the whole file (see "Editing the JSON data files" above; a full rewrite mangles the 500+ `\uXXXX` escapes and produces a huge phantom diff). All previous runs are preserved automatically because they are never touched.
+
+**Scheduled slot (`time`).** Two routines run each weekday, at 6:00am and 5:00pm Pacific. Record
+which slot this run belongs to so the home-page masthead can stamp it. Take the current Pacific
+Time hour (the same one used to derive the run date) and snap it to the nearer slot:
+
+- Pacific hour **before 11:00** → `"time": "06:00"`
+- Pacific hour **11:00 or later** → `"time": "17:00"`
+
+This is the *scheduled* slot, not the wall-clock moment the run executed — a 6am routine that
+starts late and finishes at 6:40 still records `06:00`. For a manual/interactive run, snap by the
+same rule; it just records whichever slot the run is closest to.
 
 Structure of a run entry:
 
 ```json
 {
   "date": "YYYY-MM-DD",
+  "time": "06:00",
   "states": {
     "AL": [
       {
@@ -309,7 +321,8 @@ Structure of a run entry:
 }
 ```
 
-Each state key holds up to 5 news items per run.
+Each state key holds up to 5 news items per run. `time` is a run-level field only — it is never
+added to an individual news item, whose `date` remains the article's own publication date.
 
 ### Link and date verification
 

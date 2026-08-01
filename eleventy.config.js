@@ -211,6 +211,33 @@ export default function (eleventyConfig) {
 		return months[parseInt(m, 10) - 1] + " " + parseInt(d, 10) + ", " + y;
 	});
 
+	// Long-form date ("July 31, 2026"). Used only by the home page masthead and the
+	// requirements "Last updated" stamp; everywhere else still uses the short formatDate.
+	eleventyConfig.addFilter("formatDateLong", (str) => {
+		const [y, m, d] = (str || "").split("-");
+		const months = ["January", "February", "March", "April", "May", "June",
+			"July", "August", "September", "October", "November", "December"];
+		const name = months[parseInt(m, 10) - 1];
+		if (!name || !d || !y) return "";
+		return name + " " + parseInt(d, 10) + ", " + y;
+	});
+
+	// "06:00" -> "6:00am", "17:00" -> "5:00pm". Returns "" for runs captured before
+	// the scheduled-slot time was recorded, so the masthead falls back to date-only.
+	eleventyConfig.addFilter("formatTime", (str) => {
+		const [h, min] = (str || "").split(":");
+		const hour = parseInt(h, 10);
+		if (Number.isNaN(hour) || !min) return "";
+		const suffix = hour < 12 ? "am" : "pm";
+		const display = hour % 12 === 0 ? 12 : hour % 12;
+		return display + ":" + min + suffix;
+	});
+
+	eleventyConfig.addFilter("latestRunTime", (runs) => {
+		const latest = (runs || [])[((runs || []).length || 1) - 1];
+		return latest ? latest.time || "" : "";
+	});
+
 	return {
 		dir: {
 			input: "content",
