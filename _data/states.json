@@ -272,7 +272,7 @@
       "Valid ID or sworn statement"
     ],
     "officialUrl": "https://www.elections.alaska.gov/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "Alaska uses a top-four ranked-choice voting system for general elections. Same-day registration is available only during presidential elections, not all elections.",
     "confidenceLevel": "High",
     "sources": [
@@ -510,10 +510,24 @@
         "date": "2026-07-31",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added the Repeal Top-Four Ranked-Choice Voting Initiative, certified for the November 3, 2026 ballot, per Ballotpedia and Anchorage Daily News"
       }
     ],
     "recentLegislation": [],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "Repeal Top-Four Ranked-Choice Voting Initiative (2026 ballot measure)",
+        "year": 2026,
+        "description": "Indirect initiated state statute that would eliminate Alaska's top-four ranked-choice voting system, adopted by voters in 2020, and replace it with partisan primaries and plurality general elections.",
+        "status": "Certified December 31, 2025 for the November 3, 2026 general election ballot; 42,837 signatures verified across 40 House districts",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Arizona",
@@ -545,7 +559,7 @@
       "Valid photo ID or two non-photo IDs"
     ],
     "officialUrl": "https://azsos.gov/elections",
-    "lastVerified": "2026-07-06",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -803,6 +817,11 @@
         "date": "2026-07-31",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added Proposition 144 / HCR 2001, referred to the November 3, 2026 ballot, per Arizona Capitol Times, KJZZ, Votebeat, and Ballotpedia"
       }
     ],
     "recentLegislation": [],
@@ -821,6 +840,14 @@
         "description": "Emergency measure establishing timeline for county recorders to verify citizenship documentation for ~218,000 voters affected by MVD/AVID database coding error; unverified registrations canceled before 2026 general election",
         "status": "Enacted 2025; expires Jan 1, 2027",
         "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "Proposition 144 / HCR 2001 (Fast, Accurate, Secure, Transparent Election Results Act)",
+        "year": 2026,
+        "description": "Legislative constitutional referral that would require all voters, including mail voters, to present government-issued photo ID (replacing signature verification for mail ballots), enshrine a citizenship requirement in the state constitution, bar foreign contributions to candidates and ballot measures, and change ballot-tabulation procedures. Most provisions would take effect in 2028.",
+        "status": "Referred to the November 3, 2026 ballot by the Legislature in June 2026; a Maricopa County Superior Court judge rejected a challenge and allowed the bundled measure to proceed (late July 2026); an appeal is pending",
+        "dateAdded": "2026-07-31",
         "active": true
       }
     ]
@@ -1347,7 +1374,7 @@
       "Last 4 of SSN if no CO ID"
     ],
     "officialUrl": "https://www.coloradosos.gov/pubs/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "Colorado is a vote-by-mail state; all voters receive ballots by mail.",
     "confidenceLevel": "High",
     "sources": [
@@ -1565,6 +1592,11 @@
         "date": "2026-07-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added HB26-1113 (Modifications to Elections), signed June 1, 2026, per the Colorado Secretary of State and the Colorado General Assembly"
       }
     ],
     "recentLegislation": [
@@ -1574,6 +1606,14 @@
         "description": "Expands tribal ID acceptance for voter registration; federal Bureau of Indian Affairs, Indian Health Service, or other federal agency tribal membership cards with Colorado address accepted as valid ID; requires ballot drop boxes on federal reservations upon tribal council request",
         "status": "Signed May 12, 2025; effective Jan 1, 2026",
         "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "HB26-1113 (Modifications to Elections)",
+        "year": 2026,
+        "description": "Omnibus elections bill. Extends the drop box acceptance window from 15 to 22 days before an election; reduces the required open period for large-campus (10,000+ student) vote centers from 15 to 10 days; changes the mail ballot packet mailing timeframe; grants employees two hours of paid leave to vote on any day a vote center is open, not just Election Day; requires counties to measure and report polling place wait times; and bars a presidential candidate seeking a third term from appearing on the Colorado ballot.",
+        "status": "Signed by Gov. Polis June 1, 2026; mail ballot mailing changes effective July 1, 2026; drop box and mail changes apply beginning with the November 2026 general election",
+        "dateAdded": "2026-07-31",
         "active": true
       }
     ],
@@ -1894,7 +1934,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://elections.delaware.gov/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2067,17 +2107,44 @@
         "date": "2026-07-14",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added HB 180, a first-leg constitutional amendment on felony voting rights that passed the House 30-10 on June 16, 2026, per Delaware Public Media and the Delaware House Democratic Caucus"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added HB 444, the Delaware John Lewis Voting Rights Act, which passed both chambers June 30, 2026 and awaits the governor's signature, per the NAACP Legal Defense Fund and Delaware Public Media"
       }
     ],
     "recentLegislation": [],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "HB 180",
+        "year": 2026,
+        "description": "First-leg constitutional amendment that would restore voting rights immediately upon completion of a felony sentence, removing the current parole, probation, and fines framing, and strike residency-duration and literacy-test language from the state constitution.",
+        "status": "Passed the House 30-10 on June 16, 2026 and referred to the Senate Executive Committee; as a constitutional amendment it must also pass a second, differently elected General Assembly before taking effect",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "HB 444 (Delaware John Lewis Voting Rights Act)",
+        "year": 2026,
+        "description": "State-level voting rights act establishing protections against discriminatory election practices and expanding state remedies for voters.",
+        "status": "Passed both chambers on the final night of the session, which adjourned June 30, 2026; awaiting the governor's signature as of July 31, 2026 (a signing was reported as expected around July 18, 2026 but could not be confirmed)",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Florida",
     "abbreviation": "FL",
     "eligibilityAge": "18 (may pre-register at 16)",
     "idRequirements": {
-      "toRegister": "FL driver's license or state ID number AND last 4 of SSN. Online registration requires both. If neither, write \"NONE\" and register by paper form; must provide ID before first vote. Florida is considering legislation to require documentary proof of citizenship for new registrants.",
+      "toRegister": "FL driver's license or state ID number AND last 4 of SSN. Online registration requires both. If neither, write \"NONE\" and register by paper form; must provide ID before first vote. HB 991, signed April 1, 2026, will require documentary proof of U.S. citizenship for new registrants beginning January 1, 2027; the law is under federal challenge.",
       "toVote": "Photo and signature ID required"
     },
     "registrationDeadline": "29 days before election",
@@ -2101,7 +2168,7 @@
       "Valid photo and signature ID"
     ],
     "officialUrl": "https://dos.fl.gov/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2349,6 +2416,11 @@
         "date": "2026-07-27",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "ID Requirements",
+        "description": "Updated registration ID text: HB 991 was signed April 1, 2026 and takes effect January 1, 2027, replacing the stale statement that Florida was considering proof-of-citizenship legislation, per WUSF, Florida Phoenix, and the ACLU of Florida"
       }
     ],
     "recentLegislation": [
@@ -2392,7 +2464,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.ga.gov/elections",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -2660,6 +2732,11 @@
         "date": "2026-07-27",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added SB 3EX, signed June 26, 2026, which delays the SB 189 QR code ban to January 1, 2028 and mandates hand recounts within a 0.5 percent margin, per The Current and Rough Draft Atlanta"
       }
     ],
     "recentLegislation": [
@@ -2677,6 +2754,14 @@
         "description": "Digital driver's license bill that allows digital IDs for traffic stops but explicitly excludes voting; physical ID remains required at polling places",
         "status": "Effective July 1, 2025",
         "dateAdded": "2026-02-28",
+        "active": true
+      },
+      {
+        "bill": "SB 3EX",
+        "year": 2026,
+        "description": "Special session bill that delays the QR code ban set by SB 189 from July 1, 2026 to January 1, 2028, keeping QR code voting machines in use through the November 2026 election, and mandates hand recounts of top statewide races decided within a 0.5 percent margin.",
+        "status": "Signed by Gov. Kemp June 26, 2026",
+        "dateAdded": "2026-07-31",
         "active": true
       }
     ],
@@ -3235,7 +3320,7 @@
       "Two forms of ID for same-day registration (one must show current address)"
     ],
     "officialUrl": "https://www.elections.il.gov/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -3398,9 +3483,23 @@
         "date": "2026-07-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added HB 4339, the Rev. Jesse Jackson Sr. Young Voter Empowerment Act, signed July 2026, per Ballotpedia News and Shaw Local"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "HB 4339 (Rev. Jesse Jackson Sr. Young Voter Empowerment Act)",
+        "year": 2026,
+        "description": "Requires school districts to provide all eligible graduating high school students with an opportunity to register to vote. The law carries no penalty for noncompliance.",
+        "status": "Signed by Gov. Pritzker July 2026; applies beginning with the 2026-2027 school year",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -3433,7 +3532,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://www.in.gov/sos/elections/",
-    "lastVerified": "2026-05-05",
+    "lastVerified": "2026-07-31",
     "notes": "Indiana has one of the strictest photo ID requirements in the country.",
     "confidenceLevel": "High",
     "sources": [
@@ -3666,6 +3765,11 @@
         "date": "2026-07-09",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Corrected the SB 12 signing date from Feb 27 to Feb 24, 2026 per the official bill action log (Public Law 5) and Ballotpedia"
       }
     ],
     "recentLegislation": [
@@ -3681,7 +3785,7 @@
         "bill": "SB 12",
         "year": 2026,
         "description": "Bans ranked-choice voting statewide; Indiana becomes the 19th state to ban RCV",
-        "status": "Signed by Gov. Braun Feb 27, 2026; effective July 1, 2026",
+        "status": "Signed by Gov. Braun Feb 24, 2026; effective July 1, 2026",
         "dateAdded": "2026-03-13",
         "active": true
       }
@@ -4036,7 +4140,7 @@
       "Valid photo ID"
     ],
     "officialUrl": "https://sos.ks.gov/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -4284,6 +4388,11 @@
         "date": "2026-07-31",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Updated SB 4 status: the law was enjoined July 16, 2026 and the Kansas Supreme Court denied reinstatement July 30-31, 2026, so the 3-day mail ballot grace period remains in effect for the August 4 primary, per Ballotpedia News, KCTV5, KWCH, and WIBW"
       }
     ],
     "recentLegislation": [
@@ -4299,7 +4408,7 @@
         "bill": "SB 4",
         "year": 2025,
         "description": "Eliminates 3-day mail ballot grace period; all mail ballots must be received by 7 PM on Election Day",
-        "status": "Enacted (veto overridden); under court challenge",
+        "status": "Enacted (veto overridden); preliminarily enjoined by the Douglas County District Court July 16, 2026; the Kansas Supreme Court denied the Secretary of State's emergency motions to reinstate the law July 30-31, 2026, so the 3-day grace period remains in effect for the August 4, 2026 primary pending further litigation",
         "dateAdded": "2026-02-28",
         "active": true
       },
@@ -4826,7 +4935,7 @@
       "Proof of identity and residency for same-day registration"
     ],
     "officialUrl": "https://www.maine.gov/sos/cec/elec/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "Maine allows incarcerated individuals to vote. Uses ranked-choice voting for federal and gubernatorial elections.",
     "confidenceLevel": "High",
     "sources": [
@@ -5039,9 +5148,23 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added LD 1666, the ranked-choice voting expansion passed February 10, 2026 and held unconstitutional by the Maine Supreme Judicial Court on April 6, 2026, per Maine Public, Ballotpedia News, and Maine Morning Star"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "LD 1666",
+        "year": 2026,
+        "description": "Would have extended ranked-choice voting to gubernatorial and legislative general elections, which currently use plurality voting.",
+        "status": "Passed the Legislature February 10, 2026; the Maine Supreme Judicial Court held in an April 6, 2026 advisory opinion that the expansion is unconstitutional under the state constitution's plurality requirement, so it never took effect",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -5074,7 +5197,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://elections.maryland.gov/",
-    "lastVerified": "2026-05-22",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -5327,6 +5450,16 @@
         "date": "2026-07-24",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added SB 141, enacted in the 2026 session and effective June 1, 2026, authorizing the State Election Administrator to act on election misinformation and deepfakes, per Ballotpedia News"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added SB 670 / HB 1001, requiring police on duty at polling places and early voting sites to follow election officials' orders, per the Maryland General Assembly bill records"
       }
     ],
     "recentLegislation": [
@@ -5344,6 +5477,22 @@
         "description": "Requires the Department of Public Safety and Correctional Services and the State Board of Elections to automatically restore the voter registration of individuals released from state correctional facilities. DPSCS must send the State Board of Elections a weekly list of released individuals (names and new residential addresses) to enable automatic re-registration.",
         "status": "Enacted in 2026 legislative session",
         "dateAdded": "2026-05-22",
+        "active": true
+      },
+      {
+        "bill": "SB 141",
+        "year": 2026,
+        "description": "Authorizes the State Election Administrator to act on election misinformation, disinformation, and deepfakes, including seeking court orders to remove false content.",
+        "status": "Enacted in the 2026 legislative session; effective June 1, 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "SB 670 / HB 1001",
+        "year": 2026,
+        "description": "Requires police officers on duty at polling places and early voting sites to follow the orders of election officials, and permits arrests for breach of peace or interference with election duties.",
+        "status": "Enacted in the 2026 legislative session",
+        "dateAdded": "2026-07-31",
         "active": true
       }
     ],
@@ -5379,7 +5528,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.sec.state.ma.us/elections/",
-    "lastVerified": "2026-05-10",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -5582,6 +5731,11 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Updated the same-day registration ballot initiative: Secretary of State Galvin certified it for the November 3, 2026 ballot on July 17, 2026, per the Boston Globe, Ballotpedia, and CBS Boston"
       }
     ],
     "recentLegislation": [],
@@ -5589,8 +5743,8 @@
       {
         "bill": "H.834 / S.505 / H.5001 (ballot initiative)",
         "year": 2025,
-        "description": "Proposes same-day voter registration, allowing voters to register in-person on Election Day or during early voting. Advancing as ballot initiative H.5001 (87,408 valid signatures certified Dec 18, 2025). The Massachusetts Legislature took no action by its May 5, 2026 deadline; proponents must collect a second round of signatures by July 8, 2026 to place the question on the November 2026 ballot.",
-        "status": "Legislature took no action by the May 5, 2026 deadline. Proponents must collect approximately 12,429 additional signatures by July 8, 2026 to place the question on the November 2026 ballot.",
+        "description": "Proposes same-day voter registration, allowing voters to register in-person on Election Day or during early voting. Advancing as ballot initiative H.5001 (87,408 valid signatures certified Dec 18, 2025). The Massachusetts Legislature took no action by its May 5, 2026 deadline; proponents then completed the required second round of signatures, and the question was certified for the November 2026 ballot.",
+        "status": "Certified for the November 3, 2026 general election ballot by Secretary of State Galvin on July 17, 2026, along with eight other questions",
         "dateAdded": "2026-02-28",
         "active": true
       }
@@ -5626,7 +5780,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://mvic.sos.state.mi.us/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -5869,10 +6023,51 @@
         "date": "2026-07-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added SB 240, SB 241, HB 4698, and HB 4699, signed June 22, 2026, setting uniform term start dates for local officials so overseas and military ballots are counted before they take office, per Votebeat, Michigan Advance, and CBS Detroit"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added HB 4765, which would require documentary proof of citizenship to register and passed the House along party lines in April 2026, per Michigan Advance, Civic Media, and The Michigan Independent"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added the Michigan Voting Rights Act package (SB 961-964), which passed the Senate 20-17 on June 16, 2026 and is stalled in the House, per Michigan Advance and The Michigan Daily"
       }
     ],
-    "recentLegislation": [],
-    "pendingLegislation": []
+    "recentLegislation": [
+      {
+        "bill": "SB 240 / SB 241 / HB 4698 / HB 4699",
+        "year": 2026,
+        "description": "Sets uniform term start dates for local elected officials in villages and townships, requiring them to take office no earlier than December 1 and only after votes are certified by canvassers, so that overseas and military absentee ballots, which may arrive up to six days after Election Day, are counted before officials are sworn in.",
+        "status": "Signed by Gov. Whitmer June 22, 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ],
+    "pendingLegislation": [
+      {
+        "bill": "HB 4765",
+        "year": 2026,
+        "description": "Would require documentary proof of U.S. citizenship, such as a birth certificate, passport, or naturalization documents, before a voter registration application can be processed.",
+        "status": "Passed the Michigan House along party lines in April 2026; stalled in the Senate",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "SB 961 / SB 962 / SB 963 / SB 964 (Michigan Voting Rights Act)",
+        "year": 2026,
+        "description": "State-level voting rights act package that would create a state elections research institute, require local language assistance, and establish a polling place assistance process.",
+        "status": "Passed the Senate 20-17 along party lines June 16, 2026; stalled in the House",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Minnesota",
@@ -5891,7 +6086,7 @@
     "sameDayRegistration": true,
     "earlyVoting": {
       "available": true,
-      "details": "In-person absentee voting available 46 days before election day."
+      "details": "Two in-person options: absentee voting begins 46 days before election day, and early voting, where the ballot is fed directly into a tabulator, begins 18 days before election day (HF4240, 2026)."
     },
     "mailInVoting": {
       "available": true,
@@ -5904,7 +6099,7 @@
       "Valid ID with proof of residency or voucher for same-day registration"
     ],
     "officialUrl": "https://www.sos.state.mn.us/elections-voting/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "Minnesota has had same-day registration since 1974.",
     "confidenceLevel": "High",
     "sources": [
@@ -6107,9 +6302,28 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Early Voting",
+        "description": "Added the new 18-day early voting option created by HF4240 (Chapter 102), approved May 18, 2026, alongside the existing 46-day absentee window, per the Minnesota Revisor of Statutes and CBS News Minnesota"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added HF4240 (Chapter 102), approved May 18, 2026, which created the 18-day early voting option and updated absentee and canvassing procedures, per the Minnesota Revisor of Statutes"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "HF4240 (Chapter 102)",
+        "year": 2026,
+        "description": "Establishes a new in-person early voting option beginning 18 days before election day, in which the ballot is fed directly into a tabulator, and updates absentee and canvassing procedures.",
+        "status": "Approved by the Governor May 18, 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -6117,7 +6331,7 @@
     "abbreviation": "MS",
     "eligibilityAge": "18 (may register at 17 if turning 18 by general election)",
     "idRequirements": {
-      "toRegister": "MS driver's license or state ID number, or last 4 of SSN. If neither, leave blank and a number is assigned. No online voter registration available. Must show photo ID when voting.",
+      "toRegister": "MS driver's license or state ID number, or last 4 of SSN. If neither, leave blank and a number is assigned. No online voter registration available. Must show photo ID when voting. Under the SHIELD Act (SB 2588), in effect since July 1, 2026, an applicant who cannot provide a driver's license number is run through the federal SAVE database for citizenship verification; a flagged applicant has 30 days to provide documentary proof of citizenship or is placed in pending status and limited to affidavit ballots. A federal court ruled in June 2026 that the overhauled SAVE database may not be used in its current form, so how this requirement is being applied is unsettled.",
       "toVote": "Photo ID required"
     },
     "registrationDeadline": "30 days before election",
@@ -6141,7 +6355,7 @@
       "Valid photo ID or affidavit ballot"
     ],
     "officialUrl": "https://www.sos.ms.gov/elections",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "Mississippi is one of the few states with no online voter registration and no early voting.",
     "confidenceLevel": "High",
     "sources": [
@@ -6314,6 +6528,21 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "ID Requirements",
+        "description": "Added the SHIELD Act (SB 2588) citizenship verification process, in effect since July 1, 2026, with a note that the federal SAVE database it relies on was ruled unusable in its current form in June 2026, per the Fair Elections Center, ACLU of Mississippi, and Mississippi Center for Justice"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Updated SB 2588 status to note the June 22, 2026 federal ruling barring use of the overhauled SAVE database in its current form, per Votebeat, AP via WJTV, and the Mississippi Free Press"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added HB 908, which remains dormant because the U.S. Supreme Court upheld the state's 5-day mail ballot grace period in Watson v. RNC on June 29, 2026, per NPR, the Brennan Center, and Mississippi Today"
       }
     ],
     "recentLegislation": [
@@ -6321,12 +6550,21 @@
         "bill": "SB 2588 (SHIELD Act)",
         "year": 2026,
         "description": "Requires citizenship verification for voter registration using the federal SAVE database and state driver's license records; mandates annual voter roll audits.",
-        "status": "Signed by Gov. Reeves April 1, 2026; effective July 1, 2026",
+        "status": "Signed by Gov. Reeves April 1, 2026; effective July 1, 2026. On June 22, 2026 a federal judge ruled the overhauled federal SAVE database, which the law relies on for citizenship verification, may not be used in its current form; the effect on Mississippi's implementation is unclear",
         "dateAdded": "2026-04-18",
         "active": true
       }
     ],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "HB 908",
+        "year": 2026,
+        "description": "Would move Mississippi's mail ballot receipt deadline up, but only if the U.S. Supreme Court invalidated the state's existing 5-day post-Election Day grace period.",
+        "status": "Enacted but dormant: the trigger condition never occurred because the U.S. Supreme Court upheld Mississippi's 5-day mail ballot grace period 5-4 in Watson v. RNC on June 29, 2026, so the existing grace period remains in effect",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Missouri",
@@ -6352,13 +6590,13 @@
       "details": "Absentee ballot available; excuse required. No-excuse mail-in option available but ballot must be notarized.",
       "noExcuseRequired": false
     },
-    "felonyVotingRules": "Rights restored upon final discharge from sentence, including completion of any probation or parole term. People on probation or parole for a felony may not vote.",
+    "felonyVotingRules": "Rights are restored upon final discharge from sentence, including completion of any probation or parole term; people on probation or parole for a felony may not vote. Beginning August 28, 2026, HB 1871 restores voting rights to most people on felony probation or parole, leaving only those convicted of murder, child endangerment, first- or second-degree assault, or incest barred while on probation or parole.",
     "documentationNeeded": [
       "Valid photo ID or non-photo ID with affidavit",
       "Proof of residency"
     ],
     "officialUrl": "https://www.sos.mo.gov/elections",
-    "lastVerified": "2026-05-22",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -6616,19 +6854,29 @@
         "date": "2026-07-15",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Moved the elections bill from pending to enacted: it was signed July 13, 2026 as HB 1871 and takes effect August 28, 2026, restoring voting rights to an estimated 40,000 to 41,100 Missourians on probation or parole. Also corrected the list of offenses that remain disqualifying, per the Governor's office, KCUR, and Bolts"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Felony Voting Rules",
+        "description": "Noted that beginning August 28, 2026, HB 1871 restores voting rights to most people on felony probation or parole, with murder, child endangerment, first- or second-degree assault, and incest still disqualifying, per the Governor's office, KCUR, and Bolts"
       }
     ],
-    "recentLegislation": [],
-    "pendingLegislation": [
+    "recentLegislation": [
       {
-        "bill": "HB 174 / SB 152 (wide-reaching elections bill)",
+        "bill": "HB 1871 (wide-reaching elections bill)",
         "year": 2026,
-        "description": "Would restore voting rights to people on probation or parole for most felonies; only those convicted of specific crimes (murder, child endangerment, first-degree burglary) would remain barred from voting while on probation or parole. Also requires affirmative consent for recurring campaign contributions and requires write-in candidates to declare their candidacy.",
-        "status": "Passed Missouri House 101-47 and Senate in May 2026; sent to Gov. Kehoe who has until July 15, 2026 to act",
+        "description": "Restores voting rights to people on probation or parole for most felonies; only those convicted of murder, child endangerment, first- or second-degree assault, or incest remain barred from voting while on probation or parole. Also requires affirmative consent for recurring campaign contributions and requires write-in candidates to declare their candidacy. Estimated to restore voting rights to between 40,000 and 41,100 Missourians.",
+        "status": "Passed the House 101-47 and the Senate in May 2026 as HB 174 / SB 152; signed by Gov. Kehoe July 13, 2026 as HB 1871; effective August 28, 2026",
         "dateAdded": "2026-05-22",
         "active": true
       }
-    ]
+    ],
+    "pendingLegislation": []
   },
   {
     "state": "Montana",
@@ -6651,7 +6899,7 @@
     },
     "mailInVoting": {
       "available": true,
-      "details": "No-excuse absentee voting. Counties with fewer than 800 voters may conduct all-mail elections.",
+      "details": "No-excuse absentee voting. Counties with fewer than 800 voters may conduct all-mail elections. Voters must sign the ballot return envelope and write their birth year on it (HB 719, effective October 1, 2025); ballots missing the birth year are subject to rejection or a cure notice.",
       "noExcuseRequired": true
     },
     "felonyVotingRules": "Rights restored upon release from incarceration. People on probation and parole may vote.",
@@ -6660,7 +6908,7 @@
       "Proof of residency for late registration"
     ],
     "officialUrl": "https://sosmt.gov/elections/",
-    "lastVerified": "2026-05-12",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -6898,6 +7146,16 @@
         "date": "2026-07-14",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added HB 719, effective October 1, 2025, requiring mail and absentee voters to write their birth year on the return envelope, per votemt.gov, Montana Free Press, and the Daily Montanan"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Mail-In Voting",
+        "description": "Noted that mail ballot return envelopes must include the voter's birth year in addition to a signature, and that ballots missing it may be rejected or require curing, per votemt.gov and Montana Free Press"
       }
     ],
     "recentLegislation": [
@@ -6923,6 +7181,14 @@
         "description": "Tightens voter ID requirements: ID must be current, valid, and readable; restricts which student IDs qualify; eliminated provisional ballot alternative verification",
         "status": "Signed May 5, 2025",
         "dateAdded": "2026-03-13",
+        "active": true
+      },
+      {
+        "bill": "HB 719",
+        "year": 2025,
+        "description": "Requires absentee and mail voters to write their birth year in four pre-printed boxes on the ballot return envelope in addition to signing it. Ballots missing the birth year are subject to rejection or a cure notice; counties reported hundreds of rejections in 2025.",
+        "status": "Effective October 1, 2025 and in force for the 2026 elections; challenged in Lewis and Clark District Court (filed May 2025), with no injunction issued",
+        "dateAdded": "2026-07-31",
         "active": true
       }
     ],
@@ -7200,7 +7466,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.nvsos.gov/sos/elections",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "Nevada automatically mails ballots to all registered voters.",
     "confidenceLevel": "High",
     "sources": [
@@ -7418,10 +7684,24 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added Question 7, the voter ID constitutional amendment approved 73-27 in November 2024 and facing a required second vote on November 3, 2026, per Ballotpedia, The Nevada Independent, and 8NewsNow"
       }
     ],
     "recentLegislation": [],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "Question 7 (Require Voter Identification Initiative)",
+        "year": 2026,
+        "description": "Citizen-initiated constitutional amendment that would require in-person voters to present photo identification and mail voters to provide the last four digits of their driver's license number or Social Security number.",
+        "status": "Approved 73 percent to 27 percent on November 5, 2024 on first passage; Nevada requires initiated constitutional amendments to pass in two consecutive even-year elections, so a second and final vote is scheduled for November 3, 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ]
   },
   {
     "state": "New Hampshire",
@@ -7453,7 +7733,7 @@
       "Proof of domicile"
     ],
     "officialUrl": "https://www.sos.nh.gov/elections",
-    "lastVerified": "2026-06-13",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -7641,6 +7921,11 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Updated HB 1569 status: the state appealed to the First Circuit on June 25, 2026 and the district court denied a stay on July 24, 2026, leaving the proof-of-citizenship provisions blocked, per the New Hampshire Bulletin, NHPR, and Democracy Docket"
       }
     ],
     "recentLegislation": [
@@ -7648,7 +7933,7 @@
         "bill": "HB 1569",
         "year": 2024,
         "description": "Requires proof of citizenship to register to vote",
-        "status": "Enacted; federal court struck down the documentary-proof-of-citizenship / affidavit-elimination provisions as unconstitutional May 28, 2026; affidavit option reinstated; state expected to appeal",
+        "status": "Enacted; federal court struck down the documentary-proof-of-citizenship / affidavit-elimination provisions as unconstitutional May 28, 2026; affidavit option reinstated; the state appealed to the First Circuit on June 25, 2026 and sought a stay, which the district court denied July 24, 2026, so the provisions remain blocked while the appeal is pending",
         "dateAdded": "2026-02-25",
         "active": true
       },
@@ -7682,7 +7967,7 @@
   {
     "state": "New Jersey",
     "abbreviation": "NJ",
-    "eligibilityAge": "18 (may pre-register at 17)",
+    "eligibilityAge": "18 (may pre-register at 17; a registered 17-year-old may vote in a primary if they turn 18 on or before the following general election)",
     "idRequirements": {
       "toRegister": "NJ driver's license or MVC non-driver ID number, or last 4 of SSN. If neither, leave blank; must show ID before first vote (photo ID, utility bill, bank statement, paycheck, or government document with name and address). Online registration requires a NJ MVC-issued ID.",
       "toVote": "ID not required for registered voters; first-time voters who registered by mail may need ID"
@@ -7708,7 +7993,7 @@
       "Driver's license number or last 4 of SSN"
     ],
     "officialUrl": "https://nj.gov/state/elections/",
-    "lastVerified": "2026-05-22",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -7931,6 +8216,16 @@
         "date": "2026-07-28",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Eligibility Age",
+        "description": "Noted that under the New Voter Empowerment Act, effective January 1, 2026, a registered 17-year-old may vote in a primary if they turn 18 by the following general election, first applied in the June 2, 2026 primary, per the Monmouth County Clerk, NJ State Bar Foundation, and WHYY"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added the John R. Lewis Voter Empowerment Act of New Jersey, signed July 2, 2026, per the Governor's office, Ballotpedia News, the New Jersey Monitor, and the New Jersey Globe"
       }
     ],
     "recentLegislation": [
@@ -7940,6 +8235,14 @@
         "description": "Permits municipalities that hold nonpartisan elections in May to extend in-person early voting to begin 8 days before Election Day (ending 2 days before), giving voters 7 days of early voting \u2014 an increase of 4 days over previous law.",
         "status": "Signed by Gov. Sherrill April 6, 2026",
         "dateAdded": "2026-05-22",
+        "active": true
+      },
+      {
+        "bill": "ACS for A-1715 / SCS for S-282 (John R. Lewis Voter Empowerment Act of New Jersey)",
+        "year": 2026,
+        "description": "State-level voting rights act. Requires jurisdictions with a history of discrimination to obtain New Jersey Attorney General pre-clearance before making certain election administration changes, expands language access requirements, and creates a public election data database.",
+        "status": "Signed by Gov. Sherrill July 2, 2026; the first state-level voting rights act enacted following the U.S. Supreme Court's decision in Louisiana v. Callais",
+        "dateAdded": "2026-07-31",
         "active": true
       }
     ],
@@ -8979,7 +9282,7 @@
       "OH DL number or last 4 of SSN"
     ],
     "officialUrl": "https://www.ohiosos.gov/elections-voting/",
-    "lastVerified": "2026-05-26",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -9202,6 +9505,11 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added HB 54, signed April 1, 2025, which requires proof of citizenship for voter registration at the BMV and is under federal challenge, per the Ohio Capital Journal, Statehouse News Bureau, and Democracy Docket"
       }
     ],
     "recentLegislation": [
@@ -9211,6 +9519,14 @@
         "description": "Eliminated post-Election Day grace period for absentee ballot receipt",
         "status": "Signed Dec 19, 2025; effective March 20, 2026",
         "dateAdded": "2026-02-25",
+        "active": true
+      },
+      {
+        "bill": "HB 54",
+        "year": 2025,
+        "description": "Transportation budget bill that added a requirement for BMV voter registration and update applicants to provide proof of citizenship beyond sworn attestation.",
+        "status": "Signed by Gov. DeWine April 1, 2025; effective June 2025; under federal challenge in Red Wine & Blue and Ohio Alliance for Retired Americans v. LaRose, filed August 2025, with no final ruling as of July 2026",
+        "dateAdded": "2026-07-31",
         "active": true
       }
     ],
@@ -9245,7 +9561,7 @@
       "Voter ID card or government-issued photo ID"
     ],
     "officialUrl": "https://oklahoma.gov/elections.html",
-    "lastVerified": "2026-05-26",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -9443,6 +9759,11 @@
         "date": "2026-07-29",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added State Question 846, a constitutional referral on voter identification going to a statewide vote August 25, 2026, per the Oklahoma Policy Institute and Oklahoma Watch"
       }
     ],
     "recentLegislation": [
@@ -9455,7 +9776,16 @@
         "active": true
       }
     ],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "State Question 846 (originated as SJR 47)",
+        "year": 2026,
+        "description": "Legislative constitutional referral that would add proof-of-identity language to the Oklahoma Constitution requiring proof of identity for all voting methods, and direct the Legislature to set the specific requirements for what counts as proof.",
+        "status": "Referred by the Legislature in the 2026 session; on the statewide ballot August 25, 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Oregon",
@@ -9902,8 +10232,8 @@
       "RI DL number or last 4 of SSN"
     ],
     "officialUrl": "https://vote.ri.gov/",
-    "lastVerified": "2026-04-18",
-    "notes": "",
+    "lastVerified": "2026-07-31",
+    "notes": "Rhode Island has no general same-day registration, but voters who miss the 30-day deadline may register and vote for President and Vice-President only, at their local Board of Canvassers, on the day of a presidential election (R.I.G.L. 17-1-3).",
     "confidenceLevel": "High",
     "sources": [
       {
@@ -10065,6 +10395,11 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Notes",
+        "description": "Noted that voters who miss the 30-day deadline may register and vote for President and Vice-President only, at their Board of Canvassers, on the day of a presidential election (R.I.G.L. 17-1-3), per the Rhode Island Board of Elections and Vote.org"
       }
     ],
     "recentLegislation": [],
@@ -10659,7 +10994,7 @@
       "Valid state or federal government-issued photo ID"
     ],
     "officialUrl": "https://sos.tn.gov/elections",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -10857,6 +11192,11 @@
         "date": "2026-07-15",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Corrected the SB 336 / HB 687 signing date from early April 2026 to March 26, 2026, when the law took effect immediately upon signature, per Ballotpedia News and the Associated Press"
       }
     ],
     "recentLegislation": [
@@ -10864,7 +11204,7 @@
         "bill": "SB 336 / HB 687",
         "year": 2026,
         "description": "Eases felony voting rights restoration: removes requirement to pay all outstanding court costs, and allows compliance with child support orders for the last year (rather than full payment of arrearage) to satisfy that prerequisite.",
-        "status": "Signed by Gov. Lee in early April 2026",
+        "status": "Signed by Gov. Lee March 26, 2026; took effect immediately upon signature",
         "dateAdded": "2026-04-18",
         "active": true
       },
@@ -10909,7 +11249,7 @@
       "Supporting ID form if photo ID unavailable"
     ],
     "officialUrl": "https://www.sos.texas.gov/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "Texas does not offer online voter registration.",
     "confidenceLevel": "High",
     "sources": [
@@ -11152,10 +11492,24 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added SB 2753, signed June 22, 2025, which restructures the early voting calendar but does not take effect until the Secretary of State publishes implementation procedures, per Texas Secretary of State Election Advisory 2025-10, Votebeat, and Ballotpedia"
       }
     ],
     "recentLegislation": [],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "SB 2753",
+        "year": 2025,
+        "description": "Restructures the early voting calendar, eliminating the 4-day gap between the end of early voting and Election Day so that early voting runs from the 12th day before through the day before Election Day, and standardizes early voting hours and weekend access.",
+        "status": "Signed by Gov. Abbott June 22, 2025 but not yet in effect: per Texas Secretary of State Election Advisory 2025-10, it applies only to elections ordered after the Secretary of State publishes an implementation report and procedures, targeted around 2027. The current 17-to-4-days early voting schedule remains in effect until then",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Utah",
@@ -11656,7 +12010,7 @@
       "Proof of residency for same-day registration"
     ],
     "officialUrl": "https://www.elections.virginia.gov/",
-    "lastVerified": "2026-07-06",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -11849,6 +12203,11 @@
         "date": "2026-07-27",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Pending Legislation",
+        "description": "Added the Voting Rights Restoration Amendment (HJ 2 / SJ 2), which passed the General Assembly in two consecutive sessions and goes before voters November 3, 2026, per Ballotpedia and the Virginia Mercury"
       }
     ],
     "recentLegislation": [
@@ -11861,7 +12220,16 @@
         "active": true
       }
     ],
-    "pendingLegislation": []
+    "pendingLegislation": [
+      {
+        "bill": "HJ 2 / SJ 2 (Voting Rights Restoration Amendment)",
+        "year": 2026,
+        "description": "Constitutional amendment that would make restoration of voting rights automatic upon release from incarceration for everyone convicted of a felony, writing into the state constitution what currently depends on gubernatorial action and, for non-common-law felonies, on the King v. Youngkin ruling.",
+        "status": "Passed the General Assembly in two consecutive sessions (House 65-33, Senate 21-18; final passage January 14-16, 2026); goes before voters on the November 3, 2026 ballot",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ]
   },
   {
     "state": "Washington",
@@ -11892,7 +12260,7 @@
       "WA DL number or last 4 of SSN"
     ],
     "officialUrl": "https://www.sos.wa.gov/elections/",
-    "lastVerified": "2026-04-18",
+    "lastVerified": "2026-07-31",
     "notes": "Washington conducts all elections by mail.",
     "confidenceLevel": "High",
     "sources": [
@@ -12085,9 +12453,47 @@
         "date": "2026-07-21",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added four 2026 session laws effective June 2026 - HB 1710 (preclearance for jurisdictions with a history of voting rights violations), HB 1916 (canceling registrations superseded by a more recent out-of-state registration), SB 5892 (penalties for disclosing private voter data), and SB 6035 (tribal consultation on election access) - per Ballotpedia News and MRSC"
       }
     ],
-    "recentLegislation": [],
+    "recentLegislation": [
+      {
+        "bill": "HB 1710",
+        "year": 2026,
+        "description": "Updates the Washington Voting Rights Act to require jurisdictions with a history of voting rights violations, currently Pasco, Yakima, and Yakima County, to obtain Attorney General approval before changing voting policies or systems.",
+        "status": "Enacted in the 2026 session; effective June 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "HB 1916",
+        "year": 2026,
+        "description": "Requires county auditors to cancel a Washington voter registration when they can verify the individual has a more recent voter registration in another state, and tightens the rules for dismissing improper voter challenges.",
+        "status": "Enacted in the 2026 session; effective June 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "SB 5892",
+        "year": 2026,
+        "description": "Makes it a class C felony for election officials to disclose private voter data such as driver's license numbers, Social Security numbers, or full dates of birth.",
+        "status": "Enacted in the 2026 session; effective June 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "SB 6035",
+        "year": 2026,
+        "description": "Requires county auditors to consult regularly with federally recognized tribes on election access.",
+        "status": "Enacted in the 2026 session; effective June 2026",
+        "dateAdded": "2026-07-31",
+        "active": true
+      }
+    ],
     "pendingLegislation": []
   },
   {
@@ -12673,7 +13079,7 @@
       "Proof of residency"
     ],
     "officialUrl": "https://sos.wyo.gov/Elections/",
-    "lastVerified": "2026-07-06",
+    "lastVerified": "2026-07-31",
     "notes": "",
     "confidenceLevel": "High",
     "sources": [
@@ -12866,6 +13272,11 @@
         "date": "2026-07-13",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-07-31",
+        "field": "Recent Legislation",
+        "description": "Added four more 2025 session laws listed by the Secretary of State - HEA 62 (voter list maintenance and SAVE verification), HEA 71 (ranked-choice voting ban), SEA 10 (unsolicited absentee request forms), and SEA 75 (email notice of registration cancellation)"
       }
     ],
     "recentLegislation": [
@@ -12875,6 +13286,38 @@
         "description": "Requires documentary proof of U.S. citizenship to register to vote, and establishes a new durational residency requirement: voters must have resided in Wyoming for at least 30 days before an election.",
         "status": "Became law without governor's signature; effective July 2025; federal challenges (including Equality State Policy Center v. Gray) dismissed on standing grounds in July 2025; law remains in effect",
         "dateAdded": "2026-02-25",
+        "active": true
+      },
+      {
+        "bill": "HB 318 / HEA 62 (Maintenance of Voter Registry Lists)",
+        "year": 2025,
+        "description": "Grants the Secretary of State authority to cross-reference voter rolls against Wyoming Department of Transportation alien identification data and to verify registrants against the federal SAVE system to identify non-citizens.",
+        "status": "Enacted in the 2025 General Session",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "HB 165 / HEA 71",
+        "year": 2025,
+        "description": "Prohibits the use of ranked-choice voting in Wyoming elections.",
+        "status": "Enacted in the 2025 General Session",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "SF 78 / SEA 10",
+        "year": 2025,
+        "description": "Restricts distribution of unsolicited absentee ballot request forms to county clerks and other designated officials.",
+        "status": "Enacted in the 2025 General Session",
+        "dateAdded": "2026-07-31",
+        "active": true
+      },
+      {
+        "bill": "SF 165 / SEA 75",
+        "year": 2025,
+        "description": "Allows notice of voter registration cancellation to be sent by email in addition to mail.",
+        "status": "Enacted in the 2025 General Session",
+        "dateAdded": "2026-07-31",
         "active": true
       }
     ],
