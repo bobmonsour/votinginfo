@@ -28886,6 +28886,62 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-03",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Ranked-choice voting? Hold on. Alaskans have another ballot measure to decide first.",
+            "source": "Alaska Beacon",
+            "url": "https://alaskabeacon.com/2026/07/31/ranked-choice-voting-hold-on-alaskans-have-another-ballot-measure-to-decide-first/",
+            "date": "2026-07-31",
+            "summary": "The sole ballot measure before Alaska voters in the Aug. 18 primary would reimpose contribution limits on candidate donations; a separate, better-known effort to repeal ranked-choice voting won't appear until the November ballot."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Early voting set to kick off across Central Florida",
+            "source": "Spectrum News 13",
+            "url": "https://mynews13.com/fl/orlando/news/2026/07/31/early-voting-set-to-kick-off-across-central-florida",
+            "date": "2026-07-31",
+            "summary": "Early voting for Florida's Aug. 18 primary begins this week across Central Florida counties, with individual counties setting their own early-voting windows between Aug. 3 and Aug. 16."
+          },
+          {
+            "title": "Early voting begins in Miami-Dade, Monroe; Miami-Dade elections chief reminds voters of flexibility and security",
+            "source": "Local 10 News (WPLG)",
+            "url": "https://www.local10.com/news/local/2026/08/03/early-voting-begins-in-miami-dade-monroe-miami-dade-elections-chief-reminds-voters-of-flexibility-and-security/",
+            "date": "2026-08-03",
+            "summary": "Miami-Dade's elections supervisor opened early voting for the primary by reminding voters they can cast a ballot at any early-voting site, not just their assigned precinct, and that ballots are paper-based with no internet connection."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Illinois lawmakers require school districts to provide voter registration opportunities and move RCV task force dates in 2026 session",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/07/30/illinois-lawmakers-require-school-districts-to-provide-voter-registration-opportunities-and-move-rcv-task-force-dates-in-2026-session/",
+            "date": "2026-07-30",
+            "summary": "Gov. Pritzker signed HB 4339, requiring school districts to offer voter registration opportunities to eligible graduating high schoolers starting with the 2026-2027 school year."
+          },
+          {
+            "title": "Federal judge tosses Trump administration lawsuit seeking full access to Illinois voter rolls",
+            "source": "Chicago Sun-Times",
+            "url": "https://chicago.suntimes.com/politics/2026/08/01/trump-lawsuit-illinois-voter-rolls-judge-reject",
+            "date": "2026-08-01",
+            "summary": "A federal judge rejected the Trump administration's bid for unredacted access to Illinois' voter registration database covering more than 8 million residents, finding the DOJ's stated compliance-check rationale insufficient."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Here's a look at the key races in Michigan's 2026 primary election",
+            "source": "ClickOnDetroit (WDIV)",
+            "url": "https://www.clickondetroit.com/news/local/2026/07/30/heres-a-look-at-the-key-races-in-michigans-2026-primary-election/",
+            "date": "2026-07-30",
+            "summary": "A rundown of the major contests on Michigan's Aug. 4 primary ballot, including the open U.S. Senate race and gubernatorial and U.S. House primaries."
+          }
+        ]
+      }
     }
   ]
 }

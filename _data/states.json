@@ -515,6 +515,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Added the Repeal Top-Four Ranked-Choice Voting Initiative, certified for the November 3, 2026 ballot, per Ballotpedia and Anchorage Daily News"
+      },
+      {
+        "date": "2026-08-03",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -2421,6 +2426,11 @@
         "date": "2026-07-31",
         "field": "ID Requirements",
         "description": "Updated registration ID text: HB 991 was signed April 1, 2026 and takes effect January 1, 2027, replacing the stale statement that Florida was considering proof-of-citizenship legislation, per WUSF, Florida Phoenix, and the ACLU of Florida"
+      },
+      {
+        "date": "2026-08-03",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3488,6 +3498,11 @@
         "date": "2026-07-31",
         "field": "Recent Legislation",
         "description": "Added HB 4339, the Rev. Jesse Jackson Sr. Young Voter Empowerment Act, signed July 2026, per Ballotpedia News and Shaw Local"
+      },
+      {
+        "date": "2026-08-03",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -6038,6 +6053,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Added the Michigan Voting Rights Act package (SB 961-964), which passed the Senate 20-17 on June 16, 2026 and is stalled in the House, per Michigan Advance and The Michigan Daily"
+      },
+      {
+        "date": "2026-08-03",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
