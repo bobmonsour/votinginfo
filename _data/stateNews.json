@@ -29002,6 +29002,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-04",
+      "time": "06:00",
+      "states": {
+        "KS": [
+          {
+            "title": "ELECTION DAY: Guide for Kansas voters for Aug. 4 Primary",
+            "source": "WIBW",
+            "url": "https://www.wibw.com/2026/08/04/election-day-guide-kansas-voters-aug-4-primary/",
+            "date": "2026-08-04",
+            "summary": "A voter guide for Kansas's Aug. 4 primary covering polling hours, accepted ID, and candidates on the ballot for federal, state, and county races, including the open governor's race."
+          }
+        ],
+        "MI": [
+          {
+            "title": "More than 1.2 million Michigan voters cast ballots ahead of Tuesday primary",
+            "source": "WILX",
+            "url": "https://www.wilx.com/2026/08/03/more-than-12-million-michigan-voters-cast-ballots-ahead-tuesday-primary/",
+            "date": "2026-08-03",
+            "summary": "More than 1.2 million Michigan voters had cast ballots ahead of the state's Aug. 4 primary, a 16.5% turnout of registered voters and a sharp increase in early in-person voting over 2024."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Election 101: What you need to know about Tuesday's August Primary election",
+            "source": "KY3",
+            "url": "https://www.ky3.com/2026/08/03/election-101-what-you-need-know-about-tuesdays-august-primary-election/",
+            "date": "2026-08-03",
+            "summary": "A voter guide to Missouri's Aug. 4 primary, covering four statewide constitutional amendments, congressional and legislative races, polling hours, and voter ID requirements."
+          }
+        ],
+        "NH": [
+          {
+            "title": "Election officials unfazed by Trump administration monitoring primaries in Manchester and Nashua",
+            "source": "New Hampshire Bulletin",
+            "url": "https://newhampshirebulletin.com/2026/07/31/election-officials-unfazed-by-trump-administration-monitoring-primaries-in-manchester-and-nashua/",
+            "date": "2026-07-31",
+            "summary": "The U.S. Department of Justice will send election monitors to Manchester and Nashua for New Hampshire's September primary; state and local officials say they welcome the observers and aren't concerned."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Today is primary election 2026 in Virginia",
+            "source": "WDBJ7",
+            "url": "https://www.wdbj7.com/2026/08/03/tuesday-is-primary-election-2026-virginia/",
+            "date": "2026-08-03",
+            "summary": "Polls opened at 6 a.m. Aug. 4 for Virginia's primary, which will decide party nominees for U.S. Senate, several U.S. House districts, and local offices ahead of the Nov. 3 general election."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Early in-person voting slows in Madison ahead of primary",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/wi/milwaukee/news/2026/08/01/voting-primary-election-madison",
+            "date": "2026-08-01",
+            "summary": "In-person early voting in Madison has been slower than expected ahead of Wisconsin's Aug. 11 primary, with some voters holding off after Mandela Barnes withdrew from the Democratic field."
+          }
+        ]
+      }
     }
   ]
 }

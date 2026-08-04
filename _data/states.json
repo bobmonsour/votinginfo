@@ -4418,6 +4418,11 @@
         "date": "2026-07-31",
         "field": "Recent Legislation",
         "description": "Updated SB 4 status: the law was enjoined July 16, 2026 and the Kansas Supreme Court denied reinstatement July 30-31, 2026, so the 3-day mail ballot grace period remains in effect for the August 4 primary, per Ballotpedia News, KCTV5, KWCH, and WIBW"
+      },
+      {
+        "date": "2026-08-04",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -6073,6 +6078,11 @@
         "date": "2026-08-03",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-04",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -6899,6 +6909,11 @@
         "date": "2026-07-31",
         "field": "Felony Voting Rules",
         "description": "Noted that beginning August 28, 2026, HB 1871 restores voting rights to most people on felony probation or parole, with murder, child endangerment, first- or second-degree assault, and incest still disqualifying, per the Governor's office, KCUR, and Bolts"
+      },
+      {
+        "date": "2026-08-04",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -7961,6 +7976,11 @@
         "date": "2026-07-31",
         "field": "Recent Legislation",
         "description": "Updated HB 1569 status: the state appealed to the First Circuit on June 25, 2026 and the district court denied a stay on July 24, 2026, leaving the proof-of-citizenship provisions blocked, per the New Hampshire Bulletin, NHPR, and Democracy Docket"
+      },
+      {
+        "date": "2026-08-04",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -12253,6 +12273,11 @@
         "date": "2026-08-03",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-04",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -13077,6 +13102,11 @@
       },
       {
         "date": "2026-07-30",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-04",
         "field": "Recent News",
         "description": "Added recent news items"
       }
