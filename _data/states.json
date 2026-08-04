@@ -520,6 +520,11 @@
         "date": "2026-08-03",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-03",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -1885,6 +1890,11 @@
       },
       {
         "date": "2026-07-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-03",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -6058,6 +6068,11 @@
         "date": "2026-08-03",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-03",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -8246,6 +8261,11 @@
         "date": "2026-07-31",
         "field": "Recent Legislation",
         "description": "Added the John R. Lewis Voter Empowerment Act of New Jersey, signed July 2, 2026, per the Governor's office, Ballotpedia News, the New Jersey Monitor, and the New Jersey Globe"
+      },
+      {
+        "date": "2026-08-03",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -12228,6 +12248,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Added the Voting Rights Restoration Amendment (HJ 2 / SJ 2), which passed the General Assembly in two consecutive sessions and goes before voters November 3, 2026, per Ballotpedia and the Virginia Mercury"
+      },
+      {
+        "date": "2026-08-03",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -13624,6 +13649,11 @@
       },
       {
         "date": "2026-07-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-03",
         "field": "Recent News",
         "description": "Added recent news items"
       }
