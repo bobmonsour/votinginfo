@@ -29167,6 +29167,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-05",
+      "time": "06:00",
+      "states": {
+        "IL": [
+          {
+            "title": "A federal judge rejects President Trump's attempt to access Illinois voter rolls",
+            "source": "NPR Illinois",
+            "url": "https://www.nprillinois.org/news/2026-08-04/a-federal-judge-rejects-president-trumps-attempt-to-access-illinois-voter-rolls-first-listen",
+            "date": "2026-08-04",
+            "summary": "A federal judge blocked the Trump administration's attempt to obtain Illinois' full voter registration database, ruling that DOJ's stated justification did not relate to any suspected violation of voting law."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Here's how to check if you're registered to vote in Michigan",
+            "source": "ClickOnDetroit (WDIV)",
+            "url": "https://www.clickondetroit.com/news/local/2026/08/04/heres-how-to-check-if-youre-registered-to-vote-in-michigan/",
+            "date": "2026-08-04",
+            "summary": "Ahead of Michigan's August 4 primary, this guide explains how voters can verify their registration status, key deadlines, and accepted forms of ID at the polls."
+          }
+        ],
+        "NC": [
+          {
+            "title": "N.C. House passes new election law changes",
+            "source": "Spectrum News",
+            "url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/08/04/nc-house-passes-election-law-changes",
+            "date": "2026-08-04",
+            "summary": "The North Carolina House passed bills shortening early voting from 17 to 10 days and adding new post-election audit and voter-roll verification requirements, sending them to Gov. Josh Stein."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Bert Mizusawa projected to win Republican primary for U.S. Senate in Virginia",
+            "source": "WSLS",
+            "url": "https://www.wsls.com/decision-2026/2026/08/04/bert-mizusawa-projected-to-win-republican-primary-for-us-senate-in-virginia/",
+            "date": "2026-08-04",
+            "summary": "Retired Army Maj. Gen. Bert Mizusawa won Virginia's Republican Senate primary and will face incumbent Democratic Sen. Mark Warner in November."
+          }
+        ],
+        "WA": [
+          {
+            "title": "AP Decision Notes: What to expect in Washington state's primary",
+            "source": "Associated Press",
+            "url": "https://www.union-bulletin.com/news/northwest/ap-decision-notes-what-to-expect-in-washington-states-primary/article_6abefa6d-33c5-5497-b405-cf1d587f1f50.html",
+            "date": "2026-08-03",
+            "summary": "Washington voters cast primary ballots for U.S. House and other offices as Spokane-area wildfire evacuations complicated ballot return options, with the AP outlining how winners will be called under the state's top-two primary system."
+          }
+        ]
+      }
     }
   ]
 }

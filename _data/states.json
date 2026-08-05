@@ -3543,6 +3543,11 @@
         "date": "2026-08-03",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-05",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -6116,6 +6121,11 @@
       },
       {
         "date": "2026-08-04",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-05",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -9107,6 +9117,11 @@
       },
       {
         "date": "2026-07-29",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-05",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -12333,6 +12348,11 @@
         "date": "2026-08-04",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-05",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -12583,6 +12603,11 @@
         "date": "2026-07-31",
         "field": "Recent Legislation",
         "description": "Added four 2026 session laws effective June 2026 - HB 1710 (preclearance for jurisdictions with a history of voting rights violations), HB 1916 (canceling registrations superseded by a more recent out-of-state registration), SB 5892 (penalties for disclosing private voter data), and SB 6035 (tribal consultation on election access) - per Ballotpedia News and MRSC"
+      },
+      {
+        "date": "2026-08-05",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
