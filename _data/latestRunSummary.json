@@ -2,34 +2,29 @@
   "date": "2026-08-04",
   "items": [
     {
-      "text": "Michigan, Missouri, Kansas, and Virginia hold primary elections Tuesday",
-      "url": "https://www.wilx.com/2026/08/03/more-than-12-million-michigan-voters-cast-ballots-ahead-tuesday-primary/",
-      "abbr": "MI"
+      "text": "South Carolina Republicans open early voting to pick Lindsey Graham's Senate successor",
+      "url": "https://www.wrdw.com/2026/08/04/early-voting-open-sc-primary-replace-lindsey-graham/",
+      "abbr": "SC"
     },
     {
-      "text": "Missouri voters weigh four constitutional amendments in Tuesday's primary",
-      "url": "https://www.ky3.com/2026/08/03/election-101-what-you-need-know-about-tuesdays-august-primary-election/",
+      "text": "Maryland lawmakers send Democratic-favoring congressional map to November ballot",
+      "url": "https://www.clickondetroit.com/news/politics/2026/08/04/maryland-lawmakers-get-closer-to-asking-voters-to-clear-the-way-for-redistricting-helping-democrats/",
+      "abbr": "MD"
+    },
+    {
+      "text": "Missouri primary voters weigh income tax repeal and other constitutional amendments",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-08-04/missouri-election-results-amendments-primary-august-2026",
       "abbr": "MO"
     },
     {
-      "text": "Kansas ballot includes measure on electing state Supreme Court justices",
-      "url": "https://www.wibw.com/2026/08/04/election-day-guide-kansas-voters-aug-4-primary/",
-      "abbr": "KS"
+      "text": "Alabama's Aug. 11 special primary sets nominees in four redrawn U.S. House districts",
+      "url": "https://birminghamwatch.org/2026/08/04/congressional-nominees-to-be-selected-in-balloting-tuesday/",
+      "abbr": "AL"
     },
     {
-      "text": "Virginia primary sets nominees for Senate, House races ahead of November",
-      "url": "https://www.wdbj7.com/2026/08/03/tuesday-is-primary-election-2026-virginia/",
-      "abbr": "VA"
-    },
-    {
-      "text": "DOJ to send election monitors to six states' primaries, including New Hampshire",
-      "url": "https://newhampshirebulletin.com/2026/07/31/election-officials-unfazed-by-trump-administration-monitoring-primaries-in-manchester-and-nashua/",
-      "abbr": "NH"
-    },
-    {
-      "text": "Wisconsin early voting slows in Madison after Barnes exits governor's race",
-      "url": "https://spectrumnews1.com/wi/milwaukee/news/2026/08/01/voting-primary-election-madison",
-      "abbr": "WI"
+      "text": "Arkansas rejects signatures for a citizen-led direct democracy ballot measure",
+      "url": "https://www.nwaonline.com/news/2026/jul/30/arkansas-secretary-of-state-deems-ballot-measure/",
+      "abbr": "AR"
     }
   ]
 }

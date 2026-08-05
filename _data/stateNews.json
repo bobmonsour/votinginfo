@@ -29062,6 +29062,111 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-04",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Early voting opens for Alaska's 2026 primary election — here's what to expect",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-08-04/early-voting-opens-for-alaskas-2026-primary-election-heres-what-to-expect",
+            "date": "2026-08-04",
+            "summary": "Early in-person voting opened Aug. 4 for Alaska's Aug. 18 primary election, with the article explaining absentee voting procedures, ballot format, and when results are expected."
+          }
+        ],
+        "AL": [
+          {
+            "title": "Congressional Nominees To Be Selected in Balloting Tuesday",
+            "source": "BirminghamWatch",
+            "url": "https://birminghamwatch.org/2026/08/04/congressional-nominees-to-be-selected-in-balloting-tuesday/",
+            "date": "2026-08-04",
+            "summary": "Alabama's Aug. 11 special primary will select party nominees for four U.S. House districts redrawn after a court fight over the state's congressional map."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Arkansas secretary of state deems direct democracy proposal petitions 'insufficient,' citing irregularities",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.nwaonline.com/news/2026/jul/30/arkansas-secretary-of-state-deems-ballot-measure/",
+            "date": "2026-07-30",
+            "summary": "Arkansas' secretary of state rejected signatures for the Ballot Measure Rights Amendment as insufficient, citing irregularities, keeping the citizen initiative off the 2026 ballot for now."
+          }
+        ],
+        "CT": [
+          {
+            "title": "A week of early voting begins ahead of CT primary",
+            "source": "WSHU",
+            "url": "https://www.wshu.org/connecticut-news/2026-08-04/early-voting-begins-ct-primary-elections",
+            "date": "2026-08-04",
+            "summary": "Early voting opened Aug. 4 for Connecticut's Aug. 11 party primaries, including a Democratic gubernatorial contest between Gov. Ned Lamont and challenger Josh Elliott."
+          }
+        ],
+        "DE": [
+          {
+            "title": "More than half of state races to be decided in September primaries",
+            "source": "Spotlight Delaware",
+            "url": "https://spotlightdelaware.org/2026/08/04/more-than-half-of-statewide-races-to-be-decided-in-september-primaries/",
+            "date": "2026-08-04",
+            "summary": "More than 60% of Delaware's 55 statewide and statehouse races on the ballot this year will be decided in the Sept. 15 primary rather than the November general election."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Florida primary voters encouraged to research ballots before casting their votes",
+            "source": "Bay News 9",
+            "url": "https://baynews9.com/fl/tampa/news/2026/08/04/florida-primary-voters-encouraged-to-research-ballots-before-casting-their-vote",
+            "date": "2026-08-04",
+            "summary": "As mail ballots arrive and early voting begins ahead of Florida's Aug. 18 primary, election officials and advocacy groups are urging voters to research their ballots, including down-ballot nonpartisan races and amendments."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland lawmakers ask voters to clear the way for a congressional map designed to boost Democrats",
+            "source": "Associated Press",
+            "url": "https://www.clickondetroit.com/news/politics/2026/08/04/maryland-lawmakers-get-closer-to-asking-voters-to-clear-the-way-for-redistricting-helping-democrats/",
+            "date": "2026-08-04",
+            "summary": "Maryland's legislature passed a constitutional amendment for the November ballot that would let lawmakers redraw the state's congressional map to favor Democrats in all eight U.S. House seats."
+          }
+        ],
+        "MN": [
+          {
+            "title": "VoteFMWF.org relaunches with Minnesota primary election information ahead of Aug. 11 vote",
+            "source": "Valley News Live",
+            "url": "https://www.valleynewslive.com/2026/08/04/votefmwforg-relaunches-with-minnesota-primary-election-information-ahead-aug-11-vote/",
+            "date": "2026-08-03",
+            "summary": "The Fargo-Moorhead-West Fargo Chamber relaunched its nonpartisan VoteFMWF.org site with candidate and registration information ahead of Minnesota's Aug. 11 primary."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Here are the key 2026 primary election results from Missouri",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-08-04/missouri-election-results-amendments-primary-august-2026",
+            "date": "2026-08-04",
+            "summary": "Missouri voters cast primary ballots Aug. 4 to narrow congressional fields and decide four constitutional amendments, including proposals on income tax and citizen initiative petitions."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Early voting to open in S.C. primary to replace Lindsey Graham",
+            "source": "WRDW",
+            "url": "https://www.wrdw.com/2026/08/04/early-voting-open-sc-primary-replace-lindsey-graham/",
+            "date": "2026-08-04",
+            "summary": "Early voting was set to open Aug. 5 for South Carolina's special Republican primary to fill the late Sen. Lindsey Graham's seat, with nine candidates on the Aug. 11 ballot."
+          }
+        ],
+        "TN": [
+          {
+            "title": "2026 Voter Guide | The Tennessee Primary Election is almost here. Here's everything voters need to know",
+            "source": "WSMV",
+            "url": "https://www.wsmv.com/2026/07/31/2026-voter-guide-tennessee-primary-election-is-almost-here-heres-everything-voters-need-know/",
+            "date": "2026-07-31",
+            "summary": "A voter guide ahead of Tennessee's Aug. 6 primary, covering candidates for governor, U.S. Senate and Congress, plus registration and photo ID requirements under the state's newly redrawn congressional map."
+          }
+        ]
+      }
     }
   ]
 }
