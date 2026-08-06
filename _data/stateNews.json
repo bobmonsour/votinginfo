@@ -29260,6 +29260,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-06",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaskans get to decide if state races should have contribution limits",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/08/06/alaskans-get-decide-if-state-races-should-have-contribution-limits/",
+            "date": "2026-08-05",
+            "summary": "Alaska voters are deciding a ballot measure that would reinstate campaign contribution limits for state and local races after courts struck down the prior limits as unconstitutional."
+          }
+        ],
+        "CO": [
+          {
+            "title": "US District judge dismisses Trump administration lawsuit against Colorado over voter rolls",
+            "source": "KUNC",
+            "url": "https://www.kunc.org/politics/2026-08-05/us-district-judge-dismisses-trump-administration-lawsuit-against-colorado-over-voter-rolls",
+            "date": "2026-08-05",
+            "summary": "A federal judge dismissed with prejudice the Trump administration's lawsuit seeking Colorado voters' sensitive personal data, ruling the DOJ was not entitled to it under federal law."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Minnesota high court grills Minneapolis on lack of bipartisan election judges for early voting",
+            "source": "Courthouse News Service",
+            "url": "https://www.courthousenews.com/minnesota-high-court-grills-minneapolis-on-lack-of-bipartisan-election-judges-for-early-voting/",
+            "date": "2026-08-04",
+            "summary": "The Minnesota Supreme Court heard arguments from a voter advocacy group seeking to force Minneapolis to staff early voting locations with bipartisan election judges as state law requires."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Rhode Island legislators restrict immigration enforcement near polling places, enact 18 other election bills in 2026 session",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/03/rhode-island-legislators-restrict-immigration-enforcement-near-polling-places-enact-18-other-election-bills-in-2026-session/",
+            "date": "2026-08-03",
+            "summary": "Rhode Island's legislature passed 20 election-related bills in its 2026 session, including one barring ICE agents from operating near polling places and election sites."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Washington primary election voting ends today. The race for its 3rd Congressional District is just getting started",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/08/04/washington-election-day-voting-politics-elections-primary/",
+            "date": "2026-08-04",
+            "summary": "Washington's top-two primary wrapped up with the 3rd Congressional District seen as one of the few competitive races likely to be a toss-up in the November general election."
+          }
+        ]
+      }
     }
   ]
 }

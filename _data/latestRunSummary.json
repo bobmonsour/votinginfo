@@ -1,25 +1,30 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "items": [
     {
-      "text": "Maryland Senate passes redistricting amendment; GOP vows legal challenge",
-      "url": "https://wtop.com/maryland/2026/08/maryland-republicans-predict-legal-challenge-to-constitutional-amendment-on-redistricting/",
-      "abbr": "MD"
+      "text": "Federal judge dismisses, with prejudice, Trump DOJ's lawsuit for Colorado's sensitive voter data",
+      "url": "https://www.kunc.org/politics/2026-08-05/us-district-judge-dismisses-trump-administration-lawsuit-against-colorado-over-voter-rolls",
+      "abbr": "CO"
     },
     {
-      "text": "North Carolina's Gov. Stein pledges veto of bill cutting early voting to 10 days",
-      "url": "https://www.wunc.org/politics/2026-08-05/gov-stein-veto-early-voting-reduction-election-changes",
-      "abbr": "NC"
+      "text": "Alaskans vote on ballot measure to reinstate campaign contribution limits",
+      "url": "https://www.alaskasnewssource.com/2026/08/06/alaskans-get-decide-if-state-races-should-have-contribution-limits/",
+      "abbr": "AK"
     },
     {
-      "text": "Ohio voter ID constitutional amendment officially heads to the November ballot",
-      "url": "https://www.13abc.com/2026/08/03/ohio-voter-id-amendment-is-officially-headed-november-ballot/",
-      "abbr": "OH"
+      "text": "Minnesota Supreme Court weighs bipartisan election-judge staffing at Minneapolis early voting sites",
+      "url": "https://www.courthousenews.com/minnesota-high-court-grills-minneapolis-on-lack-of-bipartisan-election-judges-for-early-voting/",
+      "abbr": "MN"
     },
     {
-      "text": "Pennsylvania officials rebut misinformation over routine inactive-voter roll update",
-      "url": "https://www.inquirer.com/politics/election/pennsylvania-inactive-voter-rolls-misinformation-20260805.html",
-      "abbr": "PA"
+      "text": "Rhode Island enacts 20 election bills, including a ban on ICE activity near polling places",
+      "url": "https://news.ballotpedia.org/2026/08/03/rhode-island-legislators-restrict-immigration-enforcement-near-polling-places-enact-18-other-election-bills-in-2026-session/",
+      "abbr": "RI"
+    },
+    {
+      "text": "Washington's top-two primary wraps up with 3rd Congressional District as a marquee toss-up race",
+      "url": "https://www.opb.org/article/2026/08/04/washington-election-day-voting-politics-elections-primary/",
+      "abbr": "WA"
     }
   ]
 }
