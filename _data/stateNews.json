@@ -29218,6 +29218,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-05",
+      "time": "17:00",
+      "states": {
+        "MD": [
+          {
+            "title": "Maryland Republicans predict legal challenge to constitutional amendment on redistricting",
+            "source": "Maryland Matters (via WTOP News)",
+            "url": "https://wtop.com/maryland/2026/08/maryland-republicans-predict-legal-challenge-to-constitutional-amendment-on-redistricting/",
+            "date": "2026-08-05",
+            "summary": "The Maryland Senate gave final approval to a constitutional amendment allowing mid-decade congressional redistricting; Republicans say they plan a lawsuit to keep the measure off the November ballot."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Gov. Stein says he'll veto early voting reduction, election changes",
+            "source": "WUNC News",
+            "url": "https://www.wunc.org/politics/2026-08-05/gov-stein-veto-early-voting-reduction-election-changes",
+            "date": "2026-08-05",
+            "summary": "Gov. Josh Stein said he will veto House Bill 958, which would shorten early voting in primaries from 17 to 10 days and allow ballot challenges up to three days after an election."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio voter ID amendment is officially headed to the November ballot",
+            "source": "WTVG (13abc Toledo)",
+            "url": "https://www.13abc.com/2026/08/03/ohio-voter-id-amendment-is-officially-headed-november-ballot/",
+            "date": "2026-08-03",
+            "summary": "The Ohio Ballot Board approved language for Issue 3, a constitutional amendment that would enshrine the state's existing photo ID voting requirement, sending it to the November ballot."
+          }
+        ],
+        "PA": [
+          {
+            "title": "A routine voter roll update in Pa. prompted misinformation from conservative activists",
+            "source": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com/politics/election/pennsylvania-inactive-voter-rolls-misinformation-20260805.html",
+            "date": "2026-08-05",
+            "summary": "Pennsylvania's routine move of tens of thousands of voters to inactive status was mischaracterized by conservative activists as a mass purge of fraudulent voters; officials say inactive voters remain registered and eligible."
+          }
+        ]
+      }
     }
   ]
 }

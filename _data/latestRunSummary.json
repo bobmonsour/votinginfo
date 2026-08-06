@@ -2,29 +2,24 @@
   "date": "2026-08-05",
   "items": [
     {
-      "text": "Federal judge rejects Trump administration bid for full access to Illinois voter rolls",
-      "url": "https://www.nprillinois.org/news/2026-08-04/a-federal-judge-rejects-president-trumps-attempt-to-access-illinois-voter-rolls-first-listen",
-      "abbr": "IL"
+      "text": "Maryland Senate passes redistricting amendment; GOP vows legal challenge",
+      "url": "https://wtop.com/maryland/2026/08/maryland-republicans-predict-legal-challenge-to-constitutional-amendment-on-redistricting/",
+      "abbr": "MD"
     },
     {
-      "text": "North Carolina House passes bill shortening early voting and adding post-election audits",
-      "url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/08/04/nc-house-passes-election-law-changes",
+      "text": "North Carolina's Gov. Stein pledges veto of bill cutting early voting to 10 days",
+      "url": "https://www.wunc.org/politics/2026-08-05/gov-stein-veto-early-voting-reduction-election-changes",
       "abbr": "NC"
     },
     {
-      "text": "Mizusawa wins Virginia's GOP Senate primary, sets up November matchup with Warner",
-      "url": "https://www.wsls.com/decision-2026/2026/08/04/bert-mizusawa-projected-to-win-republican-primary-for-us-senate-in-virginia/",
-      "abbr": "VA"
+      "text": "Ohio voter ID constitutional amendment officially heads to the November ballot",
+      "url": "https://www.13abc.com/2026/08/03/ohio-voter-id-amendment-is-officially-headed-november-ballot/",
+      "abbr": "OH"
     },
     {
-      "text": "Wildfire evacuations near Spokane complicate ballot return as Washington votes in primary",
-      "url": "https://www.union-bulletin.com/news/northwest/ap-decision-notes-what-to-expect-in-washington-states-primary/article_6abefa6d-33c5-5497-b405-cf1d587f1f50.html",
-      "abbr": "WA"
-    },
-    {
-      "text": "Michigan voters check registration status ahead of the state's August 4 primary",
-      "url": "https://www.clickondetroit.com/news/local/2026/08/04/heres-how-to-check-if-youre-registered-to-vote-in-michigan/",
-      "abbr": "MI"
+      "text": "Pennsylvania officials rebut misinformation over routine inactive-voter roll update",
+      "url": "https://www.inquirer.com/politics/election/pennsylvania-inactive-voter-rolls-misinformation-20260805.html",
+      "abbr": "PA"
     }
   ]
 }
