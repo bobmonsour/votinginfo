@@ -1,27 +1,25 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "items": [
     {
-      "text": "Kansas voters reject amendment to elect Supreme Court justices directly",
-      "url": "https://www.kwch.com/2026/08/05/still-same-kansas-voters-reject-supreme-court-amendment-opt-status-quo/",
-      "abbr": "KS"
+      "text": "Tennessee picks Blackburn and Green as governor nominees in Aug. 6 primary",
+      "url": "https://wpln.org/post/tennessee-elections-2026-live-blog/",
+      "abbr": "TN"
     },
     {
-      "text": "Michigan, Missouri, Kansas, Washington, and Virginia hold closely watched August primaries",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections"
+      "text": "Arkansas special election fills House District 44 with unopposed winner Bill Teeter",
+      "url": "https://www.arkansasonline.com/news/2026/aug/05/bill-teeter-wins-unopposed-contest-for-house/",
+      "abbr": "AR"
     },
     {
-      "text": "North Carolina governor signals veto of bill shortening early voting, easing ballot challenges",
-      "url": "https://www.americandemocracyminute.org/wethepeople/2026/08/06/north-carolina-governor-signals-veto-of-bill-shortening-early-voting-and-lengthening-the-window-for-ballot-challenges",
-      "abbr": "NC"
+      "text": "Alaska voters face Aug. 8 deadline to request absentee primary ballots",
+      "url": "https://www.adn.com/politics/2026/08/06/saturday-is-the-deadline-to-request-an-absentee-by-mail-ballot-in-alaskas-primary-election/",
+      "abbr": "AK"
     },
     {
-      "text": "New Jersey voter ID debate intensifies after governor signals openness to a state law",
-      "url": "https://www.nbcphiladelphia.com/news/local/voter-id-law-proposal-gov-mikie-sherrill-comments-new-jersey/4443388/",
-      "abbr": "NJ"
-    },
-    {
-      "text": "Connecticut and Missouri wrap up primary-week voting activity ahead of their respective elections"
+      "text": "Hawaii primary turnout lags prior cycle as officials urge last-minute voting",
+      "url": "https://www.hawaiinewsnow.com/2026/08/07/hawaii-election-officials-urge-last-minute-votes-primary-turnout-lags/",
+      "abbr": "HI"
     }
   ]
 }

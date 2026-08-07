@@ -29380,6 +29380,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-07",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Saturday is the deadline to request an absentee by-mail ballot in Alaska's primary election",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/08/06/saturday-is-the-deadline-to-request-an-absentee-by-mail-ballot-in-alaskas-primary-election/",
+            "date": "2026-08-06",
+            "summary": "Alaska voters have until Aug. 8 to request an absentee by-mail ballot for the state's Aug. 18 primary election, which decides races for governor, U.S. Senate, U.S. House, and the Legislature."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Bill Teeter wins unopposed contest for House District 44",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/aug/05/bill-teeter-wins-unopposed-contest-for-house/",
+            "date": "2026-08-05",
+            "summary": "Bill Teeter won the special election for Arkansas House District 44, running unopposed to serve out the remainder of the late Rep. Stan Berry's term."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii election officials urge last-minute votes as primary turnout lags",
+            "source": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/08/07/hawaii-election-officials-urge-last-minute-votes-primary-turnout-lags/",
+            "date": "2026-08-06",
+            "summary": "With turnout trailing the prior primary's pace ahead of Hawaii's all-mail Aug. 8 primary, election officials urged voters to use drop boxes or voter service centers since it is too late to mail ballots."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Tennessee primary election results live blog",
+            "source": "WPLN News",
+            "url": "https://wpln.org/post/tennessee-elections-2026-live-blog/",
+            "date": "2026-08-06",
+            "summary": "Tennessee's Aug. 6 midterm primary decided nominees for governor, Congress, and statehouse seats, including Marsha Blackburn's Republican gubernatorial nomination against Democrat Jerri Green in November."
+          }
+        ]
+      }
     }
   ]
 }
