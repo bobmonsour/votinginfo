@@ -2,29 +2,26 @@
   "date": "2026-08-06",
   "items": [
     {
-      "text": "Federal judge dismisses, with prejudice, Trump DOJ's lawsuit for Colorado's sensitive voter data",
-      "url": "https://www.kunc.org/politics/2026-08-05/us-district-judge-dismisses-trump-administration-lawsuit-against-colorado-over-voter-rolls",
-      "abbr": "CO"
+      "text": "Kansas voters reject amendment to elect Supreme Court justices directly",
+      "url": "https://www.kwch.com/2026/08/05/still-same-kansas-voters-reject-supreme-court-amendment-opt-status-quo/",
+      "abbr": "KS"
     },
     {
-      "text": "Alaskans vote on ballot measure to reinstate campaign contribution limits",
-      "url": "https://www.alaskasnewssource.com/2026/08/06/alaskans-get-decide-if-state-races-should-have-contribution-limits/",
-      "abbr": "AK"
+      "text": "Michigan, Missouri, Kansas, Washington, and Virginia hold closely watched August primaries",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections"
     },
     {
-      "text": "Minnesota Supreme Court weighs bipartisan election-judge staffing at Minneapolis early voting sites",
-      "url": "https://www.courthousenews.com/minnesota-high-court-grills-minneapolis-on-lack-of-bipartisan-election-judges-for-early-voting/",
-      "abbr": "MN"
+      "text": "North Carolina governor signals veto of bill shortening early voting, easing ballot challenges",
+      "url": "https://www.americandemocracyminute.org/wethepeople/2026/08/06/north-carolina-governor-signals-veto-of-bill-shortening-early-voting-and-lengthening-the-window-for-ballot-challenges",
+      "abbr": "NC"
     },
     {
-      "text": "Rhode Island enacts 20 election bills, including a ban on ICE activity near polling places",
-      "url": "https://news.ballotpedia.org/2026/08/03/rhode-island-legislators-restrict-immigration-enforcement-near-polling-places-enact-18-other-election-bills-in-2026-session/",
-      "abbr": "RI"
+      "text": "New Jersey voter ID debate intensifies after governor signals openness to a state law",
+      "url": "https://www.nbcphiladelphia.com/news/local/voter-id-law-proposal-gov-mikie-sherrill-comments-new-jersey/4443388/",
+      "abbr": "NJ"
     },
     {
-      "text": "Washington's top-two primary wraps up with 3rd Congressional District as a marquee toss-up race",
-      "url": "https://www.opb.org/article/2026/08/04/washington-election-day-voting-politics-elections-primary/",
-      "abbr": "WA"
+      "text": "Connecticut and Missouri wrap up primary-week voting activity ahead of their respective elections"
     }
   ]
 }

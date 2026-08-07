@@ -29311,6 +29311,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:00",
+      "states": {
+        "CT": [
+          {
+            "title": "Early Voting Enters Final Weekend As Officials Encourage Participation And Warn Of Election Related Scams",
+            "source": "CT News Junkie",
+            "url": "https://ctnewsjunkie.com/2026/08/06/early-voting-enters-final-weekend/",
+            "date": "2026-08-06",
+            "summary": "Connecticut election officials urged voters to use the final weekend of early voting ahead of the Aug. 11 primary while warning residents to watch for election-related scams."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Still the same: Kansas voters reject Supreme Court amendment, opt for status quo",
+            "source": "KWCH",
+            "url": "https://www.kwch.com/2026/08/05/still-same-kansas-voters-reject-supreme-court-amendment-opt-status-quo/",
+            "date": "2026-08-05",
+            "summary": "Kansas voters rejected by a wide margin a constitutional amendment that would have replaced the state's merit-based judicial nominating process with direct elections for Supreme Court justices."
+          }
+        ],
+        "MI": [
+          {
+            "title": "4 takeaways from Tuesday's primary election results",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
+            "date": "2026-08-05",
+            "summary": "Progressive Democrat Abdul El-Sayed won Michigan's U.S. Senate primary over Rep. Haley Stevens, while Secretary of State Jocelyn Benson and Rep. John James secured their parties' gubernatorial nominations."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri August 2026 election results: Key races and issues",
+            "source": "KOMU",
+            "url": "https://www.komu.com/news/elections/missouri-election-results-august-2026/article_716447f6-680e-46aa-a3b1-9aff83380c26.html",
+            "date": "2026-08-05",
+            "summary": "Missouri voters approved Amendments 1 and 2 while decisively rejecting Amendments 4 and 5, including a measure that would have phased out the state income tax."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina Governor Signals Veto of Anti-Voter Bill Shortening Early Voting, and Lengthening the Window for Ballot Challenges",
+            "source": "American Democracy Minute",
+            "url": "https://www.americandemocracyminute.org/wethepeople/2026/08/06/north-carolina-governor-signals-veto-of-bill-shortening-early-voting-and-lengthening-the-window-for-ballot-challenges",
+            "date": "2026-08-06",
+            "summary": "Gov. Josh Stein said he intends to veto House Bill 958, which would cut primary early voting from 17 to 10 days, extend the window for challenging ballots, and direct election officials to use the federal SAVE database to remove voters."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "NJ voter ID debate grows after Gov. Sherrill signals openness to legislation",
+            "source": "NBC10 Philadelphia",
+            "url": "https://www.nbcphiladelphia.com/news/local/voter-id-law-proposal-gov-mikie-sherrill-comments-new-jersey/4443388/",
+            "date": "2026-08-04",
+            "summary": "Gov. Mikie Sherrill's openness to a state voter ID law drew pushback from civil rights groups and support from Republican lawmakers, following revelations that a Motor Vehicle Commission software error had registered about 6,600 noncitizens to vote."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Washington's primary election results",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/08/05/think-out-loud-washington-primary-election-results/",
+            "date": "2026-08-05",
+            "summary": "Washington's 3rd Congressional District primary set up a November rematch between Republican state Sen. John Braun and Democratic Rep. Marie Gluesenkamp Perez in one of the country's most closely watched House races."
+          }
+        ]
+      }
     }
   ]
 }
