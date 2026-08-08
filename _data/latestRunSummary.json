@@ -2,24 +2,39 @@
   "date": "2026-08-07",
   "items": [
     {
-      "text": "Tennessee picks Blackburn and Green as governor nominees in Aug. 6 primary",
-      "url": "https://wpln.org/post/tennessee-elections-2026-live-blog/",
-      "abbr": "TN"
+      "text": "Delaware enacts its own John Lewis Voting Rights Act, joining New Jersey",
+      "url": "https://www.delawarepublic.org/politics-government/2026-08-07/delaware-passes-state-level-voting-rights-protections",
+      "abbr": "DE"
     },
     {
-      "text": "Arkansas special election fills House District 44 with unopposed winner Bill Teeter",
-      "url": "https://www.arkansasonline.com/news/2026/aug/05/bill-teeter-wins-unopposed-contest-for-house/",
-      "abbr": "AR"
+      "text": "Virginia's Spanberger signs voting rights bills on VRA anniversary",
+      "url": "https://www.wsls.com/news/local/2026/08/07/gov-spanberger-celebrates-anniversary-of-voting-rights-act-thursday-signs-bills-aimed-at-strengthening-voting-rights/",
+      "abbr": "VA"
     },
     {
-      "text": "Alaska voters face Aug. 8 deadline to request absentee primary ballots",
-      "url": "https://www.adn.com/politics/2026/08/06/saturday-is-the-deadline-to-request-an-absentee-by-mail-ballot-in-alaskas-primary-election/",
-      "abbr": "AK"
+      "text": "DOJ loses bid for D.C. voter rolls, extending its nationwide losing streak",
+      "url": "https://thenationalpulse.com/2026/08/06/doj-denied-access-to-d-c-voter-rolls-by-obama-judge/",
+      "abbr": "DC"
     },
     {
-      "text": "Hawaii primary turnout lags prior cycle as officials urge last-minute voting",
-      "url": "https://www.hawaiinewsnow.com/2026/08/07/hawaii-election-officials-urge-last-minute-votes-primary-turnout-lags/",
-      "abbr": "HI"
+      "text": "Georgia panel begins mapping hand-marked paper ballot system for 2028",
+      "url": "https://www.atlantanewsfirst.com/2026/08/07/overhaul-or-gridlock-georgias-push-new-voting-system-faces-tight-timeline-legal-risks/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Nevada lawmakers eye bill shielding elections from federal interference",
+      "url": "https://nevadacurrent.com/2026/08/03/lawmakers-eye-proposals-to-shield-elections-from-federal-interference-speed-up-ballot-processing/",
+      "abbr": "NV"
+    },
+    {
+      "text": "Florida counties open early voting statewide for the Aug. 18 primary",
+      "url": "https://www.clickorlando.com/election-2026/2026/08/07/all-florida-counties-will-offer-early-voting-for-august-primary-this-weekend-where-to-find-a-polling-place/",
+      "abbr": "FL"
+    },
+    {
+      "text": "Minnesota early voting continues ahead of Aug. 11 primary",
+      "url": "https://knoxradio.com/2026/08/07/early-voting-in-minnesota-primaries-continue-through-monday/",
+      "abbr": "MN"
     }
   ]
 }

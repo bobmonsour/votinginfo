@@ -29422,6 +29422,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-07",
+      "time": "17:00",
+      "states": {
+        "DC": [
+          {
+            "title": "DOJ Denied Access to D.C. Voter Rolls by Obama Judge",
+            "source": "The National Pulse",
+            "url": "https://thenationalpulse.com/2026/08/06/doj-denied-access-to-d-c-voter-rolls-by-obama-judge/",
+            "date": "2026-08-06",
+            "summary": "A federal judge ruled the Justice Department lacks legal authority to compel D.C. to hand over its full voter list, the latest in a long string of DOJ losses in similar suits against states nationwide."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Gov. Meyer signs John Lewis Voting Rights Act, enacting state-level voting protections",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-08-07/delaware-passes-state-level-voting-rights-protections",
+            "date": "2026-08-07",
+            "summary": "Governor Matt Meyer signed HB 444, Delaware's own John Lewis Voting Rights Act, creating state-level protections against discriminatory voting practices and empowering the state attorney general to challenge suppressive election practices."
+          }
+        ],
+        "FL": [
+          {
+            "title": "All Florida counties will offer early voting for August primary this weekend. Where to find a polling place",
+            "source": "ClickOrlando",
+            "url": "https://www.clickorlando.com/election-2026/2026/08/07/all-florida-counties-will-offer-early-voting-for-august-primary-this-weekend-where-to-find-a-polling-place/",
+            "date": "2026-08-07",
+            "summary": "Early voting for Florida's Aug. 18 statewide primary begins this weekend in every county, with the article listing voting windows and polling locations for Central Florida counties."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Overhaul or gridlock: Georgia's push for new voting system faces tight timeline, legal risks",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/08/07/overhaul-or-gridlock-georgias-push-new-voting-system-faces-tight-timeline-legal-risks/",
+            "date": "2026-08-07",
+            "summary": "Georgia's newly formed Election Equipment Specifications and Standards Committee held its first meeting to plan a replacement for the state's touchscreen voting system, with procurement experts warning the transition to hand-marked ballots by 2028 faces a tight timeline and possible vendor litigation."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Early Voting In Minnesota Primaries Continue Through Monday",
+            "source": "KNOX News Radio",
+            "url": "https://knoxradio.com/2026/08/07/early-voting-in-minnesota-primaries-continue-through-monday/",
+            "date": "2026-08-07",
+            "summary": "Early voting continues through Monday ahead of Minnesota's Aug. 11 primary, which includes DFL and GOP contests for governor and U.S. Senate."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Lawmakers eye proposals to shield elections from federal interference, speed up ballot processing",
+            "source": "Nevada Current",
+            "url": "https://nevadacurrent.com/2026/08/03/lawmakers-eye-proposals-to-shield-elections-from-federal-interference-speed-up-ballot-processing/",
+            "date": "2026-08-03",
+            "summary": "A Nevada legislative committee voted to sponsor a 2027 bill, modeled on New Mexico legislation, restricting armed federal agents near polling places to shield state-run elections from federal interference."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Gov. Spanberger celebrates anniversary of Voting Rights Act Thursday, signs bills aimed at strengthening voting rights",
+            "source": "WSLS",
+            "url": "https://www.wsls.com/news/local/2026/08/07/gov-spanberger-celebrates-anniversary-of-voting-rights-act-thursday-signs-bills-aimed-at-strengthening-voting-rights/",
+            "date": "2026-08-06",
+            "summary": "Governor Abigail Spanberger marked the 61st anniversary of the Voting Rights Act in Norfolk by signing a series of bills to strengthen voter protections and election security in Virginia."
+          }
+        ]
+      }
     }
   ]
 }
