@@ -66,6 +66,7 @@ _includes/
 public/
   css/style.css     All styles
   js/filter.js      Search and filter logic
+  js/info-popover.js  Inline info popovers
   img/              Flags, icons, OG image
 eleventy.config.js  Eleventy config, custom filters, and the build-time news check
 research/           Dated research reports from verification runs
