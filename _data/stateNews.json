@@ -29491,6 +29491,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-10",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Court rejects fears about 2022 voter registration law, allows it to be enforced",
+            "source": "Arizona Capitol Times",
+            "url": "https://azcapitoltimes.com/news/2026/08/08/court-rejects-fears-about-2022-voter-registration-law-allows-it-to-be-enforced/",
+            "date": "2026-08-08",
+            "summary": "The Ninth Circuit Court of Appeals, sitting en banc, rejected a challenge to an Arizona law restricting who may return another voter's ballot, ruling it is not unconstitutionally vague and can be enforced."
+          }
+        ],
+        "SC": [
+          {
+            "title": "ACLU seeks role in lawsuit challenging South Carolina's open primary system",
+            "source": "Live 5 News",
+            "url": "https://www.live5news.com/2026/08/06/aclu-seeks-role-lawsuit-challenging-south-carolinas-open-primary-system/",
+            "date": "2026-08-06",
+            "summary": "The ACLU of South Carolina moved to intervene in the state Republican Party's federal lawsuit seeking to close primaries, arguing the change would improperly exclude independent voters from taxpayer-funded elections."
+          }
+        ],
+        "TX": [
+          {
+            "title": "County officials say Texas law allowing more weekend voting will delay election results, spike costs",
+            "source": "Community Impact",
+            "url": "https://communityimpact.com/central-austin/texas-legislature/county-officials-say-texas-law-allowing-more-weekend-voting-will-delay-election-results-spike-costs/",
+            "date": "2026-08-06",
+            "summary": "Texas election administrators told a House committee that Senate Bill 2753's expanded weekend early-voting schedule, taking effect in late 2027, will raise costs and slow reporting of results."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Pritt Voluntarily Removes Himself From General Election Ballot",
+            "source": "West Virginia Public Broadcasting",
+            "url": "https://wvpublic.org/story/government/pritt-voluntarily-removes-himself-from-general-election-ballot/",
+            "date": "2026-08-04",
+            "summary": "Former Delegate David Elliott Pritt withdrew from the November ballot after facing child enticement charges; state law bars the Republican Party from naming a replacement, leaving the Democratic candidate unopposed."
+          }
+        ],
+        "WY": [
+          {
+            "title": "U.S. Attorney's Office Warns Non-Citizens Against Voting In Upcoming Elections",
+            "source": "U.S. Attorney's Office, District of Wyoming",
+            "url": "https://www.justice.gov/usao-wy/pr/us-attorneys-office-warns-non-citizens-against-voting-upcoming-elections",
+            "date": "2026-07-27",
+            "summary": "Ahead of Wyoming's Aug. 18 primary, the U.S. Attorney's Office announced coordination with federal law enforcement to monitor for noncitizen voting and pledged to prosecute violations."
+          }
+        ]
+      }
     }
   ]
 }

@@ -852,6 +852,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Added Proposition 144 / HCR 2001, referred to the November 3, 2026 ballot, per Arizona Capitol Times, KJZZ, Votebeat, and Ballotpedia"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -10938,6 +10943,11 @@
         "date": "2026-08-04",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -11742,6 +11752,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Added SB 2753, signed June 22, 2025, which restructures the early voting calendar but does not take effect until the Secretary of State publishes implementation procedures, per Texas Secretary of State Election Advisory 2025-10, Votebeat, and Ballotpedia"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -12988,6 +13003,11 @@
         "date": "2026-07-30",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -13562,6 +13582,11 @@
         "date": "2026-07-31",
         "field": "Recent Legislation",
         "description": "Added four more 2025 session laws listed by the Secretary of State - HEA 62 (voter list maintenance and SAVE verification), HEA 71 (ranked-choice voting ban), SEA 10 (unsolicited absentee request forms), and SEA 75 (email notice of registration cancellation)"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [

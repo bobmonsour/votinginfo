@@ -1,40 +1,30 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-10",
   "items": [
     {
-      "text": "Delaware enacts its own John Lewis Voting Rights Act, joining New Jersey",
-      "url": "https://www.delawarepublic.org/politics-government/2026-08-07/delaware-passes-state-level-voting-rights-protections",
-      "abbr": "DE"
+      "text": "Ninth Circuit upholds Arizona's 2022 voter-registration-assistance law",
+      "url": "https://azcapitoltimes.com/news/2026/08/08/court-rejects-fears-about-2022-voter-registration-law-allows-it-to-be-enforced/",
+      "abbr": "AZ"
     },
     {
-      "text": "Virginia's Spanberger signs voting rights bills on VRA anniversary",
-      "url": "https://www.wsls.com/news/local/2026/08/07/gov-spanberger-celebrates-anniversary-of-voting-rights-act-thursday-signs-bills-aimed-at-strengthening-voting-rights/",
-      "abbr": "VA"
+      "text": "ACLU moves to intervene in South Carolina GOP's closed-primary lawsuit",
+      "url": "https://www.live5news.com/2026/08/06/aclu-seeks-role-lawsuit-challenging-south-carolinas-open-primary-system/",
+      "abbr": "SC"
     },
     {
-      "text": "DOJ loses bid for D.C. voter rolls, extending its nationwide losing streak",
-      "url": "https://thenationalpulse.com/2026/08/06/doj-denied-access-to-d-c-voter-rolls-by-obama-judge/",
-      "abbr": "DC"
+      "text": "Texas counties warn expanded weekend early voting will raise costs, delay results",
+      "url": "https://communityimpact.com/central-austin/texas-legislature/county-officials-say-texas-law-allowing-more-weekend-voting-will-delay-election-results-spike-costs/",
+      "abbr": "TX"
     },
     {
-      "text": "Georgia panel begins mapping hand-marked paper ballot system for 2028",
-      "url": "https://www.atlantanewsfirst.com/2026/08/07/overhaul-or-gridlock-georgias-push-new-voting-system-faces-tight-timeline-legal-risks/",
-      "abbr": "GA"
+      "text": "West Virginia candidate withdraws from ballot after enticement charges, seat to go unopposed",
+      "url": "https://wvpublic.org/story/government/pritt-voluntarily-removes-himself-from-general-election-ballot/",
+      "abbr": "WV"
     },
     {
-      "text": "Nevada lawmakers eye bill shielding elections from federal interference",
-      "url": "https://nevadacurrent.com/2026/08/03/lawmakers-eye-proposals-to-shield-elections-from-federal-interference-speed-up-ballot-processing/",
-      "abbr": "NV"
-    },
-    {
-      "text": "Florida counties open early voting statewide for the Aug. 18 primary",
-      "url": "https://www.clickorlando.com/election-2026/2026/08/07/all-florida-counties-will-offer-early-voting-for-august-primary-this-weekend-where-to-find-a-polling-place/",
-      "abbr": "FL"
-    },
-    {
-      "text": "Minnesota early voting continues ahead of Aug. 11 primary",
-      "url": "https://knoxradio.com/2026/08/07/early-voting-in-minnesota-primaries-continue-through-monday/",
-      "abbr": "MN"
+      "text": "Wyoming U.S. Attorney pledges to prosecute noncitizen voting ahead of Aug. 18 primary",
+      "url": "https://www.justice.gov/usao-wy/pr/us-attorneys-office-warns-non-citizens-against-voting-upcoming-elections",
+      "abbr": "WY"
     }
   ]
 }
