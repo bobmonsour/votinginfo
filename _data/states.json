@@ -242,6 +242,11 @@
         "date": "2026-08-04",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -3130,6 +3135,11 @@
         "date": "2026-07-31",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3880,6 +3890,11 @@
         "date": "2026-07-31",
         "field": "Recent Legislation",
         "description": "Corrected the SB 12 signing date from Feb 27 to Feb 24, 2026 per the official bill action log (Public Law 5) and Ballotpedia"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -4148,6 +4163,11 @@
       },
       {
         "date": "2026-07-13",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-10",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -5590,6 +5610,11 @@
         "date": "2026-08-04",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -5866,6 +5891,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Updated the same-day registration ballot initiative: Secretary of State Galvin certified it for the November 3, 2026 ballot on July 17, 2026, per the Boston Globe, Ballotpedia, and CBS Boston"
+      },
+      {
+        "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -6480,6 +6510,11 @@
       },
       {
         "date": "2026-08-06",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-10",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -9222,6 +9257,11 @@
       },
       {
         "date": "2026-08-06",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-10",
         "field": "Recent News",
         "description": "Added recent news items"
       }

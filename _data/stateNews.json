@@ -29542,6 +29542,84 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-10",
+      "time": "17:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Alabama's special primary is Aug. 11: Here's who is running in District 7",
+            "source": "WBRC",
+            "url": "https://www.wbrc.com/2026/08/10/alabamas-special-primary-is-aug-11-heres-who-is-running-district-7/",
+            "date": "2026-08-10",
+            "summary": "Alabama voters in four congressional districts head to the polls Aug. 11 for a special primary, with a competitive Republican race in District 7 and Democrat Terri Sewell advancing unopposed."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Incumbents Gov. Green, Maui's Bissen, Reps. Case and Tokuda head to November contest",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/08/08/breaking-news/in-person-voting-slow-so-far-as-hawaiis-primary-election-wraps-up/",
+            "date": "2026-08-08",
+            "summary": "Hawaii's Aug. 8 primary wrapped up with Gov. Josh Green, Maui Mayor Richard Bissen, and U.S. Reps. Ed Case and Jill Tokuda all winning their primaries and advancing to the November general election."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Recount upends election result for Indiana Senate District 23 — Paula Copenhaver beats incumbent Deery",
+            "source": "WFYI",
+            "url": "https://www.wfyi.org/statewide/2026-08-10/recount-upends-election-result-for-indiana-senate-district-23-paula-copenhaver-beats-incumbent-deery",
+            "date": "2026-08-10",
+            "summary": "The Indiana Recount Commission reversed the outcome of a three-vote Senate District 23 primary after discarding ballots for missing signatures and seals, handing the race to Trump-backed challenger Paula Copenhaver."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Judge rules Gluba-Cutler ticket can't be on Iowa's 2026 ballot",
+            "source": "Radio Iowa",
+            "url": "https://www.radioiowa.com/2026/07/28/judge-rules-gluba-cutler-ticket-cant-be-on-iowas-2026-ballot/",
+            "date": "2026-07-28",
+            "summary": "A Polk County judge upheld a State Objections Panel ruling keeping Libertarian candidates Nicholas Gluba and Jules Cutler off Iowa's November ballot after Cutler missed the candidacy affidavit deadline."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland's redistricting amendment could reshape 2028 congressional races",
+            "source": "The Baltimore Sun",
+            "url": "https://www.baltimoresun.com/2026/08/09/maryland-redistricting-congressional-races/",
+            "date": "2026-08-09",
+            "summary": "Following the Legislature's vote to place a redistricting constitutional amendment on the November ballot, analysts examine how new congressional maps could reshape central Maryland and Eastern Shore districts by 2028."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Mass. is set to see 9 ballot questions this fall. One in particular that could upend how Beacon Hill works",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/08/03/massachusetts-ballot-question-1-public-records",
+            "date": "2026-08-03",
+            "summary": "Massachusetts voters will decide nine ballot questions in November, including a measure backed by the state auditor that would subject the governor's office and Legislature to the public records law."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Choices on the direction of both parties await Minnesota primary voters",
+            "source": "MPR News",
+            "url": "https://www.mprnews.org/story/2026/08/10/minnesota-voters-making-decisions-on-governor-senate-congressional-primary-races",
+            "date": "2026-08-10",
+            "summary": "Minnesota voters cast primary ballots Aug. 11 in competitive Democratic contests for governor and U.S. Senate that will help define the party's direction heading into the midterms."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NC voting bill heads to governor's desk — and he's already planning to reject it",
+            "source": "WECT",
+            "url": "https://www.wect.com/2026/08/10/nc-voting-bill-heads-governors-desk-hes-already-planning-reject-it/",
+            "date": "2026-08-10",
+            "summary": "Gov. Josh Stein said he will veto House Bill 958, which would shorten primary early voting from 17 to 10 days, extend post-election ballot challenge windows, and require use of the federal SAVE database to purge voters."
+          }
+        ]
+      }
     }
   ]
 }
