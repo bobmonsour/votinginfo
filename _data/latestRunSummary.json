@@ -1,45 +1,28 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "items": [
     {
-      "text": "Indiana recount flips razor-thin Senate primary to Trump-backed challenger",
-      "url": "https://www.wfyi.org/statewide/2026-08-10/recount-upends-election-result-for-indiana-senate-district-23-paula-copenhaver-beats-incumbent-deery",
-      "abbr": "IN"
+      "text": "Delaware enacts John Lewis Voting Rights Act, becoming 12th state with a state-level VRA",
+      "url": "https://news.ballotpedia.org/2026/08/10/delaware-becomes-the-12th-state-to-enact-a-state-level-voting-rights-act/",
+      "abbr": "DE"
     },
     {
-      "text": "North Carolina governor vows to veto bill shortening early voting",
-      "url": "https://www.wect.com/2026/08/10/nc-voting-bill-heads-governors-desk-hes-already-planning-reject-it/",
-      "abbr": "NC"
+      "text": "Georgia panel confronts tight 2028 timeline for hand-marked paper ballot overhaul",
+      "url": "https://thecurrentga.org/2026/08/08/georgia-committee-confronts-tight-timeline-for-election-system-overhaul/",
+      "abbr": "GA"
     },
     {
-      "text": "Maryland's congressional-redistricting amendment heads to the November ballot",
-      "url": "https://www.baltimoresun.com/2026/08/09/maryland-redistricting-congressional-races/",
-      "abbr": "MD"
+      "text": "Oklahomans to decide Aug. 25 on enshrining photo ID in state constitution",
+      "url": "https://www.publicradiotulsa.org/local-regional/2026-08-11/oklahomans-to-decide-on-adding-voter-id-requirements-to-state-constitution",
+      "abbr": "OK"
     },
     {
-      "text": "Massachusetts sets record nine ballot questions, including one on public-records transparency",
-      "url": "https://www.wbur.org/news/2026/08/03/massachusetts-ballot-question-1-public-records",
-      "abbr": "MA"
+      "text": "Alaska elections attorney argues candidates can temporarily conceal campaign finances",
+      "url": "https://alaskapublic.org/news/politics/elections/2026-08-10/alaska-state-elections-attorney-says-its-ok-for-candidates-to-temporarily-conceal-finances",
+      "abbr": "AK"
     },
     {
-      "text": "Minnesota Democrats face a direction-setting primary for governor and Senate",
-      "url": "https://www.mprnews.org/story/2026/08/10/minnesota-voters-making-decisions-on-governor-senate-congressional-primary-races",
-      "abbr": "MN"
-    },
-    {
-      "text": "Iowa judge keeps Libertarian governor ticket off the November ballot",
-      "url": "https://www.radioiowa.com/2026/07/28/judge-rules-gluba-cutler-ticket-cant-be-on-iowas-2026-ballot/",
-      "abbr": "IA"
-    },
-    {
-      "text": "Hawaii's Aug. 8 primary sends Gov. Green, Case, and Tokuda to November",
-      "url": "https://www.staradvertiser.com/2026/08/08/breaking-news/in-person-voting-slow-so-far-as-hawaiis-primary-election-wraps-up/",
-      "abbr": "HI"
-    },
-    {
-      "text": "Alabama holds special congressional primaries in four districts",
-      "url": "https://www.wbrc.com/2026/08/10/alabamas-special-primary-is-aug-11-heres-who-is-running-district-7/",
-      "abbr": "AL"
+      "text": "Wisconsin and Massachusetts voters get fresh guides ahead of primary day"
     }
   ]
 }

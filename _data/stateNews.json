@@ -29620,6 +29620,73 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-11",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska state elections attorney says it's OK for candidates to temporarily conceal finances",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-08-10/alaska-state-elections-attorney-says-its-ok-for-candidates-to-temporarily-conceal-finances",
+            "date": "2026-08-10",
+            "summary": "An attorney defending the Alaska Division of Elections argued in state court that candidates for state office are not required to disclose their finances when filing, raising concerns about voters' ability to review candidates' finances during the primary."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Delaware becomes the 12th state to enact a state-level voting rights act",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/10/delaware-becomes-the-12th-state-to-enact-a-state-level-voting-rights-act/",
+            "date": "2026-08-10",
+            "summary": "Gov. Matt Meyer signed the Delaware John Lewis Voting Rights Act, prohibiting voter suppression and vote dilution and allowing private citizens to challenge discriminatory election policies; the law takes effect July 1, 2027."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia committee confronts tight timeline for election system overhaul",
+            "source": "The Current",
+            "url": "https://thecurrentga.org/2026/08/08/georgia-committee-confronts-tight-timeline-for-election-system-overhaul/",
+            "date": "2026-08-08",
+            "summary": "A newly formed committee of lawmakers and election experts met to begin planning Georgia's transition to a hand-marked paper ballot voting system by 2028."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Voter guide: What you need to know about the Massachusetts 2026 primary election",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/08/10/massachusetts-september-primary-voter-guide-elections-governor-senate",
+            "date": "2026-08-10",
+            "summary": "A guide to the September 1 Massachusetts state primary covers registration and voting deadlines, the state's three voting methods, and the competitive federal, state, and local races on the ballot."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Oklahoma election officials remind voters of Election Day laws ahead of Aug. 25 runoff",
+            "source": "KSWO",
+            "url": "https://www.kswo.com/2026/08/10/oklahoma-election-officials-remind-voters-election-day-laws-ahead-aug-25-runoff/",
+            "date": "2026-08-10",
+            "summary": "Oklahoma election officials outlined polling-place conduct rules ahead of the Aug. 25 runoff primary, including restrictions on campaigning within 300 feet of polling sites and provisions for voters with emergencies."
+          },
+          {
+            "title": "Oklahomans to decide on adding voter ID requirements to state constitution",
+            "source": "KWGS/Public Radio Tulsa",
+            "url": "https://www.publicradiotulsa.org/local-regional/2026-08-11/oklahomans-to-decide-on-adding-voter-id-requirements-to-state-constitution",
+            "date": "2026-08-11",
+            "summary": "State Question 846, on the Aug. 25 ballot, would enshrine photo ID requirements for voting in the Oklahoma Constitution and give the Legislature broader authority to set ID specifications for all voting methods."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin primary election 2026 voter guide: What to know before you vote Tuesday",
+            "source": "WEAU",
+            "url": "https://www.weau.com/2026/08/10/wisconsin-primary-election-2026-voter-guide-what-know-before-you-vote-tuesday/",
+            "date": "2026-08-10",
+            "summary": "A guide ahead of Wisconsin's Aug. 11 partisan primary covers polling locations, required photo ID, and absentee ballot procedures, noting voters may participate in only one party's primary."
+          }
+        ]
+      }
     }
   ]
 }
