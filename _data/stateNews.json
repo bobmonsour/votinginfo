@@ -29687,6 +29687,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-11",
+      "time": "17:00",
+      "states": {
+        "DC": [
+          {
+            "title": "Judge dismissed DOJ suit seeking a full, unredacted copy of DC's voter registration data",
+            "source": "Just the News",
+            "url": "https://justthenews.com/politics-policy/elections/judge-dismissed-doj-suit-seeking-full-unredacted-copy-dcs-voter",
+            "date": "2026-08-10",
+            "summary": "A federal judge dismissed the Justice Department's lawsuit seeking a full, unredacted copy of D.C.'s voter registration data, ruling the administration lacked legal authority to obtain the complete list."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Beshear: Aug. 3 no legal deadline for Senate vacancy amid McConnell's absence",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/ky/louisville/news/2026/08/04/gov-andy-beshear-says-aug--has-no-legal-impact-on-his-options-if-a-senate-vacancy-occurs-as-questions-continue-over-mitch-mcconnells-absence",
+            "date": "2026-08-04",
+            "summary": "Kentucky Gov. Andy Beshear said the oft-cited Aug. 3 deadline has no legal bearing on his options for calling a special election, amid ongoing questions about Sen. Mitch McConnell's extended absence."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland Democrats put measure on 2026 ballot, making it the fourth state to take action towards redistricting ahead of 2028",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/10/maryland-democrats-put-measure-on-2026-ballot-making-it-the-fourth-state-to-take-action-towards-redistricting-ahead-of-2028/",
+            "date": "2026-08-10",
+            "summary": "Maryland's General Assembly voted to place a constitutional amendment on the 2026 ballot removing redistricting-criteria requirements for congressional maps, part of a wave of states positioning ahead of 2028 redistricting."
+          }
+        ]
+      }
     }
   ]
 }
