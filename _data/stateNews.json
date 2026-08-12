@@ -29720,6 +29720,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-12",
+      "time": "06:00",
+      "states": {
+        "AL": [
+          {
+            "title": "2026 Alabama special congressional primary results",
+            "source": "WBHM",
+            "url": "https://www.wbhm.org/local-news/2026-08-11/2026-alabama-special-congressional-primary-results",
+            "date": "2026-08-11",
+            "summary": "Alabama voters selected U.S. House nominees in four congressional districts under a newly redrawn map that eliminates one of the state's two majority-Black districts, after the primaries were postponed from May following a Supreme Court decision on Southern congressional maps."
+          }
+        ],
+        "GA": [
+          {
+            "title": "The 2026 midterms are heating up, but this election panel is focused on 2028",
+            "source": "Rough Draft Atlanta",
+            "url": "https://roughdraftatlanta.com/2026/08/09/new-georgia-voting-system-timeline/",
+            "date": "2026-08-09",
+            "summary": "A newly formed legislative committee began mapping out Georgia's transition to a hand-marked paper ballot voting system by 2028, working under a tight timeline to recommend a replacement for the state's current ballot-marking-device system."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Governor, Senate nominees give Minnesota voters a choice between accomplished women",
+            "source": "MPR News",
+            "url": "https://www.mprnews.org/story/2026/08/12/amy-klobuchar-lisa-demuth-michele-tafoya-peggy-flanagan-top-minnesota-fall-tickets",
+            "date": "2026-08-12",
+            "summary": "Minnesota's Aug. 11 primary set the fall ticket, with Amy Klobuchar and Lisa Demuth advancing in the governor's race and Peggy Flanagan and Michele Tafoya advancing for U.S. Senate."
+          }
+        ],
+        "NH": [
+          {
+            "title": "Get ready to vote in NH: How to register, what documents to bring and more",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/politics/2026-08-10/voter-id-registration-lookup-newhampshire-2026-midterm-elections-nh",
+            "date": "2026-08-10",
+            "summary": "A guide to New Hampshire's 2026 midterm elections outlines voter registration requirements, the documentation needed to prove identity, age, citizenship, and domicile, and key registration deadlines."
+          }
+        ],
+        "SC": [
+          {
+            "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff",
+            "source": "NPR",
+            "url": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
+            "date": "2026-08-11",
+            "summary": "Sen. Darline Graham, appointed to complete her late brother Lindsey Graham's term, advanced to an Aug. 25 GOP primary runoff against Rep. Ralph Norman for the U.S. Senate nomination."
+          }
+        ],
+        "WI": [
+          {
+            "title": "David Crowley pulls off upset over Francesca Hong in Wisconsin's Democratic primary for governor",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-david-crowley-democratic-primary-wisconsin-governor-rcna592056",
+            "date": "2026-08-11",
+            "summary": "Milwaukee County Executive David Crowley narrowly defeated democratic socialist state lawmaker Francesca Hong in Wisconsin's Aug. 11 Democratic gubernatorial primary; Crowley will face Republican Rep. Tom Tiffany in November."
+          }
+        ]
+      }
     }
   ]
 }

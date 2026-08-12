@@ -1,20 +1,35 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "items": [
     {
-      "text": "Federal judge dismisses DOJ bid for D.C.'s full, unredacted voter rolls",
-      "url": "https://justthenews.com/politics-policy/elections/judge-dismissed-doj-suit-seeking-full-unredacted-copy-dcs-voter",
-      "abbr": "DC"
+      "text": "Alabama holds redrawn special congressional primaries eliminating a majority-Black district",
+      "url": "https://www.wbhm.org/local-news/2026-08-11/2026-alabama-special-congressional-primary-results",
+      "abbr": "AL"
     },
     {
-      "text": "Maryland places congressional-redistricting amendment on 2026 ballot, eyeing 2028",
-      "url": "https://news.ballotpedia.org/2026/08/10/maryland-democrats-put-measure-on-2026-ballot-making-it-the-fourth-state-to-take-action-towards-redistricting-ahead-of-2028/",
-      "abbr": "MD"
+      "text": "South Carolina's Darline Graham advances to Aug. 25 GOP Senate runoff against Ralph Norman",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
+      "abbr": "SC"
     },
     {
-      "text": "Kentucky's Beshear says Aug. 3 carries no legal deadline amid McConnell absence",
-      "url": "https://spectrumnews1.com/ky/louisville/news/2026/08/04/gov-andy-beshear-says-aug--has-no-legal-impact-on-his-options-if-a-senate-vacancy-occurs-as-questions-continue-over-mitch-mcconnells-absence",
-      "abbr": "KY"
+      "text": "Wisconsin's David Crowley narrowly upsets Francesca Hong in Democratic governor primary",
+      "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-david-crowley-democratic-primary-wisconsin-governor-rcna592056",
+      "abbr": "WI"
+    },
+    {
+      "text": "Minnesota sets fall matchups: Klobuchar vs. Demuth for governor, Flanagan vs. Tafoya for Senate",
+      "url": "https://www.mprnews.org/story/2026/08/12/amy-klobuchar-lisa-demuth-michele-tafoya-peggy-flanagan-top-minnesota-fall-tickets",
+      "abbr": "MN"
+    },
+    {
+      "text": "Georgia panel begins mapping a hand-marked paper ballot system ahead of 2028",
+      "url": "https://roughdraftatlanta.com/2026/08/09/new-georgia-voting-system-timeline/",
+      "abbr": "GA"
+    },
+    {
+      "text": "New Hampshire publishes a 2026 voter guide covering ID, registration, and documentation rules",
+      "url": "https://www.nhpr.org/politics/2026-08-10/voter-id-registration-lookup-newhampshire-2026-midterm-elections-nh",
+      "abbr": "NH"
     }
   ]
 }
