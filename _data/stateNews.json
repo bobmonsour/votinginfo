@@ -29780,6 +29780,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-12",
+      "time": "17:00",
+      "states": {
+        "CT": [
+          {
+            "title": "CT Gov. Ned Lamont defeats Josh Elliott in Democratic primary",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/08/11/ct-gov-ned-lamont-defeats-josh-elliott-democratic-primary/",
+            "date": "2026-08-11",
+            "summary": "Incumbent Gov. Ned Lamont won Connecticut's Aug. 11 Democratic gubernatorial primary with 68% of the vote, while longtime U.S. Rep. John Larson lost his 1st District primary to former Hartford mayor Luke Bronin."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Federal court blocks another part of Trump mail-in voting executive order",
+            "source": "ABC News",
+            "url": "https://abcnews.com/Politics/federal-court-blocks-part-trump-mail-voting-executive/story?id=135570857",
+            "date": "2026-08-12",
+            "summary": "A federal judge blocked the U.S. Postal Service from implementing part of a presidential executive order restricting mail-in voting ahead of the November midterms, ruling the executive branch lacks authority to regulate elections."
+          }
+        ],
+        "SC": [
+          {
+            "title": "GOP Special Primary Runoff set for August 25 between Graham and Norman",
+            "source": "ABC Columbia",
+            "url": "https://www.abccolumbia.com/2026/08/12/gop-special-primary-runoff-set-for-august-25-between-graham-and-norman/",
+            "date": "2026-08-12",
+            "summary": "After no candidate cleared 50% in South Carolina's special U.S. Senate primary, Sen. Darline Graham and Rep. Ralph Norman advanced to an Aug. 25 Republican runoff, with early voting set for Aug. 19-21."
+          }
+        ],
+        "VT": [
+          {
+            "title": "The results from Vermont's 2026 primary election",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2026/08/11/the-latest-results-from-vermonts-2026-primary-election/",
+            "date": "2026-08-11",
+            "summary": "Vermont voters cast ballots in contested Aug. 11 primaries, with Amanda Janoo narrowly winning the Democratic gubernatorial nomination and Molly Gray winning the Democratic lieutenant governor primary."
+          }
+        ]
+      }
     }
   ]
 }
