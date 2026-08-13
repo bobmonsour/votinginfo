@@ -1,25 +1,20 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "items": [
     {
-      "text": "Connecticut's Ned Lamont cruises to Democratic primary win; longtime Rep. John Larson ousted",
-      "url": "https://ctmirror.org/2026/08/11/ct-gov-ned-lamont-defeats-josh-elliott-democratic-primary/",
-      "abbr": "CT"
+      "text": "Fifth Circuit revives Texas mail-ballot and voter-assistance restrictions under SB 1",
+      "url": "https://www.democracydocket.com/news-alerts/appeals-court-revives-key-parts-of-texas-voter-suppression-law/",
+      "abbr": "TX"
     },
     {
-      "text": "South Carolina's Graham-Norman Senate runoff set for Aug. 25 after no majority winner",
-      "url": "https://www.abccolumbia.com/2026/08/12/gop-special-primary-runoff-set-for-august-25-between-graham-and-norman/",
-      "abbr": "SC"
+      "text": "New Hampshire sued over repeal of student IDs as acceptable voter identification",
+      "url": "https://www.nhpr.org/nh-news/2026-08-12/lawsuit-challenges-repeal-of-student-ids-for-voting-in-nh",
+      "abbr": "NH"
     },
     {
-      "text": "Vermont Democrats pick Amanda Janoo for governor, Molly Gray for lieutenant governor",
-      "url": "https://vtdigger.org/2026/08/11/the-latest-results-from-vermonts-2026-primary-election/",
-      "abbr": "VT"
-    },
-    {
-      "text": "Federal judge blocks part of Trump's mail-in voting order from reaching the Postal Service",
-      "url": "https://abcnews.com/Politics/federal-court-blocks-part-trump-mail-voting-executive/story?id=135570857",
-      "abbr": "DC"
+      "text": "Oklahomans to vote Aug. 25 on constitutional amendment enshrining voter ID rules",
+      "url": "https://www.kgou.org/politics-and-government/2026-08-13/oklahomans-to-decide-on-adding-voter-id-requirements-to-state-constitution",
+      "abbr": "OK"
     }
   ]
 }

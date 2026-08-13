@@ -29822,6 +29822,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-13",
+      "time": "06:00",
+      "states": {
+        "NH": [
+          {
+            "title": "Lawsuit challenges repeal of student IDs for voting in NH",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/nh-news/2026-08-12/lawsuit-challenges-repeal-of-student-ids-for-voting-in-nh",
+            "date": "2026-08-12",
+            "summary": "A voting rights group sued to reinstate school-issued IDs as acceptable identification for voter registration and ballot access in New Hampshire, arguing the 2026 repeal disproportionately burdens young voters."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Oklahomans to decide on adding voter ID requirements to state constitution",
+            "source": "KGOU",
+            "url": "https://www.kgou.org/politics-and-government/2026-08-13/oklahomans-to-decide-on-adding-voter-id-requirements-to-state-constitution",
+            "date": "2026-08-13",
+            "summary": "Oklahoma voters will decide State Question 846 on Aug. 25, a constitutional amendment that would enshrine voter ID requirements and give the legislature expanded authority to set election law."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Appeals court revives key parts of Texas voter suppression law found to harm voters with disabilities",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/appeals-court-revives-key-parts-of-texas-voter-suppression-law/",
+            "date": "2026-08-12",
+            "summary": "The Fifth Circuit Court of Appeals reversed a lower court decision and revived nine provisions of Texas's Senate Bill 1 restricting mail-in voting and voter assistance, rejecting disability-rights challenges largely on standing grounds."
+          }
+        ]
+      }
     }
   ]
 }
