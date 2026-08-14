@@ -29870,6 +29870,100 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-14",
+      "time": "06:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Alabama special primary round-up: Low turnout, few surprises in congressional races",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2026/08/12/alabama-special-primary-round-up-low-turnout-few-surprises-in-congressional-races/",
+            "date": "2026-08-12",
+            "summary": "A round-up of Alabama's Aug. 11 special congressional primaries found low turnout and few upsets, with Jerry Carl winning the District 1 GOP nomination and Rhett Marques winning District 2's crowded Republican primary."
+          }
+        ],
+        "AK": [
+          {
+            "title": "What to know about Tuesday's primary election",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-08-12/what-to-know-about-tuesdays-primary-election",
+            "date": "2026-08-12",
+            "summary": "A guide to Alaska's Aug. 18 top-four primary covering which races are on the ballot, voting procedures, and Ballot Measure 1 on campaign contribution limits."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Florida primary ballots top 900,000 amid mail-in, early voting",
+            "source": "WUSF",
+            "url": "https://www.wusf.org/politics-issues/2026-08-11/florida-primary-ballots-top-900000-amid-mail-in-early-voting",
+            "date": "2026-08-11",
+            "summary": "More than 900,000 ballots had been cast ahead of Florida's Aug. 18 primary through mail and early voting, with Republicans favoring in-person early voting and Democrats favoring mail ballots."
+          },
+          {
+            "title": "Early voting ballots trickle in ahead of Tuesday's primary elections",
+            "source": "Florida Phoenix",
+            "url": "https://floridaphoenix.com/2026/08/13/early-voting-ballots-trickle-in-ahead-of-tuesdays-primary-elections/",
+            "date": "2026-08-13",
+            "summary": "An update on early voting turnout in Florida as the state heads into its Aug. 18 primary election."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Republicans outraise Democrats in most — but not all — statewide races",
+            "source": "Georgia Recorder",
+            "url": "https://georgiarecorder.com/2026/08/12/gop-candidates-outraise-democrats-so-far-in-most-but-not-all-of-georgias-statewide-contests/",
+            "date": "2026-08-12",
+            "summary": "New campaign finance filings show Republican candidates outraising Democrats in most of Georgia's statewide 2026 races, ahead of the state's November general election."
+          }
+        ],
+        "HI": [
+          {
+            "title": "5 takeaways from the 2026 primary election",
+            "source": "Hawai'i Public Radio",
+            "url": "https://www.hawaiipublicradio.org/local-news/2026-08-09/5-takeaways-from-the-2026-primary-election",
+            "date": "2026-08-09",
+            "summary": "A recap of Hawaii's Aug. 8 primary election, which saw historically low turnout of about 33% and incumbents largely holding their seats."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Paperwork snafu leaves Democrats without candidate for Indiana Senate seat",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/08/12/paperwork-snafu-leaves-democrats-without-candidate-for-indiana-senate-seat/",
+            "date": "2026-08-12",
+            "summary": "A Democratic Party filing error left the four-term mayor of Vincennes off the November ballot for an Indiana state Senate seat."
+          }
+        ],
+        "MS": [
+          {
+            "title": "'One person, one vote:' redistricting panel gets primer",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/08/10/redistricting-house-mississippi/",
+            "date": "2026-08-10",
+            "summary": "A Mississippi House select committee on redistricting received a briefing on redistricting basics, amid concerns raised by a recent U.S. Supreme Court decision affecting majority-Black districts."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Alani Bankhead stays in Montana U.S. Senate race",
+            "source": "Montana Free Press",
+            "url": "https://montanafreepress.org/2026/08/10/bankhead-still-in-the-running/",
+            "date": "2026-08-10",
+            "summary": "Democratic U.S. Senate candidate Alani Bankhead confirmed she will remain in Montana's 2026 Senate race past the withdrawal deadline, despite pressure from within her party to drop out."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Endorsements pile up for Graham, Norman in SC Senate primary runoff",
+            "source": "WIS-TV",
+            "url": "https://www.wistv.com/2026/08/13/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/",
+            "date": "2026-08-13",
+            "summary": "Endorsements are piling up for Sen. Darline Graham and Rep. Ralph Norman ahead of their Aug. 25 Republican runoff for South Carolina's U.S. Senate seat."
+          }
+        ]
+      }
     }
   ]
 }

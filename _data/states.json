@@ -252,6 +252,11 @@
         "date": "2026-08-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-14",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -558,6 +563,11 @@
       },
       {
         "date": "2026-08-06",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-14",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2536,6 +2546,11 @@
         "date": "2026-08-04",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-14",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -2867,6 +2882,11 @@
         "date": "2026-07-31",
         "field": "Recent Legislation",
         "description": "Added SB 3EX, signed June 26, 2026, which delays the SB 189 QR code ban to January 1, 2028 and mandates hand recounts within a 0.5 percent margin, per The Current and Rough Draft Atlanta"
+      },
+      {
+        "date": "2026-08-14",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3168,6 +3188,11 @@
       },
       {
         "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-14",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -3923,6 +3948,11 @@
       },
       {
         "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-14",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -6798,6 +6828,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Added HB 908, which remains dormant because the U.S. Supreme Court upheld the state's 5-day mail ballot grace period in Watson v. RNC on June 29, 2026, per NPR, the Brennan Center, and Mississippi Today"
+      },
+      {
+        "date": "2026-08-14",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -7426,6 +7461,11 @@
         "date": "2026-07-31",
         "field": "Mail-In Voting",
         "description": "Noted that mail ballot return envelopes must include the voter's birth year in addition to a signature, and that ballots missing it may be rejected or require curing, per votemt.gov and Montana Free Press"
+      },
+      {
+        "date": "2026-08-14",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -11071,6 +11111,11 @@
       },
       {
         "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-14",
         "field": "Recent News",
         "description": "Added recent news items"
       }

@@ -1,10 +1,35 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "items": [
     {
-      "text": "Nebraska judge dismisses RNC lawsuit challenging overseas-voter registration law",
-      "url": "https://www.1011now.com/2026/08/13/judge-dismisses-lawsuit-rnc-challenging-nebraska-voter-law/",
-      "abbr": "NE"
+      "text": "Alabama special congressional primaries wrap up with low turnout, few surprises",
+      "url": "https://alabamareflector.com/2026/08/12/alabama-special-primary-round-up-low-turnout-few-surprises-in-congressional-races/",
+      "abbr": "AL"
+    },
+    {
+      "text": "Indiana Democrats left without a state Senate candidate after filing error",
+      "url": "https://indianacapitalchronicle.com/2026/08/12/paperwork-snafu-leaves-democrats-without-candidate-for-indiana-senate-seat/",
+      "abbr": "IN"
+    },
+    {
+      "text": "Endorsements pile up for Graham, Norman ahead of SC Senate runoff",
+      "url": "https://www.wistv.com/2026/08/13/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/",
+      "abbr": "SC"
+    },
+    {
+      "text": "Montana Democrat Bankhead stays in crowded U.S. Senate race despite pressure to drop out",
+      "url": "https://montanafreepress.org/2026/08/10/bankhead-still-in-the-running/",
+      "abbr": "MT"
+    },
+    {
+      "text": "Georgia Republicans outraise Democrats in most statewide 2026 contests",
+      "url": "https://georgiarecorder.com/2026/08/12/gop-candidates-outraise-democrats-so-far-in-most-but-not-all-of-georgias-statewide-contests/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Hawaii incumbents largely hold on despite record-low primary turnout",
+      "url": "https://www.hawaiipublicradio.org/local-news/2026-08-09/5-takeaways-from-the-2026-primary-election",
+      "abbr": "HI"
     }
   ]
 }
