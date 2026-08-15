@@ -29964,6 +29964,21 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-14",
+      "time": "17:00",
+      "states": {
+        "FL": [
+          {
+            "title": "Nearly 1.5 million Floridians have voted in advance of Tuesday's primary elections",
+            "source": "WLRN",
+            "url": "https://www.wlrn.org/news-in-brief/2026-08-14/nearly-1-5-million-floridians-have-voted-in-advance-of-tuesdays-primary-elections",
+            "date": "2026-08-14",
+            "summary": "Of the 1.47 million ballots cast so far in Florida's Aug. 18 primary, 665,003 came from Republicans, 611,882 from Democrats, and 172,268 from no-party-affiliation voters."
+          }
+        ]
+      }
     }
   ]
 }
