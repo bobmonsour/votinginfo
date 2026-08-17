@@ -29979,6 +29979,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-17",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska primary early vote total nears all-time record",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/08/15/alaska-primary-early-vote-total-nears-all-time-record/",
+            "date": "2026-08-14",
+            "summary": "Early voting for Alaska's Aug. 18 primary approached the all-time record, with ballots received climbing toward the 2022 primary high as Election Day neared."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Court revives Arizona voting restrictions ahead of midterms",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/court-revives-arizona-voting-restrictions-ahead-of-midterms/",
+            "date": "2026-08-10",
+            "summary": "The Ninth Circuit reinstated two provisions of Arizona's 2022 voter registration law - automatic cancellation when voters move counties and criminalized 'mechanisms for voting' - allowing them to take effect before the midterms."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Connecticut live primary results: Democratic Rep. Larson loses to challenger",
+            "source": "ABC News",
+            "url": "https://abcnews.com/Politics/connecticut-2026-live-primary-election-results/story?id=134597709",
+            "date": "2026-08-12",
+            "summary": "U.S. Rep. John Larson lost the Democratic primary in Connecticut's 1st Congressional District to former Hartford Mayor Luke Bronin, ending Larson's 14-term tenure in the House."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Early voting wrapping up in Florida, winner predictions stay unchanged",
+            "source": "My Suncoast (WWSB)",
+            "url": "https://www.mysuncoast.com/video/2026/08/15/early-voting-wrapping-up-florida-winner-predictions-stay-unchanged/",
+            "date": "2026-08-15",
+            "summary": "Florida's mandatory early-voting period for the Aug. 18 primary wrapped up across most counties, with some running an extra day under local extensions."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Texas' mail ballot ID requirements restored by federal appeals court",
+            "source": "Houston Public Media",
+            "url": "https://www.houstonpublicmedia.org/articles/voting/2026/08/13/559365/texas-mail-ballot-voter-id-application-appeal-ruling/",
+            "date": "2026-08-13",
+            "summary": "The 5th Circuit restored nine provisions of Texas's 2021 election law (SB 1), including mail-ballot ID and voter-assistance requirements, after finding the challengers lacked standing."
+          }
+        ]
+      }
     }
   ]
 }

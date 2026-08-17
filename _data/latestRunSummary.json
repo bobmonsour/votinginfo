@@ -1,10 +1,23 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-17",
   "items": [
     {
-      "text": "Nearly 1.5 million Floridians vote early ahead of Tuesday's primary",
-      "url": "https://www.wlrn.org/news-in-brief/2026-08-14/nearly-1-5-million-floridians-have-voted-in-advance-of-tuesdays-primary-elections",
-      "abbr": "FL"
+      "text": "Ninth Circuit revives Arizona's 2022 voter registration restrictions ahead of midterms",
+      "url": "https://www.democracydocket.com/news-alerts/court-revives-arizona-voting-restrictions-ahead-of-midterms/",
+      "abbr": "AZ"
+    },
+    {
+      "text": "5th Circuit restores Texas mail ballot ID and voter-assistance requirements",
+      "url": "https://www.houstonpublicmedia.org/articles/voting/2026/08/13/559365/texas-mail-ballot-voter-id-application-appeal-ruling/",
+      "abbr": "TX"
+    },
+    {
+      "text": "Rep. John Larson loses Connecticut primary to Luke Bronin after 14 terms",
+      "url": "https://abcnews.com/Politics/connecticut-2026-live-primary-election-results/story?id=134597709",
+      "abbr": "CT"
+    },
+    {
+      "text": "Alaska and Florida primary voters push early-voting turnout toward records"
     }
   ]
 }
