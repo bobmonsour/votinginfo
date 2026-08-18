@@ -1,30 +1,25 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "items": [
     {
-      "text": "North Carolina Gov. Stein vetoes GOP bill shortening early voting",
-      "url": "https://www.wunc.org/politics/2026-08-17/nc-gov-stein-vetoes-elections-judicial-discipline-bills",
-      "abbr": "NC"
+      "text": "Alaska's primary sees over 31,000 early ballots ahead of nonpartisan blanket vote",
+      "url": "https://www.adn.com/politics/2026/08/17/alaskas-primary-election-day-is-tuesday-heres-what-to-know/",
+      "abbr": "AK"
     },
     {
-      "text": "Georgia opens absentee ballot registration for the November general election",
-      "url": "https://www.fox5atlanta.com/news/georgia-2026-election-registration-opens-absentee-ballots",
-      "abbr": "GA"
+      "text": "Florida primary polls open for governor, congressional, and Senate special election races",
+      "url": "https://www.cbsnews.com/miami/news/florida-primary-election-2026-polls-open-voting-august-18/",
+      "abbr": "FL"
     },
     {
-      "text": "Minnesota investigates conservative influencer's polling-place voter impersonation stunt",
-      "url": "https://www.fox9.com/news/authorities-reviewing-election-voting-vouching-stunt-conservative-influencer",
-      "abbr": "MN"
+      "text": "New Hampshire student ID voter restriction faces fresh legal challenge",
+      "url": "https://abcnews.com/Politics/wireStory/lawsuit-challenges-nh-student-id-voter-restriction-135721606",
+      "abbr": "NH"
     },
     {
-      "text": "Maryland officials dispute whether a ballot-question comment deadline was extended",
-      "url": "https://www.baltimoresun.com/2026/08/14/maryland-ballot-question-prince-georges-extend/",
-      "abbr": "MD"
-    },
-    {
-      "text": "Wyoming heads into crowded, plurality-decided statewide primaries",
-      "url": "https://electiondesk.org/2026/08/17/wyoming-voters-decide-crowded-statewide-primaries-tuesday/",
-      "abbr": "WY"
+      "text": "Massachusetts voter guide details deadlines ahead of September 1 primary",
+      "url": "https://www.wgbh.org/news/politics/2026-08-14/massachusetts-elections-2026-everything-you-need-to-know-to-vote",
+      "abbr": "MA"
     }
   ]
 }

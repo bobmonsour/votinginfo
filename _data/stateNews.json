@@ -30081,6 +30081,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-18",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska's primary election day is Tuesday. Here's what to know.",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/08/17/alaskas-primary-election-day-is-tuesday-heres-what-to-know/",
+            "date": "2026-08-17",
+            "summary": "Alaska voters have until 8 p.m. Tuesday to cast ballots in the nonpartisan blanket primary, which advances the top four finishers to a ranked-choice general election; over 31,000 ballots had already been cast early."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Florida primary election 2026: Polls open as voters cast ballots in key races",
+            "source": "CBS Miami",
+            "url": "https://www.cbsnews.com/miami/news/florida-primary-election-2026-polls-open-voting-august-18/",
+            "date": "2026-08-18",
+            "summary": "Polls opened across Florida Tuesday for the 2026 primary, deciding nominees for governor, several congressional districts, and a U.S. Senate special election."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Massachusetts elections 2026: Everything you need to know to vote",
+            "source": "GBH",
+            "url": "https://www.wgbh.org/news/politics/2026-08-14/massachusetts-elections-2026-everything-you-need-to-know-to-vote",
+            "date": "2026-08-14",
+            "summary": "A voter guide lays out key dates for Massachusetts' September 1 primary, including the August 22 voter registration deadline and mail-ballot request deadline."
+          }
+        ],
+        "NH": [
+          {
+            "title": "Lawsuit Challenges NH Student ID Voter Restriction",
+            "source": "ABC News",
+            "url": "https://abcnews.com/Politics/wireStory/lawsuit-challenges-nh-student-id-voter-restriction-135721606",
+            "date": "2026-08-17",
+            "summary": "A new lawsuit challenges a New Hampshire restriction on using student IDs for voter registration, the latest in a series of legal fights over the state's voter identification requirements ahead of the 2026 midterms."
+          }
+        ]
+      }
     }
   ]
 }
