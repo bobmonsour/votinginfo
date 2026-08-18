@@ -30030,6 +30030,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-17",
+      "time": "17:00",
+      "states": {
+        "GA": [
+          {
+            "title": "Georgia 2026 election: Registration opens for absentee ballots",
+            "source": "FOX 5 Atlanta",
+            "url": "https://www.fox5atlanta.com/news/georgia-2026-election-registration-opens-absentee-ballots",
+            "date": "2026-08-17",
+            "summary": "Georgia voters can begin requesting absentee ballots on Aug. 17 for the Nov. 3 general election, with the application deadline set for Oct. 23."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland election board 'extended' ballot comment period. DeMarinis says it didn't.",
+            "source": "The Baltimore Sun",
+            "url": "https://www.baltimoresun.com/2026/08/14/maryland-ballot-question-prince-georges-extend/",
+            "date": "2026-08-14",
+            "summary": "The Maryland State Board of Elections said it extended the public-comment deadline for Prince George's County ballot questions to Aug. 11, but the county's elections administrator says she was never notified and closed the comment period under the original July 30 deadline."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Minnesota authorities reviewing voting vouching stunt by conservative influencer",
+            "source": "FOX 9 Minneapolis-St. Paul",
+            "url": "https://www.fox9.com/news/authorities-reviewing-election-voting-vouching-stunt-conservative-influencer",
+            "date": "2026-08-16",
+            "summary": "A conservative influencer dressed in a niqab visited Minneapolis polling sites during the primary to impersonate registered voters; state officials condemned the stunt and law enforcement is investigating possible violations of state ballot-application laws."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NC Gov. Stein vetoes elections, judicial discipline bills",
+            "source": "WUNC",
+            "url": "https://www.wunc.org/politics/2026-08-17/nc-gov-stein-vetoes-elections-judicial-discipline-bills",
+            "date": "2026-08-17",
+            "summary": "Gov. Josh Stein vetoed House Bill 958, a Republican-backed measure that would have shortened the early voting period in primaries from 17 to 10 days and allowed ballot challenges to extend three days after Election Day."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Wyoming Voters Decide Crowded Statewide Primaries Tuesday",
+            "source": "Election Desk",
+            "url": "https://electiondesk.org/2026/08/17/wyoming-voters-decide-crowded-statewide-primaries-tuesday/",
+            "date": "2026-08-17",
+            "summary": "Wyoming holds its 2026 primary election Aug. 18, with crowded Republican fields for governor, the state's lone U.S. House seat, and U.S. Senate all decided by plurality vote with no runoff."
+          }
+        ]
+      }
     }
   ]
 }

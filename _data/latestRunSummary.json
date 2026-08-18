@@ -2,22 +2,29 @@
   "date": "2026-08-17",
   "items": [
     {
-      "text": "Ninth Circuit revives Arizona's 2022 voter registration restrictions ahead of midterms",
-      "url": "https://www.democracydocket.com/news-alerts/court-revives-arizona-voting-restrictions-ahead-of-midterms/",
-      "abbr": "AZ"
+      "text": "North Carolina Gov. Stein vetoes GOP bill shortening early voting",
+      "url": "https://www.wunc.org/politics/2026-08-17/nc-gov-stein-vetoes-elections-judicial-discipline-bills",
+      "abbr": "NC"
     },
     {
-      "text": "5th Circuit restores Texas mail ballot ID and voter-assistance requirements",
-      "url": "https://www.houstonpublicmedia.org/articles/voting/2026/08/13/559365/texas-mail-ballot-voter-id-application-appeal-ruling/",
-      "abbr": "TX"
+      "text": "Georgia opens absentee ballot registration for the November general election",
+      "url": "https://www.fox5atlanta.com/news/georgia-2026-election-registration-opens-absentee-ballots",
+      "abbr": "GA"
     },
     {
-      "text": "Rep. John Larson loses Connecticut primary to Luke Bronin after 14 terms",
-      "url": "https://abcnews.com/Politics/connecticut-2026-live-primary-election-results/story?id=134597709",
-      "abbr": "CT"
+      "text": "Minnesota investigates conservative influencer's polling-place voter impersonation stunt",
+      "url": "https://www.fox9.com/news/authorities-reviewing-election-voting-vouching-stunt-conservative-influencer",
+      "abbr": "MN"
     },
     {
-      "text": "Alaska and Florida primary voters push early-voting turnout toward records"
+      "text": "Maryland officials dispute whether a ballot-question comment deadline was extended",
+      "url": "https://www.baltimoresun.com/2026/08/14/maryland-ballot-question-prince-georges-extend/",
+      "abbr": "MD"
+    },
+    {
+      "text": "Wyoming heads into crowded, plurality-decided statewide primaries",
+      "url": "https://electiondesk.org/2026/08/17/wyoming-voters-decide-crowded-statewide-primaries-tuesday/",
+      "abbr": "WY"
     }
   ]
 }
