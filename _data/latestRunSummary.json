@@ -1,25 +1,15 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "items": [
     {
-      "text": "Alaska holds its nonpartisan blanket primary for governor, Senate, and House",
-      "url": "https://alaskapublic.org/news/politics/elections/2026-08-18/its-alaskas-statewide-primary-election-day-heres-what-you-need-to-know",
-      "abbr": "AK"
+      "text": "Delaware becomes the 12th state to enact a state-level voting rights act",
+      "url": "https://news.ballotpedia.org/2026/08/18/delaware-becomes-the-12th-state-to-enact-a-state-level-voting-rights-act-2/",
+      "abbr": "DE"
     },
     {
-      "text": "Wyoming voters cast ballots in crowded, spending-heavy Republican statewide primaries",
-      "url": "https://cowboystatedaily.com/2026/08/18/wyoming-primary-election-heres-what-were-seeing/",
-      "abbr": "WY"
-    },
-    {
-      "text": "Minnesota enacts omnibus elections and campaign finance bills from its 2026 session",
-      "url": "https://news.ballotpedia.org/2026/08/18/minnesota-enacts-omnibus-elections-and-campaign-finance-bills-in-2026-session/",
-      "abbr": "MN"
-    },
-    {
-      "text": "Missouri's new omnibus election law restores felony voting rights and widens polling-place buffers",
-      "url": "https://news.ballotpedia.org/2026/08/18/missouri-enacts-omnibus-election-bill-three-others-in-2026-session/",
-      "abbr": "MO"
+      "text": "North Carolina's Gov. Stein vetoes elections bill that would cut early voting",
+      "url": "https://www.wfae.org/politics/2026-08-18/gov-stein-vetoes-bills-affecting-elections-and-judge-suspensions",
+      "abbr": "NC"
     }
   ]
 }

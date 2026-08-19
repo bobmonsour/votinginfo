@@ -2252,6 +2252,11 @@
         "date": "2026-08-04",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -9447,6 +9452,11 @@
       },
       {
         "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-19",
         "field": "Recent News",
         "description": "Added recent news items"
       }

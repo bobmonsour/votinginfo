@@ -30165,6 +30165,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-19",
+      "time": "06:00",
+      "states": {
+        "DE": [
+          {
+            "title": "Delaware becomes the 12th state to enact a state-level voting rights act",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/18/delaware-becomes-the-12th-state-to-enact-a-state-level-voting-rights-act-2/",
+            "date": "2026-08-18",
+            "summary": "Gov. Matt Meyer signed House Bill 444, the Delaware John Lewis Voting Rights Act, prohibiting voter suppression and dilution and making Delaware the 12th state with a state-level voting rights act."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Gov. Stein vetoes bills affecting elections and judge suspensions",
+            "source": "WFAE",
+            "url": "https://www.wfae.org/politics/2026-08-18/gov-stein-vetoes-bills-affecting-elections-and-judge-suspensions",
+            "date": "2026-08-18",
+            "summary": "Gov. Josh Stein vetoed House Bill 958, which would have cut early primary voting from 17 to 10 days and expanded post-election challenges to voters' ballots."
+          }
+        ]
+      }
     }
   ]
 }
