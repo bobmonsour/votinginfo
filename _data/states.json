@@ -580,6 +580,11 @@
         "date": "2026-08-14",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -6652,6 +6657,11 @@
         "date": "2026-08-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-18",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -7222,6 +7232,11 @@
       },
       {
         "date": "2026-08-06",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -13850,6 +13865,11 @@
       },
       {
         "date": "2026-08-10",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-18",
         "field": "Recent News",
         "description": "Added recent news items"
       }

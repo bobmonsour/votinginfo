@@ -30123,6 +30123,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-18",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "It's Alaska's statewide primary election day. Here's what you need to know.",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-08-18/its-alaskas-statewide-primary-election-day-heres-what-you-need-to-know",
+            "date": "2026-08-18",
+            "summary": "Alaska voters went to the polls Tuesday in the nonpartisan primary for governor, U.S. Senate, and U.S. House, with the top four finishers in each race advancing to a ranked-choice general election."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Minnesota enacts omnibus elections and campaign finance bills in 2026 session",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/18/minnesota-enacts-omnibus-elections-and-campaign-finance-bills-in-2026-session/",
+            "date": "2026-08-18",
+            "summary": "Gov. Tim Walz signed an omnibus elections bill requiring clerks to use the statewide voter registration system for absentee voting and to keep printed early-voter certificates, along with a companion campaign finance bill."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri enacts omnibus election bill, three others in 2026 session",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/18/missouri-enacts-omnibus-election-bill-three-others-in-2026-session/",
+            "date": "2026-08-18",
+            "summary": "Gov. Mike Kehoe signed an omnibus election bill restoring voting rights to people convicted of all but 11 felonies upon completing their sentence and expanding the no-electioneering zone around polling places from 25 to 50 feet."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Wyoming 2026 Primary Election: Here's What We're Seeing",
+            "source": "Cowboy State Daily",
+            "url": "https://cowboystatedaily.com/2026/08/18/wyoming-primary-election-heres-what-were-seeing/",
+            "date": "2026-08-18",
+            "summary": "Wyoming voters cast ballots Tuesday in crowded statewide primaries for governor, U.S. Senate, and U.S. House, with heavy spending and factional divides shaping the Republican contests."
+          }
+        ]
+      }
     }
   ]
 }
