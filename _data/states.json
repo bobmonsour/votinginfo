@@ -644,6 +644,11 @@
     ],
     "changes": [
       {
+        "date": "2026-08-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
         "date": "2026-08-17",
         "field": "Recent News",
         "description": "Added recent news items"
@@ -5822,6 +5827,11 @@
       }
     ],
     "changes": [
+      {
+        "date": "2026-08-19",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
       {
         "date": "2026-08-18",
         "field": "Recent News",

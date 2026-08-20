@@ -30189,6 +30189,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-19",
+      "time": "17:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "AZ Supreme Court keeps election law initiative on the ballot",
+            "source": "Arizona Capitol Times",
+            "url": "https://azcapitoltimes.com/news/2026/08/18/az-supreme-court-keeps-election-law-initiative-on-the-ballot/",
+            "date": "2026-08-18",
+            "summary": "The Arizona Supreme Court ruled that Proposition 144, which combines voter ID and citizenship-verification provisions with foreign-spending restrictions, may proceed to the November 2026 ballot, rejecting arguments it improperly combined unrelated topics."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Massachusetts enacts budget bill allowing election grants in 2026 session",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/18/massachusetts-enacts-budget-bill-allowing-election-grants-in-2026-session/",
+            "date": "2026-08-18",
+            "summary": "Gov. Maura Healey signed H5555, a budget bill authorizing the secretary of state to award grants to community organizations for voter registration and education, and requiring a report on mail-voting costs from recent election cycles."
+          }
+        ]
+      }
     }
   ]
 }
