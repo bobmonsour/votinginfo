@@ -30213,6 +30213,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-20",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Preliminary results from Alaska's 2026 primary election",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/08/19/preliminary-results-from-alaskas-2026-primary-election/",
+            "date": "2026-08-19",
+            "summary": "Alaska's Aug. 18 nonpartisan blanket primary produced preliminary results narrowing the field for governor and other statewide races ahead of the ranked-choice November general election."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Court OKs ballot language on election law initiative",
+            "source": "Arizona Capitol Times",
+            "url": "https://azcapitoltimes.com/news/2026/08/19/court-oks-ballot-language-on-election-law-initiative/",
+            "date": "2026-08-19",
+            "summary": "The Arizona Supreme Court declined to order Secretary of State Adrian Fontes to rewrite the ballot description for a measure that would make major changes to state election practices, finding the language not false or misleading."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Appeals court denies Trump administration request to reconsider Michigan voter rolls case",
+            "source": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-08-14/appeals-court-denies-trump-administration-request-to-reconsider-michigan-voter-rolls-case",
+            "date": "2026-08-14",
+            "summary": "The Sixth Circuit denied the Trump administration's request to reconsider its dismissal of a DOJ lawsuit seeking Michigan's full, unredacted voter registration list."
+          }
+        ],
+        "NC": [
+          {
+            "title": "As NC officials consider new early-voting plans, allegations of racial targeting arise",
+            "source": "WRAL",
+            "url": "https://www.wral.com/news/nccapitol/nc-early-voting-plan-county-2026-election-board-midterm-sunday-black-voters-august-2026/",
+            "date": "2026-08-20",
+            "summary": "Local election boards in 20 North Carolina counties are weighing plans to eliminate Sunday early voting or sites in heavily Black areas, prompting critics to say the changes would unfairly suppress Black turnout."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Federal judge dismisses lawsuit seeking Nevada's unredacted voter registration list",
+            "source": "Fox5 Vegas (KVVU)",
+            "url": "https://www.fox5vegas.com/2026/08/15/federal-judge-dismisses-lawsuit-seeking-nevadas-unredacted-voter-registration-list/",
+            "date": "2026-08-14",
+            "summary": "A federal judge dismissed the Justice Department's lawsuit seeking Nevada's unredacted statewide voter registration list, a win for the Secretary of State's office on voter privacy."
+          }
+        ]
+      }
     }
   ]
 }

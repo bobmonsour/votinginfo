@@ -1,15 +1,30 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "items": [
     {
-      "text": "Arizona Supreme Court keeps voter ID and citizenship ballot measure alive",
-      "url": "https://azcapitoltimes.com/news/2026/08/18/az-supreme-court-keeps-election-law-initiative-on-the-ballot/",
+      "text": "Alaska's Aug. 18 primary yields preliminary results ahead of ranked-choice runoff",
+      "url": "https://www.adn.com/politics/2026/08/19/preliminary-results-from-alaskas-2026-primary-election/",
+      "abbr": "AK"
+    },
+    {
+      "text": "Arizona Supreme Court upholds ballot language for election law initiative",
+      "url": "https://azcapitoltimes.com/news/2026/08/19/court-oks-ballot-language-on-election-law-initiative/",
       "abbr": "AZ"
     },
     {
-      "text": "Massachusetts budget bill funds voter registration and education grants",
-      "url": "https://news.ballotpedia.org/2026/08/18/massachusetts-enacts-budget-bill-allowing-election-grants-in-2026-session/",
-      "abbr": "MA"
+      "text": "Michigan wins appeal, denying DOJ another shot at unredacted voter rolls",
+      "url": "https://www.michiganpublic.org/politics-government/2026-08-14/appeals-court-denies-trump-administration-request-to-reconsider-michigan-voter-rolls-case",
+      "abbr": "MI"
+    },
+    {
+      "text": "North Carolina counties weigh cutting early-voting sites amid racial-targeting claims",
+      "url": "https://www.wral.com/news/nccapitol/nc-early-voting-plan-county-2026-election-board-midterm-sunday-black-voters-august-2026/",
+      "abbr": "NC"
+    },
+    {
+      "text": "Nevada becomes 22nd state to defeat DOJ demand for unredacted voter rolls",
+      "url": "https://www.fox5vegas.com/2026/08/15/federal-judge-dismisses-lawsuit-seeking-nevadas-unredacted-voter-registration-list/",
+      "abbr": "NV"
     }
   ]
 }
