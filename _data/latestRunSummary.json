@@ -1,29 +1,30 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "items": [
     {
-      "text": "Aisha Wahab wins special election for California's 14th Congressional District",
-      "url": "https://www.ktvu.com/news/aisha-wahab-wins-california-district-14-special-election",
-      "abbr": "CA"
+      "text": "Virginia restores voting rights to over 66,000 people with felony convictions",
+      "url": "https://news.ballotpedia.org/2026/08/11/virginia-gov-abigail-spanberger-restores-voting-rights-to-thousands-of-individuals-with-felony-convictions/",
+      "abbr": "VA"
     },
     {
-      "text": "Harrell Wilson wins Arkansas special state Senate primary, advances to November",
-      "url": "https://www.arkansasonline.com/news/2026/aug/18/wilson-takes-gop-win-in-special-senate-race/",
-      "abbr": "AR"
+      "text": "New Jersey removes over 5,000 noncitizens from voter rolls after MVC software error",
+      "url": "https://gothamist.com/news/over-5k-removed-from-nj-voter-rolls-after-noncitizen-registration-governor-says",
+      "abbr": "NJ"
     },
     {
-      "text": "South Carolina and Oklahoma open early voting ahead of late-August runoffs",
-      "abbr": "SC"
+      "text": "New Hampshire towns race to clean voter rolls under new annual review law before September primary",
+      "url": "https://ledgertranscript.com/2026/08/19/nh-voter-roll-cleanup/",
+      "abbr": "NH"
     },
     {
-      "text": "Rhode Island early voting begins for September 9 party primaries",
-      "url": "https://turnto10.com/news/local/early-voting-begins-in-rhode-island",
-      "abbr": "RI"
+      "text": "Maine officials can't explain voters shifted between legislative districts without moving",
+      "url": "https://www.themainewire.com/2026/08/how-safe-are-maines-elections-questions-grow-over-voter-database-district-changes-and-ballot-security/",
+      "abbr": "ME"
     },
     {
-      "text": "Oklahoma voters to weigh statewide voter ID question alongside August 25 runoffs",
-      "url": "https://oklahoma.gov/elections/newsroom/2026/august/early-voting-begins-thursday-for-august-25-election.html",
-      "abbr": "OK"
+      "text": "Ohio launches next phase of voter roll maintenance program, notices due by September 11",
+      "url": "https://highlandcountypress.com/news/larose-encourages-inactive-voters-confirm-voter-registration-information",
+      "abbr": "OH"
     }
   ]
 }

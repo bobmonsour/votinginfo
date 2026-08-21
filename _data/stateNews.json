@@ -30315,6 +30315,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-21",
+      "time": "06:00",
+      "states": {
+        "ME": [
+          {
+            "title": "How Safe Are Maine's Elections? Questions Grow Over Voter Database, District Changes and Ballot Security",
+            "source": "The Maine Wire",
+            "url": "https://www.themainewire.com/2026/08/how-safe-are-maines-elections-questions-grow-over-voter-database-district-changes-and-ballot-security/",
+            "date": "2026-08-13",
+            "summary": "State Rep. Barbara Bagshaw found roughly 110 Windham voters shifted between legislative districts without moving, and state officials could not explain how the changes occurred in Maine's Central Voter Registration system."
+          }
+        ],
+        "NH": [
+          {
+            "title": "New Hampshire law requires annual voter roll cleaning before September primary",
+            "source": "Ledger-Transcript",
+            "url": "https://ledgertranscript.com/2026/08/19/nh-voter-roll-cleanup/",
+            "date": "2026-08-19",
+            "summary": "A new law (SB 221) requires New Hampshire town Supervisors of the Checklist to review voter rolls annually and remove voters who haven't cast a ballot in five years, leaving clerks with tight deadlines ahead of the September 8 primary."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Over 5K removed from NJ voter rolls after noncitizen registration, governor says",
+            "source": "Gothamist",
+            "url": "https://gothamist.com/news/over-5k-removed-from-nj-voter-rolls-after-noncitizen-registration-governor-says",
+            "date": "2026-08-19",
+            "summary": "Gov. Mikie Sherrill's administration removed about 5,100 noncitizens erroneously registered to vote through a Motor Vehicle Commission software error, with roughly 1,450 more registrations flagged for county review."
+          }
+        ],
+        "OH": [
+          {
+            "title": "LaRose encourages inactive voters to confirm voter registration information",
+            "source": "The Highland County Press",
+            "url": "https://highlandcountypress.com/news/larose-encourages-inactive-voters-confirm-voter-registration-information",
+            "date": "2026-08-08",
+            "summary": "Ohio Secretary of State Frank LaRose issued Directive 2026-44, launching the completion phase of the state's voter records maintenance program; affected voters will get cancellation notices by September 11 with final removals in January 2027."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Virginia Gov. Abigail Spanberger restores voting rights to thousands of individuals with felony convictions",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/11/virginia-gov-abigail-spanberger-restores-voting-rights-to-thousands-of-individuals-with-felony-convictions/",
+            "date": "2026-08-11",
+            "summary": "Gov. Spanberger has restored voting rights to 66,085 Virginians with felony convictions since January 2026 through automatic, proactive restoration rather than a case-by-case process."
+          }
+        ]
+      }
     }
   ]
 }
