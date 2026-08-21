@@ -2,29 +2,28 @@
   "date": "2026-08-20",
   "items": [
     {
-      "text": "Alaska's Aug. 18 primary yields preliminary results ahead of ranked-choice runoff",
-      "url": "https://www.adn.com/politics/2026/08/19/preliminary-results-from-alaskas-2026-primary-election/",
-      "abbr": "AK"
+      "text": "Aisha Wahab wins special election for California's 14th Congressional District",
+      "url": "https://www.ktvu.com/news/aisha-wahab-wins-california-district-14-special-election",
+      "abbr": "CA"
     },
     {
-      "text": "Arizona Supreme Court upholds ballot language for election law initiative",
-      "url": "https://azcapitoltimes.com/news/2026/08/19/court-oks-ballot-language-on-election-law-initiative/",
-      "abbr": "AZ"
+      "text": "Harrell Wilson wins Arkansas special state Senate primary, advances to November",
+      "url": "https://www.arkansasonline.com/news/2026/aug/18/wilson-takes-gop-win-in-special-senate-race/",
+      "abbr": "AR"
     },
     {
-      "text": "Michigan wins appeal, denying DOJ another shot at unredacted voter rolls",
-      "url": "https://www.michiganpublic.org/politics-government/2026-08-14/appeals-court-denies-trump-administration-request-to-reconsider-michigan-voter-rolls-case",
-      "abbr": "MI"
+      "text": "South Carolina and Oklahoma open early voting ahead of late-August runoffs",
+      "abbr": "SC"
     },
     {
-      "text": "North Carolina counties weigh cutting early-voting sites amid racial-targeting claims",
-      "url": "https://www.wral.com/news/nccapitol/nc-early-voting-plan-county-2026-election-board-midterm-sunday-black-voters-august-2026/",
-      "abbr": "NC"
+      "text": "Rhode Island early voting begins for September 9 party primaries",
+      "url": "https://turnto10.com/news/local/early-voting-begins-in-rhode-island",
+      "abbr": "RI"
     },
     {
-      "text": "Nevada becomes 22nd state to defeat DOJ demand for unredacted voter rolls",
-      "url": "https://www.fox5vegas.com/2026/08/15/federal-judge-dismisses-lawsuit-seeking-nevadas-unredacted-voter-registration-list/",
-      "abbr": "NV"
+      "text": "Oklahoma voters to weigh statewide voter ID question alongside August 25 runoffs",
+      "url": "https://oklahoma.gov/elections/newsroom/2026/august/early-voting-begins-thursday-for-august-25-election.html",
+      "abbr": "OK"
     }
   ]
 }

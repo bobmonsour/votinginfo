@@ -1149,6 +1149,11 @@
         "date": "2026-08-04",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-20",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -1424,6 +1429,11 @@
       },
       {
         "date": "2026-07-30",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-20",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -10269,6 +10279,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Added State Question 846, a constitutional referral on voter identification going to a statewide vote August 25, 2026, per the Oklahoma Policy Institute and Oklahoma Watch"
+      },
+      {
+        "date": "2026-08-20",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -10915,6 +10930,11 @@
         "date": "2026-08-06",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-20",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -11241,6 +11261,11 @@
       },
       {
         "date": "2026-08-14",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-20",
         "field": "Recent News",
         "description": "Added recent news items"
       }

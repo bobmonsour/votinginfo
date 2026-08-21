@@ -30264,6 +30264,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-20",
+      "time": "17:00",
+      "states": {
+        "AR": [
+          {
+            "title": "Wilson takes GOP win in special Senate race",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/aug/18/wilson-takes-gop-win-in-special-senate-race/",
+            "date": "2026-08-18",
+            "summary": "Harrell Wilson won the Republican primary for Arkansas's special state Senate District 1 election, advancing to face the lone Democrat, Eudora Mayor Tomeka Butler, in the November special general election."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Aisha Wahab wins special election for California's 14th Congressional District",
+            "source": "KTVU FOX 2",
+            "url": "https://www.ktvu.com/news/aisha-wahab-wins-california-district-14-special-election",
+            "date": "2026-08-20",
+            "summary": "State Sen. Aisha Wahab won the special election to complete former Rep. Eric Swalwell's U.S. House term representing California's 14th Congressional District."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Early Voting Begins Thursday for August 25 Election",
+            "source": "Oklahoma State Election Board",
+            "url": "https://oklahoma.gov/elections/newsroom/2026/august/early-voting-begins-thursday-for-august-25-election.html",
+            "date": "2026-08-18",
+            "summary": "In-person absentee voting opened for Oklahoma's August 25 runoff primary and state question elections, including State Question 846 on statewide voter ID requirements."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Early voting begins in Rhode Island",
+            "source": "Turn to 10 (WJAR)",
+            "url": "https://turnto10.com/news/local/early-voting-begins-in-rhode-island",
+            "date": "2026-08-20",
+            "summary": "Early voting opened for Rhode Island's September 9 party primaries, running through September 8 at local boards of canvassers."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Early voting begins in SC's US Senate runoff",
+            "source": "WIS-TV",
+            "url": "https://www.wistv.com/2026/08/18/early-voting-begins-tomorrow-scs-republican-us-senate-runoff/",
+            "date": "2026-08-18",
+            "summary": "Early voting opened for South Carolina's Republican U.S. Senate runoff between Sen. Darline Graham and Rep. Ralph Norman, ahead of the August 25 runoff election."
+          }
+        ]
+      }
     }
   ]
 }
