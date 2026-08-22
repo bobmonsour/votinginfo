@@ -2,29 +2,14 @@
   "date": "2026-08-21",
   "items": [
     {
-      "text": "Virginia restores voting rights to over 66,000 people with felony convictions",
-      "url": "https://news.ballotpedia.org/2026/08/11/virginia-gov-abigail-spanberger-restores-voting-rights-to-thousands-of-individuals-with-felony-convictions/",
-      "abbr": "VA"
+      "text": "Massachusetts opens one-day-only same-day registration ahead of Sept. 1 primary",
+      "url": "https://www.wgbh.org/news/local/2026-08-21/for-one-day-only-you-can-register-and-vote-the-same-day-in-person-in-massachusetts",
+      "abbr": "MA"
     },
     {
-      "text": "New Jersey removes over 5,000 noncitizens from voter rolls after MVC software error",
-      "url": "https://gothamist.com/news/over-5k-removed-from-nj-voter-rolls-after-noncitizen-registration-governor-says",
-      "abbr": "NJ"
-    },
-    {
-      "text": "New Hampshire towns race to clean voter rolls under new annual review law before September primary",
-      "url": "https://ledgertranscript.com/2026/08/19/nh-voter-roll-cleanup/",
-      "abbr": "NH"
-    },
-    {
-      "text": "Maine officials can't explain voters shifted between legislative districts without moving",
-      "url": "https://www.themainewire.com/2026/08/how-safe-are-maines-elections-questions-grow-over-voter-database-district-changes-and-ballot-security/",
-      "abbr": "ME"
-    },
-    {
-      "text": "Ohio launches next phase of voter roll maintenance program, notices due by September 11",
-      "url": "https://highlandcountypress.com/news/larose-encourages-inactive-voters-confirm-voter-registration-information",
-      "abbr": "OH"
+      "text": "South Carolina early voting begins for GOP Senate runoff to fill Graham's seat",
+      "url": "https://www.wbtv.com/2026/08/19/early-voting-begins-special-gop-senate-primary-runoff-south-carolina/",
+      "abbr": "SC"
     }
   ]
 }

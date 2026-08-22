@@ -30366,6 +30366,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-21",
+      "time": "17:00",
+      "states": {
+        "MA": [
+          {
+            "title": "For one day only, you can register and vote the same day in person in Massachusetts",
+            "source": "GBH",
+            "url": "https://www.wgbh.org/news/local/2026-08-21/for-one-day-only-you-can-register-and-vote-the-same-day-in-person-in-massachusetts",
+            "date": "2026-08-21",
+            "summary": "Massachusetts will allow same-day voter registration for one day only, Saturday, Aug. 23, coinciding with the first day of in-person early voting ahead of the Sept. 1 state primary."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Early voting begins for special GOP Senate primary runoff in South Carolina",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/08/19/early-voting-begins-special-gop-senate-primary-runoff-south-carolina/",
+            "date": "2026-08-19",
+            "summary": "Early voting began Aug. 19 for South Carolina's special Republican U.S. Senate primary runoff between Sen. Darline Graham and Rep. Ralph Norman, ahead of the Aug. 25 runoff to fill the seat left vacant by the death of Sen. Lindsey Graham."
+          }
+        ]
+      }
     }
   ]
 }
