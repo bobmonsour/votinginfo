@@ -30390,6 +30390,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-24",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "4 takeaways from Alaska's primary election",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-08-21/4-takeaways-from-alaskas-primary-election",
+            "date": "2026-08-21",
+            "summary": "Alaska's primary concluded with two Democrats and two Republicans advancing in the governor's race, thousands of absentee and early ballots still uncounted, and strong voter support for campaign contribution limits."
+          }
+        ],
+        "GA": [
+          {
+            "title": "AP Decision Notes: What to expect in Georgia's special congressional runoff",
+            "source": "Associated Press",
+            "url": "https://www.wsls.com/news/politics/2026/08/24/ap-decision-notes-what-to-expect-in-georgias-special-congressional-runoff/",
+            "date": "2026-08-24",
+            "summary": "Georgia's 13th Congressional District holds a special runoff between Democrats Marcye Scott and Everton Blair to fill the seat left vacant by the death of Rep. David Scott."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Early voting starts in Massachusetts. Here's how to find out where you can cast your ballot.",
+            "source": "CBS Boston",
+            "url": "https://www.cbsnews.com/boston/news/early-voting-massachusetts-where-when-2026-primary/",
+            "date": "2026-08-23",
+            "summary": "Early voting for Massachusetts's 2026 state primary began, with every city and town required to offer it through Aug. 28 ahead of the Sept. 1 primary."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Election 2026: Nebraska parties court metro voters ahead of midterms",
+            "source": "WOWT",
+            "url": "https://www.wowt.com/2026/08/23/election-2026-nebraska-parties-court-metro-voters-ahead-midterms/",
+            "date": "2026-08-23",
+            "summary": "Nebraska's Democratic and Republican parties held dueling weekend events in the Omaha area ahead of November, with the open 2nd Congressional District race between Denise Powell and Brinker Harding drawing particular attention."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Early voting for elections to begin in Oklahoma",
+            "source": "KSWO",
+            "url": "https://www.kswo.com/2026/08/21/early-voting-elections-begin-oklahoma/",
+            "date": "2026-08-20",
+            "summary": "Early voting opened for Oklahoma's Aug. 25 runoff primary and state question elections, requiring voters to show valid photo ID at designated county sites."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Early voting wraps up in South Carolina's Republican U.S. Senate runoff",
+            "source": "Live 5 News",
+            "url": "https://www.live5news.com/2026/08/22/early-voting-wraps-up-south-carolinas-republican-us-senate-runoff/",
+            "date": "2026-08-21",
+            "summary": "Early voting concluded in South Carolina's Republican Senate runoff between Sen. Darline Graham and Rep. Ralph Norman, with over 63,000 ballots cast ahead of the Aug. 25 runoff to fill the seat left vacant by Lindsey Graham's death."
+          }
+        ]
+      }
     }
   ]
 }
