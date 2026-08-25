@@ -30492,6 +30492,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-25",
+      "time": "06:00",
+      "states": {
+        "ID": [
+          {
+            "title": "Idaho Secretary of State's Office updates voter look-up tool after public reports website glitch",
+            "source": "KMVT",
+            "url": "https://www.kmvt.com/2026/08/21/idaho-secretary-states-office-updates-voter-look-up-tool-after-public-reports-website-glitch/",
+            "date": "2026-08-21",
+            "summary": "Idaho's online voter look-up tool malfunctioned for some mobile users unable to find their registration records, but the Secretary of State's Office says the glitch has been fixed and affected registrations remained valid."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas Court of Appeals agrees with order forbidding cross-party nominations, fusion voting",
+            "source": "KMUW",
+            "url": "https://www.kmuw.org/politics/2026-08-18/kansas-court-of-appeals-agrees-with-order-forbidding-cross-party-nominations-fusion-voting",
+            "date": "2026-08-18",
+            "summary": "The Kansas Court of Appeals upheld a lower court ruling that state law barring fusion voting and cross-party candidate nominations is constitutional, rejecting a challenge from the United Kansas Party."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Jefferson County Clerk seeks legal action over voter registration changes",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/ky/louisville/news/2026/08/19/jefferson-county-clerk-seeks-legal-action-over-voter-registration-changes",
+            "date": "2026-08-19",
+            "summary": "Jefferson County Clerk David Yates is seeking a court declaration after digital mapping tools reassigned hundreds of voters along county borders to different voting jurisdictions, creating confusion for affected residents."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan voter ID question narrowly misses ballot, lawsuit likely",
+            "source": "Michigan Public Radio Network",
+            "url": "https://www.wvpe.org/michigan-public-radio-network-news/2026-08-24/michigan-voter-id-question-narrowly-misses-ballot-lawsuit-likely",
+            "date": "2026-08-24",
+            "summary": "Michigan's Board of State Canvassers rejected a proposed constitutional amendment to tighten voter ID laws after questioning petition signatures, and backers say they will pursue a legal challenge before the ballot deadline."
+          }
+        ],
+        "NM": [
+          {
+            "title": "New Mexico poll workers in rural county required IDs to vote during June primary, observers say",
+            "source": "Source New Mexico",
+            "url": "https://sourcenm.com/2026/08/19/new-mexico-poll-workers-in-rural-county-required-ids-to-vote-during-june-primary-observers-say/",
+            "date": "2026-08-19",
+            "summary": "Nonpartisan election observers found that poll workers in Union County improperly asked about 150 voters to show ID during the June primary, even though New Mexico law does not require it."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Voting rights groups sue South Dakota over new voter registration law",
+            "source": "Dakota News Now",
+            "url": "https://www.dakotanewsnow.com/2026/08/24/voting-rights-groups-sue-south-dakota-over-new-voter-registration-law/",
+            "date": "2026-08-24",
+            "summary": "A coalition of voting rights organizations sued South Dakota over Senate Bill 175's new proof-of-citizenship requirement for voter registration, arguing it creates confusing, burdensome barriers especially for rural voters."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Federal government directive will mean change in post-election canvassing in West Virginia",
+            "source": "WV MetroNews",
+            "url": "https://wvmetronews.com/2026/08/21/federal-government-directive-will-mean-change-in-post-election-canvassing-in-west-virginia/",
+            "date": "2026-08-21",
+            "summary": "A new U.S. Department of Homeland Security directive will require West Virginia counties to canvass at least five percent of ballots cast or risk losing a portion of FEMA grant funding, prompting a compliance order from the Secretary of State."
+          }
+        ]
+      }
     }
   ]
 }

@@ -1,25 +1,40 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "items": [
     {
-      "text": "Supreme Court lifts one of two blocks on Trump's mail-voting executive order",
-      "url": "https://www.votebeat.org/national/2026/08/24/supreme-court-lifts-stay-trump-executive-order-on-elections-mail-ballot-restrictions/",
-      "abbr": "DC"
+      "text": "South Dakota sued over new proof-of-citizenship voter registration law",
+      "url": "https://www.dakotanewsnow.com/2026/08/24/voting-rights-groups-sue-south-dakota-over-new-voter-registration-law/",
+      "abbr": "SD"
     },
     {
-      "text": "Federal judge strikes down Arkansas ballot-measure restriction laws",
-      "url": "https://www.arkansasonline.com/news/2026/aug/21/federal-judge-rules-arkansas-laws-on-ballot/",
-      "abbr": "AR"
+      "text": "Michigan voter ID ballot question narrowly misses certification, lawsuit likely",
+      "url": "https://www.wvpe.org/michigan-public-radio-network-news/2026-08-24/michigan-voter-id-question-narrowly-misses-ballot-lawsuit-likely",
+      "abbr": "MI"
     },
     {
-      "text": "Hidden-camera activists test Minnesota's voter \"vouching\" law",
-      "url": "https://www.votebeat.org/national/2026/08/24/minnesota-vouching-election-law-hidden-camera-voter-id/",
-      "abbr": "MN"
+      "text": "West Virginia counties face new federal post-election canvassing mandate",
+      "url": "https://wvmetronews.com/2026/08/21/federal-government-directive-will-mean-change-in-post-election-canvassing-in-west-virginia/",
+      "abbr": "WV"
     },
     {
-      "text": "Oklahoma voters head to the polls for Aug. 25 runoff primary",
-      "url": "https://www.oklahomafarmreport.com/2026/08/24/oklahoma-voters-head-to-the-polls-tuesday/",
-      "abbr": "OK"
+      "text": "Kentucky county border mapping errors reassign voters, prompting court petition",
+      "url": "https://spectrumnews1.com/ky/louisville/news/2026/08/19/jefferson-county-clerk-seeks-legal-action-over-voter-registration-changes",
+      "abbr": "KY"
+    },
+    {
+      "text": "New Mexico poll workers wrongly asked rural voters for ID during June primary",
+      "url": "https://sourcenm.com/2026/08/19/new-mexico-poll-workers-in-rural-county-required-ids-to-vote-during-june-primary-observers-say/",
+      "abbr": "NM"
+    },
+    {
+      "text": "Kansas Court of Appeals upholds ban on fusion voting and cross-party nominations",
+      "url": "https://www.kmuw.org/politics/2026-08-18/kansas-court-of-appeals-agrees-with-order-forbidding-cross-party-nominations-fusion-voting",
+      "abbr": "KS"
+    },
+    {
+      "text": "Idaho fixes voter look-up tool glitch that alarmed residents checking registration",
+      "url": "https://www.kmvt.com/2026/08/21/idaho-secretary-states-office-updates-voter-look-up-tool-after-public-reports-website-glitch/",
+      "abbr": "ID"
     }
   ]
 }
