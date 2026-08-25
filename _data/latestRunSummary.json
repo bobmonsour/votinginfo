@@ -2,34 +2,24 @@
   "date": "2026-08-24",
   "items": [
     {
-      "text": "Georgia's 13th District holds special runoff between two Democrats to fill Scott's seat",
-      "url": "https://www.wsls.com/news/politics/2026/08/24/ap-decision-notes-what-to-expect-in-georgias-special-congressional-runoff/",
-      "abbr": "GA"
+      "text": "Supreme Court lifts one of two blocks on Trump's mail-voting executive order",
+      "url": "https://www.votebeat.org/national/2026/08/24/supreme-court-lifts-stay-trump-executive-order-on-elections-mail-ballot-restrictions/",
+      "abbr": "DC"
     },
     {
-      "text": "Massachusetts early voting opens ahead of Sept. 1 state primary",
-      "url": "https://www.cbsnews.com/boston/news/early-voting-massachusetts-where-when-2026-primary/",
-      "abbr": "MA"
+      "text": "Federal judge strikes down Arkansas ballot-measure restriction laws",
+      "url": "https://www.arkansasonline.com/news/2026/aug/21/federal-judge-rules-arkansas-laws-on-ballot/",
+      "abbr": "AR"
     },
     {
-      "text": "South Carolina's Senate GOP runoff early voting wraps up with over 63,000 ballots cast",
-      "url": "https://www.live5news.com/2026/08/22/early-voting-wraps-up-south-carolinas-republican-us-senate-runoff/",
-      "abbr": "SC"
+      "text": "Hidden-camera activists test Minnesota's voter \"vouching\" law",
+      "url": "https://www.votebeat.org/national/2026/08/24/minnesota-vouching-election-law-hidden-camera-voter-id/",
+      "abbr": "MN"
     },
     {
-      "text": "Oklahoma early voting begins for Aug. 25 runoff and state question elections",
-      "url": "https://www.kswo.com/2026/08/21/early-voting-elections-begin-oklahoma/",
+      "text": "Oklahoma voters head to the polls for Aug. 25 runoff primary",
+      "url": "https://www.oklahomafarmreport.com/2026/08/24/oklahoma-voters-head-to-the-polls-tuesday/",
       "abbr": "OK"
-    },
-    {
-      "text": "Alaska primary leaves Senate and governor's races still uncertain as ballots are counted",
-      "url": "https://alaskapublic.org/news/politics/elections/2026-08-21/4-takeaways-from-alaskas-primary-election",
-      "abbr": "AK"
-    },
-    {
-      "text": "Nebraska parties court Omaha-area voters ahead of competitive 2nd District race",
-      "url": "https://www.wowt.com/2026/08/23/election-2026-nebraska-parties-court-metro-voters-ahead-midterms/",
-      "abbr": "NE"
     }
   ]
 }

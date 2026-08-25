@@ -30450,6 +30450,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-24",
+      "time": "17:00",
+      "states": {
+        "AR": [
+          {
+            "title": "Federal judge rules Arkansas laws on ballot measures unconstitutional",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/aug/21/federal-judge-rules-arkansas-laws-on-ballot/",
+            "date": "2026-08-21",
+            "summary": "A federal judge ruled several Arkansas laws restricting citizen ballot initiatives unconstitutional and issued a permanent injunction against their enforcement, siding with the League of Women Voters of Arkansas."
+          }
+        ],
+        "MN": [
+          {
+            "title": "A state election law in Minnesota faces a surreal test",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/08/24/minnesota-vouching-election-law-hidden-camera-voter-id/",
+            "date": "2026-08-24",
+            "summary": "Disguised conservative activists used hidden cameras at Minneapolis polling places to test Minnesota's \"vouching\" law, which lets a registered voter vouch for up to eight other eligible voters without ID, prompting investigations."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Oklahoma Voters Head to the Polls Tuesday",
+            "source": "Oklahoma Farm Report",
+            "url": "https://www.oklahomafarmreport.com/2026/08/24/oklahoma-voters-head-to-the-polls-tuesday/",
+            "date": "2026-08-24",
+            "summary": "Oklahoma voters head to the polls for the Aug. 25 runoff primary featuring governor and U.S. Senate races, plus two state questions including one on voter ID requirements."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Supreme Court lifts 1 of 2 blocks on Trump's mail-voting executive order",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/08/24/supreme-court-lifts-stay-trump-executive-order-on-elections-mail-ballot-restrictions/",
+            "date": "2026-08-24",
+            "summary": "The U.S. Supreme Court lifted one of two injunctions blocking President Trump's executive order restricting mail voting, though a second injunction and implementation hurdles remain before the November midterms."
+          }
+        ]
+      }
     }
   ]
 }

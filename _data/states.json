@@ -996,6 +996,11 @@
     ],
     "changes": [
       {
+        "date": "2026-08-24",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
         "date": "2026-08-07",
         "field": "Recent News",
         "description": "Added recent news items"
@@ -6494,6 +6499,11 @@
     ],
     "changes": [
       {
+        "date": "2026-08-24",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
         "date": "2026-08-17",
         "field": "Recent News",
         "description": "Added recent news items"
@@ -10125,6 +10135,11 @@
       }
     ],
     "changes": [
+      {
+        "date": "2026-08-24",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
       {
         "date": "2026-08-24",
         "field": "Recent News",
@@ -14097,6 +14112,11 @@
       }
     ],
     "changes": [
+      {
+        "date": "2026-08-24",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
       {
         "date": "2026-08-12",
         "field": "Recent News",
