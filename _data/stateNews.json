@@ -30561,6 +30561,84 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-25",
+      "time": "17:00",
+      "states": {
+        "IA": [
+          {
+            "title": "Absentee ballot requests begin in Iowa for Nov. 3 election",
+            "source": "KCRG",
+            "url": "https://www.kcrg.com/2026/08/25/absentee-ballot-requests-begin-iowa-nov-3-election/",
+            "date": "2026-08-25",
+            "summary": "Iowans can now request absentee ballots for the Nov. 3 general election, with an Oct. 19 deadline; the Secretary of State said recent federal mail-voting court rulings are not expected to directly affect Iowa voters."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Proof-of-citizenship amendment fails to make November ballot, for now",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/08/25/proof-of-citizenship-americans-for-citizen-voting-amendment-deadlock/",
+            "date": "2026-08-25",
+            "summary": "Michigan's Board of State Canvassers deadlocked on a proposed constitutional amendment requiring proof of citizenship to vote, keeping it off the November ballot as supporters plan a court appeal."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Montana Secretary of State certifies three ballot initiatives for November, addressing judicial elections, the initiative power, and corporate contributions to campaigns",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/08/19/montana-secretary-of-state-certifies-three-ballot-initiatives-for-november-addressing-judicial-elections-the-initiative-power-and-corporate-contributions-to-campaigns/",
+            "date": "2026-08-19",
+            "summary": "Montana certified three ballot initiatives for November 2026 covering nonpartisan judicial elections, initiative/referendum protections, and limits on corporate campaign spending."
+          }
+        ],
+        "OH": [
+          {
+            "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote",
+            "date": "2026-08-25",
+            "summary": "A federal judge blocked Ohio's requirement that voters show proof of citizenship at motor vehicle offices, ruling it likely conflicts with the National Voter Registration Act; the state plans to appeal."
+          }
+        ],
+        "SD": [
+          {
+            "title": "State of South Dakota faces lawsuit over proof-of-citizenship voter registration law",
+            "source": "KOTA TV",
+            "url": "https://www.kotatv.com/2026/08/25/state-south-dakota-faces-lawsuit-over-proof-of-citizenship-voter-registration-law/",
+            "date": "2026-08-25",
+            "summary": "The League of Women Voters and a Sioux Falls voter sued South Dakota over its new proof-of-citizenship registration law, saying its rollout has confused and disenfranchised eligible voters."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Fifth Circuit rules for Texas, bringing back mail-in ballot ID requirements",
+            "source": "KLTV",
+            "url": "https://www.kltv.com/2026/08/20/fifth-circuit-rules-texas-bringing-back-mail-in-ballot-id-requirements/",
+            "date": "2026-08-20",
+            "summary": "A federal appeals court reinstated Texas's mail-in ballot ID requirements under Senate Bill 1, along with a ban on 24-hour and drive-through voting."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont officials await judge's ruling in DOJ challenge",
+            "source": "WAMC",
+            "url": "https://www.wamc.org/news/2026-08-25/vermont-officials-await-judges-ruling-in-doj-challenge",
+            "date": "2026-08-25",
+            "summary": "Vermont is awaiting a court ruling on its challenge to a Department of Justice demand for voter registration data and voting-equipment access, arguing state law bars sharing that information with the federal government."
+          }
+        ],
+        "DC": [
+          {
+            "title": "'Another Trump Attempt to Rig Elections': Lawmakers Respond to Supreme Court Win for Trump Mail-in Voting Restrictions",
+            "source": "Time",
+            "url": "https://time.com/article/2026/08/25/-supreme-court-mail-in-voting-trump-order-explainer/",
+            "date": "2026-08-25",
+            "summary": "The Supreme Court lifted a lower-court block on Trump's executive order restricting mail-in voting ahead of the midterms without ruling on its legality, drawing sharp reactions from lawmakers on both sides."
+          }
+        ]
+      }
     }
   ]
 }

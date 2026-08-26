@@ -2,39 +2,44 @@
   "date": "2026-08-25",
   "items": [
     {
-      "text": "South Dakota sued over new proof-of-citizenship voter registration law",
-      "url": "https://www.dakotanewsnow.com/2026/08/24/voting-rights-groups-sue-south-dakota-over-new-voter-registration-law/",
+      "text": "Supreme Court clears way for Trump's mail-in voting order ahead of midterms",
+      "url": "https://time.com/article/2026/08/25/-supreme-court-mail-in-voting-trump-order-explainer/",
+      "abbr": "DC"
+    },
+    {
+      "text": "Ohio judge blocks proof-of-citizenship requirement for voter registration",
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote",
+      "abbr": "OH"
+    },
+    {
+      "text": "South Dakota sued over confusing rollout of proof-of-citizenship registration",
+      "url": "https://www.kotatv.com/2026/08/25/state-south-dakota-faces-lawsuit-over-proof-of-citizenship-voter-registration-law/",
       "abbr": "SD"
     },
     {
-      "text": "Michigan voter ID ballot question narrowly misses certification, lawsuit likely",
-      "url": "https://www.wvpe.org/michigan-public-radio-network-news/2026-08-24/michigan-voter-id-question-narrowly-misses-ballot-lawsuit-likely",
+      "text": "Michigan citizenship-voting amendment again fails to reach the ballot",
+      "url": "https://www.votebeat.org/michigan/2026/08/25/proof-of-citizenship-americans-for-citizen-voting-amendment-deadlock/",
       "abbr": "MI"
     },
     {
-      "text": "West Virginia counties face new federal post-election canvassing mandate",
-      "url": "https://wvmetronews.com/2026/08/21/federal-government-directive-will-mean-change-in-post-election-canvassing-in-west-virginia/",
-      "abbr": "WV"
+      "text": "Fifth Circuit reinstates Texas mail ballot ID requirements under SB 1",
+      "url": "https://www.kltv.com/2026/08/20/fifth-circuit-rules-texas-bringing-back-mail-in-ballot-id-requirements/",
+      "abbr": "TX"
     },
     {
-      "text": "Kentucky county border mapping errors reassign voters, prompting court petition",
-      "url": "https://spectrumnews1.com/ky/louisville/news/2026/08/19/jefferson-county-clerk-seeks-legal-action-over-voter-registration-changes",
-      "abbr": "KY"
+      "text": "Vermont awaits ruling in its fight over a DOJ demand for voter data",
+      "url": "https://www.wamc.org/news/2026-08-25/vermont-officials-await-judges-ruling-in-doj-challenge",
+      "abbr": "VT"
     },
     {
-      "text": "New Mexico poll workers wrongly asked rural voters for ID during June primary",
-      "url": "https://sourcenm.com/2026/08/19/new-mexico-poll-workers-in-rural-county-required-ids-to-vote-during-june-primary-observers-say/",
-      "abbr": "NM"
+      "text": "Montana certifies three initiatives for the November ballot",
+      "url": "https://news.ballotpedia.org/2026/08/19/montana-secretary-of-state-certifies-three-ballot-initiatives-for-november-addressing-judicial-elections-the-initiative-power-and-corporate-contributions-to-campaigns/",
+      "abbr": "MT"
     },
     {
-      "text": "Kansas Court of Appeals upholds ban on fusion voting and cross-party nominations",
-      "url": "https://www.kmuw.org/politics/2026-08-18/kansas-court-of-appeals-agrees-with-order-forbidding-cross-party-nominations-fusion-voting",
-      "abbr": "KS"
-    },
-    {
-      "text": "Idaho fixes voter look-up tool glitch that alarmed residents checking registration",
-      "url": "https://www.kmvt.com/2026/08/21/idaho-secretary-states-office-updates-voter-look-up-tool-after-public-reports-website-glitch/",
-      "abbr": "ID"
+      "text": "Iowa opens absentee ballot requests ahead of the Nov. 3 election",
+      "url": "https://www.kcrg.com/2026/08/25/absentee-ballot-requests-begin-iowa-nov-3-election/",
+      "abbr": "IA"
     }
   ]
 }
