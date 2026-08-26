@@ -30639,6 +30639,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-26",
+      "time": "06:00",
+      "states": {
+        "AR": [
+          {
+            "title": "Federal judge permanently blocks Arkansas laws restricting direct democracy process",
+            "source": "UALR Public Radio",
+            "url": "https://www.ualrpublicradio.org/local-regional-news/2026-08-24/federal-judge-permanently-blocks-arkansas-laws-restricting-direct-democracy-process",
+            "date": "2026-08-24",
+            "summary": "A federal judge ruled Arkansas laws requiring in-state residency for paid canvassers and barring per-signature pay violate the First Amendment, permanently blocking enforcement of the restrictions on the ballot initiative process."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Hundreds of thousands of Arizonans could be removed from the mail voting list in 2027",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/08/26/mail-voting-list-removal-2027-law-doug-ducey/",
+            "date": "2026-08-26",
+            "summary": "Arizona is preparing to implement a 2021 law that purges voters from its automatic mail ballot list if they skip mail voting in two consecutive election cycles, potentially affecting roughly 340,000 voters starting in 2027."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Everton Blair wins runoff to finish term of Rep. David Scott of Georgia",
+            "source": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com/politics/2026/08/everton-blair-wins-runoff-to-finish-rep-david-scotts-term/",
+            "date": "2026-08-25",
+            "summary": "Democrat Everton Blair won the special election runoff for Georgia's 13th Congressional District, defeating Marcye Scott to serve out the remainder of the late Rep. David Scott's term."
+          }
+        ],
+        "HI": [
+          {
+            "title": "History made: Two Hawaii legislative primary races end in ties. Here's how the winners will now be chosen",
+            "source": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/08/15/history-made-two-hawaii-legislative-primary-races-end-ties-heres-how-winners-will-now-be-chosen/",
+            "date": "2026-08-14",
+            "summary": "Two Republican primary races in Hawaii, for House District 43 and Senate District 20, ended in exact ties after ballot curing, triggering a state-mandated drawing at the Capitol to determine the winners."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Candidate for Family Court judge ordered removed from ballot",
+            "source": "Las Vegas Review-Journal",
+            "url": "https://www.reviewjournal.com/news/politics-and-government/nevada/candidate-for-family-court-judge-ordered-removed-from-ballot-3867694/",
+            "date": "2026-08-21",
+            "summary": "The Nevada Supreme Court ordered attorney Amber Candelaria removed from the Clark County Family Court general election ballot over improper filing procedures, leaving incumbent Judge Michele \"Shell\" Mercer unopposed."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Elon Musk won't face election bribery charges in Wisconsin, state prosecutor says",
+            "source": "Associated Press",
+            "url": "https://abcnews.com/Business/wireStory/elon-musk-face-election-bribery-charges-wisconsin-state-135945200",
+            "date": "2026-08-25",
+            "summary": "A special prosecutor declined to charge Elon Musk with election bribery over his 2025 offer of $1 million checks to Wisconsin voters, despite a bipartisan elections commission finding he likely violated state law."
+          }
+        ]
+      }
     }
   ]
 }

@@ -922,6 +922,11 @@
         "date": "2026-08-10",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -1162,6 +1167,11 @@
       },
       {
         "date": "2026-08-20",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-26",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -2977,6 +2987,11 @@
         "date": "2026-08-14",
         "field": "Recent News",
         "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [
@@ -3283,6 +3298,11 @@
       },
       {
         "date": "2026-08-14",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-26",
         "field": "Recent News",
         "description": "Added recent news items"
       }
@@ -8199,6 +8219,11 @@
         "date": "2026-07-31",
         "field": "Pending Legislation",
         "description": "Added Question 7, the voter ID constitutional amendment approved 73-27 in November 2024 and facing a required second vote on November 3, 2026, per Ballotpedia, The Nevada Independent, and 8NewsNow"
+      },
+      {
+        "date": "2026-08-26",
+        "field": "Recent News",
+        "description": "Added recent news items"
       }
     ],
     "recentLegislation": [],
@@ -13832,6 +13857,11 @@
       },
       {
         "date": "2026-08-04",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-26",
         "field": "Recent News",
         "description": "Added recent news items"
       }

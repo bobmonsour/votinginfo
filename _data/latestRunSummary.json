@@ -1,45 +1,35 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "items": [
     {
-      "text": "Supreme Court clears way for Trump's mail-in voting order ahead of midterms",
-      "url": "https://time.com/article/2026/08/25/-supreme-court-mail-in-voting-trump-order-explainer/",
-      "abbr": "DC"
+      "text": "Georgia special election: Everton Blair wins runoff for vacant House seat",
+      "url": "https://www.ajc.com/politics/2026/08/everton-blair-wins-runoff-to-finish-rep-david-scotts-term/",
+      "abbr": "GA"
     },
     {
-      "text": "Ohio judge blocks proof-of-citizenship requirement for voter registration",
-      "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote",
-      "abbr": "OH"
+      "text": "Arizona set to purge hundreds of thousands from automatic mail voting list",
+      "url": "https://www.votebeat.org/arizona/2026/08/26/mail-voting-list-removal-2027-law-doug-ducey/",
+      "abbr": "AZ"
     },
     {
-      "text": "South Dakota sued over confusing rollout of proof-of-citizenship registration",
-      "url": "https://www.kotatv.com/2026/08/25/state-south-dakota-faces-lawsuit-over-proof-of-citizenship-voter-registration-law/",
-      "abbr": "SD"
+      "text": "Federal judge strikes down Arkansas limits on paid ballot-initiative canvassers",
+      "url": "https://www.ualrpublicradio.org/local-regional-news/2026-08-24/federal-judge-permanently-blocks-arkansas-laws-restricting-direct-democracy-process",
+      "abbr": "AR"
     },
     {
-      "text": "Michigan citizenship-voting amendment again fails to reach the ballot",
-      "url": "https://www.votebeat.org/michigan/2026/08/25/proof-of-citizenship-americans-for-citizen-voting-amendment-deadlock/",
-      "abbr": "MI"
+      "text": "Nevada Supreme Court removes Family Court candidate over improper ballot filing",
+      "url": "https://www.reviewjournal.com/news/politics-and-government/nevada/candidate-for-family-court-judge-ordered-removed-from-ballot-3867694/",
+      "abbr": "NV"
     },
     {
-      "text": "Fifth Circuit reinstates Texas mail ballot ID requirements under SB 1",
-      "url": "https://www.kltv.com/2026/08/20/fifth-circuit-rules-texas-bringing-back-mail-in-ballot-id-requirements/",
-      "abbr": "TX"
+      "text": "Hawaii breaks two tied legislative primary races with a Capitol drawing",
+      "url": "https://www.hawaiinewsnow.com/2026/08/15/history-made-two-hawaii-legislative-primary-races-end-ties-heres-how-winners-will-now-be-chosen/",
+      "abbr": "HI"
     },
     {
-      "text": "Vermont awaits ruling in its fight over a DOJ demand for voter data",
-      "url": "https://www.wamc.org/news/2026-08-25/vermont-officials-await-judges-ruling-in-doj-challenge",
-      "abbr": "VT"
-    },
-    {
-      "text": "Montana certifies three initiatives for the November ballot",
-      "url": "https://news.ballotpedia.org/2026/08/19/montana-secretary-of-state-certifies-three-ballot-initiatives-for-november-addressing-judicial-elections-the-initiative-power-and-corporate-contributions-to-campaigns/",
-      "abbr": "MT"
-    },
-    {
-      "text": "Iowa opens absentee ballot requests ahead of the Nov. 3 election",
-      "url": "https://www.kcrg.com/2026/08/25/absentee-ballot-requests-begin-iowa-nov-3-election/",
-      "abbr": "IA"
+      "text": "Wisconsin prosecutor declines to charge Musk over 2025 voter giveaway",
+      "url": "https://abcnews.com/Business/wireStory/elon-musk-face-election-bribery-charges-wisconsin-state-135945200",
+      "abbr": "WI"
     }
   ]
 }
