@@ -131,28 +131,65 @@ Because this relies on `curl`, the retrieved HTML is raw — strip tags before r
 aware that JavaScript-rendered pages may come back empty. An empty body is a failed fetch, not
 an empty page; continue down the ladder.
 
-### Robots.txt opt-outs — do not work around
+### Robots.txt disallows — do not work around
 
-Some official sites explicitly opt out of Claude in `robots.txt`. That is a deliberate publisher
-decision, not a misconfigured WAF, and this skill **respects it**. Never use the `curl` rung to
-retrieve a page from a host whose `robots.txt` disallows `ClaudeBot`.
+Some official sites opt out of crawling in `robots.txt`. That is a deliberate publisher decision,
+not a misconfigured WAF, and this skill **respects it**. Never use the `curl` rung to retrieve a
+page a host's `robots.txt` disallows.
 
-Known opt-outs as of the 2026-07-31 run — treat these as Tier 3-only states and say so in the
+**Two distinct categories both bind us.** Check for both — a host that does not name `ClaudeBot`
+may still disallow the path under `User-agent: *`:
+
+1. **Named `ClaudeBot` opt-out** — the host explicitly disallows this agent.
+2. **Blanket `User-agent: *` disallow** covering the elections path — no bot is named, but the
+   directive applies to every crawler, us included.
+
+Known disallows as of the 2026-08-27 run — treat these as Tier 3-only states and say so in the
 report rather than re-testing them each run:
 
-- **IL** — `elections.il.gov` (`User-agent: ClaudeBot` / `Disallow: /`)
-- **WA** — `sos.wa.gov` (same)
+| State | Host | Category | Directive |
+|---|---|---|---|
+| **IL** | `elections.il.gov` | Named opt-out | `User-agent: ClaudeBot` / `Disallow: /` |
+| **WA** | `sos.wa.gov` | Named opt-out | `User-agent: ClaudeBot` / `Disallow: /` |
+| **IA** | `sos.iowa.gov` | Named opt-out | `User-agent: ClaudeBot` / `Disallow: /` |
+| **MA** | `www.sec.state.ma.us` | Blanket disallow | `User-agent: *` / `Disallow: /elections`, `Disallow: /ele` |
+
+Notes on MA: the file contains exactly one user-agent group, `User-agent: *`, and names no bot
+anywhere. It is **not** a Claude-specific opt-out, but `/elections` is disallowed to every crawler,
+so the practical result is the same. Also, the bare `sec.state.ma.us` host (no `www`) times out
+entirely; only `www.sec.state.ma.us` resolves.
 
 If a Tier 1 host newly starts returning 403 on the honest-UA rung, check its `robots.txt` before
-escalating to Wayback. If it names `ClaudeBot`, add it to this list instead of routing around it.
+escalating to Wayback, and add it to the table above in the correct category rather than routing
+around it. Be careful reading a `robots.txt` that is itself behind a WAF: if the fetch returns a
+Cloudflare JS challenge or a 403 instead of actual robots directives (seen this run on `azsos.gov`,
+`sos.ga.gov`, `sos.nh.gov`, and `sos.tn.gov`), that is bot mitigation, **not** a publisher opt-out —
+keep descending the ladder rather than recording a disallow that was never served.
+
+**A disallowed elections host does not disallow the whole state.** The disallow binds the host, not
+the topic. A different official host for the same state may carry no restriction at all and can
+supply a genuine Tier 1 read. On the 2026-08-27 run, `sos.wa.gov` was correctly left untouched while
+`app.leg.wa.gov` — which serves no `robots.txt` at all — supplied the official bill record that
+corrected Washington's SB 6035 entry, upgrading that finding from Tier 3 to Tier 1. Before settling
+for Tier 3 on a disallowed state, check the legislature's own bill system, which is usually a
+separate host:
+
+- State legislature bill lookup (e.g. `app.leg.wa.gov`, `legis.la.gov`, `leginfo.legislature.ca.gov`,
+  `ncleg.gov`, `legis.state.pa.us`) — authoritative for bill text, sponsors, votes, act numbers,
+  signing, and effective dates.
+- Secretary of State publication subdomains (calendars, initiative filings) that differ from the
+  blocked elections host.
 
 ### Verification gaps section
 
 Every Requirements-update and Full-run report must end with a **Verification gaps** section
 listing each state whose Tier 1 or Tier 2 source could not be read directly, with the reason
-(`403 after honest-UA retry`, `robots.txt opt-out`, `404 — URL moved`, certificate error, …) and
-which rung of the ladder ultimately supplied the finding. Findings for those states are
-**provisional** and must be labeled as such, not presented as a confirmed clean bill of health.
+(`403 after honest-UA retry`, `robots.txt named opt-out`, `robots.txt blanket disallow`,
+`404 — URL moved`, certificate error, …) and which rung of the ladder ultimately supplied the
+finding. Distinguish the two robots.txt reasons — a named `ClaudeBot` opt-out and a
+`User-agent: *` path disallow are both binding but are different publisher decisions, and
+conflating them has already produced one wrong entry in a past report. Findings for those states
+are **provisional** and must be labeled as such, not presented as a confirmed clean bill of health.
 
 If the failure was a `404`, the stored `officialUrl` is probably stale — flag it as a discrepancy
 to fix rather than logging it as a gap.
