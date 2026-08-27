@@ -1,30 +1,25 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "items": [
     {
-      "text": "DC and 24 other states sue USPS again over Trump mail-ballot rule",
-      "url": "https://news.delaware.gov/2026/08/26/ag-jennings-sues-united-states-postal-service-over-unlawful-attempt-to-interfere-with-states-vote-by-mail-procedures/",
-      "abbr": "DC"
+      "text": "Delaware AG beats back challenge to permanent absentee voting ahead of general election",
+      "url": "https://news.delaware.gov/2026/08/26/ag-jennings-protects-absentee-voting-ahead-of-general-election/",
+      "abbr": "DE"
     },
     {
-      "text": "Oregon and Iowa press ahead with mail voting despite the same court fight",
-      "url": "https://portlandtribune.com/2026/08/26/oregon-secretary-of-state-mail-elections-to-continue-as-planned-despite-court-setback",
-      "abbr": "OR"
+      "text": "Kentucky issues emergency rule on out-of-state voter-roll matching, ending KFTC lawsuit",
+      "url": "https://kentuckylantern.com/2026/08/26/after-lawsuit-kentucky-updates-rule-to-match-voter-registration-with-out-of-state-records/",
+      "abbr": "KY"
     },
     {
-      "text": "Federal judge blocks Ohio's proof-of-citizenship requirement for voter registration",
-      "url": "https://www.13abc.com/2026/08/26/federal-judge-blocks-enforcement-ohio-proof-of-citizenship-requirement-voter-registration/",
-      "abbr": "OH"
+      "text": "New Jersey governor and GOP spar over noncitizen voter-registration software glitch",
+      "url": "https://newjerseymonitor.com/2026/08/24/governor-gop-feud-voter-registration/",
+      "abbr": "NJ"
     },
     {
-      "text": "Maryland court keeps Democrats' redistricting amendment off the November ballot",
-      "url": "https://www.nbcnews.com/politics/2026-election/maryland-court-blocks-democrats-redistricting-amendment-november-ballo-rcna594579",
-      "abbr": "MD"
-    },
-    {
-      "text": "Alaska Supreme Court weighs bias claims in ranked-choice repeal ballot language",
-      "url": "https://alaskapublic.org/news/politics/elections/2026-08-26/alaska-supreme-court-to-rule-on-question-of-bias-in-ballot-measure-language",
-      "abbr": "AK"
+      "text": "Huntsville, Alabama municipal races mostly settled; one City Council seat heads to runoff",
+      "url": "https://www.waff.com/2026/08/26/polls-close-huntsville-municipal-elections-city-council-school-board-results-come/",
+      "abbr": "AL"
     }
   ]
 }

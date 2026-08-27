@@ -30759,6 +30759,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-27",
+      "time": "06:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Huntsville election: Incumbents retain seats, District 3 City Council race heads to runoff",
+            "source": "WAFF",
+            "url": "https://www.waff.com/2026/08/26/polls-close-huntsville-municipal-elections-city-council-school-board-results-come/",
+            "date": "2026-08-25",
+            "summary": "Most Huntsville incumbents retained their seats in the Aug. 25 municipal election, but the District 3 City Council race is headed to a runoff between incumbent Jennie Robinson and challenger Liliana Peinder."
+          }
+        ],
+        "DE": [
+          {
+            "title": "AG Jennings Protects Absentee Voting Ahead of General Election",
+            "source": "State of Delaware News",
+            "url": "https://news.delaware.gov/2026/08/26/ag-jennings-protects-absentee-voting-ahead-of-general-election/",
+            "date": "2026-08-26",
+            "summary": "Attorney General Kathy Jennings defeated a legal challenge to Delaware's permanent absentee voting, securing a Court of Chancery order that protects mail voting access for more than 38,000 voters ahead of the general election."
+          }
+        ],
+        "KY": [
+          {
+            "title": "After lawsuit, Kentucky updates rule to match voter registration with out-of-state records",
+            "source": "Kentucky Lantern",
+            "url": "https://kentuckylantern.com/2026/08/26/after-lawsuit-kentucky-updates-rule-to-match-voter-registration-with-out-of-state-records/",
+            "date": "2026-08-26",
+            "summary": "Kentucky issued an emergency regulation signed by Gov. Beshear to reduce false matches when comparing voter rolls to out-of-state records, prompting Kentuckians For The Commonwealth to withdraw its federal lawsuit over the state's list-maintenance process."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Feud escalates between NJ governor, GOP over voter registration gaffe",
+            "source": "New Jersey Monitor",
+            "url": "https://newjerseymonitor.com/2026/08/24/governor-gop-feud-voter-registration/",
+            "date": "2026-08-24",
+            "summary": "Gov. Sherrill and Rep. Van Drew traded blame over a software glitch that registered roughly 6,600 noncitizens to vote, as two U.S. House committees requested records on how the state discovered the error."
+          }
+        ]
+      }
     }
   ]
 }
