@@ -30699,6 +30699,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-26",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska Supreme Court to rule on question of bias in ballot measure language",
+            "source": "Alaska Public Media",
+            "url": "https://alaskapublic.org/news/politics/elections/2026-08-26/alaska-supreme-court-to-rule-on-question-of-bias-in-ballot-measure-language",
+            "date": "2026-08-26",
+            "summary": "The Alaska Supreme Court heard arguments on whether the state's ballot language for Measure 2, which would repeal ranked choice voting and the state's open primary system, is impartial, with a ruling expected by September 2."
+          }
+        ],
+        "DC": [
+          {
+            "title": "AG Jennings sues United States Postal Service over unlawful attempt to interfere with states' vote-by-mail procedures",
+            "source": "State of Delaware News",
+            "url": "https://news.delaware.gov/2026/08/26/ag-jennings-sues-united-states-postal-service-over-unlawful-attempt-to-interfere-with-states-vote-by-mail-procedures/",
+            "date": "2026-08-26",
+            "summary": "The District of Columbia joined a coalition of 25 states suing the U.S. Postal Service over a new rule implementing President Trump's executive order restricting mail-in voting, arguing it would disrupt states' vote-by-mail procedures ahead of the November election."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Absentee ballot requests begin in Iowa for Nov. 3 election",
+            "source": "Iowa Public Radio",
+            "url": "https://www.iowapublicradio.org/political-news/2026-08-26/absentee-ballot-requests-begin-in-iowa-for-nov-3-election",
+            "date": "2026-08-26",
+            "summary": "Iowans became eligible to request absentee ballots for the Nov. 3 general election, with a request deadline of Oct. 19, as a legal battle over federal mail-in voting rules continues."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland court blocks Democrats' redistricting amendment from November ballot",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/maryland-court-blocks-democrats-redistricting-amendment-november-ballo-rcna594579",
+            "date": "2026-08-26",
+            "summary": "A Maryland judge ruled that a Democratic-backed constitutional amendment intended to ease a future congressional redistricting cannot appear on the November ballot, though the ruling was paused to allow an appeal to the state Supreme Court."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Federal judge blocks enforcement of Ohio proof-of-citizenship requirement for voter registration",
+            "source": "WTVG 13abc",
+            "url": "https://www.13abc.com/2026/08/26/federal-judge-blocks-enforcement-ohio-proof-of-citizenship-requirement-voter-registration/",
+            "date": "2026-08-26",
+            "summary": "A federal judge granted a preliminary injunction blocking Ohio's requirement that voters show documentary proof of citizenship when registering through motor vehicle offices, finding it likely conflicts with the National Voter Registration Act."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Oregon Secretary of State: Mail elections to continue as planned despite court setback",
+            "source": "Portland Tribune",
+            "url": "https://portlandtribune.com/2026/08/26/oregon-secretary-of-state-mail-elections-to-continue-as-planned-despite-court-setback",
+            "date": "2026-08-26",
+            "summary": "Oregon Secretary of State Tobias Read said the state will proceed with its all-mail voting system on schedule despite a Supreme Court ruling allowing the Trump administration to move forward with new federal mail-voting restrictions."
+          }
+        ]
+      }
     }
   ]
 }
