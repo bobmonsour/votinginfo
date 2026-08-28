@@ -22,13 +22,18 @@ import Anthropic from "@anthropic-ai/sdk";
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 
-// Load research/classifier/.env if present, so the key works however the script
-// is invoked (npm script, bare `node classify.mjs`, or from another directory).
-// An already-set ANTHROPIC_API_KEY in the environment still wins.
-try {
-  if (!process.env.ANTHROPIC_API_KEY) process.loadEnvFile(path.join(HERE, ".env"));
-} catch {
-  /* no .env -- fall through to env var or `ant auth login` profile */
+// Load a .env if present, so the key works however the script is invoked (npm
+// script, bare `node classify.mjs`, or from another directory). Checks the
+// classifier directory first, then the repo root -- the root is the more natural
+// place to keep one key for the whole project. An ANTHROPIC_API_KEY already set
+// in the environment wins over both.
+for (const dir of [HERE, path.join(HERE, "..", "..")]) {
+  if (process.env.ANTHROPIC_API_KEY) break;
+  try {
+    process.loadEnvFile(path.join(dir, ".env"));
+  } catch {
+    /* no .env here -- try the next location, then fall through to the env var */
+  }
 }
 
 const CORPUS = path.join(HERE, "..", "..", "_data", "stateNews.json");
@@ -176,11 +181,25 @@ async function smoke(client, n) {
   }
 
   console.log(`tokens: ${inTok} in (${cached} from cache), ${outTok} out`);
-  const per = (inTok + cached) / pick.length;
+
+  // Opus 5: $5/MTok in, $25/MTok out. Cache READS bill at ~0.1x input; the Batch
+  // API halves everything. Pricing cached tokens at full rate overstates the
+  // total roughly threefold, since the taxonomy prefix dominates the input.
   const full = loadItems().length;
-  const estIn = (per * full) / 1e6 * 5 * 0.5;
-  const estOut = (outTok / pick.length * full) / 1e6 * 25 * 0.5;
-  console.log(`estimated full run (${full} items, batch pricing): ~$${(estIn + estOut).toFixed(2)}`);
+  const sampled = pick.length;
+  const IN = 5 / 1e6, OUT = 25 / 1e6, BATCH = 0.5, CACHE_READ = 0.1;
+  const lo =
+    ((inTok / sampled) * full * IN +
+      (cached / sampled) * full * IN * CACHE_READ +
+      (outTok / sampled) * full * OUT) * BATCH;
+  // Upper bound: batches can run for hours, so a 5-minute cache prefix may expire
+  // and be re-written many times. Worst case every request pays full input rate.
+  const hi =
+    (((inTok + cached) / sampled) * full * IN + (outTok / sampled) * full * OUT) * BATCH;
+  console.log(
+    `estimated full run (${full} items, batch pricing): ~$${lo.toFixed(2)} if the ` +
+      `taxonomy prefix stays cached, up to ~$${hi.toFixed(2)} if it never does.`
+  );
   console.log(`\nIf the classifications above look right, run:  node classify.mjs --run`);
 }
 
