@@ -375,19 +375,24 @@ After writing the new run to `_data/stateNews.json`, verify every news item that
 
 ### Change log entries for news
 
-After writing news items to `stateNews.json`, for each state that received news items, add an entry to that state's `changes` array in `_data/states.json`:
+**Do not add change log entries for news.** News runs must not touch the `changes` array in
+`_data/states.json` at all.
 
-```json
-{
-  "date": "YYYY-MM-DD",
-  "field": "Recent News",
-  "description": "Added recent news items"
-}
-```
+The change log records changes to voting **rules, requirements, and legislation** — the findings a
+Full run or Requirements update produces. News capture is not such a change, and a per-state
+`"Recent News"` entry adds no information: the entries were all the same boilerplate string, and
+the site no longer displays them (`substantiveChanges` in `eleventy.config.js` filters the
+`"Recent News"` field out of both the change log page and the per-state Change Log section).
+
+The news itself lives in `_data/stateNews.json`, which is what every news surface on the site
+reads. Recording a run there is sufficient; nothing is lost by skipping the change log entry.
+
+Requirements-driven changes to `_data/states.json` are unaffected — Full and Requirements update
+runs still add a `changes` entry for every data correction they make, as described in those modes.
 
 ### Latest run summary
 
-After news items are written, verified, and change-logged, generate a short prose summary of the most notable themes from this run and save it to `_data/latestRunSummary.json`, **overwriting** any previous content. The home page renders this summary above the "Recent news across all states" section to give visitors a quick read of what made this run notable.
+After news items are written and verified, generate a short prose summary of the most notable themes from this run and save it to `_data/latestRunSummary.json`, **overwriting** any previous content. The home page renders this summary above the "Recent news across all states" section to give visitors a quick read of what made this run notable.
 
 Process:
 
@@ -426,7 +431,7 @@ If the run produced zero eligible news items, write `{ "date": "YYYY-MM-DD", "it
 
 After all file changes are complete:
 
-1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, `_data/latestRunSummary.json`, and any report under `research/`).
+1. Stage all modified files (`_data/states.json`, `_data/stateNews.json`, `_data/latestRunSummary.json`, and any report under `research/`). A news-only run leaves `_data/states.json` untouched — that is expected, not a sign of a missed step.
 2. Commit with a descriptive message, e.g. `Research run: data verification and news update for YYYY-MM-DD` (full run), `Research run: requirements update for YYYY-MM-DD` (requirements update), or `Research run: news update for YYYY-MM-DD` (news only).
 3. The next step depends on the run mode:
 

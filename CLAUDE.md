@@ -44,7 +44,11 @@ A single national/federal story (e.g., a federal court ruling) is relevant to ev
 
 ### Change log
 
-A `changes` entry's `description` must be **plain text only — no HTML**. When `field` is "Recent News", both the Nunjucks templates and the JS by-date builder append a "(view)" link pointing to `/states/{abbr}/#recent-news`.
+A `changes` entry's `description` must be **plain text only — no HTML**.
+
+The change log tracks changes to voting **rules, requirements, and legislation** only. The `substantiveChanges` filter in `eleventy.config.js` excludes entries whose `field` is in `NON_SUBSTANTIVE_FIELDS` (currently just `"Recent News"`) from both `content/change-log.njk` and the per-state Change Log section in `_includes/layouts/state.njk`. It is a **denylist on purpose** — requirements runs coin new field labels as needed, and an allowlist would silently drop them. Both views must stay filtered or they will disagree about what counts as a change.
+
+History: news runs used to append a boilerplate `"Recent News"` / "Added recent news items" entry per state per run, which grew to 2,134 of 2,295 changes (93%) and buried the 161 substantive ones. The skill no longer writes them (see `SKILL.md` → "Change log entries for news"); the filter stays because the existing 2,134 remain in `_data/states.json`. Don't "clean up" the filter as dead code. The by-date view is the default because filtering drops it from 92 date groups to 15.
 
 ### Skills
 
