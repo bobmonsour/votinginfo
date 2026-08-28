@@ -30843,6 +30843,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-28",
+      "time": "06:00",
+      "states": {
+        "OH": [
+          {
+            "title": "A judge puts the proof of citizenship requirement for voters registering at Ohio BMVs on hold",
+            "source": "WOUB Public Media",
+            "url": "https://woub.org/2026/08/27/judge-proof-of-citizenship-requirement-voters-registering-ohio-bmvs-on-hold/",
+            "date": "2026-08-27",
+            "summary": "A federal judge temporarily blocked Ohio's requirement that voters show proof of citizenship when registering at BMV offices, ruling it likely conflicts with the National Voter Registration Act; Secretary of State Frank LaRose said he would appeal."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Proposed NC election rules head to legislative review. Will they be in place before the election?",
+            "source": "WRAL",
+            "url": "https://www.wral.com/news/nccapitol/nc-election-rules-delayed-mail-ballot-voter-id-legislature-stein-august-2026/",
+            "date": "2026-08-27",
+            "summary": "North Carolina's State Board of Elections approved new rules restricting mail-in ballots and voter ID exemptions, but the rules now require legislative review that may not conclude before the November election."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Oklahoma sees uptick in voter turnout for 2026 runoff elections",
+            "source": "Oklahoma Voice",
+            "url": "https://www.kgou.org/politics-and-government/2026-08-27/oklahoma-sees-uptick-in-voter-turnout-for-2026-runoff-elections",
+            "date": "2026-08-27",
+            "summary": "Oklahoma saw higher-than-usual turnout in its August 25 runoff elections, including a vote in which residents approved State Question 846, a constitutional amendment enshrining the state's voter ID requirement."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Judge pauses US Postal Service plan to implement Trump's new mail voting restrictions",
+            "source": "CNN",
+            "url": "https://www.cnn.com/2026/08/27/politics/judge-pauses-usps-plan-restrict-mail-voting",
+            "date": "2026-08-27",
+            "summary": "A federal judge in Boston issued a temporary restraining order blocking the US Postal Service from implementing new rules tied to a Trump executive order restricting mail-in ballots ahead of the midterms."
+          }
+        ]
+      }
     }
   ]
 }

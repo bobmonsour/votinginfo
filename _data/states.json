@@ -9545,6 +9545,11 @@
         "description": "Updated House Bill 958 status: the elections omnibus passed the Senate 28-13 and was vetoed by Gov. Josh Stein on August 17, 2026, per the North Carolina General Assembly bill record. Legislative leaders have said they will not attempt an override until after the November 2026 midterms, per Ballotpedia. The bill remains unenacted."
       },
       {
+        "date": "2026-08-28",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
         "date": "2026-08-20",
         "field": "Recent News",
         "description": "Added recent news items"
@@ -10091,6 +10096,11 @@
         "description": "Updated the BMV proof of citizenship requirement from under legal challenge to preliminarily enjoined. A federal court blocked enforcement on August 25, 2026, finding the requirement preempted by the National Voter Registration Act; the state has said it will appeal. Per the Ohio Statehouse News Bureau, the Washington Post and the Elias Law Group."
       },
       {
+        "date": "2026-08-28",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
         "date": "2026-08-26",
         "field": "Recent News",
         "description": "Added recent news items"
@@ -10393,6 +10403,11 @@
         "date": "2026-08-27",
         "field": "Recent Legislation",
         "description": "Moved State Question 846 from pending to recent legislation. Voters approved the proof-of-identity constitutional amendment at the August 25, 2026 statewide election, per the Associated Press projection reported by News9 and by the Tulsa Flyer. Results are not yet certified, so no vote margin is recorded."
+      },
+      {
+        "date": "2026-08-28",
+        "field": "Recent News",
+        "description": "Added recent news items"
       },
       {
         "date": "2026-08-24",
@@ -14429,6 +14444,11 @@
       }
     ],
     "changes": [
+      {
+        "date": "2026-08-28",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
       {
         "date": "2026-08-26",
         "field": "Recent News",
