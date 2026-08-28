@@ -96,5 +96,7 @@ taxonomy change, not the data.
   Nothing volatile may be added to that string or caching silently stops working.
 - Batch results arrive in arbitrary order and are keyed by `custom_id`, never by
   position.
-- `node_modules/` is marked `com.dropbox.ignored` so it doesn't sync across
-  machines. Run `npm install` locally on each machine.
+- `node_modules/` syncs via Dropbox (it is git-ignored, not Dropbox-ignored), so
+  the laptop gets it without a second `npm install`. Safe here because these are
+  pure-JS packages with no native builds and no absolute paths baked in — matching
+  how the site's own `node_modules` is already handled.
