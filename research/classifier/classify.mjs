@@ -21,6 +21,16 @@ import { fileURLToPath } from "node:url";
 import Anthropic from "@anthropic-ai/sdk";
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
+
+// Load research/classifier/.env if present, so the key works however the script
+// is invoked (npm script, bare `node classify.mjs`, or from another directory).
+// An already-set ANTHROPIC_API_KEY in the environment still wins.
+try {
+  if (!process.env.ANTHROPIC_API_KEY) process.loadEnvFile(path.join(HERE, ".env"));
+} catch {
+  /* no .env -- fall through to env var or `ant auth login` profile */
+}
+
 const CORPUS = path.join(HERE, "..", "..", "_data", "stateNews.json");
 const TAXONOMY = path.join(HERE, "taxonomy.json");
 const OUT = path.join(HERE, "topics.json");

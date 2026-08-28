@@ -15,8 +15,19 @@ excludes, so nothing here triggers a build or deploy. It also has its own
 ```bash
 cd research/classifier
 npm install
-export ANTHROPIC_API_KEY=sk-ant-...      # or run `ant auth login`
+cp .env.example .env
+# then edit .env and paste your key
 ```
+
+`.env` is gitignored in two places (repo root and here) because **this repository
+is public** — a committed key would be scraped within minutes. The scripts call
+`process.loadEnvFile()` themselves, so the key loads however you invoke them. An
+`ANTHROPIC_API_KEY` already exported in your shell takes precedence over `.env`,
+and `ant auth login` works too if you'd rather not keep a key on disk at all.
+
+Get a key at **console.anthropic.com → Settings → API Keys**. API billing is
+separate from a Claude.ai or Claude Code subscription — a Max plan grants no API
+credits.
 
 ## Running it
 

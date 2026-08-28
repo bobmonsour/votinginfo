@@ -4,3 +4,8 @@ node_modules/
 .worktrees
 .wrangler/
 .claude/settings.local.json
+
+# Secrets -- never commit. This repo is public.
+.env
+.env.*
+!.env.example
