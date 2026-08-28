@@ -249,6 +249,20 @@ async function collect(client, batchId, ids) {
 // ---------------------------------------------------------------- main
 
 const argv = process.argv.slice(2);
+
+// The SDK throws a bare Error from header-building when no credential resolves,
+// which bypasses the typed handlers below and prints a stack trace. Check first.
+if (!process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
+  console.error(
+    `No Anthropic credentials found.\n\n` +
+      `  cp .env.example .env      then paste your key into .env\n` +
+      `  export ANTHROPIC_API_KEY=sk-ant-...   (alternative, per shell)\n\n` +
+      `Get a key at https://console.anthropic.com -> Settings -> API Keys.\n` +
+      `API billing is separate from a Claude.ai or Claude Code subscription.`
+  );
+  process.exit(1);
+}
+
 const client = new Anthropic();
 
 try {
