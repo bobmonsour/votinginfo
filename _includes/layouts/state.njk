@@ -193,10 +193,11 @@ layout: layouts/base.njk
 
 	<p class="last-verified">Last verified: {{ state.lastVerified | formatDate }}</p>
 
-	{% if state.changes.length %}
+	{% set substantive = state.changes | substantiveChanges %}
+	{% if substantive.length %}
 	<section class="change-log">
 		<h2>Change Log <button type="button" class="expand-all-link" aria-expanded="false">expand all</button></h2>
-		{% set changesByDate = state.changes | groupByDate %}
+		{% set changesByDate = substantive | groupByDate %}
 		{%- for group in changesByDate %}
 		<details class="date-group"{% if loop.first %} open{% endif %}>
 			<summary>{{ group.date | formatDate }}</summary>

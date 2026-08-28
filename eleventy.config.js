@@ -184,6 +184,18 @@ export default function (eleventyConfig) {
 		return count;
 	});
 
+	// The change log tracks changes to voting rules, requirements, and
+	// legislation. News runs also append a boilerplate "Added recent news items"
+	// entry per state per run, which swamps the substantive entries (~93% of all
+	// changes); those are surfaced on the news pages instead. Denylist rather
+	// than allowlist so new field names coined by a requirements run show up
+	// automatically instead of being silently dropped.
+	const NON_SUBSTANTIVE_FIELDS = new Set(["Recent News"]);
+
+	eleventyConfig.addFilter("substantiveChanges", (changes) =>
+		(changes || []).filter((c) => !NON_SUBSTANTIVE_FIELDS.has(c.field))
+	);
+
 	eleventyConfig.addFilter("groupByDate", (changes) => {
 		const map = new Map();
 		for (const c of changes) {

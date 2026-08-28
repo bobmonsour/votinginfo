@@ -1,39 +1,42 @@
 ---
 layout: layouts/base.njk
 title: "Change Log"
-description: "See a log of recent changes to the voting requirements data for each state."
+description: "A log of changes to each state's voting rules, requirements, and legislation."
 ---
 
 <div class="about-content">
 	<a href="/" class="back-btn">&larr; Back to the States</a>
 	<h1>Change Log <span class="heading-subtitle"><a href="#site-changes">Site feature changes</a></span></h1>
 
+	<p class="page-intro">Changes to each state's voting rules, requirements, and legislation, as they are found and verified. Day-to-day news coverage is not logged here &mdash; see each state's <a href="/all-news/">recent news</a>.</p>
+
 	{% set hasChanges = false %}
 	{%- for state in states %}
-		{%- if state.changes.length %}
+		{%- if (state.changes | substantiveChanges).length %}
 			{% set hasChanges = true %}
 		{%- endif %}
 	{%- endfor %}
 
 	{% if hasChanges %}
 	<div class="changes-controls">
-		<button class="filter-btn" aria-pressed="true" data-sort="state">By State</button>
-		<button class="filter-btn" aria-pressed="false" data-sort="date">By Date</button>
+		<button class="filter-btn" aria-pressed="true" data-sort="date">By Date</button>
+		<button class="filter-btn" aria-pressed="false" data-sort="state">By State</button>
 	</div>
 
-	<div id="changes-by-state">
+	<div id="changes-by-state" hidden>
 		{%- for state in states %}
-			{%- if state.changes.length %}
+			{%- set stateChanges = state.changes | substantiveChanges %}
+			{%- if stateChanges.length %}
 			<section>
 				<h2><a href="/states/{{ state.state | slug }}/">{{ state.state }}</a></h2>
 				<ul class="change-list">
 					{% set prevDate = "" %}
-					{%- for change in state.changes | reverse %}
+					{%- for change in stateChanges | reverse %}
 					{% set sameDate = (change.date == prevDate) %}
 					<li data-date="{{ change.date }}" data-state="{{ state.state }}" data-abbr="{{ state.abbreviation | lower }}" data-slug="{{ state.state | slug }}" data-field="{{ change.field }}" data-desc="{{ change.description }}"{% if sameDate %} class="same-date"{% endif %}>
 						<time datetime="{{ change.date }}">{% if not sameDate %}{{ change.date | formatDate }}{% endif %}</time>
 						{% if change.field %}<code>{{ change.field }}</code>{% endif %}
-						<span>{{ change.description }}{% if change.field == "Recent News" %} (<a href="/states/{{ state.state | slug }}/#recent-news">view</a>){% endif %}</span>
+						<span>{{ change.description }}</span>
 					</li>
 					{% set prevDate = change.date %}
 					{%- endfor %}
@@ -43,7 +46,7 @@ description: "See a log of recent changes to the voting requirements data for ea
 		{%- endfor %}
 	</div>
 
-	<div id="changes-by-date" hidden></div>
+	<div id="changes-by-date"></div>
 
 	<script>
 	(function() {
@@ -73,15 +76,14 @@ description: "See a log of recent changes to the voting requirements data for ea
 			});
 			var dates = Object.keys(dateMap).sort().reverse();
 			var html = '';
-			dates.forEach(function(date) {
-				html += '<details class="date-group"><summary>' + fmtDate(date) + '</summary><ul class="change-list">';
+			dates.forEach(function(date, i) {
+				// Newest group open by default; this is the landing view.
+				html += '<details class="date-group"' + (i === 0 ? ' open' : '') + '><summary>' + fmtDate(date) + '</summary><ul class="change-list">';
 				dateMap[date].forEach(function(entry) {
 					html += '<li>';
 					html += '<a href="/states/' + entry.slug + '/" class="change-state-link">' + entry.state + '</a>';
 					if (entry.field) html += '<code>' + entry.field + '</code>';
-					var descHtml = entry.desc;
-				if (entry.field === 'Recent News') descHtml += ' (<a href="/states/' + entry.slug + '/#recent-news">view</a>)';
-				html += '<span>' + descHtml + '</span>';
+					html += '<span>' + entry.desc + '</span>';
 					html += '</li>';
 				});
 				html += '</ul></details>';
@@ -112,12 +114,15 @@ description: "See a log of recent changes to the voting requirements data for ea
 				byDate.hidden = sort !== 'date';
 			});
 		});
+
+		// By Date is the default view, so build it up front.
+		buildByDate();
 	})();
 	</script>
 
 	{% else %}
 		<section>
-			<p>No changes have been recorded yet. As state data is researched and updated, changes will be logged here.</p>
+			<p>No changes to voting rules, requirements, or legislation have been recorded yet. As state data is researched and verified, changes will be logged here.</p>
 		</section>
 	{% endif %}
 
