@@ -1254,6 +1254,11 @@
     "changes": [
       {
         "date": "2026-08-27",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
+      {
+        "date": "2026-08-27",
         "field": "Pending Legislation",
         "description": "Added SB 1164 and SB 1360, the California Voting Rights Act expansion package, per the California Legislature's official bill records. SB 1164 passed the Assembly August 25, 2026 and awaits Senate concurrence."
       },
@@ -1556,6 +1561,11 @@
       }
     ],
     "changes": [
+      {
+        "date": "2026-08-27",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
       {
         "date": "2026-08-27",
         "field": "Pending Legislation",
@@ -2165,6 +2175,11 @@
       }
     ],
     "changes": [
+      {
+        "date": "2026-08-27",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
       {
         "date": "2026-08-27",
         "field": "Recent Legislation",
@@ -5685,6 +5700,11 @@
       }
     ],
     "changes": [
+      {
+        "date": "2026-08-27",
+        "field": "Recent News",
+        "description": "Added recent news items"
+      },
       {
         "date": "2026-08-26",
         "field": "Recent News",

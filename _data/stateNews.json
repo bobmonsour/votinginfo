@@ -30801,6 +30801,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-27",
+      "time": "17:00",
+      "states": {
+        "CA": [
+          {
+            "title": "California justices seem skeptical of Sheriff Chad Bianco's defense in ballot seizure case",
+            "source": "CalMatters",
+            "url": "https://calmatters.org/politics/2026/08/riverside-county-ballot-seizure-supreme-court/",
+            "date": "2026-08-24",
+            "summary": "Riverside County Sheriff Chad Bianco defended his March 2026 seizure of more than 650,000 ballots before the California Supreme Court, with justices appearing skeptical of his legal arguments; a ruling could take several months."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Voters will decide whether to require people to verify their identity on Colorado ballots with social security, driver's license numbers",
+            "source": "Colorado Sun",
+            "url": "https://coloradosun.com/2026/08/26/mail-ballot-id-colorado-initiative/",
+            "date": "2026-08-26",
+            "summary": "Colorado's Secretary of State confirmed Initiative 362 qualified for the November ballot, which would require mail and in-person voters to verify their identity with a Social Security or driver's license number, with a process to cure omissions."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Election Board meets before primary with new members",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-08-27/election-board-meets-before-primary-with-new-members",
+            "date": "2026-08-27",
+            "summary": "Delaware's Board of Elections met for the first time in ten months with three newly appointed members to prepare for the September 15 primary, with the election commissioner confirming the state is on track despite a tight overseas-ballot timeline."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot",
+            "source": "WEAA",
+            "url": "https://www.weaa.org/local-news/2026-08-27/maryland-court-rules-democratic-backed-redistricting-amendment-cannot-go-on-november-ballot",
+            "date": "2026-08-27",
+            "summary": "An Anne Arundel County judge ruled that a Democratic-backed constitutional amendment on congressional redistricting cannot appear on Maryland's November ballot, citing missed procedural deadlines and misleading ballot language; the ruling is paused pending appeal to the state Supreme Court."
+          }
+        ]
+      }
     }
   ]
 }

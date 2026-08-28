@@ -2,24 +2,24 @@
   "date": "2026-08-27",
   "items": [
     {
-      "text": "Delaware AG beats back challenge to permanent absentee voting ahead of general election",
-      "url": "https://news.delaware.gov/2026/08/26/ag-jennings-protects-absentee-voting-ahead-of-general-election/",
+      "text": "California Supreme Court justices sound skeptical of sheriff's 650,000-ballot seizure defense",
+      "url": "https://calmatters.org/politics/2026/08/riverside-county-ballot-seizure-supreme-court/",
+      "abbr": "CA"
+    },
+    {
+      "text": "Colorado mail-ballot ID verification initiative qualifies for November ballot",
+      "url": "https://coloradosun.com/2026/08/26/mail-ballot-id-colorado-initiative/",
+      "abbr": "CO"
+    },
+    {
+      "text": "Delaware's Board of Elections meets with new members ahead of September primary",
+      "url": "https://www.delawarepublic.org/politics-government/2026-08-27/election-board-meets-before-primary-with-new-members",
       "abbr": "DE"
     },
     {
-      "text": "Kentucky issues emergency rule on out-of-state voter-roll matching, ending KFTC lawsuit",
-      "url": "https://kentuckylantern.com/2026/08/26/after-lawsuit-kentucky-updates-rule-to-match-voter-registration-with-out-of-state-records/",
-      "abbr": "KY"
-    },
-    {
-      "text": "New Jersey governor and GOP spar over noncitizen voter-registration software glitch",
-      "url": "https://newjerseymonitor.com/2026/08/24/governor-gop-feud-voter-registration/",
-      "abbr": "NJ"
-    },
-    {
-      "text": "Huntsville, Alabama municipal races mostly settled; one City Council seat heads to runoff",
-      "url": "https://www.waff.com/2026/08/26/polls-close-huntsville-municipal-elections-city-council-school-board-results-come/",
-      "abbr": "AL"
+      "text": "Maryland judge blocks Democratic-backed redistricting amendment from November ballot",
+      "url": "https://www.weaa.org/local-news/2026-08-27/maryland-court-rules-democratic-backed-redistricting-amendment-cannot-go-on-november-ballot",
+      "abbr": "MD"
     }
   ]
 }
