@@ -1,0 +1,15 @@
+{
+  "name": "usvoting-classifier",
+  "private": true,
+  "type": "module",
+  "description": "Topic classifier for the usvoting.info news corpus. Deliberately isolated from the site's package.json so it never affects the Eleventy build.",
+  "scripts": {
+    "smoke": "node classify.mjs --smoke 8",
+    "classify": "node classify.mjs --run",
+    "sample": "node validate.mjs --sample 150",
+    "score": "node validate.mjs --score"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.0"
+  }
+}
