@@ -1393,7 +1393,10 @@ h3 {
 
 .glossary dd {
 	margin: 0.25rem 0 0 0;
-	color: var(--gray-600);
+	/* Was var(--gray-600), which is not defined in the scale (100/200/300/500/700).
+	   The invalid reference made this inherit body's color, so --gray-700 is what
+	   has actually been rendering. Pinned to keep the appearance unchanged. */
+	color: var(--gray-700);
 	line-height: 1.5;
 }
 
