@@ -219,10 +219,54 @@ async function run(client) {
   await collect(client, batch.id, items.map((x) => x.id));
 }
 
+function savedBatch() {
+  try {
+    return JSON.parse(fs.readFileSync(BATCH_STATE, "utf8"));
+  } catch {
+    return null;
+  }
+}
+
+async function status(client, batchId) {
+  const saved = savedBatch();
+  batchId = batchId || saved?.id;
+  if (!batchId) {
+    console.error(`No batch id. Pass one, or run --run first.`);
+    process.exit(1);
+  }
+  const b = await client.messages.batches.retrieve(batchId);
+  const r = b.request_counts;
+  const total = r.processing + r.succeeded + r.errored + r.canceled + r.expired;
+  const done = total - r.processing;
+
+  console.log(`batch    ${b.id}`);
+  console.log(`status   ${b.processing_status}`);
+  console.log(`progress ${done}/${total}  (${((100 * done) / total).toFixed(1)}%)`);
+  console.log(`         succeeded ${r.succeeded}   errored ${r.errored}   processing ${r.processing}`);
+  console.log(`created  ${b.created_at}`);
+  console.log(`expires  ${b.expires_at}`);
+
+  if (b.processing_status === "ended") {
+    console.log(`\nReady to collect:  node classify.mjs --resume`);
+  } else {
+    const mins = (Date.now() - new Date(b.created_at)) / 60000;
+    console.log(`\nRunning ${mins.toFixed(0)} min. Results are retained 29 days -- no rush to collect.`);
+  }
+}
+
 async function collect(client, batchId, ids) {
+  const saved = savedBatch();
+  batchId = batchId || saved?.id;
+  if (!batchId) {
+    console.error(`No batch id. Pass one, or run --run first.`);
+    process.exit(1);
+  }
   if (!ids) {
-    const st = JSON.parse(fs.readFileSync(BATCH_STATE, "utf8"));
-    ids = st.ids;
+    if (!saved?.ids) {
+      console.error(`No saved item ids in ${BATCH_STATE}; cannot map results back to items.`);
+      process.exit(1);
+    }
+    ids = saved.ids;
   }
 
   for (;;) {
@@ -289,10 +333,15 @@ try {
     await smoke(client, Number(argv[1] || 8));
   } else if (argv[0] === "--run") {
     await run(client);
+  } else if (argv[0] === "--status") {
+    await status(client, argv[1]);
   } else if (argv[0] === "--resume") {
     await collect(client, argv[1]);
   } else {
-    console.log("usage: classify.mjs --smoke [N] | --run | --resume <batch_id>");
+    console.log(
+      "usage: classify.mjs --smoke [N] | --run | --status [batch_id] | --resume [batch_id]\n" +
+        "       --status and --resume read the batch id from .batch-id when omitted."
+    );
     process.exit(1);
   }
 } catch (err) {
