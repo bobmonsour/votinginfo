@@ -1851,6 +1851,86 @@ a[target="_blank"]::after {
 	white-space: nowrap;
 }
 
+/* === Page title row (title + secondary action) === */
+.page-title-row {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 0.5rem 1rem;
+}
+
+.header-btn {
+	display: inline-block;
+	padding: 0.4rem 0.9rem;
+	border: 2px solid var(--navy);
+	border-radius: var(--radius);
+	color: var(--navy);
+	background: transparent;
+	font-size: 0.9rem;
+	font-weight: 600;
+	text-decoration: none;
+	transition: background 0.2s, color 0.2s;
+}
+
+.header-btn:hover {
+	background: var(--navy);
+	color: var(--white);
+}
+
+/* === News Sources by State === */
+.news-sources-intro {
+	color: var(--gray-500);
+	margin: 0 0 1.5rem;
+}
+
+.state-jump {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.35rem;
+	margin-bottom: 2rem;
+}
+
+.state-jump a {
+	padding: 0.2rem 0.5rem;
+	border: 1px solid var(--gray-300);
+	border-radius: var(--radius);
+	background: var(--white);
+	font-family: var(--font-mono);
+	font-size: 0.85rem;
+	text-decoration: none;
+}
+
+.state-jump a:hover {
+	background: var(--navy);
+	color: var(--white);
+	border-color: var(--navy);
+}
+
+.news-sources section {
+	margin-bottom: 1.5rem;
+	scroll-margin-top: 6rem; /* clears the sticky site header on anchor jumps */
+}
+
+.source-list {
+	list-style: none;
+	margin: 0;
+	padding: 0 0 1.25rem;
+	columns: 2;
+	column-gap: 2rem;
+}
+
+.source-list li {
+	break-inside: avoid;
+	margin-bottom: 0.35rem;
+	font-size: 1rem;
+}
+
+@media (max-width: 600px) {
+	.source-list {
+		columns: 1;
+	}
+}
+
 /* === Reduced motion === */
 @media (prefers-reduced-motion: reduce) {
 	*,

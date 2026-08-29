@@ -38,6 +38,25 @@ A single national/federal story (e.g., a federal court ruling) is relevant to ev
 2. **Display dedup (cosmetic backstop).** `recentNewsAll` (home grid) and `latestRunNews` both dedup by `url|title`, so exact repeats never render more than once. This does **not** collapse the same event reported by different outlets (different URL *and* headline).
 3. **Build-time check (hard backstop).** `checkNewsDuplication` in `eleventy.config.js` runs on `eleventy.before`, inspects the **latest run**, and counts how many distinct states carry each story keyed by exact URL and by normalized title. If any single story spans more than `MAX_STATES_PER_STORY` (currently **5**) states, it throws — Eleventy aborts with a fatal error naming the offending stories. In the unattended news routine this means a polluted run **fails its Cloudflare build and never deploys**; the prior good version stays live and the failure shows in the build dashboard. Tune the threshold via `MAX_STATES_PER_STORY`. Limitation: it cannot catch one event spread across many states via entirely different outlets (no shared URL or headline) — layer 1 remains the front-line defense there.
 
+### News sources by state
+
+`/news-sources/` (`content/news-sources.njk`) lists, per state, every outlet cited in that
+state's captured news, each linking to the outlet's home page in a new tab. It is reached from a
+"News Sources by State" button in the `/all-news/` page header.
+
+The list is **derived, not stored**. `_data/newsSources.js` rescans the full `stateNews.json`
+corpus on every build (~5ms over 3,700 items) — there is deliberately no persisted sources file
+and no step in the voting-research skill to maintain one. A new source therefore appears on the
+first build after the first news item that cites it, and cannot drift out of sync with the news
+data. Do not "optimize" this into an incremental append: the rescan is cheap, and a second source
+of truth would silently under-report when a run fails mid-write.
+
+Dedupe rules, in order: drop items whose host is in `REPUBLISHERS` (yahoo.com, msn.com — the URL
+points at the republisher, not the source); collapse to one row per `www.`-stripped host, labeled
+with that host's most-used source name; then collapse hosts that resolved to the same display name
+(npr.org / apps.npr.org), keeping the shortest host. Ties break alphabetically so the same corpus
+always produces byte-identical output.
+
 ### Latest run summary
 
 `_data/latestRunSummary.json` holds a short summary of the most recent run's notable themes. Shape: `{ date, items: [{ text, url?, abbr? }] }`. The voting-research skill (News update and Full run modes) overwrites this file at the end of each run after news items are written and verified; it does not append. Items with a `url` render as inline links; items without a `url` render as plain text. The home page renders the items as a bulleted list (`<ul class="run-summary">`) in the "Summary of latest election news" section (id `run-summary`), styled by `.run-summary` in `public/css/style.css`. The template caps the rendered list at the first 5 items via `loop.index <= 5`, so the skill should aim to produce exactly 5 of the most notable items. The section is hidden automatically when `items` is empty.

@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+title: "News Sources by State"
+description: "The news outlets, publications, and organizations cited in the election news collected for each of the 50 states and Washington, D.C."
+---
+
+<div class="about-content news-sources">
+	<a href="/all-news/" class="back-btn">&larr; Back to All News</a>
+	<h1>News Sources by State</h1>
+
+	<p class="news-sources-intro">Every outlet, publication, and organization cited in the election news collected for each state. Each name links to that source's home page. The list is built from the news items themselves, so a new source appears here as soon as it is first cited.</p>
+
+	<nav class="state-jump" aria-label="Jump to a state">
+		{%- for entry in newsSources %}
+		<a href="#{{ entry.abbr | lower }}">{{ entry.abbr }}</a>
+		{%- endfor %}
+	</nav>
+
+	{%- for entry in newsSources %}
+	<section id="{{ entry.abbr | lower }}">
+		<h2>{{ entry.state }}</h2>
+		<ul class="source-list">
+			{%- for source in entry.sources %}
+			<li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a></li>
+			{%- endfor %}
+		</ul>
+	</section>
+	{%- endfor %}
+</div>
