@@ -30885,6 +30885,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-28",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska Supreme Court affirms state's election ballot measure language, with one change",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/08/28/alaska-supreme-court-affirms-states-election-ballot-measure-language-with-one-change/",
+            "date": "2026-08-28",
+            "summary": "The Alaska Supreme Court largely upheld the ballot language for Ballot Measure 2, the initiative to repeal ranked-choice voting, ordering only one added clarification before the state's September 2 printing deadline."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Judge again blocks Trump mail ballot executive order",
+            "source": "Associated Press (via KUER)",
+            "url": "https://www.kuer.org/politics-government/2026-08-28/judge-again-blocks-trump-mail-ballot-executive-order",
+            "date": "2026-08-28",
+            "summary": "A federal judge issued a second, 14-day block on the Trump administration's executive order restricting mail-in voting, ruling the Postal Service's new rule was likely unlawful and left states without enough time to comply before the midterms."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Voting Alert for AVR Voters",
+            "source": "State of Delaware News",
+            "url": "https://news.delaware.gov/2026/08/28/voting-alert-for-avr-voters/",
+            "date": "2026-08-28",
+            "summary": "Delaware's Department of Elections reminded voters automatically registered at the DMV without a party affiliation that they must select a Democratic or Republican party status by September 15 to vote in the primary."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Everton Blair wins 13th District special election runoff",
+            "source": "Georgia Public Broadcasting",
+            "url": "https://www.gpb.org/news/2026/08/26/everton-blair-wins-13th-district-special-election-runoff",
+            "date": "2026-08-26",
+            "summary": "Democrat Everton Blair defeated Marcye Scott in the runoff to serve out the remainder of the late Rep. David Scott's term, becoming the first openly gay man elected to Congress from Georgia."
+          }
+        ],
+        "HI": [
+          {
+            "title": "'It was gambling': Historic Hawaii election ties decided by random drawings at state Capitol",
+            "source": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/08/16/it-was-gambling-historic-hawaii-election-ties-decided-by-random-drawings-state-capitol/",
+            "date": "2026-08-15",
+            "summary": "Two tied Republican primary races for West Oahu legislative seats were resolved by random drawings at the state Capitol, with challengers ousting two sitting incumbents in an outcome candidates on both sides criticized."
+          }
+        ]
+      }
     }
   ]
 }

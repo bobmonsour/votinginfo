@@ -2,24 +2,29 @@
   "date": "2026-08-28",
   "items": [
     {
-      "text": "Federal judge blocks Ohio's proof-of-citizenship requirement for voter registration at BMVs",
-      "url": "https://woub.org/2026/08/27/judge-proof-of-citizenship-requirement-voters-registering-ohio-bmvs-on-hold/",
-      "abbr": "OH"
-    },
-    {
-      "text": "North Carolina's new mail-ballot and voter-ID rules head to legislative review",
-      "url": "https://www.wral.com/news/nccapitol/nc-election-rules-delayed-mail-ballot-voter-id-legislature-stein-august-2026/",
-      "abbr": "NC"
-    },
-    {
-      "text": "Oklahoma voters approve constitutional amendment enshrining voter ID in August runoff",
-      "url": "https://www.kgou.org/politics-and-government/2026-08-27/oklahoma-sees-uptick-in-voter-turnout-for-2026-runoff-elections",
-      "abbr": "OK"
-    },
-    {
-      "text": "Judge pauses USPS plan to carry out Trump's mail-in voting restrictions ahead of midterms",
-      "url": "https://www.cnn.com/2026/08/27/politics/judge-pauses-usps-plan-restrict-mail-voting",
+      "text": "Federal judge issues second block on Trump's mail ballot executive order",
+      "url": "https://www.kuer.org/politics-government/2026-08-28/judge-again-blocks-trump-mail-ballot-executive-order",
       "abbr": "DC"
+    },
+    {
+      "text": "Alaska Supreme Court largely upholds ballot language to repeal ranked-choice voting",
+      "url": "https://www.alaskasnewssource.com/2026/08/28/alaska-supreme-court-affirms-states-election-ballot-measure-language-with-one-change/",
+      "abbr": "AK"
+    },
+    {
+      "text": "Everton Blair wins Georgia's 13th District runoff, first openly gay man elected to Congress from state",
+      "url": "https://www.gpb.org/news/2026/08/26/everton-blair-wins-13th-district-special-election-runoff",
+      "abbr": "GA"
+    },
+    {
+      "text": "Two tied Hawaii legislative primaries decided by random drawing at the state Capitol",
+      "url": "https://www.hawaiinewsnow.com/2026/08/16/it-was-gambling-historic-hawaii-election-ties-decided-by-random-drawings-state-capitol/",
+      "abbr": "HI"
+    },
+    {
+      "text": "Delaware reminds automatically registered voters to pick a party before the primary",
+      "url": "https://news.delaware.gov/2026/08/28/voting-alert-for-avr-voters/",
+      "abbr": "DE"
     }
   ]
 }
