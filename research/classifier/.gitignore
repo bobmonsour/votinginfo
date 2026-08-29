@@ -1,6 +1,0 @@
-node_modules/
-.batch-id
-.harness.mjs
-.env
-.env.*
-!.env.example
