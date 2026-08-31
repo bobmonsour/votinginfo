@@ -1,29 +1,44 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-31",
   "items": [
     {
-      "text": "Federal judge issues second block on Trump's mail ballot executive order",
-      "url": "https://www.kuer.org/politics-government/2026-08-28/judge-again-blocks-trump-mail-ballot-executive-order",
-      "abbr": "DC"
+      "text": "Texas voter suspense list tops 1.2 million ahead of tight Senate race",
+      "url": "https://www.keranews.org/texas-news/2026-08-28/texas-voters-suspense-list-flagged-election-address",
+      "abbr": "TX"
     },
     {
-      "text": "Alaska Supreme Court largely upholds ballot language to repeal ranked-choice voting",
-      "url": "https://www.alaskasnewssource.com/2026/08/28/alaska-supreme-court-affirms-states-election-ballot-measure-language-with-one-change/",
-      "abbr": "AK"
+      "text": "Virginia judge says state still wrongly blocking restored felons from voting",
+      "url": "https://www.whro.org/virginia-government/2026-08-26/federal-judge-says-virginia-still-failing-to-follow-voter-restoration-order",
+      "abbr": "VA"
     },
     {
-      "text": "Everton Blair wins Georgia's 13th District runoff, first openly gay man elected to Congress from state",
-      "url": "https://www.gpb.org/news/2026/08/26/everton-blair-wins-13th-district-special-election-runoff",
-      "abbr": "GA"
+      "text": "Arizona's automatic mail-ballot list faces steep cuts starting in 2027",
+      "url": "https://tucson.com/news/state-regional/government-politics/elections/article_ade278a5-fb94-46b9-9fe2-b5e78ad7d61e.html",
+      "abbr": "AZ"
     },
     {
-      "text": "Two tied Hawaii legislative primaries decided by random drawing at the state Capitol",
-      "url": "https://www.hawaiinewsnow.com/2026/08/16/it-was-gambling-historic-hawaii-election-ties-decided-by-random-drawings-state-capitol/",
-      "abbr": "HI"
+      "text": "New Mexico's Forward Party fights ballot-access rules in federal court",
+      "url": "https://nmpoliticalreport.com/2026/08/25/forward-party-asks-judge-to-decide-if-new-mexico-ballot-rules-unfairly-protect-two-party-system/",
+      "abbr": "NM"
     },
     {
-      "text": "Delaware reminds automatically registered voters to pick a party before the primary",
-      "url": "https://news.delaware.gov/2026/08/28/voting-alert-for-avr-voters/",
+      "text": "Idaho abortion-initiative group sues over 'misleading' ballot language",
+      "url": "https://stateline.org/2026/08/27/abortion-initiative-group-sues-idaho-state-officials-over-misleading-ballot-language/",
+      "abbr": "ID"
+    },
+    {
+      "text": "Pennsylvania senator proposes overhaul of voter-roll maintenance rules",
+      "url": "https://www.lewistownsentinel.com/news/local-news/2026/08/ward-proposes-changes-to-voter-registration/",
+      "abbr": "PA"
+    },
+    {
+      "text": "Nevada voters to decide photo ID requirement for in-person voting this fall",
+      "url": "https://knpr.org/daily-rundown/2026-08-25/colorado-river-lawsuit-nevada-voter-id-and-24m-fraud-conviction",
+      "abbr": "NV"
+    },
+    {
+      "text": "Delaware's primary early voting opens September 2",
+      "url": "https://www.delawarepublic.org/politics-government/2026-08-30/early-voting-for-delawares-primary-election-starts-wednesday",
       "abbr": "DE"
     }
   ]

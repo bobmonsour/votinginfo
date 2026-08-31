@@ -30936,6 +30936,84 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-31",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Arizona's mail-ballot list faces huge cuts",
+            "source": "Arizona Daily Star",
+            "url": "https://tucson.com/news/state-regional/government-politics/elections/article_ade278a5-fb94-46b9-9fe2-b5e78ad7d61e.html",
+            "date": "2026-08-27",
+            "summary": "Hundreds of thousands of Arizona voters could be purged from the state's automatic mail-ballot list in 2027 under a 2021 law if they don't cast a mail ballot in November, election officials say."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Early voting for Delaware's Primary Election starts Wednesday",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-08-30/early-voting-for-delawares-primary-election-starts-wednesday",
+            "date": "2026-08-30",
+            "summary": "Early voting for Delaware's 2026 primary election opens September 2 and runs through September 13, with no early voting on the Sunday and Monday of Labor Day weekend."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Abortion initiative group sues Idaho state officials over 'misleading' ballot language",
+            "source": "Stateline",
+            "url": "https://stateline.org/2026/08/27/abortion-initiative-group-sues-idaho-state-officials-over-misleading-ballot-language/",
+            "date": "2026-08-27",
+            "summary": "Idahoans United for Women and Families sued state officials, arguing the official ballot language for its abortion-rights initiative is confusing and misleading ahead of ballot-printing deadlines."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Forward Party asks judge to decide if New Mexico ballot rules unfairly protect two-party system",
+            "source": "New Mexico Political Report",
+            "url": "https://nmpoliticalreport.com/2026/08/25/forward-party-asks-judge-to-decide-if-new-mexico-ballot-rules-unfairly-protect-two-party-system/",
+            "date": "2026-08-25",
+            "summary": "New Mexico's Forward Party asked a federal judge to strike down the state's two-step, higher-signature ballot access requirements for minor-party candidates before the September ballot-printing deadline."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Colorado River lawsuit, Nevada voter ID and $24M fraud conviction",
+            "source": "KNPR (Nevada Public Radio)",
+            "url": "https://knpr.org/daily-rundown/2026-08-25/colorado-river-lawsuit-nevada-voter-id-and-24m-fraud-conviction",
+            "date": "2026-08-25",
+            "summary": "Nevada voters will decide a constitutional amendment this November requiring photo ID for in-person voting or partial ID numbers for mail ballots, one of at least six states voting on voter ID measures this year."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Ward proposes changes to voter registration",
+            "source": "Lewistown Sentinel",
+            "url": "https://www.lewistownsentinel.com/news/local-news/2026/08/ward-proposes-changes-to-voter-registration/",
+            "date": "2026-08-18",
+            "summary": "State Sen. Judy Ward introduced Senate Bill 1429 to give Pennsylvania county election officials new tools to identify deceased, duplicate and ineligible voter registrations while adding safeguards against wrongful removals."
+          }
+        ],
+        "TX": [
+          {
+            "title": "More than 1.2 million Texas voter registrations are flagged. Here's what voters should know",
+            "source": "KERA News",
+            "url": "https://www.keranews.org/texas-news/2026-08-28/texas-voters-suspense-list-flagged-election-address",
+            "date": "2026-08-28",
+            "summary": "More than 1.2 million Texas voters, about 6% of the electorate, are on the state's suspense list for address issues, a number that could complicate voting in the close U.S. Senate race between James Talarico and Ken Paxton."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Federal judge says Virginia still failing to follow voter restoration order",
+            "source": "WHRO",
+            "url": "https://www.whro.org/virginia-government/2026-08-26/federal-judge-says-virginia-still-failing-to-follow-voter-restoration-order",
+            "date": "2026-08-26",
+            "summary": "A federal judge ruled Virginia officials misapplied his order striking down the state's felony disenfranchisement law, potentially having wrongly barred hundreds of thousands of eligible voters from the August primary."
+          }
+        ]
+      }
     }
   ]
 }
