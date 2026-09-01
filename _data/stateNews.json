@@ -31014,6 +31014,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-08-31",
+      "time": "17:00",
+      "states": {
+        "CA": [
+          {
+            "title": "State appeals court keeps Shasta County Measure B blocked for November election",
+            "source": "KRCR TV",
+            "url": "https://krcrtv.com/news/local/state-appeals-court-keeps-shasta-county-measure-b-blocked-for-november-election",
+            "date": "2026-08-28",
+            "summary": "California's Third District Court of Appeal preserved the injunction blocking Shasta County's Measure B, which would have eliminated mail and early voting and required hand-counted ballots, from taking effect in the November election."
+          }
+        ],
+        "NC": [
+          {
+            "title": "The NC elections rules that aren't quite rules yet",
+            "source": "WFAE",
+            "url": "https://www.wfae.org/politics/2026-08-31/the-nc-elections-rules-that-arent-quite-rules-yet",
+            "date": "2026-08-31",
+            "summary": "North Carolina's State Board of Elections drafted 15 rules covering absentee ballots, photo ID exception forms and voting-site conduct, but formal objections triggered a legislative review delay likely to push implementation past the 2026 election."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Tracking South Carolina runoff election results for special GOP Senate primary",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/08/25/tracking-south-carolina-runoff-election-results-special-gop-senate-primary/",
+            "date": "2026-08-25",
+            "summary": "Darline Graham defeated Rep. Ralph Norman in South Carolina's special Republican Senate primary runoff to fill the seat left vacant by Sen. Lindsey Graham's death, setting up a November matchup against Democrat Annie Andrews."
+          }
+        ]
+      }
     }
   ]
 }
