@@ -1,20 +1,20 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "items": [
     {
-      "text": "California appeals court keeps Shasta County's Measure B blocked for November",
-      "url": "https://krcrtv.com/news/local/state-appeals-court-keeps-shasta-county-measure-b-blocked-for-november-election",
-      "abbr": "CA"
-    },
-    {
-      "text": "North Carolina's 15 draft election rules stall past legislative review",
-      "url": "https://www.wfae.org/politics/2026-08-31/the-nc-elections-rules-that-arent-quite-rules-yet",
-      "abbr": "NC"
-    },
-    {
-      "text": "Darline Graham defeats Ralph Norman in South Carolina's GOP Senate runoff",
-      "url": "https://www.wbtv.com/2026/08/25/tracking-south-carolina-runoff-election-results-special-gop-senate-primary/",
+      "text": "Federal appeals court strikes down South Carolina's age-based absentee voting law",
+      "url": "https://www.wistv.com/2026/08/31/federal-court-rules-scs-age-based-absentee-voting-law-unconstitutional/",
       "abbr": "SC"
+    },
+    {
+      "text": "Colorado's mail ballot voter ID measure becomes 2026's seventh such initiative nationwide",
+      "url": "https://news.ballotpedia.org/2026/09/01/colorado-mail-in-ballot-voter-id-initiative-becomes-seventh-voter-id-measure-certified-for-2026-the-most-in-a-single-year/",
+      "abbr": "CO"
+    },
+    {
+      "text": "Washington officials fight federal pressure on USPS mail ballots and voter registries",
+      "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/08/what-to-know-about-voting-in-washington-amid-federal-tumult/",
+      "abbr": "WA"
     }
   ]
 }

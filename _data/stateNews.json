@@ -31047,6 +31047,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-01",
+      "time": "06:00",
+      "states": {
+        "CO": [
+          {
+            "title": "Colorado mail-in ballot voter ID initiative becomes seventh voter ID measure certified for 2026 — the most in a single year",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/09/01/colorado-mail-in-ballot-voter-id-initiative-becomes-seventh-voter-id-measure-certified-for-2026-the-most-in-a-single-year/",
+            "date": "2026-09-01",
+            "summary": "Colorado's Initiative 362, which would require mail-in voters to provide an identification number alongside their signature, was certified for the November 2026 ballot as the seventh voter ID measure nationwide certified for the year."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Federal court rules SC's age-based absentee voting law unconstitutional",
+            "source": "WIS-TV",
+            "url": "https://www.wistv.com/2026/08/31/federal-court-rules-scs-age-based-absentee-voting-law-unconstitutional/",
+            "date": "2026-08-31",
+            "summary": "A federal appeals court ruled that South Carolina's absentee voting law, which grants no-excuse mail voting only to voters 65 and older, violates the 26th Amendment by restricting younger voters."
+          }
+        ],
+        "WA": [
+          {
+            "title": "What to know about voting in Washington amid federal tumult",
+            "source": "Cascade PBS",
+            "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/08/what-to-know-about-voting-in-washington-amid-federal-tumult/",
+            "date": "2026-08-28",
+            "summary": "Washington Secretary of State Steve Hobbs and Attorney General Nick Brown are fighting federal efforts to restrict USPS ballot delivery and create a national voter registry, defending the state's vote-by-mail system."
+          }
+        ]
+      }
     }
   ]
 }
