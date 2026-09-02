@@ -31080,6 +31080,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-01",
+      "time": "17:00",
+      "states": {
+        "MA": [
+          {
+            "title": "What to know about the US primary election in Massachusetts",
+            "source": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts",
+            "date": "2026-09-01",
+            "summary": "Massachusetts voters head to the polls in a September 1 primary featuring a closely watched U.S. Senate contest between incumbent Ed Markey and Rep. Seth Moulton, along with competitive races in the 6th and 8th Congressional Districts."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan Citizenship Amendment Backers Ask SCOTUS to Step Into Ballot Fight",
+            "source": "Michigan News Source",
+            "url": "https://www.michigannewssource.com/2026/09/michigan-citizenship-amendment-backers-ask-scotus-to-step-into-ballot-fight/",
+            "date": "2026-09-01",
+            "summary": "Backers of a Michigan constitutional amendment requiring proof of citizenship to vote asked the U.S. Supreme Court to intervene after the state Board of Canvassers deadlocked on certifying the measure, with a ballot-finalization deadline looming September 4."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Tarrant County approves reducing number of polling sites ahead of 2026 midterms",
+            "source": "FOX 4 Dallas-Fort Worth",
+            "url": "https://www.fox4news.com/news/tarrant-county-residents-sound-off-potential-polling-site-reductions-ahead-2026-midterms",
+            "date": "2026-09-01",
+            "summary": "Tarrant County's Commissioners Court voted to cut the number of polling locations from 312 to 224 ahead of the 2026 midterms, a move critics say could suppress turnout among communities of color and voters reliant on public transit."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Will the national battle over mail-in voting impact Utah's upcoming election?",
+            "source": "Utah Public Radio",
+            "url": "https://www.upr.org/politics/2026-08-31/mail-in-voting-restriction-elections",
+            "date": "2026-08-31",
+            "summary": "Utah election officials say ongoing federal litigation over mail-in voting restrictions is unlikely to affect the state's November election, citing the timing principle against last-minute rule changes and their commitment to existing procedures."
+          }
+        ]
+      }
     }
   ]
 }

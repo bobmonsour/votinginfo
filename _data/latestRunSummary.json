@@ -2,19 +2,24 @@
   "date": "2026-09-01",
   "items": [
     {
-      "text": "Federal appeals court strikes down South Carolina's age-based absentee voting law",
-      "url": "https://www.wistv.com/2026/08/31/federal-court-rules-scs-age-based-absentee-voting-law-unconstitutional/",
-      "abbr": "SC"
+      "text": "Massachusetts holds September 1 primary with closely watched Markey-Moulton Senate race",
+      "url": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts",
+      "abbr": "MA"
     },
     {
-      "text": "Colorado's mail ballot voter ID measure becomes 2026's seventh such initiative nationwide",
-      "url": "https://news.ballotpedia.org/2026/09/01/colorado-mail-in-ballot-voter-id-initiative-becomes-seventh-voter-id-measure-certified-for-2026-the-most-in-a-single-year/",
-      "abbr": "CO"
+      "text": "Michigan citizenship-voting amendment backers ask Supreme Court to force ballot access",
+      "url": "https://www.michigannewssource.com/2026/09/michigan-citizenship-amendment-backers-ask-scotus-to-step-into-ballot-fight/",
+      "abbr": "MI"
     },
     {
-      "text": "Washington officials fight federal pressure on USPS mail ballots and voter registries",
-      "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/08/what-to-know-about-voting-in-washington-amid-federal-tumult/",
-      "abbr": "WA"
+      "text": "Tarrant County, Texas cuts polling sites from 312 to 224 ahead of midterms",
+      "url": "https://www.fox4news.com/news/tarrant-county-residents-sound-off-potential-polling-site-reductions-ahead-2026-midterms",
+      "abbr": "TX"
+    },
+    {
+      "text": "Utah officials say federal mail-in voting fight won't disrupt November election",
+      "url": "https://www.upr.org/politics/2026-08-31/mail-in-voting-restriction-elections",
+      "abbr": "UT"
     }
   ]
 }
