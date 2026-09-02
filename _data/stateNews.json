@@ -31122,6 +31122,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-02",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Arizona among states to secure order blocking Trump mail-in voting change",
+            "source": "KJZZ",
+            "url": "https://www.kjzz.org/elections/2026-08-28/arizona-among-states-to-secure-order-blocking-trump-mail-in-voting-change",
+            "date": "2026-08-28",
+            "summary": "Arizona joined a 26-state coalition that secured a federal restraining order blocking parts of Trump's executive order requiring USPS to verify mail ballots before delivery, ahead of the 2026 midterms."
+          }
+        ],
+        "CT": [
+          {
+            "title": "CT Officials Seek To Reassure Voters After Report Of Federal Voter Investigation Surge",
+            "source": "CT News Junkie",
+            "url": "https://ctnewsjunkie.com/2026/09/01/ct-officials-seek-to-reassure-voters-after-report-of-federal-voter-investigation-surge/",
+            "date": "2026-09-01",
+            "summary": "Connecticut's Secretary of State Stephanie Thomas said the state has received no official notification of a reported DHS voter fraud investigation and warned that public announcements about federal election inquiries could chill legitimate voters ahead of November."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Battle over Ga.'s political maps reset after court tosses out earlier decision",
+            "source": "WRDW",
+            "url": "https://www.wrdw.com/2026/08/27/battle-over-gas-political-maps-reset-after-court-tosses-out-earlier-decision/",
+            "date": "2026-08-27",
+            "summary": "The 11th Circuit vacated a lower court ruling that found Georgia's congressional and legislative maps violated the Voting Rights Act, remanding the case for reconsideration under the Supreme Court's new Callais standard; current district lines remain in place for now."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Federal appeals court finds SC absentee voting law is unconstitutional",
+            "source": "South Carolina Public Radio",
+            "url": "https://www.southcarolinapublicradio.org/sc-news/2026-09-01/federal-appeals-court-finds-sc-absentee-voting-law-is-unconstitutional",
+            "date": "2026-09-01",
+            "summary": "A federal appeals court ruled South Carolina's age-based absentee voting law, which grants no-excuse mail voting only to voters 65 and older, violates the 26th Amendment; the district court must now expand the benefit or eliminate it."
+          }
+        ]
+      }
     }
   ]
 }
