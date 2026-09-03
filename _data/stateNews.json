@@ -31164,6 +31164,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-02",
+      "time": "17:00",
+      "states": {
+        "DE": [
+          {
+            "title": "Delaware enacts eight election-related bills and advances five amendments in 2026 session",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/09/01/delaware-enacts-eight-election-related-bills-and-advances-five-amendments-in-2026-session/",
+            "date": "2026-09-01",
+            "summary": "Delaware's General Assembly enacted eight election-related bills this session, including a new state-level voting rights act, and advanced five constitutional amendments toward voters."
+          }
+        ],
+        "MI": [
+          {
+            "title": "US Supreme Court sets deadline for Michigan's response to proposed citizenship voting ballot measure",
+            "source": "ClickOnDetroit (WDIV)",
+            "url": "https://www.clickondetroit.com/news/local/2026/09/02/us-supreme-court-sets-deadline-for-michigans-response-to-proposed-citizenship-voting-ballot-measure/",
+            "date": "2026-09-02",
+            "summary": "The U.S. Supreme Court ordered Michigan to respond by noon September 3 to an emergency request from Americans for Citizen Voting seeking to place a citizenship-and-photo-ID voting amendment on the November ballot after the state Board of Canvassers excluded it."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina voters face new rules as mail-in ballots go out",
+            "source": "WBUR (Here & Now)",
+            "url": "https://www.wbur.org/hereandnow/2026/09/02/mail-in-ballots-north-carolina",
+            "date": "2026-09-02",
+            "summary": "North Carolina began distributing absentee ballots amid confusion over new election procedures, with several proposed state rules still undecided ahead of the fall election."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Tarrant County commissioners approve cutting 92 Election Day polling sites",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/09/02/tarrant-county-commissioners-approve-cutting-polling-sites",
+            "date": "2026-09-02",
+            "summary": "Tarrant County commissioners voted 3-2 to cut Election Day polling sites from 316 to 224 ahead of the November midterms, a reduction opponents say will hurt ballot access in minority communities."
+          }
+        ]
+      }
     }
   ]
 }
