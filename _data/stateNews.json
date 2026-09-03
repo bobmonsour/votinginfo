@@ -31206,6 +31206,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-03",
+      "time": "06:00",
+      "states": {
+        "DC": [
+          {
+            "title": "Exclusive: DHS plans to launch voter fraud investigation surge Tuesday",
+            "source": "CNN",
+            "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/08/31/exclusive-dhs-plans-to-launch-voter-fraud-investigation-surge-tuesday/",
+            "date": "2026-08-31",
+            "summary": "DHS's Homeland Security Investigations unit is launching a coordinated voter-fraud investigation surge across nine states — Washington, Wisconsin, Missouri, Georgia, California, Pennsylvania, Nevada, New York, and Connecticut — running from early September through mid-October ahead of the midterms."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia voter rolls more than 99.9% accurate, 407 potential non-citizens cast ballots, audit finds",
+            "source": "WSB-TV",
+            "url": "https://www.wsbtv.com/news/local/georgia-voter-rolls-more-than-999-accurate-407-potential-non-citizens-cast-ballots-audit-finds/4WPJEOQWUFHF3FNPZXTSTT24PM/",
+            "date": "2026-09-01",
+            "summary": "A state audit of Georgia's nearly 8 million voter registrations found fewer than 0.1% contained issues, with about 407 non-citizens identified as having a voting history that officials say are removed once caught."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Idaho Supreme Court sharply questions abortion initiative statements",
+            "source": "Boise State Public Radio",
+            "url": "https://www.boisestatepublicradio.org/politics-government/2026-09-02/idaho-supreme-court-abortion-ballot-description",
+            "date": "2026-09-02",
+            "summary": "Idaho's Supreme Court heard expedited arguments over how the secretary of state and attorney general worded the yes/no ballot statements for a fall abortion-rights initiative, with a deadline looming to print absentee ballots."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NC plans to start mailing 2026 ballots Friday. Could the rules still change before then?",
+            "source": "WRAL.com",
+            "url": "https://www.wral.com/news/nccapitol/mail-in-voting-ballots-rules-absentee-change-midterm-elections-board-stein-august-2026/",
+            "date": "2026-09-03",
+            "summary": "North Carolina's State Board of Elections plans an emergency meeting to discuss possible mail-in voting rule changes just hours before the state begins mailing absentee ballots for the midterms."
+          }
+        ]
+      }
     }
   ]
 }

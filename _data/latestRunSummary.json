@@ -1,25 +1,25 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "items": [
     {
-      "text": "Michigan citizenship-voting ballot fight escalates to US Supreme Court",
-      "url": "https://www.clickondetroit.com/news/local/2026/09/02/us-supreme-court-sets-deadline-for-michigans-response-to-proposed-citizenship-voting-ballot-measure/",
-      "abbr": "MI"
+      "text": "DHS launches nine-state voter-fraud investigation surge ahead of midterms",
+      "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/08/31/exclusive-dhs-plans-to-launch-voter-fraud-investigation-surge-tuesday/",
+      "abbr": "DC"
     },
     {
-      "text": "Tarrant County, Texas cuts 92 Election Day polling sites ahead of midterms",
-      "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/09/02/tarrant-county-commissioners-approve-cutting-polling-sites",
-      "abbr": "TX"
+      "text": "Georgia audit finds voter rolls over 99.9% accurate, few non-citizens found",
+      "url": "https://www.wsbtv.com/news/local/georgia-voter-rolls-more-than-999-accurate-407-potential-non-citizens-cast-ballots-audit-finds/4WPJEOQWUFHF3FNPZXTSTT24PM/",
+      "abbr": "GA"
     },
     {
-      "text": "North Carolina voters navigate new rules as mail-in ballots go out",
-      "url": "https://www.wbur.org/hereandnow/2026/09/02/mail-in-ballots-north-carolina",
+      "text": "Idaho Supreme Court presses state over abortion initiative ballot wording",
+      "url": "https://www.boisestatepublicradio.org/politics-government/2026-09-02/idaho-supreme-court-abortion-ballot-description",
+      "abbr": "ID"
+    },
+    {
+      "text": "North Carolina board weighs mail-ballot rule changes as ballots begin mailing",
+      "url": "https://www.wral.com/news/nccapitol/mail-in-voting-ballots-rules-absentee-change-midterm-elections-board-stein-august-2026/",
       "abbr": "NC"
-    },
-    {
-      "text": "Delaware enacts eight election bills, advances five constitutional amendments",
-      "url": "https://news.ballotpedia.org/2026/09/01/delaware-enacts-eight-election-related-bills-and-advances-five-amendments-in-2026-session/",
-      "abbr": "DE"
     }
   ]
 }
