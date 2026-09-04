@@ -31248,6 +31248,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-03",
+      "time": "17:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Fontes, Kolodin clash over Arizona election security",
+            "source": "Arizona Capitol Times",
+            "url": "https://azcapitoltimes.com/news/2026/09/01/fontes-kolodin-clash-over-arizona-election-security/",
+            "date": "2026-09-01",
+            "summary": "Arizona's secretary of state candidates, incumbent Adrian Fontes and challenger Alexander Kolodin, clashed in a televised debate over mail-in voting security and voter ID ahead of the 2026 election."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Whistleblower says USPS system Trump ordered for mail ballots is flawed and untested",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/elections/whistleblower-usps-systems-mail-ballots-flawed-rcna595361",
+            "date": "2026-09-01",
+            "summary": "A whistleblower complaint alleges the Postal Service's system for verifying mail ballots under a Trump executive order was rushed, untested, and likely to disrupt ballot delivery ahead of the midterms."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Early voting for Delaware's 2026 primary election starts September 2",
+            "source": "WBOC",
+            "url": "https://www.wboc.com/news/early-voting-for-delawares-2026-primary-election-starts-september-2/article_99a7101f-5a48-416b-8474-a69008225538.html",
+            "date": "2026-09-02",
+            "summary": "Early voting for Delaware's September 15 primary began September 2, with AVR voters able to declare a party affiliation up through Election Day to participate."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland's top court allows Democratic-backed congressional redistricting measure on November ballot",
+            "source": "News4JAX (AP)",
+            "url": "https://www.news4jax.com/news/politics/2026/09/03/marylands-top-court-allows-democratic-backed-congressional-redistricting-measure-on-november-ballot/",
+            "date": "2026-09-03",
+            "summary": "Maryland's Supreme Court ruled that a Democratic-backed constitutional amendment on congressional redistricting must stay on the November ballot, reversing two lower-court rulings that had blocked it."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Key deadline for registered Vermonters planning to vote by mail in November",
+            "source": "WCAX",
+            "url": "https://www.wcax.com/2026/09/01/key-deadline-registered-vermonters-planning-vote-by-mail-november/",
+            "date": "2026-09-01",
+            "summary": "Vermont's Secretary of State reminded voters that September 1 was the deadline to update mailing addresses before the state automatically mails November ballots to the address on file."
+          }
+        ]
+      }
     }
   ]
 }
