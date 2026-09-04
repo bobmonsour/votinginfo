@@ -31299,6 +31299,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-04",
+      "time": "06:00",
+      "states": {
+        "DC": [
+          {
+            "title": "DOJ asks Supreme Court to allow Trump's USPS action on mail-in ballots to proceed ahead of midterm elections",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/trump-administration/justice-department-usps-supreme-court-action-mail-ballots-elections-rcna595924",
+            "date": "2026-09-03",
+            "summary": "The Trump administration asked the Supreme Court to overturn a federal judge's order blocking new USPS mail-ballot rules ahead of the November midterms, after a district judge ruled the requirements likely unconstitutional and infeasible for states to implement on short notice."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Form allows hundreds with felony convictions to find their voter eligibility",
+            "source": "Florida Phoenix",
+            "url": "https://floridaphoenix.com/2026/09/03/form-allows-hundreds-with-felony-convictions-to-find-their-voter-eligibility/",
+            "date": "2026-09-03",
+            "summary": "In the first statewide election since Florida created a process for people with felony convictions to check their voting eligibility, an advocacy group says it helped more than 400 people submit inquiries to the state's Division of Elections."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Lawmakers meet again to discuss new way to tabulate Georgia's votes",
+            "source": "WTOC",
+            "url": "https://www.wtoc.com/2026/09/03/lawmakers-meet-again-discuss-new-way-tabulate-georgias-votes/",
+            "date": "2026-09-03",
+            "summary": "Georgia legislature's Joint Elections Standards and Specifications Committee held its second meeting to consider a new vote-tabulation method to replace the QR-code system phased out this year, hearing testimony from local elections administrators."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan voter ID, proof of citizenship amendment loses at state, U.S. Supreme Court",
+            "source": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-09-03/michigan-proof-of-citizenship-voting-amendment-loses-at-state-u-s-supreme-court",
+            "date": "2026-09-03",
+            "summary": "Both the U.S. and Michigan Supreme Courts declined to intervene after the state Board of Canvassers deadlocked on a proposed constitutional amendment requiring proof of citizenship and photo ID to vote, keeping the measure off the November ballot."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri Supreme Court blocks congressional map, orders vote",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/09/03/missouri-supreme-court-overturns-congressional-map-clears-way-vote/",
+            "date": "2026-09-03",
+            "summary": "Missouri's Supreme Court struck down the Republican-drawn congressional map that split Kansas City across three districts and ordered voters to decide its fate in November, while the state attorney general plans a federal court appeal."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Elections Commission Weighs How to Handle Two Cities' Election Errors",
+            "source": "Wisconsin Examiner (via Urban Milwaukee)",
+            "url": "https://urbanmilwaukee.com/2026/09/01/elections-commission-weighs-how-to-handle-two-cities-election-errors/",
+            "date": "2026-09-01",
+            "summary": "Wisconsin's Elections Commission reviewed administrative errors in Milwaukee, where a tabulator file mix-up delayed primary results, and Green Bay, where duplicate absentee ballots were mailed, and debated how to formally respond to both cities ahead of November."
+          }
+        ]
+      }
     }
   ]
 }

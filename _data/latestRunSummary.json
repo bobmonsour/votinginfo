@@ -1,23 +1,35 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "items": [
     {
-      "text": "USPS whistleblower calls Trump's rushed mail-ballot verification system untested",
-      "url": "https://www.nbcnews.com/politics/elections/whistleblower-usps-systems-mail-ballots-flawed-rcna595361",
+      "text": "DOJ presses Supreme Court to revive Trump's USPS mail-ballot rules before midterms",
+      "url": "https://www.nbcnews.com/politics/trump-administration/justice-department-usps-supreme-court-action-mail-ballots-elections-rcna595924",
       "abbr": "DC"
     },
     {
-      "text": "Maryland's top court keeps redistricting amendment on the November ballot",
-      "url": "https://www.news4jax.com/news/politics/2026/09/03/marylands-top-court-allows-democratic-backed-congressional-redistricting-measure-on-november-ballot/",
-      "abbr": "MD"
+      "text": "Michigan's citizenship-voting ballot measure fails after courts decline to intervene",
+      "url": "https://www.michiganpublic.org/politics-government/2026-09-03/michigan-proof-of-citizenship-voting-amendment-loses-at-state-u-s-supreme-court",
+      "abbr": "MI"
     },
     {
-      "text": "Arizona secretary of state candidates clash over mail-ballot security",
-      "url": "https://azcapitoltimes.com/news/2026/09/01/fontes-kolodin-clash-over-arizona-election-security/",
-      "abbr": "AZ"
+      "text": "Missouri Supreme Court strikes down GOP congressional map, sends it to voters",
+      "url": "https://www.kctv5.com/2026/09/03/missouri-supreme-court-overturns-congressional-map-clears-way-vote/",
+      "abbr": "MO"
     },
     {
-      "text": "Delaware and Vermont voters face key deadlines ahead of fall elections"
+      "text": "Georgia lawmakers weigh replacement for banned QR-code vote tabulation system",
+      "url": "https://www.wtoc.com/2026/09/03/lawmakers-meet-again-discuss-new-way-tabulate-georgias-votes/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Wisconsin regulators review Milwaukee and Green Bay election errors ahead of November",
+      "url": "https://urbanmilwaukee.com/2026/09/01/elections-commission-weighs-how-to-handle-two-cities-election-errors/",
+      "abbr": "WI"
+    },
+    {
+      "text": "Florida advocates help hundreds with felony convictions check their voter eligibility",
+      "url": "https://floridaphoenix.com/2026/09/03/form-allows-hundreds-with-felony-convictions-to-find-their-voter-eligibility/",
+      "abbr": "FL"
     }
   ]
 }
