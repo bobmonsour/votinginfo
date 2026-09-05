@@ -31359,6 +31359,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-04",
+      "time": "17:00",
+      "states": {
+        "KY": [
+          {
+            "title": "Kentucky hardens voter protections; USPS policy threatens mail vote",
+            "source": "UPI",
+            "url": "https://www.upi.com/Top_News/US/2026/09/04/kentucky-emergency-rule-usps-whistleblower-report/4121788527686/",
+            "date": "2026-09-04",
+            "summary": "Kentucky's State Board of Elections put an emergency rule into effect that raises the standard for removing voters from the rolls based on out-of-state data, resolving a lawsuit brought by Kentuckians For The Commonwealth against Secretary of State Michael Adams."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri Supreme Court shuts down GOP attempt to block redrawn election map decision",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/09/04/missouri-supreme-court-shuts-down-gop-attempt-block-redrawn-election-map-decision/",
+            "date": "2026-09-04",
+            "summary": "The Missouri Supreme Court rejected the state's request to pause its ruling blocking the GOP-drawn congressional map from use in November, keeping the map fight on track for a public vote."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NC plans to start mailing 2026 ballots Friday. Could the rules still change before then?",
+            "source": "WECT",
+            "url": "https://www.wect.com/2026/09/04/nc-plans-start-mailing-2026-ballots-friday-could-rules-still-change-before-then/",
+            "date": "2026-09-04",
+            "summary": "North Carolina's elections director said counties remain on track to begin mailing absentee ballots September 4 as scheduled, even as the state board weighs last-minute changes to mail-voting rules at a special Friday meeting."
+          }
+        ],
+        "WV": [
+          {
+            "title": "West Virginia election officials monitoring rulings on absentee voting by mail",
+            "source": "The News and Sentinel",
+            "url": "https://www.newsandsentinel.com/news/local-news/2026/08/west-virginia-election-officials-monitoring-rulings-on-absentee-voting-by-mail/",
+            "date": "2026-08-26",
+            "summary": "West Virginia's deputy secretary of state said a federal ruling on mail-in ballot restrictions is not expected to affect the state's November 2026 election, though officials continue monitoring related litigation."
+          }
+        ]
+      }
     }
   ]
 }

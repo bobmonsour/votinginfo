@@ -2,34 +2,24 @@
   "date": "2026-09-04",
   "items": [
     {
-      "text": "DOJ presses Supreme Court to revive Trump's USPS mail-ballot rules before midterms",
-      "url": "https://www.nbcnews.com/politics/trump-administration/justice-department-usps-supreme-court-action-mail-ballots-elections-rcna595924",
-      "abbr": "DC"
-    },
-    {
-      "text": "Michigan's citizenship-voting ballot measure fails after courts decline to intervene",
-      "url": "https://www.michiganpublic.org/politics-government/2026-09-03/michigan-proof-of-citizenship-voting-amendment-loses-at-state-u-s-supreme-court",
-      "abbr": "MI"
-    },
-    {
-      "text": "Missouri Supreme Court strikes down GOP congressional map, sends it to voters",
-      "url": "https://www.kctv5.com/2026/09/03/missouri-supreme-court-overturns-congressional-map-clears-way-vote/",
+      "text": "Missouri Supreme Court again rebuffs GOP bid to revive its congressional map",
+      "url": "https://www.kctv5.com/2026/09/04/missouri-supreme-court-shuts-down-gop-attempt-block-redrawn-election-map-decision/",
       "abbr": "MO"
     },
     {
-      "text": "Georgia lawmakers weigh replacement for banned QR-code vote tabulation system",
-      "url": "https://www.wtoc.com/2026/09/03/lawmakers-meet-again-discuss-new-way-tabulate-georgias-votes/",
-      "abbr": "GA"
+      "text": "North Carolina confirms ballots go out Friday despite last-minute mail rule talks",
+      "url": "https://www.wect.com/2026/09/04/nc-plans-start-mailing-2026-ballots-friday-could-rules-still-change-before-then/",
+      "abbr": "NC"
     },
     {
-      "text": "Wisconsin regulators review Milwaukee and Green Bay election errors ahead of November",
-      "url": "https://urbanmilwaukee.com/2026/09/01/elections-commission-weighs-how-to-handle-two-cities-election-errors/",
-      "abbr": "WI"
+      "text": "Kentucky's emergency voter-roll rule takes effect, resolving purge lawsuit",
+      "url": "https://www.upi.com/Top_News/US/2026/09/04/kentucky-emergency-rule-usps-whistleblower-report/4121788527686/",
+      "abbr": "KY"
     },
     {
-      "text": "Florida advocates help hundreds with felony convictions check their voter eligibility",
-      "url": "https://floridaphoenix.com/2026/09/03/form-allows-hundreds-with-felony-convictions-to-find-their-voter-eligibility/",
-      "abbr": "FL"
+      "text": "West Virginia says federal mail-ballot ruling won't disrupt its November election",
+      "url": "https://www.newsandsentinel.com/news/local-news/2026/08/west-virginia-election-officials-monitoring-rulings-on-absentee-voting-by-mail/",
+      "abbr": "WV"
     }
   ]
 }
