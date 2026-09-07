@@ -31401,6 +31401,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-07",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Arizona voter-law fight reaches SCOTUS as election groups warn 'absurd' consequence could ensue",
+            "source": "Fox News",
+            "url": "https://www.foxnews.com/politics/arizona-voter-law-fight-reaches-scotus-election-groups-warn-absurd-consequence-could-ensue",
+            "date": "2026-09-05",
+            "summary": "The Supreme Court agreed to hear Mi Familia Vota v. Fontes this December over whether Arizona laws removing noncitizen voter registrations and requiring citizenship proof at registration violate the National Voter Registration Act."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland Supreme Court says redistricting ballot question can go to voters",
+            "source": "Bethesda Magazine",
+            "url": "https://bethesdamagazine.com/2026/09/04/maryland-supreme-court-redistricting-ballot-question/",
+            "date": "2026-09-04",
+            "summary": "Maryland's Supreme Court overturned two lower courts and ruled that a Democratic-backed congressional redistricting constitutional amendment can appear on the November ballot, with revised ballot language."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Looming ballot deadline complicates GOP appeal of Missouri redistricting decision",
+            "source": "Missouri Independent (via KCUR)",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-09-07/missouri-redistricting-lawsuit-referendum-november-supreme-court",
+            "date": "2026-09-07",
+            "summary": "Missouri Republicans appealed the state Supreme Court's redistricting ruling to the U.S. Supreme Court, seeking to use a 2025 gerrymandered map instead of the 2022 map, as a Tuesday ballot-finalization deadline looms."
+          }
+        ],
+        "NC": [
+          {
+            "title": "What's up with mail-in voting in NC in 2026?",
+            "source": "Carolina Public Press (via WFAE)",
+            "url": "https://www.wfae.org/politics/2026-09-07/whats-up-with-mail-in-voting-in-nc-in-2026",
+            "date": "2026-09-07",
+            "summary": "North Carolina became the first state in the nation to begin mailing absentee ballots for the 2026 general election, with new guidance on eligibility, witness/notary rules, and photo ID documentation for by-mail voters."
+          }
+        ],
+        "NY": [
+          {
+            "title": "NY Democrats file complaint over Blakeman-Trump event with Nassau County police",
+            "source": "New York Public News Network (WSHU)",
+            "url": "https://www.wshu.org/2026-08-28/ny-democrats-file-complaint-over-blakeman-trump-event-with-nassau-county-police",
+            "date": "2026-08-28",
+            "summary": "New York Democrats filed a complaint with the state Board of Elections alleging Nassau County Executive and gubernatorial candidate Bruce Blakeman improperly used county police resources for a partisan campaign event with President Trump."
+          }
+        ]
+      }
     }
   ]
 }

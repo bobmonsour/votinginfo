@@ -1,25 +1,30 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-07",
   "items": [
     {
-      "text": "Missouri Supreme Court again rebuffs GOP bid to revive its congressional map",
-      "url": "https://www.kctv5.com/2026/09/04/missouri-supreme-court-shuts-down-gop-attempt-block-redrawn-election-map-decision/",
+      "text": "Missouri redistricting fight heads to U.S. Supreme Court as ballot deadline looms",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-09-07/missouri-redistricting-lawsuit-referendum-november-supreme-court",
       "abbr": "MO"
     },
     {
-      "text": "North Carolina confirms ballots go out Friday despite last-minute mail rule talks",
-      "url": "https://www.wect.com/2026/09/04/nc-plans-start-mailing-2026-ballots-friday-could-rules-still-change-before-then/",
+      "text": "North Carolina becomes first state to begin mailing 2026 absentee ballots",
+      "url": "https://www.wfae.org/politics/2026-09-07/whats-up-with-mail-in-voting-in-nc-in-2026",
       "abbr": "NC"
     },
     {
-      "text": "Kentucky's emergency voter-roll rule takes effect, resolving purge lawsuit",
-      "url": "https://www.upi.com/Top_News/US/2026/09/04/kentucky-emergency-rule-usps-whistleblower-report/4121788527686/",
-      "abbr": "KY"
+      "text": "Maryland Supreme Court clears redistricting question for the November ballot",
+      "url": "https://bethesdamagazine.com/2026/09/04/maryland-supreme-court-redistricting-ballot-question/",
+      "abbr": "MD"
     },
     {
-      "text": "West Virginia says federal mail-ballot ruling won't disrupt its November election",
-      "url": "https://www.newsandsentinel.com/news/local-news/2026/08/west-virginia-election-officials-monitoring-rulings-on-absentee-voting-by-mail/",
-      "abbr": "WV"
+      "text": "Arizona's citizenship voter-roll law heads to SCOTUS for December arguments",
+      "url": "https://www.foxnews.com/politics/arizona-voter-law-fight-reaches-scotus-election-groups-warn-absurd-consequence-could-ensue",
+      "abbr": "AZ"
+    },
+    {
+      "text": "New York Democrats allege improper use of Nassau County police for Trump campaign event",
+      "url": "https://www.wshu.org/2026-08-28/ny-democrats-file-complaint-over-blakeman-trump-event-with-nassau-county-police",
+      "abbr": "NY"
     }
   ]
 }
