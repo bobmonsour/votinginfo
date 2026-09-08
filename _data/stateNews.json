@@ -31485,6 +31485,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-08",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Everything to know about Alaska's 2026 ballot measures",
+            "source": "The Alaska Current",
+            "url": "https://thealaskacurrent.com/2026/09/01/everything-to-know-about-alaskas-2026-ballot-measures/",
+            "date": "2026-09-01",
+            "summary": "Examines the ballot measures headed for Alaska's November 2026 ballot, including an effort backed by Elon Musk funding to repeal the state's open primary and ranked-choice voting system and roll back campaign finance disclosure rules."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Idaho Supreme Court rules state officials must re-write abortion initiative ballot statements",
+            "source": "Bonner County Daily Bee (Idaho Capital Sun)",
+            "url": "https://bonnercountydailybee.com/news/2026/sep/08/idaho-supreme-court-rules-state-officials-must-re-write-abortion-initiative-ballot-statements/",
+            "date": "2026-09-08",
+            "summary": "The Idaho Supreme Court unanimously ruled that state officials must redraft the ballot explanations for a proposed abortion rights initiative appearing on the Nov. 3 general election ballot, finding neither the 'yes' nor 'no' effect statements met legal requirements."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "November 3, 2026, General Election Vote by Mail Status",
+            "source": "County of Union, New Jersey",
+            "url": "https://ucnj.org/press-releases/public-info/2026/09/03/november-3-2026-general-election-vote-by-mail-status/",
+            "date": "2026-09-03",
+            "summary": "Union County officials announced they will continue processing vote-by-mail ballots under New Jersey law while litigation between the state and federal government over mail voting rules proceeds."
+          }
+        ]
+      }
     }
   ]
 }
