@@ -31452,6 +31452,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-07",
+      "time": "17:00",
+      "states": {
+        "CO": [
+          {
+            "title": "Colorado's 2026 General Election Ballot has been certified: What you need to know",
+            "source": "KKTV",
+            "url": "https://www.kktv.com/2026/09/07/colorados-2026-general-election-ballot-has-been-certified-what-you-need-know/",
+            "date": "2026-09-07",
+            "summary": "Colorado Secretary of State Jena Griswold certified the 2026 General Election ballot, which includes 14 statewide measures covering mail ballot voter ID, natural gas rights, and a Front Range passenger rail project."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Federal judge extends block on Trump order seeking to limit mail voting in the midterms",
+            "source": "PBS NewsHour",
+            "url": "https://www.pbs.org/newshour/politics/federal-judge-extends-block-on-trump-order-seeking-to-limit-mail-voting-in-the-midterms",
+            "date": "2026-09-04",
+            "summary": "U.S. District Judge Indira Talwani extended her block on President Trump's executive order restricting mail voting ahead of the 2026 midterms, finding compliance impossible on the tight timeline; the administration is appealing to the 1st Circuit."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Proof-of-citizenship amendment won't be on Michigan's November ballot",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/09/04/proof-of-citizenship-americans-for-citizen-voting-supreme-court/",
+            "date": "2026-09-04",
+            "summary": "The Michigan Supreme Court ruled that a proposed constitutional amendment requiring voters to prove citizenship will not appear on the 2026 ballot after finding insufficient valid signatures were collected."
+          }
+        ]
+      }
     }
   ]
 }
