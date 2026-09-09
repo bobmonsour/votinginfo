@@ -31587,6 +31587,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-09",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Fontes wants Arizona voters prepared for election misinformation",
+            "source": "Arizona Capitol Times",
+            "url": "https://azcapitoltimes.com/news/2026/09/08/fontes-wants-arizona-voters-prepared-for-election-misinformation/",
+            "date": "2026-09-08",
+            "summary": "Arizona Secretary of State Adrian Fontes launched an “arizona.vote” website and public information campaign aimed at countering election misinformation ahead of the November midterms."
+          }
+        ],
+        "NH": [
+          {
+            "title": "New Hampshire 2026 primary election results for Senate, governor and more",
+            "source": "CBS Boston",
+            "url": "https://www.cbsnews.com/boston/news/new-hampshire-primary-election-results-2026-senate-governor-house/",
+            "date": "2026-09-09",
+            "summary": "New Hampshire held its state primary, with former Sen. John Sununu winning the Republican Senate nomination and Rep. Chris Pappas winning the Democratic nomination for retiring Sen. Jeanne Shaheen's seat."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Here are Rhode Island's 2026 primary election results",
+            "source": "NPR",
+            "url": "https://www.kgou.org/politics-and-government/2026-09-08/here-are-rhode-islands-2026-primary-election-results",
+            "date": "2026-09-08",
+            "summary": "Rhode Island's 2026 primary election results are in, covering statewide races including governor and other offices ahead of the November general election."
+          }
+        ]
+      }
     }
   ]
 }

@@ -1,40 +1,20 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "items": [
     {
-      "text": "Trump administration asks Supreme Court to revive blocked voter verification database",
-      "url": "https://kfgo.com/2026/09/08/trump-asks-supreme-court-to-allow-voter-verification-database-blocked-by-judge/",
-      "abbr": "DC"
+      "text": "Arizona's Fontes launches misinformation-fighting voter site ahead of midterms",
+      "url": "https://azcapitoltimes.com/news/2026/09/08/fontes-wants-arizona-voters-prepared-for-election-misinformation/",
+      "abbr": "AZ"
     },
     {
-      "text": "Missouri redistricting fight escalates as state and federal court rulings clash",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-09-08/missouris-redistricting-fight-in-turmoil-as-u-s-supreme-court-and-federal-rulings-clash",
-      "abbr": "MO"
+      "text": "New Hampshire primary sets Sununu vs. Pappas matchup for Shaheen's open Senate seat",
+      "url": "https://www.cbsnews.com/boston/news/new-hampshire-primary-election-results-2026-senate-governor-house/",
+      "abbr": "NH"
     },
     {
-      "text": "Ohio's LaRose vows appeal after court blocks motor-voter citizenship requirement",
-      "url": "http://www.athensmessenger.com/news/larose-promises-appeal-of-ruling-that-blocks-ohio-s-citizenship-ask-for-motor-voters/article_66e7c578-df59-5d5d-90ea-0db20cea4d5d.html",
-      "abbr": "OH"
-    },
-    {
-      "text": "Oregon Democrats work to calm voters amid mail-ballot delays and federal legal fight",
-      "url": "https://www.ijpr.org/politics-government/2026-09-08/oregon-democrats-seek-to-calm-voters-election-uncertainties",
-      "abbr": "OR"
-    },
-    {
-      "text": "Pennsylvania joins 24-state lawsuit challenging Trump administration's mail ballot rules",
-      "url": "https://radio.wpsu.org/2026-08-27/shapiro-pa-officials-continue-to-fight-trump-mail-in-ballot-rules",
-      "abbr": "PA"
-    },
-    {
-      "text": "Washington ballot rejections spike after August primary, pushing voters toward drop boxes",
-      "url": "https://www.kiro7.com/news/local/thousands-wa-ballots-were-late-august-heres-whats-changing-november-election/VBCXX2EDMVBSBGONIUH7RUWTU4/",
-      "abbr": "WA"
-    },
-    {
-      "text": "Illinois officials stress mail ballot security after Supreme Court ruling on Trump's order",
-      "url": "https://www.wbez.org/politics/2026/08/26/mail-ballots-secure-illinois-election-officials-supreme-court-ruling-trump-executive-order",
-      "abbr": "IL"
+      "text": "Rhode Island primary results in ahead of November's general election",
+      "url": "https://www.kgou.org/politics-and-government/2026-09-08/here-are-rhode-islands-2026-primary-election-results",
+      "abbr": "RI"
     }
   ]
 }
