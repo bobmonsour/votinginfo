@@ -31518,6 +31518,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-08",
+      "time": "17:00",
+      "states": {
+        "DC": [
+          {
+            "title": "Trump asks Supreme Court to allow voter verification database that was blocked by judge",
+            "source": "Reuters",
+            "url": "https://kfgo.com/2026/09/08/trump-asks-supreme-court-to-allow-voter-verification-database-blocked-by-judge/",
+            "date": "2026-09-08",
+            "summary": "The Trump administration petitioned the Supreme Court to lift a D.C. federal judge's ruling that blocked a revamped immigration database used to verify voter citizenship, after a divided appeals panel declined to halt that order."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Mail ballots are 'secure,' Illinois election officials stress after Supreme Court ruling",
+            "source": "WBEZ Chicago",
+            "url": "https://www.wbez.org/politics/2026/08/26/mail-ballots-secure-illinois-election-officials-supreme-court-ruling-trump-executive-order",
+            "date": "2026-08-26",
+            "summary": "Illinois and Cook County election officials stressed mail-in voting remains secure despite legal challenges to a Trump executive order restricting ballot distribution, with Cook County Clerk Monica Gordon citing multiple safeguards ahead of Oct. 19 early voting."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri's redistricting fight in turmoil as U.S. Supreme Court and federal rulings clash",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-09-08/missouris-redistricting-fight-in-turmoil-as-u-s-supreme-court-and-federal-rulings-clash",
+            "date": "2026-09-08",
+            "summary": "Missouri's congressional map fight escalated after Justice Kavanaugh rejected a Republican bid to overturn a state court ruling, but a federal district judge then separately ordered use of the 2025 map, leaving conflicting directives likely headed for appeal."
+          }
+        ],
+        "OH": [
+          {
+            "title": "LaRose promises appeal of ruling that blocks Ohio's citizenship ask for motor voters",
+            "source": "The Center Square",
+            "url": "http://www.athensmessenger.com/news/larose-promises-appeal-of-ruling-that-blocks-ohio-s-citizenship-ask-for-motor-voters/article_66e7c578-df59-5d5d-90ea-0db20cea4d5d.html",
+            "date": "2026-08-31",
+            "summary": "Ohio Secretary of State Frank LaRose said he will appeal a federal ruling that Ohio's motor-voter registration process, which asks for proof of citizenship, violates the National Voter Registration Act."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Oregon Democrats seek to calm voters' election uncertainties",
+            "source": "Jefferson Public Radio",
+            "url": "https://www.ijpr.org/politics-government/2026-09-08/oregon-democrats-seek-to-calm-voters-election-uncertainties",
+            "date": "2026-09-08",
+            "summary": "Oregon Democratic leaders held a press conference to reassure voters ahead of the Nov. 3 election, addressing a rise in mail ballots rejected for late postmarks and an ongoing legal fight over federal mail-voting restrictions."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Shapiro, Pa. officials continue to fight Trump mail-in ballot rules",
+            "source": "WPSU",
+            "url": "https://radio.wpsu.org/2026-08-27/shapiro-pa-officials-continue-to-fight-trump-mail-in-ballot-rules",
+            "date": "2026-08-27",
+            "summary": "Gov. Josh Shapiro joined a 24-state lawsuit against a USPS rule requiring pre-approval of mail ballot procedures, while Pennsylvania's Department of State pressed federal officials to substantiate claims about noncitizens on the voter rolls."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Thousands of WA ballots were late in August. Here's what's changing for the November election",
+            "source": "KIRO 7",
+            "url": "https://www.kiro7.com/news/local/thousands-wa-ballots-were-late-august-heres-whats-changing-november-election/VBCXX2EDMVBSBGONIUH7RUWTU4/",
+            "date": "2026-09-02",
+            "summary": "Washington saw over 4,000 more mail ballots rejected as late in the August primary compared with 2024, prompting Secretary of State Steve Hobbs to urge voters toward drop boxes ahead of the November election."
+          }
+        ]
+      }
     }
   ]
 }
