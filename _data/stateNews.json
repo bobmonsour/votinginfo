@@ -31689,6 +31689,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-10",
+      "time": "06:00",
+      "states": {
+        "CA": [
+          {
+            "title": "Prop 39 opponents rally against California's proposed voter ID law",
+            "source": "KION Central Coast",
+            "url": "https://kioncentralcoast.com/news/2026/09/09/prop-39-opponents-rally-against-californias-proposed-voter-id-law/",
+            "date": "2026-09-09",
+            "summary": "Opponents of California's Proposition 39 rallied against the November ballot measure, which would require photo ID for in-person voting and the last four digits of a government ID for mail ballots."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Court halts ballots while it considers recount of 3-vote Indiana Senate primary",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://www.ipm.org/news/2026-09-03/court-halts-ballots-while-it-considers-recount-of-3-vote-indiana-senate-primary",
+            "date": "2026-09-03",
+            "summary": "The Indiana Supreme Court temporarily halted ballot distribution in six counties while it reviews a three-vote recount result in a state Senate Republican primary, with arguments set for September 10."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Rhode Island primary election results: Foulkes and Morales topple incumbents",
+            "source": "Ocean State Media",
+            "url": "https://www.nhpr.org/2026-09-10/rhode-island-primary-election-results-foulkes-and-morales-topple-incumbents",
+            "date": "2026-09-10",
+            "summary": "Helena Foulkes defeated incumbent Gov. Dan McKee in Rhode Island's Democratic gubernatorial primary, while David Morales unseated Providence Mayor Brett Smiley, setting the field for November's general election."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Warner Releases Report On 2026 Primary Election",
+            "source": "West Virginia Public Broadcasting",
+            "url": "https://wvpublic.org/story/government/warner-releases-report-on-2026-primary-election/",
+            "date": "2026-09-09",
+            "summary": "Secretary of State Kris Warner's report on West Virginia's 2026 primary found 98% of ballots were cast in person and documented a sizable shift in voter registration toward Republicans since the last election."
+          }
+        ]
+      }
     }
   ]
 }

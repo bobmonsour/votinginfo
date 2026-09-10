@@ -1,40 +1,25 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "items": [
     {
-      "text": "Missouri's early votes at risk as courts issue conflicting congressional map orders",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-09-09/missourians-early-votes-could-be-voided-if-legal-dispute-over-congressional-map-drags-on",
-      "abbr": "MO"
+      "text": "Rhode Island primary upsets: Foulkes topples McKee, Morales beats Providence mayor",
+      "url": "https://www.nhpr.org/2026-09-10/rhode-island-primary-election-results-foulkes-and-morales-topple-incumbents",
+      "abbr": "RI"
     },
     {
-      "text": "Pennsylvania election chief says mail voting unchanged despite Trump USPS order",
-      "url": "https://whyy.org/articles/2026-election-pennsylvania-mail-ballots/",
-      "abbr": "PA"
+      "text": "Indiana Supreme Court halts ballots over 3-vote state Senate primary recount",
+      "url": "https://www.ipm.org/news/2026-09-03/court-halts-ballots-while-it-considers-recount-of-3-vote-indiana-senate-primary",
+      "abbr": "IN"
     },
     {
-      "text": "Wisconsin's mail ballots caught in Trump administration's Supreme Court fight",
-      "url": "https://wislawjournal.com/2026/09/09/state-mail-in-ballots-face-u-s-supreme-court-fight/",
-      "abbr": "WI"
-    },
-    {
-      "text": "Colorado ties 52-year record with 14 measures on its November ballot",
-      "url": "https://kiowacountypress.net/content/14-measures-will-appear-colorados-statewide-ballot-2026",
-      "abbr": "CO"
-    },
-    {
-      "text": "Georgia disability advocate warns hand-marked ballots could disenfranchise voters",
-      "url": "https://www.wrdw.com/2026/09/08/georgia-disability-advocate-urges-lawmakers-protect-voting-while-facing-election-system/",
-      "abbr": "GA"
-    },
-    {
-      "text": "West Virginia teens can now earn $300 working the polls under new law",
-      "url": "https://wchstv.com/news/local/west-virginia-teens-can-now-work-at-polling-places-under-new-law-earning-up-to-300",
+      "text": "West Virginia primary report shows sharp GOP voter-registration gains",
+      "url": "https://wvpublic.org/story/government/warner-releases-report-on-2026-primary-election/",
       "abbr": "WV"
     },
     {
-      "text": "Ohio mails absentee ballot applications to registered voters ahead of November",
-      "url": "https://www.toledoblade.com/local/politics/2026/09/04/registered-ohio-voters-can-apply-absentee-ballots-november-election/stories/20260904098",
-      "abbr": "OH"
+      "text": "California Prop 39 voter ID measure draws dueling rallies ahead of November",
+      "url": "https://kioncentralcoast.com/news/2026/09/09/prop-39-opponents-rally-against-californias-proposed-voter-id-law/",
+      "abbr": "CA"
     }
   ]
 }
