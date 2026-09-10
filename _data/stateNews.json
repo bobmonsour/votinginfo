@@ -31620,6 +31620,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-09",
+      "time": "17:00",
+      "states": {
+        "CO": [
+          {
+            "title": "14 measures will appear on Colorado's statewide ballot in 2026",
+            "source": "Colorado Newsline",
+            "url": "https://kiowacountypress.net/content/14-measures-will-appear-colorados-statewide-ballot-2026",
+            "date": "2026-09-08",
+            "summary": "Colorado's November ballot will carry 14 statewide measures, tying a 52-year record, with 13 of them citizen-initiated and nearly half backed by a single conservative dark-money group."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Ga. disability advocate urges lawmakers to protect voting while facing election system",
+            "source": "WRDW/WAGT",
+            "url": "https://www.wrdw.com/2026/09/08/georgia-disability-advocate-urges-lawmakers-protect-voting-while-facing-election-system/",
+            "date": "2026-09-07",
+            "summary": "A disability advocate testified before Georgia's Joint Election Equipment Committee that switching to hand-marked paper ballots could disenfranchise voters who rely on accessible ballot-marking devices."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missourians' early votes could be voided if legal dispute over congressional map drags on",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-09-09/missourians-early-votes-could-be-voided-if-legal-dispute-over-congressional-map-drags-on",
+            "date": "2026-09-09",
+            "summary": "A legal dispute over Missouri's congressional map has left election officials with conflicting court orders as early voting nears, risking that ballots could later be invalidated if the fight isn't resolved."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Registered Ohio voters can apply for absentee ballots for November election",
+            "source": "The Blade",
+            "url": "https://www.toledoblade.com/local/politics/2026/09/04/registered-ohio-voters-can-apply-absentee-ballots-november-election/stories/20260904098",
+            "date": "2026-09-04",
+            "summary": "Ohio election officials began mailing absentee ballot request applications to the state's registered voters ahead of the November election, with ballots for most voters going out starting Oct. 6."
+          }
+        ],
+        "PA": [
+          {
+            "title": "'Nothing has changed': Pa. election chief says voting will continue as usual despite Trump mail ballot limitation efforts",
+            "source": "WHYY",
+            "url": "https://whyy.org/articles/2026-election-pennsylvania-mail-ballots/",
+            "date": "2026-09-09",
+            "summary": "Pennsylvania Secretary of State Al Schmidt said mail-in voting procedures remain unchanged for the 2026 election despite a federal push to restrict mail ballots, after a judge temporarily blocked the Trump administration's order."
+          }
+        ],
+        "WI": [
+          {
+            "title": "State mail-in ballots face U.S. Supreme Court fight",
+            "source": "Wisconsin Law Journal",
+            "url": "https://wislawjournal.com/2026/09/09/state-mail-in-ballots-face-u-s-supreme-court-fight/",
+            "date": "2026-09-09",
+            "summary": "Nearly 50,000 Wisconsin absentee ballots are already in voters' hands as the Trump administration asks the Supreme Court to allow new mail-ballot restrictions, with the state elections commission warning of last-minute disruption."
+          }
+        ],
+        "WV": [
+          {
+            "title": "West Virginia teens can now work at polling places under new law, earning up to $300",
+            "source": "WCHS-TV",
+            "url": "https://wchstv.com/news/local/west-virginia-teens-can-now-work-at-polling-places-under-new-law-earning-up-to-300",
+            "date": "2026-09-07",
+            "summary": "A new West Virginia law allows 16- and 17-year-olds to serve as paid Election Day poll workers, earning up to $300, as the Secretary of State's office looks to get younger residents involved earlier."
+          }
+        ]
+      }
     }
   ]
 }

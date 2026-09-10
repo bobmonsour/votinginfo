@@ -2,19 +2,39 @@
   "date": "2026-09-09",
   "items": [
     {
-      "text": "Arizona's Fontes launches misinformation-fighting voter site ahead of midterms",
-      "url": "https://azcapitoltimes.com/news/2026/09/08/fontes-wants-arizona-voters-prepared-for-election-misinformation/",
-      "abbr": "AZ"
+      "text": "Missouri's early votes at risk as courts issue conflicting congressional map orders",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-09-09/missourians-early-votes-could-be-voided-if-legal-dispute-over-congressional-map-drags-on",
+      "abbr": "MO"
     },
     {
-      "text": "New Hampshire primary sets Sununu vs. Pappas matchup for Shaheen's open Senate seat",
-      "url": "https://www.cbsnews.com/boston/news/new-hampshire-primary-election-results-2026-senate-governor-house/",
-      "abbr": "NH"
+      "text": "Pennsylvania election chief says mail voting unchanged despite Trump USPS order",
+      "url": "https://whyy.org/articles/2026-election-pennsylvania-mail-ballots/",
+      "abbr": "PA"
     },
     {
-      "text": "Rhode Island primary results in ahead of November's general election",
-      "url": "https://www.kgou.org/politics-and-government/2026-09-08/here-are-rhode-islands-2026-primary-election-results",
-      "abbr": "RI"
+      "text": "Wisconsin's mail ballots caught in Trump administration's Supreme Court fight",
+      "url": "https://wislawjournal.com/2026/09/09/state-mail-in-ballots-face-u-s-supreme-court-fight/",
+      "abbr": "WI"
+    },
+    {
+      "text": "Colorado ties 52-year record with 14 measures on its November ballot",
+      "url": "https://kiowacountypress.net/content/14-measures-will-appear-colorados-statewide-ballot-2026",
+      "abbr": "CO"
+    },
+    {
+      "text": "Georgia disability advocate warns hand-marked ballots could disenfranchise voters",
+      "url": "https://www.wrdw.com/2026/09/08/georgia-disability-advocate-urges-lawmakers-protect-voting-while-facing-election-system/",
+      "abbr": "GA"
+    },
+    {
+      "text": "West Virginia teens can now earn $300 working the polls under new law",
+      "url": "https://wchstv.com/news/local/west-virginia-teens-can-now-work-at-polling-places-under-new-law-earning-up-to-300",
+      "abbr": "WV"
+    },
+    {
+      "text": "Ohio mails absentee ballot applications to registered voters ahead of November",
+      "url": "https://www.toledoblade.com/local/politics/2026/09/04/registered-ohio-voters-can-apply-absentee-ballots-november-election/stories/20260904098",
+      "abbr": "OH"
     }
   ]
 }
