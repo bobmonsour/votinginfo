@@ -2,24 +2,44 @@
   "date": "2026-09-10",
   "items": [
     {
-      "text": "Rhode Island primary upsets: Foulkes topples McKee, Morales beats Providence mayor",
-      "url": "https://www.nhpr.org/2026-09-10/rhode-island-primary-election-results-foulkes-and-morales-topple-incumbents",
-      "abbr": "RI"
+      "text": "Missouri reverts to 2022 congressional map after election chief held in contempt",
+      "url": "https://www.ksat.com/news/politics/2026/09/10/federal-judge-allows-missouris-top-court-to-hold-contempt-hearing-in-redistricting-dispute/",
+      "abbr": "MO"
     },
     {
-      "text": "Indiana Supreme Court halts ballots over 3-vote state Senate primary recount",
-      "url": "https://www.ipm.org/news/2026-09-03/court-halts-ballots-while-it-considers-recount-of-3-vote-indiana-senate-primary",
+      "text": "Appeals court blocks Trump's mail-ballot Postal Service rule ahead of midterms",
+      "url": "https://www.cbsnews.com/news/appeals-court-trump-usps-mail-ballots-first-circuit/",
+      "abbr": "DC"
+    },
+    {
+      "text": "Denver and advocacy groups sue to keep armed ICE agents away from polling places",
+      "url": "https://coloradosun.com/2026/09/10/denver-sues-to-keep-ice-away-from-voters/",
+      "abbr": "CO"
+    },
+    {
+      "text": "Indiana Supreme Court settles razor-thin primary in redistricting-holdout's favor",
+      "url": "https://www.wvxu.org/2026-09-10/indiana-supreme-court-declares-winner-in-contentious-republican-primary-race",
       "abbr": "IN"
     },
     {
-      "text": "West Virginia primary report shows sharp GOP voter-registration gains",
-      "url": "https://wvpublic.org/story/government/warner-releases-report-on-2026-primary-election/",
-      "abbr": "WV"
+      "text": "Federal judge dismisses challenge to Indiana's citizenship-verification voting law",
+      "url": "https://indianacapitalchronicle.com/2026/09/10/federal-judge-dismisses-complaint-against-indiana-citizenship-verification-voting-law/",
+      "abbr": "IN"
     },
     {
-      "text": "California Prop 39 voter ID measure draws dueling rallies ahead of November",
-      "url": "https://kioncentralcoast.com/news/2026/09/09/prop-39-opponents-rally-against-californias-proposed-voter-id-law/",
-      "abbr": "CA"
+      "text": "Ohio's proof-of-citizenship registration requirement stays blocked on appeal",
+      "url": "https://www.democracydocket.com/news-alerts/court-refuses-to-reinstate-ohio-gops-voting-restriction-during-appeal/",
+      "abbr": "OH"
+    },
+    {
+      "text": "Utah's lieutenant governor faces DOJ investigation over withheld voter data",
+      "url": "https://www.moabtimes.com/articles/trumps-doj-is-investigating-utahs-election-chief-for-refusing-to-hand-over-voter-data-it-says-in-letter/",
+      "abbr": "UT"
+    },
+    {
+      "text": "Delaware's permanent absentee voting law survives a GOP senator's court challenge",
+      "url": "https://www.delawarepublic.org/news/2026-09-08/delawares-permanent-absentee-voting-law-is-upheld-by-court-of-chancery",
+      "abbr": "DE"
     }
   ]
 }

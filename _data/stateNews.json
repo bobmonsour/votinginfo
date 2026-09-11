@@ -31731,6 +31731,82 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-10",
+      "time": "17:00",
+      "states": {
+        "CO": [
+          {
+            "title": "Denver, Latino groups sue to keep ICE agents away from voting places",
+            "source": "The Colorado Sun",
+            "url": "https://coloradosun.com/2026/09/10/denver-sues-to-keep-ice-away-from-voters/",
+            "date": "2026-09-10",
+            "summary": "Denver and Latino advocacy groups sued the Department of Homeland Security to block armed ICE agents from conducting enforcement at polling places in November, citing a Civil War-era law barring armed officials at the polls."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Appeals court rejects Trump request to lift block on Postal Service rule for mail ballots",
+            "source": "CBS News",
+            "url": "https://www.cbsnews.com/news/appeals-court-trump-usps-mail-ballots-first-circuit/",
+            "date": "2026-09-10",
+            "summary": "The 1st U.S. Circuit Court of Appeals denied the Trump administration's bid to reinstate new USPS mail-ballot verification rules for the midterms, warning they could cause widespread voter disenfranchisement."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Delaware's permanent absentee voting law is upheld by Court of Chancery",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/news/2026-09-08/delawares-permanent-absentee-voting-law-is-upheld-by-court-of-chancery",
+            "date": "2026-09-08",
+            "summary": "Delaware's Court of Chancery rejected a constitutional challenge from State Sen. Gerald Hocker and issued summary judgment upholding the state's permanent absentee voting law ahead of the November election."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Federal judge dismisses complaint against Indiana citizenship verification voting law",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/09/10/federal-judge-dismisses-complaint-against-indiana-citizenship-verification-voting-law/",
+            "date": "2026-09-10",
+            "summary": "A federal judge dismissed a lawsuit from voting rights groups challenging Indiana's proof-of-citizenship registration requirements, finding the organizations lacked standing to sue."
+          },
+          {
+            "title": "Indiana Supreme Court declares winner in contentious Republican primary race",
+            "source": "WVXU",
+            "url": "https://www.wvxu.org/2026-09-10/indiana-supreme-court-declares-winner-in-contentious-republican-primary-race",
+            "date": "2026-09-10",
+            "summary": "The Indiana Supreme Court affirmed state Sen. Spencer Deery's three-vote primary win, ending a months-long recount fight involving a lawmaker who opposed a Trump-backed congressional gerrymander."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
+            "source": "Associated Press",
+            "url": "https://www.ksat.com/news/politics/2026/09/10/federal-judge-allows-missouris-top-court-to-hold-contempt-hearing-in-redistricting-dispute/",
+            "date": "2026-09-10",
+            "summary": "After Missouri's Secretary of State was held in contempt for defying a state Supreme Court order, Missouri will use its 2022 congressional map rather than a newly drawn Republican map for the November election."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Court refuses to reinstate Ohio GOP's voting restriction during appeal",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/court-refuses-to-reinstate-ohio-gops-voting-restriction-during-appeal/",
+            "date": "2026-09-09",
+            "summary": "A federal judge declined to let Ohio reinstate its proof-of-citizenship voter registration requirement while the state appeals a ruling that blocked the law ahead of the October registration deadline."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Trump's DOJ is investigating Utah's election chief for refusing to hand over voter data, it says in letter",
+            "source": "Moab Times",
+            "url": "https://www.moabtimes.com/articles/trumps-doj-is-investigating-utahs-election-chief-for-refusing-to-hand-over-voter-data-it-says-in-letter/",
+            "date": "2026-09-10",
+            "summary": "The Justice Department is investigating Utah Lt. Gov. Deidre Henderson for refusing to hand over the state's complete, unredacted voter database, escalating a dispute over federal access to voter records."
+          }
+        ]
+      }
     }
   ]
 }
