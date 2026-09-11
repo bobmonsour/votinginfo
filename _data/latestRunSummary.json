@@ -1,45 +1,30 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "items": [
     {
-      "text": "Missouri reverts to 2022 congressional map after election chief held in contempt",
-      "url": "https://www.ksat.com/news/politics/2026/09/10/federal-judge-allows-missouris-top-court-to-hold-contempt-hearing-in-redistricting-dispute/",
-      "abbr": "MO"
+      "text": "Hawaii Supreme Court leans toward new election after Easter-egg tiebreaker dispute",
+      "url": "https://www.civilbeat.org/2026/09/rematch-may-be-coming-for-house-seat-decided-by-tiebreaker",
+      "abbr": "HI"
     },
     {
-      "text": "Appeals court blocks Trump's mail-ballot Postal Service rule ahead of midterms",
-      "url": "https://www.cbsnews.com/news/appeals-court-trump-usps-mail-ballots-first-circuit/",
-      "abbr": "DC"
+      "text": "New Hampshire primary draws federal poll monitors but runs smoothly, officials say",
+      "url": "https://www.nhpr.org/politics/2026-09-10/election-monitors-say-nh-primary-went-smoothly-newhampshire-2026",
+      "abbr": "NH"
     },
     {
-      "text": "Denver and advocacy groups sue to keep armed ICE agents away from polling places",
-      "url": "https://coloradosun.com/2026/09/10/denver-sues-to-keep-ice-away-from-voters/",
-      "abbr": "CO"
+      "text": "Virginia publishes early-voting and ID guide ahead of November general election",
+      "url": "https://www.wsls.com/news/politics/2026/09/10/2026-november-election-guide-where-to-vote-and-everything-you-need-to-know/",
+      "abbr": "VA"
     },
     {
-      "text": "Indiana Supreme Court settles razor-thin primary in redistricting-holdout's favor",
-      "url": "https://www.wvxu.org/2026-09-10/indiana-supreme-court-declares-winner-in-contentious-republican-primary-race",
-      "abbr": "IN"
+      "text": "Montana dismisses AI-mailer complaints as protected satire under new deepfake law",
+      "url": "https://dailymontanan.com/2026/08/24/political-complaints-pointing-to-new-ai-law-dropped/",
+      "abbr": "MT"
     },
     {
-      "text": "Federal judge dismisses challenge to Indiana's citizenship-verification voting law",
-      "url": "https://indianacapitalchronicle.com/2026/09/10/federal-judge-dismisses-complaint-against-indiana-citizenship-verification-voting-law/",
-      "abbr": "IN"
-    },
-    {
-      "text": "Ohio's proof-of-citizenship registration requirement stays blocked on appeal",
-      "url": "https://www.democracydocket.com/news-alerts/court-refuses-to-reinstate-ohio-gops-voting-restriction-during-appeal/",
-      "abbr": "OH"
-    },
-    {
-      "text": "Utah's lieutenant governor faces DOJ investigation over withheld voter data",
-      "url": "https://www.moabtimes.com/articles/trumps-doj-is-investigating-utahs-election-chief-for-refusing-to-hand-over-voter-data-it-says-in-letter/",
-      "abbr": "UT"
-    },
-    {
-      "text": "Delaware's permanent absentee voting law survives a GOP senator's court challenge",
-      "url": "https://www.delawarepublic.org/news/2026-09-08/delawares-permanent-absentee-voting-law-is-upheld-by-court-of-chancery",
-      "abbr": "DE"
+      "text": "Arkansas candidate eligibility fight and Jacksonville at-large voting measure head to the ballot",
+      "url": "https://www.arkansasleader.com/articles/troutmans-eligibility-established-by-court/",
+      "abbr": "AR"
     }
   ]
 }

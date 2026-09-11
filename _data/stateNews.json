@@ -31807,6 +31807,78 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-11",
+      "time": "06:00",
+      "states": {
+        "AR": [
+          {
+            "title": "Troutman's eligibility established by court",
+            "source": "The Arkansas Leader",
+            "url": "https://www.arkansasleader.com/articles/troutmans-eligibility-established-by-court/",
+            "date": "2026-09-09",
+            "summary": "A special judge ruled that independent candidate Toby Troutman remains eligible to appear on the November ballot for Lonoke County judge, rejecting a challenge to his candidacy."
+          },
+          {
+            "title": "Democratic campaign trail cuts through Lonoke County",
+            "source": "The Arkansas Leader",
+            "url": "https://www.arkansasleader.com/articles/democratic-campaign-trail-cuts-through-lonoke-county/",
+            "date": "2026-09-05",
+            "summary": "Democratic candidates for U.S. Senate, governor, and a state House seat held a meet-and-greet in Lonoke County ahead of the November general election."
+          },
+          {
+            "title": "At-large voting makes its way onto Jacksonville's ballot",
+            "source": "The Arkansas Leader",
+            "url": "https://www.arkansasleader.com/articles/at-large-voting-makes-its-way-onto-jacksonvilles-ballot/",
+            "date": "2026-09-02",
+            "summary": "A successful petition drive placed a measure on Jacksonville's November ballot asking voters whether to eliminate at-large voting for city council seats."
+          },
+          {
+            "title": "Beebe regains early voting site",
+            "source": "The Arkansas Leader",
+            "url": "https://www.arkansasleader.com/articles/beebe-regains-early-voting-site/",
+            "date": "2026-08-31",
+            "summary": "The White County Election Commission approved reopening an early voting center in Beebe at a local church ahead of the November election."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Rematch May Be Coming For House Seat Decided By Tiebreaker",
+            "source": "Honolulu Civil Beat",
+            "url": "https://www.civilbeat.org/2026/09/rematch-may-be-coming-for-house-seat-decided-by-tiebreaker",
+            "date": "2026-09-02",
+            "summary": "Hawaii's Supreme Court is expected to order a special election for a state House primary decided by a coin-flip tiebreaker, after irregularities emerged in the tie-breaking process."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Political complaints pointing to new AI law dropped",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/08/24/political-complaints-pointing-to-new-ai-law-dropped/",
+            "date": "2026-08-24",
+            "summary": "Montana's Commissioner of Political Practices dismissed complaints against a PAC over AI-generated political mailers, in a case tied to the state's new deepfake election law."
+          }
+        ],
+        "NH": [
+          {
+            "title": "State election monitors say NH primary went smoothly",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/politics/2026-09-10/election-monitors-say-nh-primary-went-smoothly-newhampshire-2026",
+            "date": "2026-09-10",
+            "summary": "New Hampshire's state primary proceeded without significant incidents, with state election-law monitors and federal observers reporting no major problems at polling locations."
+          }
+        ],
+        "VA": [
+          {
+            "title": "2026 November Election Guide: Where to vote and everything you need to know",
+            "source": "WSLS",
+            "url": "https://www.wsls.com/news/politics/2026/09/10/2026-november-election-guide-where-to-vote-and-everything-you-need-to-know/",
+            "date": "2026-09-10",
+            "summary": "A guide to Virginia's November election covering early voting start dates, registration deadlines, ID requirements, and statewide and local races on the ballot."
+          }
+        ]
+      }
     }
   ]
 }
