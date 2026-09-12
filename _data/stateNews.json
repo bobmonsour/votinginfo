@@ -31879,6 +31879,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-11",
+      "time": "17:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Alabama absentee voting deadlines for 2026 general election",
+            "source": "Alabama Political Reporter",
+            "url": "https://www.alreporter.com/2026/09/10/alabama-absentee-voting-deadlines-for-2026-general-election/",
+            "date": "2026-09-10",
+            "summary": "Alabama Secretary of State Wes Allen detailed absentee voting deadlines for the November 3 general election, including application and ballot-return dates and photo ID requirements."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Three Courts Rule In Delaware's Favor On Voting Rights",
+            "source": "WGMD",
+            "url": "https://www.wgmd.com/three-courts-rule-in-delawares-favor-on-election-issues/",
+            "date": "2026-09-09",
+            "summary": "Three separate courts sided with Delaware in rulings upholding the state's permanent absentee voting law, campaign finance disclosure rules, and mail ballot procedures ahead of the 2026 election."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Supreme Court ends Missouri map uncertainty as election deadlines close in",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/09/11/missouri-congressional-map-election-officials-supreme-court-2026-denny-hoskins/",
+            "date": "2026-09-11",
+            "summary": "The U.S. Supreme Court blocked Missouri's Republican-drawn congressional map for the November election, clearing the way for the state's 2022 map to be used instead."
+          }
+        ],
+        "VT": [
+          {
+            "title": "5 things we're watching in Vermont's general election",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2026/09/10/5-things-were-watching-in-vermonts-general-election/",
+            "date": "2026-09-10",
+            "summary": "VTDigger previews key races and ballot questions for Vermont's November general election, including the gubernatorial race and two constitutional amendments."
+          }
+        ]
+      }
     }
   ]
 }

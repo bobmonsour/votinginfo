@@ -2,29 +2,24 @@
   "date": "2026-09-11",
   "items": [
     {
-      "text": "Hawaii Supreme Court leans toward new election after Easter-egg tiebreaker dispute",
-      "url": "https://www.civilbeat.org/2026/09/rematch-may-be-coming-for-house-seat-decided-by-tiebreaker",
-      "abbr": "HI"
+      "text": "Supreme Court blocks Missouri's GOP-drawn congressional map days before deadline",
+      "url": "https://www.votebeat.org/national/2026/09/11/missouri-congressional-map-election-officials-supreme-court-2026-denny-hoskins/",
+      "abbr": "MO"
     },
     {
-      "text": "New Hampshire primary draws federal poll monitors but runs smoothly, officials say",
-      "url": "https://www.nhpr.org/politics/2026-09-10/election-monitors-say-nh-primary-went-smoothly-newhampshire-2026",
-      "abbr": "NH"
+      "text": "Delaware courts uphold permanent absentee voting and mail-ballot rules in three rulings",
+      "url": "https://www.wgmd.com/three-courts-rule-in-delawares-favor-on-election-issues/",
+      "abbr": "DE"
     },
     {
-      "text": "Virginia publishes early-voting and ID guide ahead of November general election",
-      "url": "https://www.wsls.com/news/politics/2026/09/10/2026-november-election-guide-where-to-vote-and-everything-you-need-to-know/",
-      "abbr": "VA"
+      "text": "Vermont previews governor's race and two constitutional amendments on November ballot",
+      "url": "https://vtdigger.org/2026/09/10/5-things-were-watching-in-vermonts-general-election/",
+      "abbr": "VT"
     },
     {
-      "text": "Montana dismisses AI-mailer complaints as protected satire under new deepfake law",
-      "url": "https://dailymontanan.com/2026/08/24/political-complaints-pointing-to-new-ai-law-dropped/",
-      "abbr": "MT"
-    },
-    {
-      "text": "Arkansas candidate eligibility fight and Jacksonville at-large voting measure head to the ballot",
-      "url": "https://www.arkansasleader.com/articles/troutmans-eligibility-established-by-court/",
-      "abbr": "AR"
+      "text": "Alabama sets absentee ballot application and return deadlines for November election",
+      "url": "https://www.alreporter.com/2026/09/10/alabama-absentee-voting-deadlines-for-2026-general-election/",
+      "abbr": "AL"
     }
   ]
 }
