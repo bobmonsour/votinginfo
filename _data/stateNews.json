@@ -31921,6 +31921,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-14",
+      "time": "06:00",
+      "states": {
+        "GA": [
+          {
+            "title": "The secret ballot has been an article of faith in U.S. elections. That's being tested in Georgia.",
+            "source": "Christian Science Monitor",
+            "url": "https://www.csmonitor.com/USA/Politics/2026/0913/elections-midterms-georgia-democracy-ai",
+            "date": "2026-09-13",
+            "summary": "Security researchers warn a flaw in Georgia's voting equipment could let voters be matched to their cast ballots, and say advances in AI make the vulnerability more exploitable ahead of November."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii could face costly scramble to deliver ballots",
+            "source": "West Hawaii Today",
+            "url": "https://www.westhawaiitoday.com/2026/09/14/hawaii-news/hawaii-could-face-costly-scramble-to-deliver-ballots/",
+            "date": "2026-09-14",
+            "summary": "If the U.S. Supreme Court upholds a USPS rule restricting mail-in ballot delivery, Hawaii could need to spend about $10 million on private couriers and lean more on drop boxes and in-person voting centers."
+          }
+        ],
+        "MN": [
+          {
+            "title": "For those with minds made up, Minnesotans can start casting their midterm ballots Friday",
+            "source": "MPR News",
+            "url": "https://www.mprnews.org/story/2026/09/14/for-those-with-minds-made-up-minnesotans-can-start-casting-their-midterm-ballots-friday",
+            "date": "2026-09-14",
+            "summary": "Early absentee voting opens in Minnesota for the 2026 midterms, which will decide the governor's race, all U.S. House seats, and one U.S. Senate seat."
+          }
+        ],
+        "NY": [
+          {
+            "title": "In time for midterms, voting advocates pressure Hochul to sign time extender bill into law",
+            "source": "NY State of Politics",
+            "url": "https://nystateofpolitics.com/state-of-politics/new-york/politics/2026/09/11/new-york-time-extender-bill",
+            "date": "2026-09-11",
+            "summary": "Voting rights groups are pressing Gov. Hochul to sign a bill that would automatically extend polling hours when voting is disrupted for more than an hour, ahead of the 2026 midterms."
+          }
+        ]
+      }
     }
   ]
 }

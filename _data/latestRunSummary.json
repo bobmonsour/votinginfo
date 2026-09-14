@@ -1,25 +1,25 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-14",
   "items": [
     {
-      "text": "Supreme Court blocks Missouri's GOP-drawn congressional map days before deadline",
-      "url": "https://www.votebeat.org/national/2026/09/11/missouri-congressional-map-election-officials-supreme-court-2026-denny-hoskins/",
-      "abbr": "MO"
+      "text": "Georgia faces scrutiny over voting-equipment flaw that could unmask secret ballots",
+      "url": "https://www.csmonitor.com/USA/Politics/2026/0913/elections-midterms-georgia-democracy-ai",
+      "abbr": "GA"
     },
     {
-      "text": "Delaware courts uphold permanent absentee voting and mail-ballot rules in three rulings",
-      "url": "https://www.wgmd.com/three-courts-rule-in-delawares-favor-on-election-issues/",
-      "abbr": "DE"
+      "text": "Hawaii could face $10 million scramble to deliver ballots if USPS mail rule stands",
+      "url": "https://www.westhawaiitoday.com/2026/09/14/hawaii-news/hawaii-could-face-costly-scramble-to-deliver-ballots/",
+      "abbr": "HI"
     },
     {
-      "text": "Vermont previews governor's race and two constitutional amendments on November ballot",
-      "url": "https://vtdigger.org/2026/09/10/5-things-were-watching-in-vermonts-general-election/",
-      "abbr": "VT"
+      "text": "Minnesota opens early absentee voting for the 2026 midterms",
+      "url": "https://www.mprnews.org/story/2026/09/14/for-those-with-minds-made-up-minnesotans-can-start-casting-their-midterm-ballots-friday",
+      "abbr": "MN"
     },
     {
-      "text": "Alabama sets absentee ballot application and return deadlines for November election",
-      "url": "https://www.alreporter.com/2026/09/10/alabama-absentee-voting-deadlines-for-2026-general-election/",
-      "abbr": "AL"
+      "text": "New York advocates press Hochul to sign polling-hours time extender bill before midterms",
+      "url": "https://nystateofpolitics.com/state-of-politics/new-york/politics/2026/09/11/new-york-time-extender-bill",
+      "abbr": "NY"
     }
   ]
 }
