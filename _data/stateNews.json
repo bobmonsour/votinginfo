@@ -31987,6 +31987,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-15",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Heap: Nearly 150,000 Voter Notices Were Not A Mistake",
+            "source": "Arizona Daily Independent",
+            "url": "https://arizonadailyindependent.com/2026/09/14/heap-nearly-150000-voter-notices-were-not-a-mistake/",
+            "date": "2026-09-14",
+            "summary": "Maricopa County Recorder Justin Heap confirmed that nearly 150,000 voter address-verification notices were mandated by state law, not sent in error, ahead of the November election."
+          }
+        ],
+        "DC": [
+          {
+            "title": "In blow to Trump, Supreme Court blocks mail ballot restrictions from taking effect in 2026",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/09/15/trump-mail-voting-executive-order-supreme-court-decision-2026-election/",
+            "date": "2026-09-15",
+            "summary": "The U.S. Supreme Court left in place a lower-court freeze on Trump administration mail-ballot restrictions, allowing 2026 midterm mail voting to proceed as it has in prior years."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia's voter registration deadline is approaching. Here are 5 things you need to know.",
+            "source": "The Current",
+            "url": "https://thecurrentga.org/2026/09/14/georgias-voter-registration-deadline-is-approaching-here-are-5-things-you-need-to-know/",
+            "date": "2026-09-14",
+            "summary": "Guide to Georgia's Oct. 5 voter registration deadline, covering how to check registration status and requirements for voters with inactive or challenged status."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Decision 2026: Important dates to know for the midterm elections",
+            "source": "ClickOnDetroit",
+            "url": "https://www.clickondetroit.com/news/local/2026/09/14/decision-2026-important-dates-to-know-for-the-midterm-elections/",
+            "date": "2026-09-14",
+            "summary": "Rundown of key Michigan deadlines for the 2026 midterms, including absentee ballot availability starting Sept. 24 and the Oct. 24-Nov. 1 early voting period."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri GOP still see path for gerrymandered congressional map. What are their chances?",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-09-15/missouri-republican-redistricting-8th-circuit-court-2026-election",
+            "date": "2026-09-15",
+            "summary": "Missouri Republicans are pursuing an 8th Circuit Court appeal to revive their redrawn congressional map for November, despite Supreme Court and state court rulings against it."
+          }
+        ]
+      }
     }
   ]
 }

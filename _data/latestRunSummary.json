@@ -1,15 +1,30 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "items": [
     {
-      "text": "Idaho officials proclaim National Voter Registration Day ahead of November",
-      "url": "https://localnews8.com/news/2026/09/14/idaho-voter-registration-day-push/",
-      "abbr": "ID"
+      "text": "Supreme Court blocks Trump mail-ballot restrictions from taking effect in 2026",
+      "url": "https://www.votebeat.org/national/2026/09/15/trump-mail-voting-executive-order-supreme-court-decision-2026-election/",
+      "abbr": "DC"
     },
     {
-      "text": "South Dakota's federal-only voter notification letters challenged in federal court",
-      "url": "https://kfgo.com/2026/09/12/lawyers-argue-over-south-dakotas-notification-letters-to-voters-registered-as-federal-only/",
-      "abbr": "SD"
+      "text": "Missouri Republicans press 8th Circuit appeal to revive gerrymandered map",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-09-15/missouri-republican-redistricting-8th-circuit-court-2026-election",
+      "abbr": "MO"
+    },
+    {
+      "text": "Maricopa County recorder says 150,000 Arizona voter notices were not a mistake",
+      "url": "https://arizonadailyindependent.com/2026/09/14/heap-nearly-150000-voter-notices-were-not-a-mistake/",
+      "abbr": "AZ"
+    },
+    {
+      "text": "Georgia's October 5 voter registration deadline nears amid midterm prep",
+      "url": "https://thecurrentga.org/2026/09/14/georgias-voter-registration-deadline-is-approaching-here-are-5-things-you-need-to-know/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Michigan outlines key absentee and early voting dates for the midterms",
+      "url": "https://www.clickondetroit.com/news/local/2026/09/14/decision-2026-important-dates-to-know-for-the-midterm-elections/",
+      "abbr": "MI"
     }
   ]
 }
