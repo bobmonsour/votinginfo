@@ -31963,6 +31963,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-14",
+      "time": "17:00",
+      "states": {
+        "ID": [
+          {
+            "title": "Gov. Little, Secretary McGrane proclaim Tuesday National Voter Registration Day",
+            "source": "Local News 8",
+            "url": "https://localnews8.com/news/2026/09/14/idaho-voter-registration-day-push/",
+            "date": "2026-09-14",
+            "summary": "Idaho Gov. Brad Little and Secretary of State Phil McGrane issued a joint proclamation for National Voter Registration Day, urging residents to check their registration status and note key deadlines ahead of the Nov. 3 election."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Lawyers argue over South Dakota's notification letters to voters registered as federal-only",
+            "source": "KFGO",
+            "url": "https://kfgo.com/2026/09/12/lawyers-argue-over-south-dakotas-notification-letters-to-voters-registered-as-federal-only/",
+            "date": "2026-09-12",
+            "summary": "A federal judge is weighing whether South Dakota's secretary of state violated voters' constitutional rights by sending misleading notification letters to voters registered as federal-only, without explaining how to change their status."
+          }
+        ]
+      }
     }
   ]
 }
