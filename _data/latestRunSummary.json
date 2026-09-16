@@ -1,28 +1,21 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "items": [
     {
-      "text": "New Jersey's noncitizen voter-registration scandal reaches a congressional hearing",
-      "url": "https://savejersey.com/2026/09/live-u-s-house-hearing-on-new-jersey-voter-fraud-scandal-at-200-pm-est/",
-      "abbr": "NJ"
+      "text": "Texas and feds announce noncitizen voting charges against seven people",
+      "url": "https://www.texastribune.org/2026/09/15/texas-paxton-noncitizen-voter-charges-investigations/",
+      "abbr": "TX"
     },
     {
-      "text": "South Dakota's 'federal-only' voter notice letters face a legal challenge",
-      "url": "https://www.ktiv.com/2026/09/14/lawyers-argue-over-south-dakotas-notification-letters-voters-registered-federal-only/",
-      "abbr": "SD"
+      "text": "National Voter Registration Day drives outreach in Indiana, Kentucky, Michigan, North Carolina, Virginia, and Wisconsin"
     },
     {
-      "text": "Delaware voters cast ballots in September 15 primary election",
-      "url": "https://www.whro.org/2026-09-15/here-are-delawares-2026-primary-election-results",
-      "abbr": "DE"
+      "text": "Colorado promotes BallotTrax mail-ballot tracking ahead of Nov. 3 election",
+      "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260915BallotTrax.html",
+      "abbr": "CO"
     },
     {
-      "text": "New York City launches voter education push on five charter ballot measures",
-      "url": "https://www.nyc.gov/mayors-office/news/2026/09/on-national-voter-registration-day--commission-on-government-eff0",
-      "abbr": "NY"
-    },
-    {
-      "text": "Ohio, Virginia, and Alabama ramp up voter outreach ahead of Nov. 3"
+      "text": "Arkansas and Oklahoma push voter registration ahead of October deadlines"
     }
   ]
 }

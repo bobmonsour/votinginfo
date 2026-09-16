@@ -32125,6 +32125,102 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-16",
+      "time": "06:00",
+      "states": {
+        "AR": [
+          {
+            "title": "It's National Voter Registration Day, deadline is Oct. 5",
+            "source": "KUAF",
+            "url": "https://www.kuaf.com/show/ozarks-at-large/2026-09-15/its-national-voter-registration-day-deadline-is-oct-5",
+            "date": "2026-09-15",
+            "summary": "Arkansas counties held National Voter Registration Day events ahead of the state's October 5 registration deadline for the November 3 general election."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Secretary of State Jena Griswold Encourages Coloradans to Receive Ballot Updates Using BallotTrax",
+            "source": "Colorado Secretary of State",
+            "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260915BallotTrax.html",
+            "date": "2026-09-15",
+            "summary": "Colorado promoted its BallotTrax mail-ballot tracking program, which has enrolled over 2.2 million voters, ahead of the November 3 general election."
+          }
+        ],
+        "IN": [
+          {
+            "title": "All the information you need to participate in Indiana's democracy",
+            "source": "WNDU",
+            "url": "https://www.wndu.com/2026/09/15/all-information-you-need-participate-indianas-democracy/",
+            "date": "2026-09-15",
+            "summary": "A voter guide detailed Indiana's October 5 registration deadline and early voting options ahead of the November 3 midterm general election."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Tuesday is National Voter Registration Day across Kentucky and the United States",
+            "source": "WKYT",
+            "url": "https://www.wkyt.com/2026/09/15/tuesday-is-national-voter-registration-day-across-kentucky-united-states/",
+            "date": "2026-09-15",
+            "summary": "Kentucky marked National Voter Registration Day with a reminder of the state's October 5 registration deadline ahead of the November 3 election."
+          }
+        ],
+        "MI": [
+          {
+            "title": "National Voter Registration Day: How you can register to vote in Michigan",
+            "source": "WXYZ",
+            "url": "https://www.wxyz.com/news/national-voter-registration-day-how-you-can-register-to-vote-in-michigan",
+            "date": "2026-09-15",
+            "summary": "Michigan outlined its voter registration process, including online, in-person, and mail options, ahead of the November 3 general election."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Get Ready to Vote: Tuesday is National Voter Registration Day",
+            "source": "North Carolina State Board of Elections",
+            "url": "https://www.ncsbe.gov/news/press-releases/2026/09/15/get-ready-vote-tuesday-national-voter-registration-day",
+            "date": "2026-09-15",
+            "summary": "North Carolina election officials promoted registration ahead of the state's October 9 deadline, including same-day registration during early voting."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Sept. 15 is National Voter Registration Day",
+            "source": "Tahlequah Daily Press",
+            "url": "https://www.tahlequahdailypress.com/news/sept-15-is-national-voter-registration-day/article_59276a2b-c9f4-48df-a5db-6fb920fd9c93.html",
+            "date": "2026-09-11",
+            "summary": "Oklahoma county election boards planned voter registration drives ahead of the state's October 9 registration deadline for the November 3 election."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Texas and feds announce noncitizen voting charges against seven people",
+            "source": "The Texas Tribune",
+            "url": "https://www.texastribune.org/2026/09/15/texas-paxton-noncitizen-voter-charges-investigations/",
+            "date": "2026-09-15",
+            "summary": "Texas Attorney General Ken Paxton and federal officials announced charges against seven people accused of illegally voting as noncitizens, while state officials confirmed nearly 600 other flagged voters are citizens."
+          }
+        ],
+        "VA": [
+          {
+            "title": "National Voter Registration Day arrives ahead of Virginia early voting",
+            "source": "WDBJ7",
+            "url": "https://www.wdbj7.com/2026/09/15/national-voter-registration-day-arrives-ahead-virginia-early-voting/",
+            "date": "2026-09-15",
+            "summary": "Virginia marked National Voter Registration Day just ahead of the start of early voting on September 18 for the November 3 general election."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Register to vote in Wisconsin; here's how",
+            "source": "FOX6 Milwaukee",
+            "url": "https://www.fox6now.com/news/wisconsin-how-register-vote-2026",
+            "date": "2026-09-15",
+            "summary": "Wisconsin outlined its three voter registration methods ahead of the November 3 Election Day, noting registration must be completed at least 20 days before an election."
+          }
+        ]
+      }
     }
   ]
 }
