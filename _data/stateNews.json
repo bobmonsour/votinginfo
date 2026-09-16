@@ -32038,6 +32038,93 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-15",
+      "time": "17:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Decision 2026: Alabama sample ballots now available for Nov. 3 election",
+            "source": "FOX10 News",
+            "url": "https://www.fox10tv.com/2026/09/14/decision-2026-alabama-sample-ballots-now-available-nov-3-election/",
+            "date": "2026-09-14",
+            "summary": "Sample ballots for Alabama's November 3 general election are now available on the Secretary of State's website, covering constitutional offices and four proposed amendments."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Here are Delaware's 2026 primary election results",
+            "source": "WHRO",
+            "url": "https://www.whro.org/2026-09-15/here-are-delawares-2026-primary-election-results",
+            "date": "2026-09-15",
+            "summary": "Delaware voters cast ballots in the September 15 primary election, deciding party nominees for U.S. Senate, U.S. House, and county offices ahead of the November general election."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas City election guide 2026: What Kansas and Missouri voters need to know about their ballots",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-09-15/missouri-kansas-election-guide-2026-voting-registration",
+            "date": "2026-09-15",
+            "summary": "A voter guide outlines registration deadlines, polling information, and key November races for Kansas voters, including a constitutional amendment on citizen voting eligibility."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "LIVE: U.S. House hearing on New Jersey voter fraud scandal at 2:00 PM EST",
+            "source": "Save Jersey",
+            "url": "https://savejersey.com/2026/09/live-u-s-house-hearing-on-new-jersey-voter-fraud-scandal-at-200-pm-est/",
+            "date": "2026-09-15",
+            "summary": "A U.S. House Judiciary subcommittee held a hearing on New Jersey's voter registration scandal, in which roughly 6,600 noncitizens were mistakenly registered to vote due to a motor-voter system failure."
+          }
+        ],
+        "NY": [
+          {
+            "title": "On National Voter Registration Day, Commission on Government Efficiency Launches Public Education Campaign on Ballot Props 1-5",
+            "source": "NYC Mayor's Office",
+            "url": "https://www.nyc.gov/mayors-office/news/2026/09/on-national-voter-registration-day--commission-on-government-eff0",
+            "date": "2026-09-15",
+            "summary": "New York City's Charter Revision Commission launched a public education campaign to inform voters about five ballot proposals appearing on the November ballot."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Cuyahoga County Board of Elections shares what to know before Election Day",
+            "source": "Cleveland 19 News",
+            "url": "https://www.cleveland19.com/2026/09/15/cuyahoga-county-board-elections-shares-what-know-before-election-day/",
+            "date": "2026-09-15",
+            "summary": "Cuyahoga County's Board of Elections launched a 'Know Before You Vote' outreach effort to help Ohio voters register and understand procedures ahead of the November 3 election."
+          }
+        ],
+        "PA": [
+          {
+            "title": "How Spotlight PA will cover Pennsylvania's 2026 general election",
+            "source": "Spotlight PA",
+            "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-general-election-coverage-elections",
+            "date": "2026-09-14",
+            "summary": "Spotlight PA outlined its plans for nonpartisan, voter-centric coverage of Pennsylvania's 2026 general election, including voter guides and election-system explainers."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Lawyers argue over South Dakota's notification letters to voters registered as federal-only",
+            "source": "KTIV",
+            "url": "https://www.ktiv.com/2026/09/14/lawyers-argue-over-south-dakotas-notification-letters-voters-registered-federal-only/",
+            "date": "2026-09-14",
+            "summary": "A federal judge is weighing whether South Dakota's notification letters to voters registered as 'federal-only' adequately explain why their ballots exclude state and local races."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Early Voting Begins September 18 for the November 3, 2026, General Election",
+            "source": "City of Alexandria, VA",
+            "url": "https://www.alexandriava.gov/news-elections/2026-09-14/early-voting-begins-september-18-for-the-november-3-2026-general-election",
+            "date": "2026-09-14",
+            "summary": "Alexandria announced that early in-person and mail-in voting begins September 18 ahead of Virginia's November 3 general election."
+          }
+        ]
+      }
     }
   ]
 }
