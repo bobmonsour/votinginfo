@@ -32254,6 +32254,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-17",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Heeding ranked choice voting, candidates refine their strategies in Alaska governor's race",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/09/16/heeding-ranked-choice-voting-candidates-refine-their-strategies-in-alaska-governors-race/",
+            "date": "2026-09-16",
+            "summary": "Alaska's gubernatorial candidates are adjusting their campaign strategies to court cross-party support under the state's ranked-choice voting system ahead of the November general election."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Progressives mark big wins in Democratic statehouse primaries",
+            "source": "Spotlight Delaware",
+            "url": "https://spotlightdelaware.org/2026/09/16/progressives-mark-big-wins-in-democratic-statehouse-primaries/",
+            "date": "2026-09-16",
+            "summary": "The Working Families Party notched its most successful primary cycle yet in Delaware's statehouse elections, with endorsed candidates defeating several longtime incumbents."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Mass. voters, the state is mailing you its red book. It's huge this year",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/09/14/massachusetts-ballot-questions-red-book",
+            "date": "2026-09-14",
+            "summary": "Massachusetts voters are receiving an unusually large 88-page state elections information booklet this year, covering nine ballot questions and tying a record set in 1994."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Secretary of State Evnen certifies Nebraska's fall 2026 ballot after lawsuit-heavy summer",
+            "source": "Courier Nebraska",
+            "url": "https://couriernebraska.com/news/politics/nebraskas-fall-2026-ballot-lawsuits/",
+            "date": "2026-09-14",
+            "summary": "Nebraska's secretary of state certified the state's November ballot after a lawsuit-heavy summer that included multiple petition-signature fraud investigations."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Ballots set to be mailed to overseas Oregonians this week",
+            "source": "KLCC",
+            "url": "https://www.klcc.org/politics-government/2026-09-14/oregon-overseas-military-ballots-mail-voting-midterm",
+            "date": "2026-09-14",
+            "summary": "Oregon began mailing ballots to military and overseas voters this week as legal fights over federal mail-in voting restrictions continue."
+          }
+        ],
+        "SD": [
+          {
+            "title": "New guidance issued on federal-only voters by secretary of state amid lawsuit",
+            "source": "South Dakota Public Broadcasting",
+            "url": "https://www.sdpb.org/elections/2026-09-16/new-guidance-issued-on-federal-only-voters-by-secretary-of-state-amid-lawsuit",
+            "date": "2026-09-16",
+            "summary": "South Dakota's secretary of state issued new guidance to county auditors on \"federal-only\" voters after a lawsuit challenged how the state has handled the new classification."
+          }
+        ]
+      }
     }
   ]
 }

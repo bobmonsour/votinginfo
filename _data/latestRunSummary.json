@@ -1,20 +1,35 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "items": [
     {
-      "text": "Michigan voters get a full guide to November's ballot, including a constitutional convention question",
-      "url": "https://www.votebeat.org/michigan/2026/09/16/midterm-election-2026-whats-on-your-ballot-voter-guide/",
-      "abbr": "MI"
+      "text": "Alaska candidates adjust strategies under ranked-choice voting system",
+      "url": "https://www.adn.com/politics/2026/09/16/heeding-ranked-choice-voting-candidates-refine-their-strategies-in-alaska-governors-race/",
+      "abbr": "AK"
     },
     {
-      "text": "Ohio flags voter roll purge and key deadlines ahead of Election Day",
-      "url": "https://www.13abc.com/video/2026/09/16/ohio-voter-roll-purge-important-deadlines-ahead-election-day/",
-      "abbr": "OH"
+      "text": "Working Families Party scores big wins in Delaware primaries",
+      "url": "https://spotlightdelaware.org/2026/09/16/progressives-mark-big-wins-in-democratic-statehouse-primaries/",
+      "abbr": "DE"
     },
     {
-      "text": "Northern Virginia election guide highlights three constitutional amendments on the ballot",
-      "url": "https://northernvirginiamag.com/news/2026/09/16/heres-your-2026-virginia-midterm-election-guide/",
-      "abbr": "VA"
+      "text": "Massachusetts mails record 88-page ballot question booklet to voters",
+      "url": "https://www.wbur.org/news/2026/09/14/massachusetts-ballot-questions-red-book",
+      "abbr": "MA"
+    },
+    {
+      "text": "Nebraska certifies fall ballot after lawsuit-heavy summer",
+      "url": "https://couriernebraska.com/news/politics/nebraskas-fall-2026-ballot-lawsuits/",
+      "abbr": "NE"
+    },
+    {
+      "text": "Oregon begins mailing ballots to military and overseas voters",
+      "url": "https://www.klcc.org/politics-government/2026-09-14/oregon-overseas-military-ballots-mail-voting-midterm",
+      "abbr": "OR"
+    },
+    {
+      "text": "South Dakota issues new guidance on 'federal-only' voter status",
+      "url": "https://www.sdpb.org/elections/2026-09-16/new-guidance-issued-on-federal-only-voters-by-secretary-of-state-amid-lawsuit",
+      "abbr": "SD"
     }
   ]
 }
