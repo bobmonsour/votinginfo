@@ -32221,6 +32221,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-16",
+      "time": "17:00",
+      "states": {
+        "MI": [
+          {
+            "title": "A complete guide to everything on Michigan's ballot this November",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/09/16/midterm-election-2026-whats-on-your-ballot-voter-guide/",
+            "date": "2026-09-16",
+            "summary": "Votebeat published a comprehensive guide to Michigan's November ballot, covering statewide races and two ballot proposals on a constitutional convention and campaign finance restrictions."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio voter roll purge and important deadlines ahead of Election Day",
+            "source": "13abc (WTVG)",
+            "url": "https://www.13abc.com/video/2026/09/16/ohio-voter-roll-purge-important-deadlines-ahead-election-day/",
+            "date": "2026-09-16",
+            "summary": "13abc reported on Ohio's voter roll purge and outlined key upcoming deadlines voters need to know ahead of the November 3 general election."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Here's Your 2026 Northern Virginia Midterm Election Guide",
+            "source": "Northern Virginia Magazine",
+            "url": "https://northernvirginiamag.com/news/2026/09/16/heres-your-2026-virginia-midterm-election-guide/",
+            "date": "2026-09-16",
+            "summary": "Northern Virginia Magazine published a voter guide covering early voting starting September 18, three constitutional amendments, and key races on the November 3 ballot."
+          }
+        ]
+      }
     }
   ]
 }
