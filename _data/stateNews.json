@@ -32374,6 +32374,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-18",
+      "time": "06:00",
+      "states": {
+        "MO": [
+          {
+            "title": "Federal appeals court to hear arguments over Missouri congressional map",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/09/17/federal-appeals-court-hear-arguments-over-missouri-congressional-map/",
+            "date": "2026-09-17",
+            "summary": "A federal appeals panel heard oral arguments on whether Missouri will use the newly redrawn congressional map or the prior 2022 district lines for the November election, with officials warning a late switch would create logistical chaos."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "New Jersey Public Education Coalition Submits Proposed Polling-Place Voter-Protection Legislation",
+            "source": "Insider NJ",
+            "url": "https://www.insidernj.com/press-release/new-jersey-public-education-coalition-submits-proposed-polling-place-voter-protection-legislation/",
+            "date": "2026-09-16",
+            "summary": "A coalition submitted draft legislation to establish a buffer zone around polling places to keep armed federal immigration-enforcement officers away from voting locations, citing concerns in immigrant communities."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Trump administration explains how it identified potential noncitizen voters, says it will provide list to Pennsylvania",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/09/16/noncitizen-voter-department-homeland-security-pennsylvania-methodology/",
+            "date": "2026-09-16",
+            "summary": "DHS detailed its methodology for flagging about 14,576 potential noncitizen voters in Pennsylvania by matching the voter roll against federal immigration databases, while state officials said they would only act on credible information."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Early voting begins today. Here's what's at stake across Virginia.",
+            "source": "Cardinal News",
+            "url": "https://cardinalnews.org/2026/09/18/early-voting-begins-today-heres-whats-at-stake-across-virginia/",
+            "date": "2026-09-18",
+            "summary": "As early voting opened statewide, this overview covers Virginia's congressional races, three constitutional amendments on reproductive rights, same-sex marriage and felon rights restoration, and dozens of local referendums."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin election laws could change under a Republican or Democratic trifecta",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/09/17/election-legislation-trifecta-legislature-governor-race-midterms-2026/",
+            "date": "2026-09-17",
+            "summary": "Full one-party control of Wisconsin state government after 2026 could unlock stalled voting bills, with Republicans eyeing noncitizen voter verification and Democrats eyeing automatic registration and Monday ballot processing."
+          }
+        ]
+      }
     }
   ]
 }

@@ -1,29 +1,30 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "items": [
     {
-      "text": "Missouri scrambles to redraw ballots after court revives 2022 congressional map",
-      "url": "https://www.nbcnews.com/politics/2026-election/missouri-election-officials-grapple-redistricting-whiplash-rcna597962",
+      "text": "Federal appeals court weighs Missouri's congressional map for November",
+      "url": "https://www.kctv5.com/2026/09/17/federal-appeals-court-hear-arguments-over-missouri-congressional-map/",
       "abbr": "MO"
     },
     {
-      "text": "California urges backup voting plans as mail-in rules remain unsettled",
-      "url": "https://calmatters.org/politics/2026/09/mail-in-voting-before-supreme-court/",
-      "abbr": "CA"
+      "text": "New Jersey coalition pushes polling-place buffer zone from federal agents",
+      "url": "https://www.insidernj.com/press-release/new-jersey-public-education-coalition-submits-proposed-polling-place-voter-protection-legislation/",
+      "abbr": "NJ"
     },
     {
-      "text": "South Dakota absentee voting climbs as early voting opens statewide",
-      "url": "https://www.kotatv.com/2026/09/17/more-south-dakotans-now-vote-early/",
-      "abbr": "SD"
+      "text": "DHS explains how it flagged 14,576 potential noncitizen voters in Pennsylvania",
+      "url": "https://www.votebeat.org/pennsylvania/2026/09/16/noncitizen-voter-department-homeland-security-pennsylvania-methodology/",
+      "abbr": "PA"
     },
     {
-      "text": "Nebraska launches unified online voter registration and ballot-tracking platform",
-      "url": "https://cherrycountyne.gov/2026/09/15/secretary-of-state-voter-registration-system-press-release/",
-      "abbr": "NE"
+      "text": "Virginia's early voting opens with three constitutional amendments on the ballot",
+      "url": "https://cardinalnews.org/2026/09/18/early-voting-begins-today-heres-whats-at-stake-across-virginia/",
+      "abbr": "VA"
     },
     {
-      "text": "Texas and Virginia both enter final stretch of registration and early-voting deadlines",
-      "abbr": "TX"
+      "text": "Wisconsin trifecta could unlock stalled voting bills after the midterms",
+      "url": "https://www.votebeat.org/wisconsin/2026/09/17/election-legislation-trifecta-legislature-governor-race-midterms-2026/",
+      "abbr": "WI"
     }
   ]
 }
