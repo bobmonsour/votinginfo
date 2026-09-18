@@ -2,34 +2,28 @@
   "date": "2026-09-17",
   "items": [
     {
-      "text": "Alaska candidates adjust strategies under ranked-choice voting system",
-      "url": "https://www.adn.com/politics/2026/09/16/heeding-ranked-choice-voting-candidates-refine-their-strategies-in-alaska-governors-race/",
-      "abbr": "AK"
+      "text": "Missouri scrambles to redraw ballots after court revives 2022 congressional map",
+      "url": "https://www.nbcnews.com/politics/2026-election/missouri-election-officials-grapple-redistricting-whiplash-rcna597962",
+      "abbr": "MO"
     },
     {
-      "text": "Working Families Party scores big wins in Delaware primaries",
-      "url": "https://spotlightdelaware.org/2026/09/16/progressives-mark-big-wins-in-democratic-statehouse-primaries/",
-      "abbr": "DE"
+      "text": "California urges backup voting plans as mail-in rules remain unsettled",
+      "url": "https://calmatters.org/politics/2026/09/mail-in-voting-before-supreme-court/",
+      "abbr": "CA"
     },
     {
-      "text": "Massachusetts mails record 88-page ballot question booklet to voters",
-      "url": "https://www.wbur.org/news/2026/09/14/massachusetts-ballot-questions-red-book",
-      "abbr": "MA"
+      "text": "South Dakota absentee voting climbs as early voting opens statewide",
+      "url": "https://www.kotatv.com/2026/09/17/more-south-dakotans-now-vote-early/",
+      "abbr": "SD"
     },
     {
-      "text": "Nebraska certifies fall ballot after lawsuit-heavy summer",
-      "url": "https://couriernebraska.com/news/politics/nebraskas-fall-2026-ballot-lawsuits/",
+      "text": "Nebraska launches unified online voter registration and ballot-tracking platform",
+      "url": "https://cherrycountyne.gov/2026/09/15/secretary-of-state-voter-registration-system-press-release/",
       "abbr": "NE"
     },
     {
-      "text": "Oregon begins mailing ballots to military and overseas voters",
-      "url": "https://www.klcc.org/politics-government/2026-09-14/oregon-overseas-military-ballots-mail-voting-midterm",
-      "abbr": "OR"
-    },
-    {
-      "text": "South Dakota issues new guidance on 'federal-only' voter status",
-      "url": "https://www.sdpb.org/elections/2026-09-16/new-guidance-issued-on-federal-only-voters-by-secretary-of-state-amid-lawsuit",
-      "abbr": "SD"
+      "text": "Texas and Virginia both enter final stretch of registration and early-voting deadlines",
+      "abbr": "TX"
     }
   ]
 }

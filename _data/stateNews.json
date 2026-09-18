@@ -32314,6 +32314,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-17",
+      "time": "17:00",
+      "states": {
+        "CA": [
+          {
+            "title": "With mail-in rules uncertain, here's how Californians can prepare to vote in November",
+            "source": "CalMatters",
+            "url": "https://calmatters.org/politics/2026/09/mail-in-voting-before-supreme-court/",
+            "date": "2026-09-12",
+            "summary": "As the Supreme Court weighed Trump administration limits on mail-in voting, California election officials urged voters to have a backup plan, such as ballot drop boxes, ahead of the November 3 election."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri election officials grapple with redistricting whiplash",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/missouri-election-officials-grapple-redistricting-whiplash-rcna597962",
+            "date": "2026-09-16",
+            "summary": "Missouri election officials are scrambling to prepare ballots after a court invalidated the Republican-drawn congressional map, forcing a reversion to the 2022 district lines for the November election."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Secretary of State Voter Registration System Press Release",
+            "source": "Cherry County, NE",
+            "url": "https://cherrycountyne.gov/2026/09/15/secretary-of-state-voter-registration-system-press-release/",
+            "date": "2026-09-15",
+            "summary": "Nebraska's secretary of state launched a new online voter registration platform combining registration, status checks, and polling-place lookup ahead of the state's October 16 registration deadline."
+          }
+        ],
+        "SD": [
+          {
+            "title": "South Dakota Absentee Voting Rises as Early Voting Begins",
+            "source": "KOTA Territory News",
+            "url": "https://www.kotatv.com/2026/09/17/more-south-dakotans-now-vote-early/",
+            "date": "2026-09-17",
+            "summary": "South Dakota's share of voters casting absentee ballots has climbed from 27% in 2016 to 32% in 2024, a trend continuing as early voting opened for the November election."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Texans have less than 3 weeks to register to vote for November 2026 midterm election",
+            "source": "Houston Public Media",
+            "url": "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/09/17/562107/texas-2026-midterm-voter-registration-deadline-november/",
+            "date": "2026-09-17",
+            "summary": "Texas law requires registration 30 days before Election Day, making October 5 the last day to register for the November 3 midterm election."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Decision 2026: Your guide to the midterm election in Virginia",
+            "source": "NBC12 (WWBT)",
+            "url": "https://www.12onyourside.com/2026/09/17/decision-virginia-your-guide-2026-midterm-election/",
+            "date": "2026-09-17",
+            "summary": "Virginia's early voting period for the November 3 election began September 18, and this guide covers registration deadlines, the U.S. Senate race, and three constitutional amendments on the ballot."
+          }
+        ]
+      }
     }
   ]
 }
