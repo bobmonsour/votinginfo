@@ -32425,6 +32425,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-18",
+      "time": "17:00",
+      "states": {
+        "CT": [
+          {
+            "title": "Serana Wins Alder Election",
+            "source": "New Haven Independent",
+            "url": "https://www.newhavenindependent.org/2026/09/15/serana-wins-alder-election/",
+            "date": "2026-09-15",
+            "summary": "Maria-Threese Serana won a low-turnout special election for New Haven's Ward 9 alder seat, filling the remainder of a term vacated earlier this year."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Over 590,000 Maryland voters request mail-in ballots for 2026 general election",
+            "source": "The National Desk",
+            "url": "https://thenationaldesk.com/news/americas-news-now/590k-maryland-voters-request-mail-in-ballots-2026-general-election",
+            "date": "2026-09-18",
+            "summary": "Maryland's State Board of Elections began mailing out more than 590,000 requested mail-in ballots on September 19 ahead of the November 3 general election."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan absentee voting starts September 24 as November election countdown begins",
+            "source": "The Arab American News",
+            "url": "https://arabamericannews.com/2026/09/18/michigan-absentee-voting-starts-september-24-as-november-election-countdown-begins/",
+            "date": "2026-09-18",
+            "summary": "Michigan will begin distributing absentee ballots on September 24, kicking off the state's general election voting period ahead of the November 3 election."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Early voting begins Friday in Minnesota: What voters need to know",
+            "source": "Pine and Lakes Echo Journal",
+            "url": "https://www.pineandlakes.com/news/minnesota/early-voting-begins-friday-in-minnesota-what-voters-need-to-know",
+            "date": "2026-09-15",
+            "summary": "Minnesota's early voting period opened September 18, with in-person absentee voting and mailed ballots available through October 15 ahead of a second early-voting phase starting October 16."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Secretary of State encourages voter registration ahead of November election",
+            "source": "Pahrump Valley Times",
+            "url": "https://pvtimes.com/news/secretary-of-state-encourages-voter-registration-ahead-of-november-190454/",
+            "date": "2026-09-18",
+            "summary": "Nevada Secretary of State Francisco Aguilar urged eligible residents to register to vote ahead of the November 3 general election as mail ballots are set to go out starting October 5."
+          }
+        ],
+        "SC": [
+          {
+            "title": "SC Election Commission reminds eligible voters of upcoming registration deadline",
+            "source": "WIS News 10",
+            "url": "https://www.wistv.com/2026/09/15/sc-election-commission-reminds-eligible-voters-upcoming-registration-deadline/",
+            "date": "2026-09-15",
+            "summary": "The South Carolina Election Commission reminded voters to register or verify their registration ahead of the October 4 deadline for the November 3 general election."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Election 2026: Your questions about voting in Tennessee on Election Day, answered",
+            "source": "WSMV",
+            "url": "https://www.wsmv.com/2026/09/18/election-2026-your-questions-about-voting-tennessee-election-day-answered/",
+            "date": "2026-09-18",
+            "summary": "A voter guide answered common questions about registration deadlines, voter ID requirements, and polling procedures ahead of Tennessee's November 3 general election."
+          }
+        ]
+      }
     }
   ]
 }
