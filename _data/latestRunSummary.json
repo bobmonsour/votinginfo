@@ -1,28 +1,40 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-21",
   "items": [
     {
-      "text": "Maryland mails over 590,000 requested absentee ballots for November election",
-      "url": "https://thenationaldesk.com/news/americas-news-now/590k-maryland-voters-request-mail-in-ballots-2026-general-election",
-      "abbr": "MD"
+      "text": "California enacts 13-bill package with felony penalties for election interference",
+      "url": "https://www.gov.ca.gov/2026/09/19/governor-newsom-signs-new-laws-to-protect-california-elections-from-trump-interference/",
+      "abbr": "CA"
     },
     {
-      "text": "Michigan's absentee voting period opens September 24 ahead of the midterms",
-      "url": "https://arabamericannews.com/2026/09/18/michigan-absentee-voting-starts-september-24-as-november-election-countdown-begins/",
-      "abbr": "MI"
+      "text": "Arizona's mail voting proceeds unchanged after Supreme Court blocks Trump order",
+      "url": "https://cronkitenews.azpbs.org/2026/09/16/mail-ballots-arizona-scotus/",
+      "abbr": "AZ"
     },
     {
-      "text": "Minnesota's early in-person and mail voting window opens statewide",
-      "url": "https://www.pineandlakes.com/news/minnesota/early-voting-begins-friday-in-minnesota-what-voters-need-to-know",
-      "abbr": "MN"
+      "text": "Missouri mails overseas ballots as congressional map fight remains unresolved",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-09-19/missouri-election-officials-begin-mailing-ballots-as-they-await-ruling-on-congressional-map",
+      "abbr": "MO"
     },
     {
-      "text": "Democratic socialist wins low-turnout New Haven alder special election",
-      "url": "https://www.newhavenindependent.org/2026/09/15/serana-wins-alder-election/",
-      "abbr": "CT"
+      "text": "Louisiana's redrawn U.S. House map forces all districts into open primaries",
+      "url": "https://louisianaradionetwork.com/2026/09/14/48167/",
+      "abbr": "LA"
     },
     {
-      "text": "South Carolina, Nevada, and Tennessee push voter registration and Election Day guidance"
+      "text": "Mississippi opens absentee voting with new machine-tabulated ballot process",
+      "url": "https://www.wlox.com/2026/09/21/absentee-voting-opens-monday-mississippi-midterms/",
+      "abbr": "MS"
+    },
+    {
+      "text": "Kentucky's absentee ballot request window opens ahead of November",
+      "url": "https://spectrumnews1.com/ky/louisville/news/2026/09/17/absentee-ballot-requests",
+      "abbr": "KY"
+    },
+    {
+      "text": "Florida advocate says no major voting law changes await 2026 voters",
+      "url": "https://www.wlrn.org/government-politics/2026-09-18/advocate-emphasizes-there-are-no-major-changes-to-state-election-laws-this-year",
+      "abbr": "FL"
     }
   ]
 }

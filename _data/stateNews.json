@@ -32494,6 +32494,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-21",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Supreme Court ruling clears way for mail ballots, used by 75% of Arizona voters, to proceed as usual",
+            "source": "Cronkite News",
+            "url": "https://cronkitenews.azpbs.org/2026/09/16/mail-ballots-arizona-scotus/",
+            "date": "2026-09-16",
+            "summary": "The U.S. Supreme Court blocked a Trump administration effort to impose new postal requirements on mail ballots, meaning Arizona's vote-by-mail system, used by about 75% of voters, will proceed unchanged for the November election."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Governor Newsom Signs New Laws to Protect California Elections From Trump Interference",
+            "source": "Office of Governor Gavin Newsom",
+            "url": "https://www.gov.ca.gov/2026/09/19/governor-newsom-signs-new-laws-to-protect-california-elections-from-trump-interference/",
+            "date": "2026-09-19",
+            "summary": "Governor Newsom signed a 13-bill package establishing felony penalties for tampering with ballots and voting systems, along with new election cybersecurity, language-access, and anti-deepfake protections ahead of November."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Advocate emphasizes there are no major changes to state election laws this year",
+            "source": "WLRN",
+            "url": "https://www.wlrn.org/government-politics/2026-09-18/advocate-emphasizes-there-are-no-major-changes-to-state-election-laws-this-year",
+            "date": "2026-09-18",
+            "summary": "A Common Cause Florida representative said voters face no major election-law changes for 2026, though a new citizenship-verification requirement passed this year won't take effect until next year."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Jefferson County clerk urges early absentee ballot requests",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/ky/louisville/news/2026/09/17/absentee-ballot-requests",
+            "date": "2026-09-17",
+            "summary": "The Jefferson County Clerk's Office urged Kentucky voters to request absentee ballots early, noting the request window runs September 19 through October 20 ahead of the November 3 general election."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Louisiana voters face new challenges as 2026 U.S. House elections designated open primaries due to redistricting",
+            "source": "Louisiana Radio Network",
+            "url": "https://louisianaradionetwork.com/2026/09/14/48167/",
+            "date": "2026-09-14",
+            "summary": "Redistricting has forced all of Louisiana's U.S. House races onto open primary ballots for November, with the most competitive contests in the newly reshaped Districts 5 and 6."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri election officials begin mailing ballots as they await ruling on congressional map",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-09-19/missouri-election-officials-begin-mailing-ballots-as-they-await-ruling-on-congressional-map",
+            "date": "2026-09-19",
+            "summary": "Missouri began mailing ballots to overseas voters while a federal appeals court still has to decide whether November's election will use the 2025 gerrymandered map or the 2022 map the state supreme court deemed legal."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Absentee voting opens Monday for Mississippi midterms",
+            "source": "WLOX",
+            "url": "https://www.wlox.com/2026/09/21/absentee-voting-opens-monday-mississippi-midterms/",
+            "date": "2026-09-21",
+            "summary": "Mississippi's absentee voting period opened, with a new process feeding completed ballots directly into voting machines instead of sealed envelopes, running through October 31 ahead of the November election."
+          }
+        ]
+      }
     }
   ]
 }
