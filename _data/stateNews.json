@@ -32648,6 +32648,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-22",
+      "time": "06:00",
+      "states": {
+        "FL": [
+          {
+            "title": "First ballots cast for November 3 general election",
+            "source": "WGCU News",
+            "url": "https://www.wgcu.org/elections/2026-09-21/first-ballots-cast-for-november-3-general-election",
+            "date": "2026-09-21",
+            "summary": "Florida counties began receiving the first mail ballots for the November 3 general election, with about 8 million votes expected statewide."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Louisiana voter Registration week 2026",
+            "source": "KEDM Public Radio",
+            "url": "https://www.kedm.org/louisiana-news/2026-09-21/louisiana-voter-registration-week-2026",
+            "date": "2026-09-21",
+            "summary": "Louisiana's Secretary of State and local registrars kicked off Voter Registration Week, promoting online and in-person registration ahead of the October deadlines."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Mail-in voting in Minnesota gets underway as normal after Supreme Court rejects Trump's order",
+            "source": "MPR News",
+            "url": "https://www.mprnews.org/story/2026/09/18/mail-in-voting-underway-in-minnesota-midterm-election",
+            "date": "2026-09-18",
+            "summary": "Minnesota's mail-only precincts began voting as usual after the U.S. Supreme Court rejected the Trump administration's bid to let USPS restrict mail ballot delivery."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pennsylvania Supreme Court Says No To Andrew Tupone in PA-07",
+            "source": "PoliticsPA",
+            "url": "https://politicspa.com/pennsylvania-supreme-court-says-no-to-andrew-tupone-in-pa-07/153407/",
+            "date": "2026-09-17",
+            "summary": "The Pennsylvania Supreme Court upheld a ruling keeping Green Party candidate Andrew Tupone off the PA-07 ballot after the party disavowed him as an alleged Republican-backed spoiler."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Voter registration deadlines approach in South Carolina midterm election",
+            "source": "WTOC",
+            "url": "https://www.wtoc.com/2026/09/22/voter-registration-deadlines-approach-south-carolina-midterm-election/",
+            "date": "2026-09-21",
+            "summary": "South Carolina election officials reminded voters that in-person and online registration closes October 4, with mail registration due October 5, ahead of a competitive gubernatorial and Senate race."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Are you a Texas voter in 'suspense'? Don't freak out. You can still vote in November",
+            "source": "KUT",
+            "url": "https://www.tpr.org/government-politics/2026-09-18/are-you-a-texas-voter-in-suspense-dont-freak-out-you-can-still-vote-in-november",
+            "date": "2026-09-18",
+            "summary": "More than a million Texas voters are on the suspense list ahead of the Oct. 5 update deadline, though officials note suspense status doesn't prevent voting in November."
+          }
+        ]
+      }
     }
   ]
 }

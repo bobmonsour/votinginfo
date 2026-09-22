@@ -1,31 +1,35 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "items": [
     {
-      "text": "Appeals court revives Missouri's GOP-drawn map, setting up new Supreme Court fight",
-      "url": "https://www.stlpr.org/government-politics-issues/2026-09-21/appeals-court-gop-map-missouri",
-      "abbr": "MO"
+      "text": "Pennsylvania Supreme Court bars alleged GOP-spoiler Green Party candidate from PA-07 ballot",
+      "url": "https://politicspa.com/pennsylvania-supreme-court-says-no-to-andrew-tupone-in-pa-07/153407/",
+      "abbr": "PA"
     },
     {
-      "text": "North Carolina court upholds GOP takeover of state elections board",
-      "url": "https://www.wral.com/news/nccapitol/elections-board-nc-north-carolina-appeals-court-ruling-republican-democrat-stein-power-september-2026/",
-      "abbr": "NC"
+      "text": "Minnesota mail voting proceeds as normal after Supreme Court rejects Trump's USPS order",
+      "url": "https://www.mprnews.org/story/2026/09/18/mail-in-voting-underway-in-minnesota-midterm-election",
+      "abbr": "MN"
     },
     {
-      "text": "Alaskans to decide fate of ranked choice voting after chaotic primary",
-      "url": "https://www.adn.com/politics/2026/09/20/alaskans-will-decide-fate-of-ranked-choice-voting-system-after-chaotic-end-to-states-primary/",
-      "abbr": "AK"
+      "text": "Florida receives first mail ballots as 8 million votes expected statewide",
+      "url": "https://www.wgcu.org/elections/2026-09-21/first-ballots-cast-for-november-3-general-election",
+      "abbr": "FL"
     },
     {
-      "text": "Kansas ballot question would reword constitution's citizen voting language",
-      "url": "https://www.kcur.org/podcast/up-to-date/2026-09-21/kansas-constitutional-amendment-would-clarify-voting-requirements-what-to-know",
-      "abbr": "KS"
+      "text": "Over a million Texas voters face October 5 deadline to clear suspense list status",
+      "url": "https://www.tpr.org/government-politics/2026-09-18/are-you-a-texas-voter-in-suspense-dont-freak-out-you-can-still-vote-in-november",
+      "abbr": "TX"
     },
     {
-      "text": "Wisconsin and Illinois open absentee and early voting ahead of November"
+      "text": "Louisiana kicks off statewide Voter Registration Week ahead of October deadlines",
+      "url": "https://www.kedm.org/louisiana-news/2026-09-21/louisiana-voter-registration-week-2026",
+      "abbr": "LA"
     },
     {
-      "text": "New Mexico and Hawaii voters face constitutional and infrastructure ballot measures"
+      "text": "South Carolina reminds voters of October 4-5 registration deadlines amid competitive races",
+      "url": "https://www.wtoc.com/2026/09/22/voter-registration-deadlines-approach-south-carolina-midterm-election/",
+      "abbr": "SC"
     }
   ]
 }
