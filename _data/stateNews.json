@@ -32563,6 +32563,91 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-21",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaskans will decide fate of ranked choice voting system after chaotic end to state's primary",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/09/20/alaskans-will-decide-fate-of-ranked-choice-voting-system-after-chaotic-end-to-states-primary/",
+            "date": "2026-09-20",
+            "summary": "Alaska's chaotic primary, marked by late candidate withdrawals, has voters set to decide this fall whether to keep the state's top-four primary and ranked choice voting system."
+          },
+          {
+            "title": "A ballot measure asks voters whether to keep ranked choice voting — but it does more than just that",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/09/19/ballot-measure-asks-voters-whether-keep-ranked-choice-voting-it-does-more-than-just-that/",
+            "date": "2026-09-18",
+            "summary": "Alaska's Ballot Measure 2 would not only repeal ranked choice voting but also replace nonpartisan primaries with partisan ones and remove campaign finance disclosure requirements approved by voters in 2020."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Hawaii voters to decide on measure facilitating housing growth",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/09/21/hawaii-news/hawaii-voters-to-decide-on-measure-facilitating-housing-growth/",
+            "date": "2026-09-21",
+            "summary": "Hawaii voters will decide on November 3 whether to approve a constitutional amendment allowing counties to issue bonds financing housing-related infrastructure, repaid through property tax revenue from new developments."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Early voting starts Sept. 24 in Illinois",
+            "source": "WAND TV",
+            "url": "https://www.wandtv.com/2026/09/17/early-voting-starts-september-24-illlinois/",
+            "date": "2026-09-17",
+            "summary": "Illinois counties are preparing for early voting to begin September 24, 40 days ahead of the November 3 general election, with mail ballots and in-person early voting sites opening across the state."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas constitutional amendment would 'clarify' voting requirements. What to know",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/podcast/up-to-date/2026-09-21/kansas-constitutional-amendment-would-clarify-voting-requirements-what-to-know",
+            "date": "2026-09-21",
+            "summary": "Kansas voters will decide in November whether to amend the state constitution to say only U.S. citizens may vote, a rewording supporters call a clarification and opponents call confusing and redundant."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Appeals court rules for GOP-leaning map in Missouri, pending Supreme Court review",
+            "source": "St. Louis Public Radio",
+            "url": "https://www.stlpr.org/government-politics-issues/2026-09-21/appeals-court-gop-map-missouri",
+            "date": "2026-09-21",
+            "summary": "The 8th U.S. Circuit Court of Appeals ruled Missouri must use the 2025 Republican-drawn congressional map, though the decision is on hold while opponents appeal to the U.S. Supreme Court, which has twice already blocked the map."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Politically divided NC court panel upholds GOP takeover of state elections board",
+            "source": "WRAL",
+            "url": "https://www.wral.com/news/nccapitol/elections-board-nc-north-carolina-appeals-court-ruling-republican-democrat-stein-power-september-2026/",
+            "date": "2026-09-16",
+            "summary": "A divided North Carolina Court of Appeals panel upheld a Republican-backed law transferring control of elections administration from Democratic Gov. Josh Stein to Republican State Auditor Dave Boliek."
+          }
+        ],
+        "NM": [
+          {
+            "title": "New Mexico Election 2026: Constitutional Amendments 1-3",
+            "source": "Source New Mexico",
+            "url": "https://sourcenm.com/2026/09/17/new-mexico-election-2026-constitutional-amendments-1-3/",
+            "date": "2026-09-17",
+            "summary": "New Mexico voters will decide on three constitutional amendments in the November 3 election, including changes to gubernatorial veto explanations, school election timing, and university regent appointments."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Absentee voting opens in Wisconsin",
+            "source": "Wisconsin Examiner",
+            "url": "https://wisconsinexaminer.com/2026/09/18/absentee-voting-opens-in-wisconsin/",
+            "date": "2026-09-18",
+            "summary": "Wisconsin's midterm voting officially began as local clerks started mailing absentee ballots to voters with valid requests on file ahead of the November 3 election."
+          }
+        ]
+      }
     }
   ]
 }
