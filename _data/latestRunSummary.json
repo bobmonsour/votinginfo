@@ -1,35 +1,35 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "items": [
     {
-      "text": "Texas voter registrations went unprocessed for weeks due to a DPS system error",
-      "url": "https://www.votebeat.org/texas/2026/09/22/voter-registration-applications-unprocessed-dps-error/",
-      "abbr": "TX"
+      "text": "Florida and Minnesota voting officially opens as first ballots go out",
+      "url": "https://www.wlrn.org/government-politics/2026-09-22/first-ballots-cast-for-november-3-general-election",
+      "abbr": "FL"
     },
     {
-      "text": "North Carolina board bars counting absentee ballots with unsealed inner envelopes",
-      "url": "https://www.cnn.com/2026/09/17/politics/north-carolina-senate-midterms-voting-rules-election-integrity",
-      "abbr": "NC"
+      "text": "Poll finds Maryland voters narrowly oppose redistricting ballot question",
+      "url": "https://www.baltimoresun.com/2026/09/22/poll-maryland-redistricting-gerrymandering/",
+      "abbr": "MD"
     },
     {
-      "text": "Virginia voters to decide felony voting-rights restoration amendment in November",
-      "url": "https://www.29news.com/2026/09/21/virginia-voters-decide-three-constitutional-amendments-november/",
-      "abbr": "VA"
+      "text": "Louisiana registrars fan out to schools for statewide voter registration week",
+      "url": "https://www.wafb.com/2026/09/22/louisiana-launches-statewide-voter-registration-push-ahead-midterm-election-deadline/",
+      "abbr": "LA"
     },
     {
-      "text": "Kentucky's absentee ballot request portal opens ahead of October 20 deadline",
-      "url": "https://www.wkyt.com/2026/09/22/kentucky-absentee-ballot-request-portal-opens-with-october-deadline/",
-      "abbr": "KY"
-    },
-    {
-      "text": "DeKalb County, Georgia expands early voting to 22 locations for November",
-      "url": "https://www.wsbtv.com/news/local/dekalb-county/metro-atlanta-county-expands-early-voting-locations-ahead-november-election/CJXYSWIJUFASDGJAHXCQPZ7DTE/",
+      "text": "Georgia's GOP gubernatorial front-runner skips Atlanta Press Club debate",
+      "url": "https://www.gpb.org/news/2026/09/22/statewide-candidates-debate-at-atlanta-press-club-minus-the-top-of-the-gop-ticket",
       "abbr": "GA"
     },
     {
-      "text": "Iowa's open Senate race tightens into a toss-up between Hinson and Turek",
-      "url": "https://www.iowapublicradio.org/political-news/2026-09-18/democrats-iowa-senate-race-ashley-hinson-josh-turek-midterm-election",
-      "abbr": "IA"
+      "text": "North Dakota remains alone in skipping voter registration despite new pushes",
+      "url": "https://www.kfyrtv.com/2026/09/21/voter-registration-lawmakers-push-new-rules-safety-isnt-reason/",
+      "abbr": "ND"
+    },
+    {
+      "text": "St. Louis Public Radio launches joint Missouri-Illinois voter guide",
+      "url": "https://www.stlpr.org/government-politics-issues/2026-09-22/st-louis-voter-guide-2026-november-election-missouri-illinois",
+      "abbr": "MO"
     }
   ]
 }

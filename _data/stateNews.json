@@ -32768,6 +32768,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-23",
+      "time": "06:00",
+      "states": {
+        "FL": [
+          {
+            "title": "First ballots cast for November 3 general election",
+            "source": "WLRN",
+            "url": "https://www.wlrn.org/government-politics/2026-09-22/first-ballots-cast-for-november-3-general-election",
+            "date": "2026-09-22",
+            "summary": "Florida county election supervisors began receiving the first mail ballots of the cycle from military and overseas voters, with roughly 8 million ballots expected statewide for the Nov. 3 election."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Statewide candidates to debate at Atlanta Press Club, minus the top of the GOP ticket",
+            "source": "Georgia Public Broadcasting",
+            "url": "https://www.gpb.org/news/2026/09/22/statewide-candidates-debate-at-atlanta-press-club-minus-the-top-of-the-gop-ticket",
+            "date": "2026-09-22",
+            "summary": "The Atlanta Press Club will host Georgia's statewide general-election debates Oct. 12-13, though the Republican gubernatorial front-runner has declined to participate."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Louisiana launches statewide voter registration push ahead of midterm election deadline",
+            "source": "WAFB",
+            "url": "https://www.wafb.com/2026/09/22/louisiana-launches-statewide-voter-registration-push-ahead-midterm-election-deadline/",
+            "date": "2026-09-22",
+            "summary": "Louisiana registrars fanned out to schools and community centers during Voter Registration Week to sign up eligible voters ahead of the fall midterm election."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Poll: 41% of Maryland voters oppose redistricting amendment",
+            "source": "Baltimore Sun",
+            "url": "https://www.baltimoresun.com/2026/09/22/poll-maryland-redistricting-gerrymandering/",
+            "date": "2026-09-22",
+            "summary": "A new bipartisan poll found Maryland voters narrowly opposed to a November ballot question that would let lawmakers redraw congressional districts without traditional compactness and boundary requirements."
+          }
+        ],
+        "MN": [
+          {
+            "title": "You can vote now in the 2026 midterm election. Here's what to know.",
+            "source": "KAXE",
+            "url": "https://www.kaxe.org/elections/2026-09-22/you-can-vote-now-in-the-2026-midterm-election-heres-what-to-know",
+            "date": "2026-09-22",
+            "summary": "Minnesota voting officially opened for the 2026 midterms, with residents able to cast ballots by mail, in person early, or on Election Day, Nov. 3."
+          }
+        ],
+        "MO": [
+          {
+            "title": "St. Louis Voter Guide: What to know about the 2026 election in Missouri and Illinois",
+            "source": "St. Louis Public Radio",
+            "url": "https://www.stlpr.org/government-politics-issues/2026-09-22/st-louis-voter-guide-2026-november-election-missouri-illinois",
+            "date": "2026-09-22",
+            "summary": "St. Louis Public Radio published a joint Missouri-Illinois voter guide covering key races, ballot measures, and voting procedures ahead of the November election."
+          }
+        ],
+        "ND": [
+          {
+            "title": "Voter registration: lawmakers push for new rules, but safety isn't the reason",
+            "source": "KFYR-TV",
+            "url": "https://www.kfyrtv.com/2026/09/21/voter-registration-lawmakers-push-new-rules-safety-isnt-reason/",
+            "date": "2026-09-21",
+            "summary": "North Dakota remains the only state without voter registration, and Secretary of State Michael Howe says renewed legislative pushes to require it are driven by campaign interests rather than election security concerns."
+          }
+        ]
+      }
     }
   ]
 }
