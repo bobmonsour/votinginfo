@@ -32708,6 +32708,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-22",
+      "time": "17:00",
+      "states": {
+        "GA": [
+          {
+            "title": "Metro Atlanta county expands early voting locations ahead of November election",
+            "source": "WSB-TV",
+            "url": "https://www.wsbtv.com/news/local/dekalb-county/metro-atlanta-county-expands-early-voting-locations-ahead-november-election/CJXYSWIJUFASDGJAHXCQPZ7DTE/",
+            "date": "2026-09-16",
+            "summary": "DeKalb County is expanding early voting from 20 to 22 locations for the Nov. 3 general election, adding sites in Tucker and Stone Mountain for the final week of early voting."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Democrats aim to flip Iowa's U.S. Senate seat in an increasingly competitive race",
+            "source": "Iowa Public Radio",
+            "url": "https://www.iowapublicradio.org/political-news/2026-09-18/democrats-iowa-senate-race-ashley-hinson-josh-turek-midterm-election",
+            "date": "2026-09-18",
+            "summary": "The race for retiring Sen. Joni Ernst's open seat has shifted from lean-Republican to a toss-up, with Democrat Josh Turek trailing Republican Ashley Hinson by 5 points in a recent poll."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Kentucky absentee ballot request portal opens with October deadline",
+            "source": "WKYT",
+            "url": "https://www.wkyt.com/2026/09/22/kentucky-absentee-ballot-request-portal-opens-with-october-deadline/",
+            "date": "2026-09-22",
+            "summary": "Kentucky's online portal to request an absentee ballot for the November election opened Sept. 19, with requests accepted through the Oct. 20 deadline."
+          }
+        ],
+        "NC": [
+          {
+            "title": "GOP reshapes North Carolina's voting rules ahead of key Senate race",
+            "source": "CNN",
+            "url": "https://www.cnn.com/2026/09/17/politics/north-carolina-senate-midterms-voting-rules-election-integrity",
+            "date": "2026-09-17",
+            "summary": "North Carolina's State Board of Elections voted to direct officials not to count absentee ballots returned with an unsealed inner envelope, a rule change taking effect as counties begin mailing absentee ballots ahead of the state's competitive Senate race."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Unknown number of Texas voter registrations went unprocessed due to DPS error",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/texas/2026/09/22/voter-registration-applications-unprocessed-dps-error/",
+            "date": "2026-09-22",
+            "summary": "A Texas Department of Public Safety system error left an unknown number of voter registration applications submitted through its online driver's license portal unprocessed, surfacing weeks before the Oct. 5 registration deadline."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Virginia voters to decide three constitutional amendments in November",
+            "source": "WVIR/Gray Media",
+            "url": "https://www.29news.com/2026/09/21/virginia-voters-decide-three-constitutional-amendments-november/",
+            "date": "2026-09-21",
+            "summary": "Virginia's Nov. 3 ballot will include three constitutional amendments, one of which would automatically restore voting rights to people with felony convictions upon release rather than requiring individual gubernatorial approval."
+          }
+        ]
+      }
     }
   ]
 }
