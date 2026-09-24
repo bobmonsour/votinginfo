@@ -32933,6 +32933,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-24",
+      "time": "06:00",
+      "states": {
+        "DE": [
+          {
+            "title": "AG Jennings announces Delaware Supreme Court victory protecting permanent absentee voting",
+            "source": "State of Delaware News",
+            "url": "https://news.delaware.gov/2026/09/22/ag-jennings-announces-delaware-supreme-court-victory-protecting-permanent-absentee-voting/",
+            "date": "2026-09-22",
+            "summary": "Delaware's Supreme Court unanimously upheld the state's permanent absentee voting law, rejecting state Sen. Gerald Hocker's challenge and preserving the option for veterans, seniors, and people with disabilities."
+          }
+        ],
+        "ND": [
+          {
+            "title": "Absentee voting for midterm elections begins on Thursday",
+            "source": "Valley News Live",
+            "url": "https://www.valleynewslive.com/2026/09/24/absentee-voting-midterm-elections-begins-thursday/",
+            "date": "2026-09-23",
+            "summary": "North Dakota voters can begin casting absentee ballots this Thursday for the Nov. 3 general election, with ballots due to county auditors by 7 p.m. on Election Day."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Secretary of state launches push to reassure voters that Nevada elections remain safe and secure for midterms",
+            "source": "Las Vegas Sun",
+            "url": "https://lasvegassun.com/news/2026/sep/24/secretary-of-state-launches-push-to-reassure-voter/",
+            "date": "2026-09-24",
+            "summary": "Secretary of State Cisco Aguilar launched a voter-education campaign to reassure Nevadans that the state's mail-ballot system remains secure, following the Supreme Court's rejection of federal mail-ballot restrictions."
+          }
+        ]
+      }
     }
   ]
 }

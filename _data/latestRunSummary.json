@@ -1,29 +1,19 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "items": [
     {
-      "text": "Missouri's Trump-backed congressional map heads back to the Supreme Court a third time",
-      "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/09/23/trump-backed-missouri-congressional-map-scotus",
-      "abbr": "MO"
+      "text": "Delaware Supreme Court unanimously upholds permanent absentee voting law",
+      "url": "https://news.delaware.gov/2026/09/22/ag-jennings-announces-delaware-supreme-court-victory-protecting-permanent-absentee-voting/",
+      "abbr": "DE"
     },
     {
-      "text": "Groups sue North Carolina over new absentee ballot rejection rules",
-      "url": "https://ncnewsline.com/2026/09/23/a-federal-lawsuit-challenges-new-nc-requirements-for-absentee-ballot-returns/",
-      "abbr": "NC"
+      "text": "North Dakota absentee voting opens for the November midterms",
+      "url": "https://www.valleynewslive.com/2026/09/24/absentee-voting-midterm-elections-begins-thursday/",
+      "abbr": "ND"
     },
     {
-      "text": "Texas DPS error leaves tens of thousands of voter registrations unprocessed",
-      "url": "https://www.votebeat.org/texas/2026/09/23/dps-error-backlogged-voter-registration-applications-county-election-officials/",
-      "abbr": "TX"
-    },
-    {
-      "text": "Arizona Clean Elections says it must probe Green Party fraud allegations",
-      "url": "https://azmirror.com/2026/09/23/clean-elections-tells-court-it-must-investigate-green-party-fraud-claims/",
-      "abbr": "AZ"
-    },
-    {
-      "text": "Nevada's top election official seeks congressional observers at postal sites",
-      "url": "https://news3lv.com/news/local/nevada-secretary-of-state-urges-congressional-observers-at-usps-sites-for-2026-election",
+      "text": "Nevada launches campaign to reassure voters mail-ballot system remains secure",
+      "url": "https://lasvegassun.com/news/2026/sep/24/secretary-of-state-launches-push-to-reassure-voter/",
       "abbr": "NV"
     }
   ]
