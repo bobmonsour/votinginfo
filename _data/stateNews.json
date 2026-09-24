@@ -32837,6 +32837,102 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-23",
+      "time": "17:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Clean Elections tells court it must investigate Green Party fraud claims",
+            "source": "Arizona Mirror",
+            "url": "https://azmirror.com/2026/09/23/clean-elections-tells-court-it-must-investigate-green-party-fraud-claims/",
+            "date": "2026-09-23",
+            "summary": "Arizona's Citizens Clean Elections Commission told a court it is legally required to investigate fraud allegations against Green Party candidates accused of using fabricated donor information to qualify for public campaign funding."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Secretary of State Jena Griswold Assures Voters: Colorado Is Ready for the 2026 General Election",
+            "source": "Colorado Secretary of State",
+            "url": "https://coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260923GeneralElection.html",
+            "date": "2026-09-23",
+            "summary": "Colorado's top election official confirmed county clerks will mail ballots to every active voter between Oct. 2 and Oct. 9 ahead of the Nov. 3 general election."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Idaho absentee voting underway as national mail-ballot debate continues",
+            "source": "KMVT",
+            "url": "https://www.kmvt.com/2026/09/23/idaho-absentee-voting-underway-national-mail-ballot-debate-continues/",
+            "date": "2026-09-23",
+            "summary": "About 73,000 absentee ballots have been sent to Idaho voters ahead of the Nov. 3 general election, under the state's request-based absentee system."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Kentucky 2026 election FAQ: What voters need to know",
+            "source": "LINK nky",
+            "url": "https://linknky.com/news/2026/09/23/kentucky-2026-election-voter-faq/",
+            "date": "2026-09-23",
+            "summary": "A voter FAQ for Northern Kentucky covers registration, early voting, absentee ballot requests, and ID requirements ahead of the Nov. 3 general election."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Trump-backed Missouri congressional map returns to the Supreme Court for the third time",
+            "source": "Associated Press",
+            "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/09/23/trump-backed-missouri-congressional-map-scotus",
+            "date": "2026-09-23",
+            "summary": "Missouri's redistricting fight reached the U.S. Supreme Court for a third time after an appeals court ordered revival of a Trump-backed congressional map the state's own Supreme Court had blocked."
+          }
+        ],
+        "NC": [
+          {
+            "title": "A federal lawsuit challenges new NC requirements for absentee ballot returns",
+            "source": "NC Newsline",
+            "url": "https://ncnewsline.com/2026/09/23/a-federal-lawsuit-challenges-new-nc-requirements-for-absentee-ballot-returns/",
+            "date": "2026-09-23",
+            "summary": "Nonprofit groups and two voters sued North Carolina's elections board over last-minute directives that could invalidate absentee ballots for technical errors like an unsealed inner envelope."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Nevada secretary of state urges congressional observers at USPS sites for 2026 election",
+            "source": "News 3 Las Vegas (KSNV)",
+            "url": "https://news3lv.com/news/local/nevada-secretary-of-state-urges-congressional-observers-at-usps-sites-for-2026-election",
+            "date": "2026-09-23",
+            "summary": "Secretary of State Francisco Aguilar asked Nevada's congressional delegation to deploy observers to postal facilities to ensure uninterrupted mail-ballot processing for the 2026 election."
+          }
+        ],
+        "PA": [
+          {
+            "title": "The 2026 races that could decide control of the Pennsylvania House and Senate",
+            "source": "Spotlight PA",
+            "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/",
+            "date": "2026-09-22",
+            "summary": "Spotlight PA identifies the handful of state House and Senate races that will decide whether Democrats win a full trifecta in Harrisburg this November."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Texas counties are receiving tens of thousands of unprocessed voter registration applications due to state error",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/texas/2026/09/23/dps-error-backlogged-voter-registration-applications-county-election-officials/",
+            "date": "2026-09-23",
+            "summary": "A Texas Department of Public Safety system error left tens of thousands of voter registration applications unsent to county officials, prompting Democratic calls for Gov. Abbott to investigate."
+          }
+        ],
+        "VT": [
+          {
+            "title": "VTDigger launches 2026 Vermont general election guide",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2026/09/15/2026-vermont-general-election-guide/",
+            "date": "2026-09-15",
+            "summary": "VTDigger launched a comprehensive resource covering Vermont's Nov. 3 general election, including candidate profiles, campaign finance data, and key races like the governor's contest."
+          }
+        ]
+      }
     }
   ]
 }

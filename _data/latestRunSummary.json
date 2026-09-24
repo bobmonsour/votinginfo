@@ -2,34 +2,29 @@
   "date": "2026-09-23",
   "items": [
     {
-      "text": "Florida and Minnesota voting officially opens as first ballots go out",
-      "url": "https://www.wlrn.org/government-politics/2026-09-22/first-ballots-cast-for-november-3-general-election",
-      "abbr": "FL"
-    },
-    {
-      "text": "Poll finds Maryland voters narrowly oppose redistricting ballot question",
-      "url": "https://www.baltimoresun.com/2026/09/22/poll-maryland-redistricting-gerrymandering/",
-      "abbr": "MD"
-    },
-    {
-      "text": "Louisiana registrars fan out to schools for statewide voter registration week",
-      "url": "https://www.wafb.com/2026/09/22/louisiana-launches-statewide-voter-registration-push-ahead-midterm-election-deadline/",
-      "abbr": "LA"
-    },
-    {
-      "text": "Georgia's GOP gubernatorial front-runner skips Atlanta Press Club debate",
-      "url": "https://www.gpb.org/news/2026/09/22/statewide-candidates-debate-at-atlanta-press-club-minus-the-top-of-the-gop-ticket",
-      "abbr": "GA"
-    },
-    {
-      "text": "North Dakota remains alone in skipping voter registration despite new pushes",
-      "url": "https://www.kfyrtv.com/2026/09/21/voter-registration-lawmakers-push-new-rules-safety-isnt-reason/",
-      "abbr": "ND"
-    },
-    {
-      "text": "St. Louis Public Radio launches joint Missouri-Illinois voter guide",
-      "url": "https://www.stlpr.org/government-politics-issues/2026-09-22/st-louis-voter-guide-2026-november-election-missouri-illinois",
+      "text": "Missouri's Trump-backed congressional map heads back to the Supreme Court a third time",
+      "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/09/23/trump-backed-missouri-congressional-map-scotus",
       "abbr": "MO"
+    },
+    {
+      "text": "Groups sue North Carolina over new absentee ballot rejection rules",
+      "url": "https://ncnewsline.com/2026/09/23/a-federal-lawsuit-challenges-new-nc-requirements-for-absentee-ballot-returns/",
+      "abbr": "NC"
+    },
+    {
+      "text": "Texas DPS error leaves tens of thousands of voter registrations unprocessed",
+      "url": "https://www.votebeat.org/texas/2026/09/23/dps-error-backlogged-voter-registration-applications-county-election-officials/",
+      "abbr": "TX"
+    },
+    {
+      "text": "Arizona Clean Elections says it must probe Green Party fraud allegations",
+      "url": "https://azmirror.com/2026/09/23/clean-elections-tells-court-it-must-investigate-green-party-fraud-claims/",
+      "abbr": "AZ"
+    },
+    {
+      "text": "Nevada's top election official seeks congressional observers at postal sites",
+      "url": "https://news3lv.com/news/local/nevada-secretary-of-state-urges-congressional-observers-at-usps-sites-for-2026-election",
+      "abbr": "NV"
     }
   ]
 }
