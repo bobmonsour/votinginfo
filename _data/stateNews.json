@@ -33017,6 +33017,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-25",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "The voter registration deadline for Alaska's general election is Oct. 4. Here's how to register.",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/09/24/the-voter-registration-deadline-for-alaskas-general-election-is-oct-4-heres-how-to-register/",
+            "date": "2026-09-24",
+            "summary": "Alaskans have until Oct. 4 to register ahead of the Nov. 3 general election, and the Anchorage Daily News detailed online, mail, and in-person registration options."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Absentee voting starts in Michigan",
+            "source": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-09-24/absentee-voting-starts-in-michigan",
+            "date": "2026-09-24",
+            "summary": "Absentee voting began in Michigan on Sept. 24 ahead of the Nov. 3 election, with local clerks holding a press conference to reassure voters about election security amid disinformation concerns."
+          }
+        ],
+        "ND": [
+          {
+            "title": "Absentee ballots available for North Dakota voters",
+            "source": "Valley News Live",
+            "url": "https://www.valleynewslive.com/2026/09/24/absentee-ballots-available-north-dakota-voters/",
+            "date": "2026-09-24",
+            "summary": "North Dakota voters can begin requesting and casting absentee ballots for the Nov. 3 general election, either online or in person at their county auditor's office."
+          }
+        ],
+        "NY": [
+          {
+            "title": "NY Elections, Census and Redistricting Update 09/22/26",
+            "source": "CityLand",
+            "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-09-22-26/",
+            "date": "2026-09-22",
+            "summary": "CityLand's weekly update covers 2026 general election filing deadlines, litigation over Brooklyn Democratic Party leadership rules, and a federal court challenge to New York's Even Year Election Law."
+          }
+        ],
+        "WV": [
+          {
+            "title": "WV voters will decide on proposed citizen-only voting constitutional amendment in November",
+            "source": "West Virginia Watch",
+            "url": "https://westvirginiawatch.com/2026/09/15/wv-voters-will-decide-on-proposed-citizen-only-voting-constitutional-amendment-in-november/",
+            "date": "2026-09-15",
+            "summary": "West Virginia voters will decide a Nov. 3 constitutional amendment that would explicitly limit voting in state elections to U.S. citizens who are also state citizens."
+          }
+        ]
+      }
     }
   ]
 }
