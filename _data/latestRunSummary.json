@@ -2,19 +2,29 @@
   "date": "2026-09-24",
   "items": [
     {
-      "text": "Delaware Supreme Court unanimously upholds permanent absentee voting law",
-      "url": "https://news.delaware.gov/2026/09/22/ag-jennings-announces-delaware-supreme-court-victory-protecting-permanent-absentee-voting/",
-      "abbr": "DE"
+      "text": "California Supreme Court rules Riverside sheriff broke law seizing 650,000 ballots",
+      "url": "https://www.kpbs.org/news/politics/2026/09/24/california-sheriff-broke-election-law-by-seizing-ballots-state-supreme-court-rules",
+      "abbr": "CA"
     },
     {
-      "text": "North Dakota absentee voting opens for the November midterms",
-      "url": "https://www.valleynewslive.com/2026/09/24/absentee-voting-midterm-elections-begins-thursday/",
-      "abbr": "ND"
+      "text": "Election officials nationwide prepare contingency plans against federal interference",
+      "url": "https://www.votebeat.org/national/2026/09/24/midterm-2026-election-preparation-federal-interference/",
+      "abbr": "DC"
     },
     {
-      "text": "Nevada launches campaign to reassure voters mail-ballot system remains secure",
-      "url": "https://lasvegassun.com/news/2026/sep/24/secretary-of-state-launches-push-to-reassure-voter/",
-      "abbr": "NV"
+      "text": "Florida begins mailing vote-by-mail ballots to domestic voters",
+      "url": "https://www.wgcu.org/elections/2026-09-24/first-mailings-of-vote-by-mail-ballots-to-domestic-voters-for-nov-3-general-election-start-to-go-out",
+      "abbr": "FL"
+    },
+    {
+      "text": "Illinois early voting opens ahead of the November general election",
+      "url": "https://www.nprillinois.org/government-politics/2026-09-24/early-voting-opens-view-the-2026-capitol-news-illinois-election-guide",
+      "abbr": "IL"
+    },
+    {
+      "text": "Iowa Public Radio launches ballot lookup tool for the 2026 general election",
+      "url": "https://www.iowapublicradio.org/political-news/2026-09-24/2026-iowa-ballot-voting-iowa-governor",
+      "abbr": "IA"
     }
   ]
 }

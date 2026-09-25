@@ -32966,6 +32966,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-24",
+      "time": "17:00",
+      "states": {
+        "CA": [
+          {
+            "title": "California sheriff broke election law by seizing ballots, state Supreme Court rules",
+            "source": "KPBS",
+            "url": "https://www.kpbs.org/news/politics/2026/09/24/california-sheriff-broke-election-law-by-seizing-ballots-state-supreme-court-rules",
+            "date": "2026-09-24",
+            "summary": "California's Supreme Court unanimously ruled that Riverside County Sheriff Chad Bianco violated state election law by seizing more than 650,000 ballots and ignoring the attorney general's order to return them."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Election officials across the country prepare to fight any Trump administration interference in the 2026 midterms",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/09/24/midterm-2026-election-preparation-federal-interference/",
+            "date": "2026-09-24",
+            "summary": "Election officials nationwide are preparing legal strategies and contingency plans against possible federal disruption of the 2026 midterms, including equipment seizure and ICE presence at polling places."
+          }
+        ],
+        "FL": [
+          {
+            "title": "First mailings of vote-by-mail ballots to domestic voters for Nov. 3 general election start to go out",
+            "source": "WGCU",
+            "url": "https://www.wgcu.org/elections/2026-09-24/first-mailings-of-vote-by-mail-ballots-to-domestic-voters-for-nov-3-general-election-start-to-go-out",
+            "date": "2026-09-24",
+            "summary": "Florida began mailing vote-by-mail ballots to domestic voters on Sept. 24 ahead of the Nov. 3 general election, with all mailings required to be completed by Oct. 1."
+          }
+        ],
+        "IA": [
+          {
+            "title": "2026 Iowa Election: Who's on my ballot",
+            "source": "Iowa Public Radio",
+            "url": "https://www.iowapublicradio.org/political-news/2026-09-24/2026-iowa-ballot-voting-iowa-governor",
+            "date": "2026-09-24",
+            "summary": "Iowa Public Radio launched a voter tool letting residents look up the candidates, constitutional amendments, and judicial retention questions on their 2026 general election ballot."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Early voting opens: View the 2026 Capitol News Illinois Election Guide",
+            "source": "NPR Illinois",
+            "url": "https://www.nprillinois.org/government-politics/2026-09-24/early-voting-opens-view-the-2026-capitol-news-illinois-election-guide",
+            "date": "2026-09-24",
+            "summary": "Early voting began across Illinois on Sept. 24, and Capitol News Illinois published an election guide covering voter registration, polling locations, and statewide races ahead of the Nov. 3 election."
+          }
+        ]
+      }
     }
   ]
 }
