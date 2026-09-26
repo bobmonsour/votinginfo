@@ -33068,6 +33068,129 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-25",
+      "time": "17:00",
+      "states": {
+        "CT": [
+          {
+            "title": "Murphy wades into midterms, CT voter turnout: CT politics news",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/09/18/murphy-midterms-ct-voter-turnout-politics-news/",
+            "date": "2026-09-18",
+            "summary": "U.S. Sen. Chris Murphy ramps up midterm fundraising for Democrats as Connecticut's new Voter Participation Task Force works to boost the state's voter turnout."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Secretary of State's Office investigating whether Georgia House candidate voted in 2 state primaries",
+            "source": "CBS News Atlanta",
+            "url": "https://www.cbsnews.com/atlanta/news/secretary-of-states-office-investigating-whether-georgia-house-candidate-voted-in-2-state-primaries/",
+            "date": "2026-09-24",
+            "summary": "Georgia's Secretary of State opened an investigation into allegations that a state House candidate voted in both Georgia's and Nevada's 2026 primaries."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Honolulu voters to decide 20 Charter amendments in November",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/09/24/hawaii-news/voters-to-decide-20-charter-amendments-in-november/",
+            "date": "2026-09-24",
+            "summary": "Oahu voters will weigh in on 20 proposed Honolulu City Charter amendments in November, including a shift to ranked-choice voting for mayor, City Council and prosecuting attorney."
+          }
+        ],
+        "IL": [
+          {
+            "title": "As early voting begins, officials seek to reassure public about election security, integrity",
+            "source": "Capitol News Illinois",
+            "url": "https://www.nprillinois.org/government-politics/2026-09-25/as-early-voting-begins-officials-seek-to-reassure-public-about-election-security-integrity",
+            "date": "2026-09-25",
+            "summary": "As early in-person and mail-in voting begins, Illinois election officials pushed back on claims that the state's voting system is vulnerable to fraud or manipulation."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Proposed amendment aims to clarify constitutional language on voter eligibility in Kansas",
+            "source": "WIBW",
+            "url": "https://www.wibw.com/2026/09/22/proposed-amendment-aims-clarify-constitutional-language-voter-eligibility-kansas/",
+            "date": "2026-09-22",
+            "summary": "A November ballot measure would amend the Kansas Constitution to explicitly state that only U.S. citizens may vote in state and local elections."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Poll finds opposition to MD redistricting ballot question",
+            "source": "Maryland Daily Record",
+            "url": "https://thedailyrecord.com/2026/09/23/maryland-voters-oppose-redistricting-ballot-question-poll/",
+            "date": "2026-09-23",
+            "summary": "A new poll finds roughly 40% of Maryland voters oppose Question 3, a constitutional amendment that would allow the legislature to redraw congressional districts."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Hannah Pingree continues to hold a big lead in new poll of Maine governor's race",
+            "source": "Portland Press Herald",
+            "url": "https://www.pressherald.com/2026/09/25/hannah-pingree-continues-to-hold-a-big-lead-in-new-poll-of-maine-governors-race/",
+            "date": "2026-09-25",
+            "summary": "A new poll shows Democrat Hannah Pingree maintaining a double-digit lead in the race to succeed term-limited Gov. Janet Mills."
+          }
+        ],
+        "MI": [
+          {
+            "title": "What to know about voting absentee in Michigan",
+            "source": "WCMU Public Media",
+            "url": "https://www.wcmu.org/local-regional-news/2026-09-25/what-to-know-about-voting-absentee-in-michigan",
+            "date": "2026-09-25",
+            "summary": "With absentee ballots going out, Michigan election officials explain permanent absentee status, drop boxes, and the 8 p.m. Election Day return deadline."
+          }
+        ],
+        "MO": [
+          {
+            "title": "U.S. Supreme Court again blocks Missouri from using Trump-backed congressional map",
+            "source": "St. Louis Public Radio",
+            "url": "https://www.stlpr.org/government-politics-issues/2026-09-25/congressional-map-missouri-8th-circle-appeal",
+            "date": "2026-09-25",
+            "summary": "The U.S. Supreme Court blocked, for a third time, a Republican-drawn Missouri congressional map, ruling that changing districts now that voting is underway would cause 'electoral chaos.'"
+          }
+        ],
+        "MT": [
+          {
+            "title": "Campaign season revs up as general election nears",
+            "source": "Lake County Leader",
+            "url": "https://leaderadvertiser.com/news/2026/sep/24/campaign-season-revs-up-as-general-election-nears/",
+            "date": "2026-09-24",
+            "summary": "Montana election officials announce absentee and mail-in ballots will go out starting Oct. 9 for the Nov. 3 general election, as candidate and ballot-measure lineups are finalized."
+          }
+        ],
+        "OH": [
+          {
+            "title": "US appeals court reinstates Ohio law requiring voters to prove citizenship",
+            "source": "93.3 The Drive",
+            "url": "https://www.933thedrive.com/2026/09/24/us-appeals-court-reinstates-ohio-law-requiring-voters-to-prove-citizenship/",
+            "date": "2026-09-24",
+            "summary": "The 6th Circuit Court of Appeals reinstated Ohio's law requiring proof of citizenship for voter registration at motor vehicle offices ahead of the Oct. 5 deadline."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Virginia voters to decide on abortion rights, marriage equality and felon voting in 3 constitutional amendments",
+            "source": "WSLS",
+            "url": "https://www.wsls.com/news/local/2026/09/22/virginia-voters-to-decide-on-abortion-rights-marriage-equality-and-felon-voting-in-3-constitutional-amendments/",
+            "date": "2026-09-22",
+            "summary": "Virginia voters will decide three constitutional amendments in November, including one ending the requirement that people with felony convictions petition the governor to regain voting rights."
+          }
+        ],
+        "WI": [
+          {
+            "title": "How the upcoming midterms could change Wisconsin election policy",
+            "source": "Wisconsin Watch",
+            "url": "https://wisconsinwatch.org/2026/09/wisconsin-election-policy-2026-midterms-republican-democrat-trifecta-government-voting/",
+            "date": "2026-09-18",
+            "summary": "Wisconsin's 2026 midterms could break years of legislative gridlock on election policy, depending on whether Democrats or Republicans win unified control of state government."
+          }
+        ]
+      }
     }
   ]
 }

@@ -2,29 +2,32 @@
   "date": "2026-09-25",
   "items": [
     {
-      "text": "Alaska's voter registration deadline for the Nov. 3 election is Oct. 4",
-      "url": "https://www.adn.com/politics/2026/09/24/the-voter-registration-deadline-for-alaskas-general-election-is-oct-4-heres-how-to-register/",
-      "abbr": "AK"
+      "text": "U.S. Supreme Court blocks Missouri's Trump-backed congressional map for a third time",
+      "url": "https://www.stlpr.org/government-politics-issues/2026-09-25/congressional-map-missouri-8th-circle-appeal",
+      "abbr": "MO"
     },
     {
-      "text": "Absentee voting starts in Michigan ahead of the November election",
-      "url": "https://www.michiganpublic.org/politics-government/2026-09-24/absentee-voting-starts-in-michigan",
-      "abbr": "MI"
+      "text": "Federal appeals court reinstates Ohio's proof-of-citizenship voter registration law",
+      "url": "https://www.933thedrive.com/2026/09/24/us-appeals-court-reinstates-ohio-law-requiring-voters-to-prove-citizenship/",
+      "abbr": "OH"
     },
     {
-      "text": "North Dakota voters can now request and cast absentee ballots",
-      "url": "https://www.valleynewslive.com/2026/09/24/absentee-ballots-available-north-dakota-voters/",
-      "abbr": "ND"
+      "text": "Georgia investigates House candidate accused of voting in two states' primaries",
+      "url": "https://www.cbsnews.com/atlanta/news/secretary-of-states-office-investigating-whether-georgia-house-candidate-voted-in-2-state-primaries/",
+      "abbr": "GA"
     },
     {
-      "text": "New York redistricting and Brooklyn party-leadership litigation continue",
-      "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-09-22-26/",
-      "abbr": "NY"
+      "text": "Virginia voters to decide felony voting-rights restoration amendment in November",
+      "url": "https://www.wsls.com/news/local/2026/09/22/virginia-voters-to-decide-on-abortion-rights-marriage-equality-and-felon-voting-in-3-constitutional-amendments/",
+      "abbr": "VA"
     },
     {
-      "text": "West Virginia voters to decide citizen-only voting amendment in November",
-      "url": "https://westvirginiawatch.com/2026/09/15/wv-voters-will-decide-on-proposed-citizen-only-voting-constitutional-amendment-in-november/",
-      "abbr": "WV"
+      "text": "Honolulu voters to weigh ranked-choice voting among 20 city charter amendments",
+      "url": "https://www.staradvertiser.com/2026/09/24/hawaii-news/voters-to-decide-20-charter-amendments-in-november/",
+      "abbr": "HI"
+    },
+    {
+      "text": "Kansas and Maryland ballot measures target citizen-only voting and redistricting maps"
     }
   ]
 }
