@@ -33191,6 +33191,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-28",
+      "time": "06:00",
+      "states": {
+        "CA": [
+          {
+            "title": "VoteSC suggests early voting as California adopts new election laws",
+            "source": "Daily Trojan",
+            "url": "https://dailytrojan.com/2026/09/28/votesc-suggests-early-voting-as-california-adopts-new-election-laws/",
+            "date": "2026-09-28",
+            "summary": "USC's VoteSC is urging students to vote early as California implements a new package of election-protection laws signed by Gov. Newsom aimed at safeguarding mail-in voting."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Supreme Court OKs use of federal citizenship tool to vet voters, but midterm impact will be limited",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/09/25/supreme-court-ruling-save-system-trump-dhs-noncitizens-2026-election/",
+            "date": "2026-09-25",
+            "summary": "The U.S. Supreme Court cleared the way for DHS's SAVE system to be used to check voter rolls for citizenship, though federal restrictions on removing voters close to an election will limit its effect before November."
+          }
+        ],
+        "IN": [
+          {
+            "title": "How To Vote In Indiana's 2026 General Election",
+            "source": "InkFreeNews",
+            "url": "https://www.inkfreenews.com/2026/09/25/how-to-vote-in-indianas-2026-general-election/",
+            "date": "2026-09-25",
+            "summary": "A voter guide covering Indiana's registration deadline, photo ID rules, and early and mail voting options ahead of the Nov. 3 general election."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Question 4 could allow Mass. voters to register on Election Day. Here's what to know.",
+            "source": "Boston.com",
+            "url": "https://www.boston.com/news/local-news/2026/09/28/question-4-could-allow-mass-voters-to-register-on-election-day-heres-what-to-know/",
+            "date": "2026-09-28",
+            "summary": "Massachusetts' Question 4 would replace the state's 10-day registration cutoff with same-day voter registration; the article lays out arguments from supporters and opponents ahead of the Nov. 3 vote."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Voting is underway: What's on NC's 2026 ballot",
+            "source": "Carolina Journal",
+            "url": "https://www.carolinajournal.com/voting-is-underway-whats-on-ncs-2026-ballot/",
+            "date": "2026-09-24",
+            "summary": "A guide to North Carolina's 2026 midterm ballot as mail voting gets underway, covering federal and state legislative races, judicial contests, and constitutional amendments."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Everything you need to know about how to vote in Pennsylvania in 2026",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/09/25/2026-election-how-to-vote-mail-ballots-voter-id/",
+            "date": "2026-09-25",
+            "summary": "A nonpartisan voter guide covering Pennsylvania's mail ballot request and return process and voter ID rules ahead of the Nov. 3 general election."
+          }
+        ],
+        "TX": [
+          {
+            "title": "The last day to register to vote for the November election in Texas is Oct. 5",
+            "source": "KERA News",
+            "url": "https://www.keranews.org/elections-2026/2026-09-28/austin-tx-travis-county-texas-voting-registration-deadline-vote",
+            "date": "2026-09-28",
+            "summary": "More than a million Texans were placed on the voter suspense list and must update their address by Oct. 5 to remain eligible to vote in the Nov. 3 election."
+          }
+        ]
+      }
     }
   ]
 }
