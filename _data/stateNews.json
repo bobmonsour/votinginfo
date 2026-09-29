@@ -33260,6 +33260,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-28",
+      "time": "17:00",
+      "states": {
+        "AR": [
+          {
+            "title": "October 5 voter registration deadline set for Arkansans ahead of November elections",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/sep/26/october-5-voter-registration-deadline-set-for/",
+            "date": "2026-09-26",
+            "summary": "Arkansans have until Oct. 5 to register for the Nov. 3 general election, which includes the governor's race and U.S. Senate and House contests."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas Voter Guide: What you need to know for November elections",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/09/28/kansas-voter-guide-what-you-need-know-november-elections/",
+            "date": "2026-09-28",
+            "summary": "A voter guide covering Kansas's Nov. 3 election landscape, including the governor and U.S. Senate races, a citizenship voting amendment, and key registration and absentee deadlines."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina 2026 ballot amendments: What to know before you vote",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/09/25/north-carolina-2026-ballot-amendments-what-know-before-you-vote/",
+            "date": "2026-09-25",
+            "summary": "North Carolina voters will decide three constitutional amendments in November covering photo ID for mail voters, an income tax rate cap, and local property tax limits."
+          }
+        ],
+        "SD": [
+          {
+            "title": "South Dakota's top election official, a Republican, endorses a Democrat to succeed her",
+            "source": "South Dakota Searchlight",
+            "url": "https://southdakotasearchlight.com/2026/09/20/south-dakotas-top-election-official-a-republican-endorses-a-democrat-to-succeed-her/",
+            "date": "2026-09-20",
+            "summary": "Secretary of State Monae Johnson, a Republican, endorsed Democratic nominee Terrence Davis to succeed her in the race for South Dakota's top election office."
+          }
+        ]
+      }
     }
   ]
 }
