@@ -1,25 +1,33 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "items": [
     {
-      "text": "Arkansas voters have until Oct. 5 to register ahead of the Nov. 3 election",
-      "url": "https://www.arkansasonline.com/news/2026/sep/26/october-5-voter-registration-deadline-set-for/",
-      "abbr": "AR"
+      "text": "Milligan plaintiffs ask Supreme Court to dismiss Alabama's map appeal",
+      "url": "https://www.alreporter.com/2026/09/23/milligan-plaintiffs-counsel-ask-supreme-court-to-dismiss-state-appeal/",
+      "abbr": "AL"
     },
     {
-      "text": "Kansas voter guide details governor, Senate races and a citizenship voting amendment",
-      "url": "https://www.kctv5.com/2026/09/28/kansas-voter-guide-what-you-need-know-november-elections/",
-      "abbr": "KS"
+      "text": "Colorado judge dismisses voter-roll fraud suit against election officials",
+      "url": "https://hoodline.com/2026/09/colorado-voter-roll-lawsuit-dismissed-group-has-until-oct-8-to-refile/",
+      "abbr": "CO"
     },
     {
-      "text": "North Carolina voters to decide photo ID, tax cap ballot amendments in November",
-      "url": "https://www.wbtv.com/2026/09/25/north-carolina-2026-ballot-amendments-what-know-before-you-vote/",
-      "abbr": "NC"
+      "text": "Delaware Supreme Court leans toward upholding corporate voting in town elections",
+      "url": "https://news.bloomberglaw.com/esg/nonhuman-voting-gets-warm-reception-from-delaware-high-court",
+      "abbr": "DE"
     },
     {
-      "text": "South Dakota's Republican Secretary of State endorses Democrat to succeed her",
-      "url": "https://southdakotasearchlight.com/2026/09/20/south-dakotas-top-election-official-a-republican-endorses-a-democrat-to-succeed-her/",
-      "abbr": "SD"
+      "text": "Georgia mail-in voting stays available for midterms despite federal ballot rule fight",
+      "url": "https://thecurrentga.org/2026/09/28/mail-in-voting-remains-option-for-this-years-midterms-heres-what-voters-should-know/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Indiana and Kentucky voters face Oct. 5 registration deadline for the Nov. 3 election",
+      "url": "https://www.wvxu.org/politics/2026-09-28/voter-registration-deadline-approaching-for-indiana-kentucky-residents",
+      "abbr": "IN"
+    },
+    {
+      "text": "Ohio launches continuous audit of county voter rolls ahead of November"
     }
   ]
 }

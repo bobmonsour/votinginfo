@@ -33302,6 +33302,93 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-29",
+      "time": "06:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Milligan plaintiffs, counsel ask Supreme Court to dismiss state appeal",
+            "source": "Alabama Political Reporter",
+            "url": "https://www.alreporter.com/2026/09/23/milligan-plaintiffs-counsel-ask-supreme-court-to-dismiss-state-appeal/",
+            "date": "2026-09-23",
+            "summary": "Voting rights plaintiffs and their counsel asked the U.S. Supreme Court to dismiss Alabama's appeal in the long-running congressional map case, arguing the state has no further relief to seek."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Colorado Voter-Roll Lawsuit Dismissed; Group Has Until Oct. 8 to Refile",
+            "source": "Hoodline",
+            "url": "https://hoodline.com/2026/09/colorado-voter-roll-lawsuit-dismissed-group-has-until-oct-8-to-refile/",
+            "date": "2026-09-25",
+            "summary": "A federal judge dismissed a voter-roll fraud lawsuit against Colorado election officials as lacking sufficient factual support, giving the plaintiff group until Oct. 8 to refile."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Delaware Corporations-Can-Vote Ruling Looks Likely to Win Appeal",
+            "source": "Bloomberg Law",
+            "url": "https://news.bloomberglaw.com/esg/nonhuman-voting-gets-warm-reception-from-delaware-high-court",
+            "date": "2026-09-23",
+            "summary": "Delaware's Supreme Court heard oral arguments and appeared likely to uphold a town charter allowing corporations and other business entities to vote in Fenwick Island's municipal elections, despite an ACLU challenge."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Mail-in voting remains option for this year's midterms. Here's what voters should know.",
+            "source": "The Current",
+            "url": "https://thecurrentga.org/2026/09/28/mail-in-voting-remains-option-for-this-years-midterms-heres-what-voters-should-know/",
+            "date": "2026-09-28",
+            "summary": "With mail-in voting still available for Georgia's midterms despite federal disputes over USPS rules, election officials outlined absentee ballot procedures and deadlines for voters."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Voter registration deadline approaching for Indiana, Kentucky residents",
+            "source": "WVXU",
+            "url": "https://www.wvxu.org/politics/2026-09-28/voter-registration-deadline-approaching-for-indiana-kentucky-residents",
+            "date": "2026-09-28",
+            "summary": "With Indiana's Oct. 5 voter registration deadline approaching for the Nov. 3 general election, officials detailed online, in-person, and mail registration options."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Voter registration deadline approaching for Indiana, Kentucky residents",
+            "source": "WVXU",
+            "url": "https://www.wvxu.org/politics/2026-09-28/voter-registration-deadline-approaching-for-indiana-kentucky-residents",
+            "date": "2026-09-28",
+            "summary": "With Kentucky's Oct. 5 voter registration deadline approaching for the Nov. 3 general election, officials detailed online, in-person, and mail registration options."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri voter guide: What you need to know for November elections",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/09/28/draft-missouri-voter-guide-what-you-need-know-november-elections/",
+            "date": "2026-09-28",
+            "summary": "A voter guide covering Missouri's Nov. 3 ballot, including congressional races, a state auditor contest, and ballot measures on redistricting."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina 2026 voter guide: How to register, what's on the ballot, early voting details, more",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/09/28/north-carolina-2026-voter-guide-how-register-whats-ballot-early-voting-details-more/",
+            "date": "2026-09-28",
+            "summary": "A voter guide covering North Carolina's registration deadline, early voting details, and what's on the November ballot."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Secretary LaRose Announces Enhanced Audit of Ohio's Voter Rolls",
+            "source": "Ohio Secretary of State",
+            "url": "https://www.ohiosos.gov/office/media-center/categories/press-releases/2026-09-28",
+            "date": "2026-09-28",
+            "summary": "Ohio Secretary of State Frank LaRose announced a continuous audit process comparing county voter registration records against the statewide database to improve data integrity ahead of the election."
+          }
+        ]
+      }
     }
   ]
 }
