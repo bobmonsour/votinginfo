@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "items": [
     {
-      "text": "Arizona GOP sues to cancel absentee registrations for citizens born overseas",
-      "url": "http://azcapitoltimes.com/news/2026/09/29/arizona-gop-targets-overseas-voters-in-registration-fight/",
-      "abbr": "AZ"
+      "text": "Georgia debuts new \"I Voted\" sticker designed by Atlanta artist ahead of midterms",
+      "url": "https://www.wabe.org/georgia-debuts-new-i-voted-sticker-for-midterm-elections/",
+      "abbr": "GA"
     },
     {
-      "text": "Justice Department charges more Pennsylvania residents with noncitizen voting",
-      "url": "https://www.lockhaven.com/news/local-news/2026/09/department-of-justice-charges-more-pa-residents-with-noncitizen-voting-amid-crackdown/",
-      "abbr": "PA"
+      "text": "Missouri voters to decide fate of redrawn congressional map via Proposition A",
+      "url": "https://www.kcur.org/podcast/up-to-date/2026-09-29/missouri-proposition-a-congressional-map-2026-election",
+      "abbr": "MO"
     },
     {
-      "text": "Oregon officials warn voters to verify election mail as ballots go out statewide",
-      "url": "https://www.opb.org/article/2026/09/22/election-mail-authenticity-oregon/",
-      "abbr": "OR"
+      "text": "Vermont and Washington courts dismiss DOJ lawsuits demanding unredacted voter rolls"
     },
     {
-      "text": "West Virginia convicts two former candidates of election-law violations",
-      "url": "https://www.wdtv.com/2026/09/17/two-cabell-county-former-candidates-found-guilty-violating-election-law/",
-      "abbr": "WV"
+      "text": "South Dakota governor candidates clash on data centers and education in debate",
+      "url": "https://rapidcitypost.com/south-dakota-governor-candidates-clash-on-data-centers-education-economic-development/",
+      "abbr": "SD"
     },
     {
-      "text": "Maryland and Wisconsin report brisk early mail-ballot returns already underway"
+      "text": "New York courts reaffirm strict, short deadlines for election-law litigation",
+      "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-09-28-26/",
+      "abbr": "NY"
     },
     {
-      "text": "Idaho mails its official 2026 election guide to voters statewide",
-      "url": "https://idahocapitalsun.com/2026/09/29/idahos-2026-election-voter-pamphlet-is-coming-to-a-mailbox-near-you/",
-      "abbr": "ID"
+      "text": "Mississippi absentee voting continues ahead of November midterms",
+      "url": "https://www.atlantanewsfirst.com/video/2026/09/27/mississippi-secretary-state-details-what-voters-need-know-ahead-midterm-election/",
+      "abbr": "MS"
     }
   ]
 }

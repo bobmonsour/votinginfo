@@ -33485,6 +33485,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-30",
+      "time": "06:00",
+      "states": {
+        "GA": [
+          {
+            "title": "Georgia debuts new 'I Voted' sticker for midterm elections",
+            "source": "WABE",
+            "url": "https://www.wabe.org/georgia-debuts-new-i-voted-sticker-for-midterm-elections/",
+            "date": "2026-09-29",
+            "summary": "Georgia's Secretary of State unveiled a new “I Voted” sticker for the 2026 midterms, designed by Atlanta artist Steve Penley, with 5 million copies going to all 159 counties."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri Proposition A will let voters decide fate of redrawn congressional map. What to know",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/podcast/up-to-date/2026-09-29/missouri-proposition-a-congressional-map-2026-election",
+            "date": "2026-09-29",
+            "summary": "Missouri voters will decide via Proposition A whether to approve the Republican-redrawn 2025 congressional map, after courts ordered the 2022 map be used for this year's election instead."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Mississippi Secretary of State details what voters need to know ahead of the Midterm election",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/video/2026/09/27/mississippi-secretary-state-details-what-voters-need-know-ahead-midterm-election/",
+            "date": "2026-09-27",
+            "summary": "Mississippi's Secretary of State outlined what voters need to know ahead of the November midterm election as absentee voting continues."
+          }
+        ],
+        "NY": [
+          {
+            "title": "NY Elections, Census and Redistricting Update 09/28/26",
+            "source": "CityLand",
+            "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-09-28-26/",
+            "date": "2026-09-28",
+            "summary": "New York's Second Appellate Division reaffirmed strict, short deadlines for election-law litigation, dismissing a candidate's challenge filed months after a primary."
+          }
+        ],
+        "SD": [
+          {
+            "title": "South Dakota governor candidates clash on data centers, education, economic development",
+            "source": "The Rapid City Post",
+            "url": "https://rapidcitypost.com/south-dakota-governor-candidates-clash-on-data-centers-education-economic-development/",
+            "date": "2026-09-28",
+            "summary": "South Dakota gubernatorial candidates Larry Rhoden and Dan Ahlers clashed in a debate on data centers, education, and other issues ahead of the November election."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Federal judge dismisses DOJ lawsuit seeking Vermont voter rolls",
+            "source": "Vermont Public",
+            "url": "https://www.vermontpublic.org/local-news/2026-09-18/federal-judge-dismisses-doj-lawsuit-seeking-vermont-voter-rolls",
+            "date": "2026-09-18",
+            "summary": "A federal judge dismissed a DOJ lawsuit demanding Vermont's full voter rolls, ruling the government lacked authority to compel the unredacted data."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Trump administration's Washington voter roll lawsuit dismissed",
+            "source": "KUOW / Washington State Standard",
+            "url": "https://www.kuow.org/governing/2026-09-22/trump-administrations-washington-voter-roll-lawsuit-dismissed",
+            "date": "2026-09-22",
+            "summary": "A federal judge dismissed the Trump administration's lawsuit seeking unredacted Washington state voter rolls, the DOJ's 25th such loss nationwide."
+          }
+        ]
+      }
     }
   ]
 }
