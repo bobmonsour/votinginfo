@@ -33389,6 +33389,102 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-29",
+      "time": "17:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Arizona GOP targets overseas voters in registration fight",
+            "source": "Arizona Capitol Times",
+            "url": "http://azcapitoltimes.com/news/2026/09/29/arizona-gop-targets-overseas-voters-in-registration-fight/",
+            "date": "2026-09-29",
+            "summary": "State election officials are challenging a Republican lawsuit seeking to cancel voter registrations for about 405 U.S. citizens living overseas, the adult children of former Arizona residents who were granted absentee voting rights under a 2005 state law."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Idaho's 2026 election voter pamphlet is coming to a mailbox near you",
+            "source": "Idaho Capital Sun",
+            "url": "https://idahocapitalsun.com/2026/09/29/idahos-2026-election-voter-pamphlet-is-coming-to-a-mailbox-near-you/",
+            "date": "2026-09-29",
+            "summary": "Idaho election officials have begun mailing the state's official 2026 voter pamphlet to households ahead of the November general election."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland voters already casting ballots in 2026 election",
+            "source": "WYPR",
+            "url": "https://www.wypr.org/wypr-news/2026-09-29/maryland-voters-already-casting-ballots-in-2026-election",
+            "date": "2026-09-29",
+            "summary": "Nearly 591,000 Maryland voters have requested mail-in ballots as voting gets underway for the November election, with completed ballots already arriving at county election offices."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Oregon secretary of state encourages voters to verify authenticity of election mail",
+            "source": "Oregon Capital Chronicle",
+            "url": "https://www.opb.org/article/2026/09/22/election-mail-authenticity-oregon/",
+            "date": "2026-09-22",
+            "summary": "Oregon's secretary of state is urging voters to check for an official election mail logo, warning that third-party groups may send misleading mailers as ballots go out statewide."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Department of Justice charges more Pa. residents with noncitizen voting amid crackdown",
+            "source": "Votebeat",
+            "url": "https://www.lockhaven.com/news/local-news/2026/09/department-of-justice-charges-more-pa-residents-with-noncitizen-voting-amid-crackdown/",
+            "date": "2026-09-28",
+            "summary": "The Justice Department charged four noncitizens with election-related crimes in Pennsylvania, including fraudulent voter registration and illegal voting in past elections, as part of a broader nationwide crackdown."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Key dates and information: What Texas voters need to do ahead of the midterm elections",
+            "source": "The Texas Newsroom",
+            "url": "https://www.keranews.org/news/2026-09-29/key-dates-and-information-what-texas-voters-need-to-do-ahead-of-the-midterm-elections",
+            "date": "2026-09-29",
+            "summary": "A voter guide outlines key Texas deadlines ahead of the midterms, including the October 5 voter registration deadline and details on the state's voter 'suspense' list."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Poll shows top issues for voters heading into midterms",
+            "source": "Deseret News",
+            "url": "https://www.deseret.com/politics/2026/09/29/voters-in-utah-and-nationally-say-economy-and-inflation-are-top-issues-in-november-midterm-elections/",
+            "date": "2026-09-29",
+            "summary": "A new survey finds Utah and national voters alike rank inflation and the economy as their top concern heading into the November midterms, with Utahns favoring Republicans on the issue."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Hobbs urges WA voters to use ballot drop boxes",
+            "source": "Northwest Asian Weekly",
+            "url": "https://nwasianweekly.com/2026/09/hobbs-urges-wa-voters-to-use-ballot-drop-boxes/",
+            "date": "2026-09-11",
+            "summary": "Washington Secretary of State Steve Hobbs urged voters to use the state's more than 550 official ballot drop boxes amid the state's ongoing legal fight over federal mail-ballot rules."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Absentee voting opens in Wisconsin 2026",
+            "source": "Wisconsin Examiner",
+            "url": "https://wrjn.com/news/2026/09/23/absentee-voting-opens-in-wisconsin-2026",
+            "date": "2026-09-23",
+            "summary": "Absentee voting has opened in Wisconsin, with nearly 300,000 ballots already requested; election officials are urging voters to mail ballots by October 20 to ensure timely delivery."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Two Cabell County former candidates found guilty of violating election law",
+            "source": "WDTV",
+            "url": "https://www.wdtv.com/2026/09/17/two-cabell-county-former-candidates-found-guilty-violating-election-law/",
+            "date": "2026-09-17",
+            "summary": "Two former Cabell County candidates were convicted of falsely certifying their residency on 2022 candidacy filings, following a state Supreme Court ruling that extended the statute of limitations for election crimes."
+          }
+        ]
+      }
     }
   ]
 }
