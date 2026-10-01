@@ -33554,6 +33554,129 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-09-30",
+      "time": "17:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "The deadline to register to vote in Arizona's 2026 midterm election is Oct. 5",
+            "source": "KJZZ",
+            "url": "https://www.kjzz.org/elections/2026-09-30/the-arizona-voter-registration-deadline-is-oct-5-for-2026-midterm-election",
+            "date": "2026-09-30",
+            "summary": "Arizona voters have until midnight on October 5 to register for the 2026 midterm election, either online at Arizona.vote or by paper form through their county recorder."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Show The Receipts: DHS Sued Over 250,000 Noncitizen Voter Claim",
+            "source": "Tampa Free Press",
+            "url": "https://www.tampafp.com/show-the-receipts-dhs-sued-over-250000-noncitizen-voter-claim/",
+            "date": "2026-09-30",
+            "summary": "A watchdog group sued the Department of Homeland Security demanding records to back Secretary Mullin's claim that up to 250,000 noncitizens are registered to vote across four states."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia election board seeks federal oversight for voting machine updates",
+            "source": "The Current",
+            "url": "https://thecurrentga.org/2026/09/30/georgia-election-board-seeks-federal-oversight-for-voting-machine-updates/",
+            "date": "2026-09-30",
+            "summary": "Georgia's State Election Board asked the DOJ and DHS to help compel the secretary of state's office to update voting machines, citing concerns that QR-code tabulation may violate federal law."
+          }
+        ],
+        "IN": [
+          {
+            "title": "What you need to know about voting in the 2026 election",
+            "source": "WFYI",
+            "url": "https://www.wfyi.org/statewide/2026-09-30/what-you-need-to-know-about-voting-in-the-2026-election",
+            "date": "2026-09-30",
+            "summary": "WFYI outlines Indiana's registration deadlines, voter ID requirements, and early-voting options for Marion County ahead of the November 3 general election."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Monday is last day to register to vote in Kentucky before November election",
+            "source": "LINK nky",
+            "url": "https://linknky.com/elections/2026/09/30/monday-is-last-day-to-register-to-vote-in-kentucky-before-november-election/",
+            "date": "2026-09-30",
+            "summary": "Kentucky voters have until October 5 to register online, with mailed registrations needing to be postmarked by that date, ahead of the November 3 general election."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Minnesota voter fraud: 10 foreign nationals indicted for illegally voting in state elections",
+            "source": "FOX 9",
+            "url": "https://www.fox9.com/news/minnesota-voter-fraud-10-foreign-nationals-indicted-illegally-voting-state-elections-sept-2026",
+            "date": "2026-09-30",
+            "summary": "A federal grand jury indicted 10 foreign nationals on charges of illegally voting in Minnesota elections dating back to 2022."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri can keep using disputed federal database to review voter eligibility",
+            "source": "St. Louis Public Radio",
+            "url": "https://www.stlpr.org/government-politics-issues/2026-09-30/missouri-can-keep-using-disputed-federal-database-to-review-voter-eligibility",
+            "date": "2026-09-30",
+            "summary": "The U.S. Supreme Court temporarily allowed Missouri to keep using an expanded federal database to check voters' citizenship status after the state flagged about 1,000 voters as potential noncitizens."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Planning to vote in the 2026 general election? Here's what you need to know",
+            "source": "EdNC.org",
+            "url": "https://www.ednc.org/9-29-2026-planning-to-vote-in-the-2026-general-election-heres-what-you-need-to-know/",
+            "date": "2026-09-29",
+            "summary": "North Carolina voters can register through October 9 and cast ballots in person, during early voting, or by mail-in absentee ballot ahead of the November 3 general election."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Justices consider appeal in challenge to Nebraska overseas voter law",
+            "source": "Nebraska Examiner",
+            "url": "https://www.yahoo.com/news/politics/articles/justices-consider-appeal-challenge-nebraska-160004432.html",
+            "date": "2026-09-30",
+            "summary": "The Nebraska Supreme Court heard arguments on whether a state law allowing certain overseas voters to register in a parent's county violates the state constitution, in a case brought by the RNC."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Two more noncitizens charged with illegally voting in New Jersey elections",
+            "source": "New Jersey Globe",
+            "url": "https://newjerseyglobe.com/judiciary/two-more-noncitizens-charged-with-illegally-voting-in-new-jersey-elections/",
+            "date": "2026-09-24",
+            "summary": "Federal prosecutors charged two more noncitizens with illegally voting and falsifying citizenship statements, bringing the year's total of such New Jersey cases to 12."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Nevada releases 2026 ballot question guide ahead of General Election",
+            "source": "FOX5 Vegas",
+            "url": "https://www.fox5vegas.com/2026/09/30/nevada-releases-2026-ballot-question-guide-ahead-general-election/",
+            "date": "2026-09-29",
+            "summary": "Nevada's Secretary of State released a nonpartisan guide explaining two statewide constitutional ballot questions on abortion rights and voter ID requirements."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Bill to allow unaffiliated voters to vote in Pennsylvania primaries passes state House",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/09/29/house-passes-open-primaries-bill/",
+            "date": "2026-09-29",
+            "summary": "Pennsylvania's state House passed a bill letting registered independent voters participate in primary elections for the first time in nearly a century, though it faces a steep path in the Senate."
+          }
+        ],
+        "WV": [
+          {
+            "title": "West Virginia releases online sample ballot lookup tool ahead of November election",
+            "source": "WDTV",
+            "url": "https://www.wdtv.com/2026/09/30/west-virginia-releases-online-sample-ballot-lookup-tool-ahead-november-election/",
+            "date": "2026-09-30",
+            "summary": "West Virginia's Secretary of State launched an online tool letting voters look up their personalized sample ballot ahead of the November 3 general election."
+          }
+        ]
+      }
     }
   ]
 }

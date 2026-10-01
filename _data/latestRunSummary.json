@@ -2,32 +2,37 @@
   "date": "2026-09-30",
   "items": [
     {
-      "text": "Georgia debuts new \"I Voted\" sticker designed by Atlanta artist ahead of midterms",
-      "url": "https://www.wabe.org/georgia-debuts-new-i-voted-sticker-for-midterm-elections/",
+      "text": "Watchdog sues DHS for records behind its 250,000 noncitizen-voter claim",
+      "url": "https://www.tampafp.com/show-the-receipts-dhs-sued-over-250000-noncitizen-voter-claim/",
+      "abbr": "DC"
+    },
+    {
+      "text": "Georgia election board asks DOJ to intervene on voting machine updates",
+      "url": "https://thecurrentga.org/2026/09/30/georgia-election-board-seeks-federal-oversight-for-voting-machine-updates/",
       "abbr": "GA"
     },
     {
-      "text": "Missouri voters to decide fate of redrawn congressional map via Proposition A",
-      "url": "https://www.kcur.org/podcast/up-to-date/2026-09-29/missouri-proposition-a-congressional-map-2026-election",
+      "text": "Missouri allowed to keep using disputed federal voter-eligibility database",
+      "url": "https://www.stlpr.org/government-politics-issues/2026-09-30/missouri-can-keep-using-disputed-federal-database-to-review-voter-eligibility",
       "abbr": "MO"
     },
     {
-      "text": "Vermont and Washington courts dismiss DOJ lawsuits demanding unredacted voter rolls"
+      "text": "Minnesota indicts 10 foreign nationals for illegally voting in state elections",
+      "url": "https://www.fox9.com/news/minnesota-voter-fraud-10-foreign-nationals-indicted-illegally-voting-state-elections-sept-2026",
+      "abbr": "MN"
     },
     {
-      "text": "South Dakota governor candidates clash on data centers and education in debate",
-      "url": "https://rapidcitypost.com/south-dakota-governor-candidates-clash-on-data-centers-education-economic-development/",
-      "abbr": "SD"
+      "text": "Pennsylvania House votes to open primaries to independent voters",
+      "url": "https://www.votebeat.org/pennsylvania/2026/09/29/house-passes-open-primaries-bill/",
+      "abbr": "PA"
     },
     {
-      "text": "New York courts reaffirm strict, short deadlines for election-law litigation",
-      "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-09-28-26/",
-      "abbr": "NY"
+      "text": "Nebraska Supreme Court hears RNC challenge to overseas-voter law",
+      "url": "https://www.yahoo.com/news/politics/articles/justices-consider-appeal-challenge-nebraska-160004432.html",
+      "abbr": "NE"
     },
     {
-      "text": "Mississippi absentee voting continues ahead of November midterms",
-      "url": "https://www.atlantanewsfirst.com/video/2026/09/27/mississippi-secretary-state-details-what-voters-need-know-ahead-midterm-election/",
-      "abbr": "MS"
+      "text": "Arizona, Kentucky, Indiana, and West Virginia roll out registration deadlines and ballot tools ahead of Nov. 3"
     }
   ]
 }
