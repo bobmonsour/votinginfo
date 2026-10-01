@@ -1,38 +1,33 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "items": [
     {
-      "text": "Watchdog sues DHS for records behind its 250,000 noncitizen-voter claim",
-      "url": "https://www.tampafp.com/show-the-receipts-dhs-sued-over-250000-noncitizen-voter-claim/",
-      "abbr": "DC"
+      "text": "Delaware Supreme Court weighs voting rights for LLCs and trusts in local elections",
+      "url": "https://spotlightdelaware.org/2026/09/24/delaware-supreme-court-weighs-voting-rights-for-llcs-trusts/",
+      "abbr": "DE"
     },
     {
-      "text": "Georgia election board asks DOJ to intervene on voting machine updates",
-      "url": "https://thecurrentga.org/2026/09/30/georgia-election-board-seeks-federal-oversight-for-voting-machine-updates/",
-      "abbr": "GA"
+      "text": "Texas DPS software error leaves hundreds of thousands of voter registrations backlogged",
+      "url": "https://tylerpaper.com/2026/09/30/smith-county-receives-around-7900-backlogged-voter-registrations-after-texas-dps-system-error/",
+      "abbr": "TX"
     },
     {
-      "text": "Missouri allowed to keep using disputed federal voter-eligibility database",
-      "url": "https://www.stlpr.org/government-politics-issues/2026-09-30/missouri-can-keep-using-disputed-federal-database-to-review-voter-eligibility",
-      "abbr": "MO"
+      "text": "Iowa prosecutes election volunteer over 2024 ballot-counting dispute",
+      "url": "https://www.kcrg.com/2026/09/25/this-prosecution-is-crazy-iowa-election-volunteer-charged-with-election-interference/",
+      "abbr": "IA"
     },
     {
-      "text": "Minnesota indicts 10 foreign nationals for illegally voting in state elections",
-      "url": "https://www.fox9.com/news/minnesota-voter-fraud-10-foreign-nationals-indicted-illegally-voting-state-elections-sept-2026",
-      "abbr": "MN"
+      "text": "Vermont poll shows Gov. Phil Scott's reelection race tightening",
+      "url": "https://www.vermontpublic.org/local-news/2026-09-28/vermont-general-election-poll-results-2026",
+      "abbr": "VT"
     },
     {
-      "text": "Pennsylvania House votes to open primaries to independent voters",
-      "url": "https://www.votebeat.org/pennsylvania/2026/09/29/house-passes-open-primaries-bill/",
-      "abbr": "PA"
+      "text": "Montana revives mobile voter registration ahead of November election",
+      "url": "https://nbcmontana.com/news/local/gallatin-co-brings-back-mobile-voter-registration-09-29-2026",
+      "abbr": "MT"
     },
     {
-      "text": "Nebraska Supreme Court hears RNC challenge to overseas-voter law",
-      "url": "https://www.yahoo.com/news/politics/articles/justices-consider-appeal-challenge-nebraska-160004432.html",
-      "abbr": "NE"
-    },
-    {
-      "text": "Arizona, Kentucky, Indiana, and West Virginia roll out registration deadlines and ballot tools ahead of Nov. 3"
+      "text": "North Carolina and South Carolina near their voter-registration deadlines for Nov. 3"
     }
   ]
 }

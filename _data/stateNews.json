@@ -33677,6 +33677,84 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-01",
+      "time": "06:00",
+      "states": {
+        "DE": [
+          {
+            "title": "Delaware Supreme Court weighs voting rights for LLCs, trusts",
+            "source": "Spotlight Delaware",
+            "url": "https://spotlightdelaware.org/2026/09/24/delaware-supreme-court-weighs-voting-rights-for-llcs-trusts/",
+            "date": "2026-09-24",
+            "summary": "The Delaware Supreme Court is reviewing whether LLCs and family trusts should retain voting rights in Fenwick Island's municipal elections, with the ACLU arguing the practice dilutes individual residents' votes."
+          }
+        ],
+        "IA": [
+          {
+            "title": "\"This prosecution is crazy\": Iowa election volunteer charged with election interference",
+            "source": "KCRG",
+            "url": "https://www.kcrg.com/2026/09/25/this-prosecution-is-crazy-iowa-election-volunteer-charged-with-election-interference/",
+            "date": "2026-09-25",
+            "summary": "An Iowa election volunteer is being prosecuted over alleged interference with absentee ballot counting during the 2024 election, raising questions about where election-procedure disputes cross into criminal conduct."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Everything you need to know about voting in Michigan in 2026",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/09/28/how-to-vote-general-election-2026-early-absentee-ballot-id/",
+            "date": "2026-09-28",
+            "summary": "Votebeat published a comprehensive guide to voting in Michigan's 2026 midterm election, covering registration, early voting, mail ballots, and ID requirements."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Gallatin Co. brings back mobile voter registration",
+            "source": "NBC Montana",
+            "url": "https://nbcmontana.com/news/local/gallatin-co-brings-back-mobile-voter-registration-09-29-2026",
+            "date": "2026-09-29",
+            "summary": "Gallatin County is reviving mobile voter registration services to expand access ahead of the November 3 election, addressing courthouse space constraints and reaching voters outside Bozeman."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina voter registration deadline for Nov. 3 election is Oct. 9",
+            "source": "WPDE",
+            "url": "https://wpde.com/news/local/north-carolina-voter-registration-deadline-for-nov-3-election-is-oct-9-november-part-affiliation-board-09302026",
+            "date": "2026-09-30",
+            "summary": "North Carolina voters must register by 5 p.m. on October 9 to participate in the November 3 election, though those who miss the deadline can still register during early voting."
+          }
+        ],
+        "SC": [
+          {
+            "title": "South Carolina voter registration deadline is this weekend: How to register to vote",
+            "source": "WBTV",
+            "url": "https://wbtv.com/2026/10/01/south-carolina-voter-registration-deadline-is-this-weekend-everything-you-need-know",
+            "date": "2026-09-30",
+            "summary": "South Carolina's registration deadline for the November general election is Sunday, October 4, with the article detailing the state's online, mail, and in-person registration methods."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Smith County receives around 7,900 backlogged voter registrations after Texas DPS system error",
+            "source": "Tyler Morning Telegraph",
+            "url": "https://tylerpaper.com/2026/09/30/smith-county-receives-around-7900-backlogged-voter-registrations-after-texas-dps-system-error/",
+            "date": "2026-09-30",
+            "summary": "A software error at the Texas Department of Public Safety left hundreds of thousands of voter registration updates unprocessed since October 2025; Smith County alone received nearly 7,900 backlogged registrations ahead of the October 5 deadline."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont Public 2026 Poll: Full results",
+            "source": "Vermont Public",
+            "url": "https://www.vermontpublic.org/local-news/2026-09-28/vermont-general-election-poll-results-2026",
+            "date": "2026-09-28",
+            "summary": "A new Vermont Public poll shows Gov. Phil Scott's reelection bid tightening, with Democratic challenger Amanda Janoo within 10 points ahead of the November election."
+          }
+        ]
+      }
     }
   ]
 }
