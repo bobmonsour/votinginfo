@@ -33788,6 +33788,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-02",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Just a few seats could flip control of Arizona's Legislature",
+            "source": "Arizona Capitol Times",
+            "url": "http://azcapitoltimes.com/news/2026/10/02/just-a-few-seats-could-flip-control-of-arizonas-legislature/",
+            "date": "2026-10-02",
+            "summary": "Republicans hold narrow majorities in both chambers of the Arizona Legislature, but Democratic gains in a handful of competitive districts could shift control of the Legislature in November."
+          }
+        ],
+        "CA": [
+          {
+            "title": "California enacts 32 election bills in 2026, including legislation regulating law enforcement presence at polling places",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/10/01/california-enacts-32-election-bills-in-2026-including-legislation-regulating-law-enforcement-presence-at-polling-places/",
+            "date": "2026-10-01",
+            "summary": "California enacted 32 election-related bills in 2026, including SB 884, which bars law enforcement from arresting people within 200 feet of polling places on election day and requires earlier ballot drop-box openings."
+          }
+        ],
+        "MN": [
+          {
+            "title": "DOJ Indicts 10 in Minnesota on Voter Fraud Charges, Accuses Judges of Misconduct",
+            "source": "Democracy Now!",
+            "url": "https://www.democracynow.org/2026/10/1/headlines/doj_indicts_10_in_minnesota_on_voter_fraud_charges_accuses_judges_of_misconduct",
+            "date": "2026-10-01",
+            "summary": "A federal grand jury indicted 10 lawful permanent residents in Minnesota, accusing them of illegally voting or registering to vote in state elections since 2022 by falsely claiming U.S. citizenship."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Election 2026 is quickly approaching. Here's everything you need to know about TN's candidates for governor and Congress",
+            "source": "WVLT",
+            "url": "https://www.wvlt.tv/2026/09/28/election-2026-is-quickly-approaching-heres-everything-you-need-know-about-tns-candidates-governor-congress/",
+            "date": "2026-09-28",
+            "summary": "A comprehensive rundown of Tennessee's candidates for governor, U.S. Senate, and U.S. House ahead of the November 3 general election."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Two Wisconsin sheriff races test the future of local ICE cooperation",
+            "source": "Wisconsin Watch",
+            "url": "https://wisconsinwatch.org/2026/10/wisconsin-sheriff-election-races-future-of-local-ice-cooperation-immigration-law-enforcement/",
+            "date": "2026-10-02",
+            "summary": "Sheriff races in Sauk and Winnebago counties pit Republican incumbents who back 287(g) immigration-enforcement agreements against Democratic challengers pledging to end them."
+          }
+        ]
+      }
     }
   ]
 }

@@ -1,20 +1,30 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "items": [
     {
-      "text": "Georgia election board asks DOJ to declare state's voting machines illegal",
-      "url": "https://www.ajc.com/politics/2026/10/georgia-board-trump-investigate-voting-machines/",
-      "abbr": "GA"
+      "text": "California enacts 32 election bills, including limits on police near polling places",
+      "url": "https://news.ballotpedia.org/2026/10/01/california-enacts-32-election-bills-in-2026-including-legislation-regulating-law-enforcement-presence-at-polling-places/",
+      "abbr": "CA"
     },
     {
-      "text": "A third of Maricopa County voting sites ban electioneering ahead of midterms",
-      "url": "https://azcapitoltimes.com/news/2026/10/01/a-third-of-maricopa-voting-sites-banning-electioneering/",
+      "text": "DOJ indicts 10 noncitizens in Minnesota on voter fraud charges",
+      "url": "https://www.democracynow.org/2026/10/1/headlines/doj_indicts_10_in_minnesota_on_voter_fraud_charges_accuses_judges_of_misconduct",
+      "abbr": "MN"
+    },
+    {
+      "text": "A handful of swing districts could flip control of Arizona's Legislature",
+      "url": "http://azcapitoltimes.com/news/2026/10/02/just-a-few-seats-could-flip-control-of-arizonas-legislature/",
       "abbr": "AZ"
     },
     {
-      "text": "Kentucky's voter registration deadline nears for the November 3 election",
-      "url": "https://www.wdrbwave.com/2026/10/01/voter-registration-deadline-approaching-kentuckians-ahead-november-election/",
-      "abbr": "KY"
+      "text": "Wisconsin sheriff races in Sauk and Winnebago counties turn on ICE cooperation",
+      "url": "https://wisconsinwatch.org/2026/10/wisconsin-sheriff-election-races-future-of-local-ice-cooperation-immigration-law-enforcement/",
+      "abbr": "WI"
+    },
+    {
+      "text": "Tennessee candidate guide previews governor, Senate, and House races",
+      "url": "https://www.wvlt.tv/2026/09/28/election-2026-is-quickly-approaching-heres-everything-you-need-know-about-tns-candidates-governor-congress/",
+      "abbr": "TN"
     }
   ]
 }
