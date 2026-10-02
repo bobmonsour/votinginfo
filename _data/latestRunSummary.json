@@ -2,32 +2,19 @@
   "date": "2026-10-01",
   "items": [
     {
-      "text": "Delaware Supreme Court weighs voting rights for LLCs and trusts in local elections",
-      "url": "https://spotlightdelaware.org/2026/09/24/delaware-supreme-court-weighs-voting-rights-for-llcs-trusts/",
-      "abbr": "DE"
+      "text": "Georgia election board asks DOJ to declare state's voting machines illegal",
+      "url": "https://www.ajc.com/politics/2026/10/georgia-board-trump-investigate-voting-machines/",
+      "abbr": "GA"
     },
     {
-      "text": "Texas DPS software error leaves hundreds of thousands of voter registrations backlogged",
-      "url": "https://tylerpaper.com/2026/09/30/smith-county-receives-around-7900-backlogged-voter-registrations-after-texas-dps-system-error/",
-      "abbr": "TX"
+      "text": "A third of Maricopa County voting sites ban electioneering ahead of midterms",
+      "url": "https://azcapitoltimes.com/news/2026/10/01/a-third-of-maricopa-voting-sites-banning-electioneering/",
+      "abbr": "AZ"
     },
     {
-      "text": "Iowa prosecutes election volunteer over 2024 ballot-counting dispute",
-      "url": "https://www.kcrg.com/2026/09/25/this-prosecution-is-crazy-iowa-election-volunteer-charged-with-election-interference/",
-      "abbr": "IA"
-    },
-    {
-      "text": "Vermont poll shows Gov. Phil Scott's reelection race tightening",
-      "url": "https://www.vermontpublic.org/local-news/2026-09-28/vermont-general-election-poll-results-2026",
-      "abbr": "VT"
-    },
-    {
-      "text": "Montana revives mobile voter registration ahead of November election",
-      "url": "https://nbcmontana.com/news/local/gallatin-co-brings-back-mobile-voter-registration-09-29-2026",
-      "abbr": "MT"
-    },
-    {
-      "text": "North Carolina and South Carolina near their voter-registration deadlines for Nov. 3"
+      "text": "Kentucky's voter registration deadline nears for the November 3 election",
+      "url": "https://www.wdrbwave.com/2026/10/01/voter-registration-deadline-approaching-kentuckians-ahead-november-election/",
+      "abbr": "KY"
     }
   ]
 }

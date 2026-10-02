@@ -33755,6 +33755,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-01",
+      "time": "17:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "A third of Maricopa voting sites banning electioneering",
+            "source": "Arizona Capitol Times",
+            "url": "https://azcapitoltimes.com/news/2026/10/01/a-third-of-maricopa-voting-sites-banning-electioneering/",
+            "date": "2026-10-01",
+            "summary": "About a third of Maricopa County voting locations are banning electioneering during the November midterms, with property owners citing safety and property-damage concerns."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia board asks Trump administration to investigate voting machines",
+            "source": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com/politics/2026/10/georgia-board-trump-investigate-voting-machines/",
+            "date": "2026-10-01",
+            "summary": "Georgia's Republican-controlled State Election Board asked the Justice Department to declare the state's certified voting machines unlawful and impose a six-month phase-out deadline, a move the Secretary of State's office called disingenuous."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Voter registration deadline approaching for Kentuckians ahead of November election",
+            "source": "WDRB+WAVE News",
+            "url": "https://www.wdrbwave.com/2026/10/01/voter-registration-deadline-approaching-kentuckians-ahead-november-election/",
+            "date": "2026-10-01",
+            "summary": "Kentucky's voter registration deadline for the November 3 general election is October 5, with registration available online, by mail, or through county clerk offices."
+          }
+        ]
+      }
     }
   ]
 }
