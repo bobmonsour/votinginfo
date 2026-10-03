@@ -33839,6 +33839,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:00",
+      "states": {
+        "CA": [
+          {
+            "title": "California voters to decide $7.5 billion science and health research bond measure in March 2028",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/10/02/california-voters-to-decide-7-5-billion-science-and-health-research-bond-measure-in-march-2028/",
+            "date": "2026-10-02",
+            "summary": "Gov. Gavin Newsom signed SB 895, placing a $7.5 billion bond measure on the March 2028 ballot to fund scientific and health research at California universities amid federal funding cuts."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Evans, Rutinel, and Wood compete in Colorado's 8th District, decided by less than 1 percentage point in 2022 and 2024",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/10/02/evans-rutinel-and-wood-compete-in-colorados-8th-district-decided-by-less-than-1-percentage-point-in-2022-and-2024/",
+            "date": "2026-10-02",
+            "summary": "Incumbent Republican Gabe Evans, Democrat Manny Rutinel, and Libertarian David Wood are competing in Colorado's 8th Congressional District, one of the nation's closest races in 2022 and 2024."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Supermajority control at stake in Ohio House of Representatives elections on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/10/01/supermajority-control-at-stake-in-ohio-house-of-representatives-elections-on-nov-3/",
+            "date": "2026-10-01",
+            "summary": "Republicans hold a 64-34 supermajority in the Ohio House dating to 2012, and Democrats are targeting 11 battleground districts in hopes of winning at least six seats to break it."
+          }
+        ]
+      }
     }
   ]
 }
