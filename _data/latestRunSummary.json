@@ -1,20 +1,35 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-05",
   "items": [
     {
-      "text": "Colorado's 8th District race remains a razor-thin tossup heading into November",
-      "url": "https://news.ballotpedia.org/2026/10/02/evans-rutinel-and-wood-compete-in-colorados-8th-district-decided-by-less-than-1-percentage-point-in-2022-and-2024/",
-      "abbr": "CO"
+      "text": "Virginia notifies 235,000 residents their felony convictions never should have cost them the vote",
+      "url": "https://www.vpm.org/elections/2026-09-24/felony-voting-rights-restoration-hawkins-gibney-jones-youngkin/",
+      "abbr": "VA"
     },
     {
-      "text": "Ohio Democrats target 11 districts to break GOP's House supermajority",
-      "url": "https://news.ballotpedia.org/2026/10/01/supermajority-control-at-stake-in-ohio-house-of-representatives-elections-on-nov-3/",
-      "abbr": "OH"
+      "text": "Wyoming Supreme Court upholds 96-day crossover-voting ban as constitutional",
+      "url": "https://wtop.com/national/2026/10/wyoming-supreme-court-concludes-crossover-voting-ban-is-constitutional/",
+      "abbr": "WY"
     },
     {
-      "text": "California voters to weigh $7.5 billion science and health research bond in 2028",
-      "url": "https://news.ballotpedia.org/2026/10/02/california-voters-to-decide-7-5-billion-science-and-health-research-bond-measure-in-march-2028/",
-      "abbr": "CA"
+      "text": "Supreme Court rejects New Mexico Forward Party's bid for a spot on the November ballot",
+      "url": "https://www.santafenewmexican.com/news/local_news/u-s-supreme-court-denies-new-mexico-forward-partys-last-ditch-ballot-effort/article_556b14f5-da86-4345-a028-3a7fe993a8f7.html",
+      "abbr": "NM"
+    },
+    {
+      "text": "Marion County, Indiana sets protocol for poll workers if federal agents show up at the polls",
+      "url": "https://www.wvpe.org/indiana-news/2026-10-02/marion-county-adopts-protocol-for-federal-agents-appearing-at-polling-places",
+      "abbr": "IN"
+    },
+    {
+      "text": "Trump rallies in Durant for Oklahoma GOP gubernatorial nominee Mike Mazzei",
+      "url": "https://www.kswo.com/2026/10/02/trump-campaigns-mazzei-during-oklahoma-rally-durant/",
+      "abbr": "OK"
+    },
+    {
+      "text": "Alaska enters its final month with Senate control and ranked-choice voting both on the line",
+      "url": "https://www.alaskasnewssource.com/2026/10/04/elections-2026-one-month-until-alaska-decides/",
+      "abbr": "AK"
     }
   ]
 }

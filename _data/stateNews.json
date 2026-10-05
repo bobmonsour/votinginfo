@@ -33872,6 +33872,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-05",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Elections 2026: One month until Alaska Decides",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/10/04/elections-2026-one-month-until-alaska-decides/",
+            "date": "2026-10-04",
+            "summary": "One month out from Alaska's Nov. 3 election, a roundup of the competitive U.S. Senate, House, and governor's races and a ballot measure on whether to keep ranked-choice voting."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Marion County adopts protocol for federal agents appearing at polling places",
+            "source": "WFYI Public Media",
+            "url": "https://www.wvpe.org/indiana-news/2026-10-02/marion-county-adopts-protocol-for-federal-agents-appearing-at-polling-places",
+            "date": "2026-10-02",
+            "summary": "Marion County's Election Board approved a protocol instructing poll workers to document and report, but never obstruct, federal law enforcement agents who appear at voting locations."
+          }
+        ],
+        "NM": [
+          {
+            "title": "U.S. Supreme Court denies New Mexico Forward Party's last-ditch ballot effort",
+            "source": "Santa Fe New Mexican",
+            "url": "https://www.santafenewmexican.com/news/local_news/u-s-supreme-court-denies-new-mexico-forward-partys-last-ditch-ballot-effort/article_556b14f5-da86-4345-a028-3a7fe993a8f7.html",
+            "date": "2026-09-18",
+            "summary": "Justice Neil Gorsuch rejected the Forward Party's emergency bid to place its statewide candidates on New Mexico's November ballot after the party fell short of the state's minor-party signature requirement."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Trump campaigns for Mazzei during Oklahoma rally in Durant",
+            "source": "KSWO",
+            "url": "https://www.kswo.com/2026/10/02/trump-campaigns-mazzei-during-oklahoma-rally-durant/",
+            "date": "2026-10-01",
+            "summary": "President Trump rallied in Durant for Republican gubernatorial nominee Mike Mazzei and other GOP statewide candidates ahead of Oklahoma's Nov. 3 election."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Nearly 235K Virginians should never have been disenfranchised, state says",
+            "source": "VPM",
+            "url": "https://www.vpm.org/elections/2026-09-24/felony-voting-rights-restoration-hawkins-gibney-jones-youngkin/",
+            "date": "2026-09-24",
+            "summary": "Virginia notified about 235,000 residents that felony convictions should not have cost them their voting rights after a federal court ruling, and the state narrowed its disqualifying-felony list to three offenses."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Wyoming Supreme Court concludes crossover-voting ban is constitutional",
+            "source": "Associated Press",
+            "url": "https://wtop.com/national/2026/10/wyoming-supreme-court-concludes-crossover-voting-ban-is-constitutional/",
+            "date": "2026-10-02",
+            "summary": "Wyoming's highest court unanimously upheld the state's 96-day freeze on changing party affiliation before an election, rejecting claims that it burdens voters' constitutional rights."
+          }
+        ]
+      }
     }
   ]
 }
