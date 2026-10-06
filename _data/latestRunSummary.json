@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "items": [
     {
-      "text": "Court strikes down California's paper-only mail ballot rule for disabled voters",
-      "url": "https://www.democracydocket.com/news-alerts/in-win-for-voters-with-disabilities-court-strikes-down-california-mail-ballot-rule/",
-      "abbr": "CA"
+      "text": "Two Georgia election board members say director overstepped by asking feds to intervene on voting system",
+      "url": "https://www.votebeat.org/national/2026/10/04/georgia-election-board-mills-federal-letters-dhs-doj-board-approval/",
+      "abbr": "GA"
     },
     {
-      "text": "Supreme Court vacates discrimination finding against Washington's redistricting map",
-      "url": "https://www.democracydocket.com/news-alerts/supreme-court-vacates-lower-court-ruling-that-washington-map-discriminated-against-latino-voters/",
-      "abbr": "WA"
+      "text": "Pennsylvania lawmaker proposes barring ICE and other federal agents from polling places",
+      "url": "https://www.votebeat.org/pennsylvania/2026/10/06/midterm-2026-ice-law-enforcement-polls-bill-kenyatta/",
+      "abbr": "PA"
     },
     {
-      "text": "Montana court blocks mail-ballot law that caused thousands of rejected ballots",
-      "url": "https://www.democracydocket.com/news-alerts/montana-court-blocks-onerous-mail-voting-law-that-caused-thousands-of-rejected-absentee-ballots-last-year/",
-      "abbr": "MT"
-    },
-    {
-      "text": "Tarrant County, Texas voters sue over GOP cuts to Election Day polling sites",
-      "url": "https://www.democracydocket.com/news-alerts/tarrant-county-voters-sue-to-block-gop-polling-site-cuts-targeting-minority-voters/",
+      "text": "Texas officials say a broken state registration system is slowing efforts to clear a huge backlog",
+      "url": "https://www.votebeat.org/texas/2026/10/05/voter-registration-system-team-secretary-of-state/",
       "abbr": "TX"
     },
     {
-      "text": "NAACP sues DOJ over plan to deploy 1,000 election monitors nationwide",
-      "url": "https://www.democracydocket.com/news-alerts/doj-sued-for-records-on-unprecedented-plan-to-deploy-1000-election-monitors-in-midterms/",
-      "abbr": "DC"
+      "text": "Printing error forces thousands of new mail ballots in Michigan's Wayne County",
+      "url": "https://www.votebeat.org/michigan/2026/10/02/wayne-county-ballot-misprint-belleville-library-van-buren-sumpter/",
+      "abbr": "MI"
+    },
+    {
+      "text": "Colorado Senate races could hand Democrats their first supermajority since 1992",
+      "url": "https://news.ballotpedia.org/2026/10/05/colorado-voters-to-decide-whether-there-will-be-a-democratic-supermajority-in-the-state-senate/",
+      "abbr": "CO"
     }
   ]
 }

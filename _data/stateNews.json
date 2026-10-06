@@ -34101,6 +34101,75 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-06",
+      "time": "06:00",
+      "states": {
+        "CO": [
+          {
+            "title": "Colorado voters to decide whether there will be a Democratic supermajority in the state Senate",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/10/05/colorado-voters-to-decide-whether-there-will-be-a-democratic-supermajority-in-the-state-senate/",
+            "date": "2026-10-05",
+            "summary": "Democrats hold a 23-12 Colorado Senate majority and could reach a historic 24-seat supermajority in November, a threshold neither party has hit since 1992, depending on the outcome of 18 contested districts."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia election board director sent Trump administration demands 2 board members say they never approved",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/10/04/georgia-election-board-mills-federal-letters-dhs-doj-board-approval/",
+            "date": "2026-10-04",
+            "summary": "Georgia State Election Board Chair John Fervier and Vice Chair Salleigh Grubbs say Executive Director James Mills exceeded his authority by asking federal agencies to intervene on the state's QR-code tabulation system without full board approval."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Thousands of Wayne County voters to get new ballots after printing error",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/10/02/wayne-county-ballot-misprint-belleville-library-van-buren-sumpter/",
+            "date": "2026-10-02",
+            "summary": "At least 8,500 voters in Belleville, Sumpter Township and Van Buren Township must receive replacement mail ballots after a printing error misplaced a library board candidate in the wrong race section."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio early voting starts today. Here's what we're watching",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/ohio-early-voting-starts-today-heres-what-were-watching/",
+            "date": "2026-10-06",
+            "summary": "As Ohio's early voting period opens, a ballot measure to enshrine the state's voter ID law into the constitution and competitive statewide races are among the key issues to watch."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pennsylvania proposal to ban law enforcement at polling places reflects activist concerns",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/10/06/midterm-2026-ice-law-enforcement-polls-bill-kenyatta/",
+            "date": "2026-10-06",
+            "summary": "State Rep. Malcolm Kenyatta introduced a bill to expand Pennsylvania's 100-foot polling-place buffer zone to explicitly cover federal agents like ICE, responding to activist concerns about intimidation at the polls."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Election officials are scrambling to process voter registration backlog using a system they say does not work",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/texas/2026/10/05/voter-registration-system-team-secretary-of-state/",
+            "date": "2026-10-05",
+            "summary": "Texas election officials say persistent technical problems in the state's TEAM voter-registration system are hampering efforts to clear a backlog of hundreds of thousands of records weeks before the midterms."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Everything to know about voting in Wisconsin's November election",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/10/05/how-to-vote-november-election-2026-early-absentee-ballots/",
+            "date": "2026-10-05",
+            "summary": "A guide to registration deadlines, early voting, absentee ballot options and ID requirements for Wisconsin's November 3 midterm election."
+          }
+        ]
+      }
     }
   ]
 }
