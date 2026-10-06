@@ -2,34 +2,29 @@
   "date": "2026-10-05",
   "items": [
     {
-      "text": "Virginia notifies 235,000 residents their felony convictions never should have cost them the vote",
-      "url": "https://www.vpm.org/elections/2026-09-24/felony-voting-rights-restoration-hawkins-gibney-jones-youngkin/",
-      "abbr": "VA"
+      "text": "Court strikes down California's paper-only mail ballot rule for disabled voters",
+      "url": "https://www.democracydocket.com/news-alerts/in-win-for-voters-with-disabilities-court-strikes-down-california-mail-ballot-rule/",
+      "abbr": "CA"
     },
     {
-      "text": "Wyoming Supreme Court upholds 96-day crossover-voting ban as constitutional",
-      "url": "https://wtop.com/national/2026/10/wyoming-supreme-court-concludes-crossover-voting-ban-is-constitutional/",
-      "abbr": "WY"
+      "text": "Supreme Court vacates discrimination finding against Washington's redistricting map",
+      "url": "https://www.democracydocket.com/news-alerts/supreme-court-vacates-lower-court-ruling-that-washington-map-discriminated-against-latino-voters/",
+      "abbr": "WA"
     },
     {
-      "text": "Supreme Court rejects New Mexico Forward Party's bid for a spot on the November ballot",
-      "url": "https://www.santafenewmexican.com/news/local_news/u-s-supreme-court-denies-new-mexico-forward-partys-last-ditch-ballot-effort/article_556b14f5-da86-4345-a028-3a7fe993a8f7.html",
-      "abbr": "NM"
+      "text": "Montana court blocks mail-ballot law that caused thousands of rejected ballots",
+      "url": "https://www.democracydocket.com/news-alerts/montana-court-blocks-onerous-mail-voting-law-that-caused-thousands-of-rejected-absentee-ballots-last-year/",
+      "abbr": "MT"
     },
     {
-      "text": "Marion County, Indiana sets protocol for poll workers if federal agents show up at the polls",
-      "url": "https://www.wvpe.org/indiana-news/2026-10-02/marion-county-adopts-protocol-for-federal-agents-appearing-at-polling-places",
-      "abbr": "IN"
+      "text": "Tarrant County, Texas voters sue over GOP cuts to Election Day polling sites",
+      "url": "https://www.democracydocket.com/news-alerts/tarrant-county-voters-sue-to-block-gop-polling-site-cuts-targeting-minority-voters/",
+      "abbr": "TX"
     },
     {
-      "text": "Trump rallies in Durant for Oklahoma GOP gubernatorial nominee Mike Mazzei",
-      "url": "https://www.kswo.com/2026/10/02/trump-campaigns-mazzei-during-oklahoma-rally-durant/",
-      "abbr": "OK"
-    },
-    {
-      "text": "Alaska enters its final month with Senate control and ranked-choice voting both on the line",
-      "url": "https://www.alaskasnewssource.com/2026/10/04/elections-2026-one-month-until-alaska-decides/",
-      "abbr": "AK"
+      "text": "NAACP sues DOJ over plan to deploy 1,000 election monitors nationwide",
+      "url": "https://www.democracydocket.com/news-alerts/doj-sued-for-records-on-unprecedented-plan-to-deploy-1000-election-monitors-in-midterms/",
+      "abbr": "DC"
     }
   ]
 }

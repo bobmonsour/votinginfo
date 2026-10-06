@@ -33932,6 +33932,175 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-05",
+      "time": "17:00",
+      "states": {
+        "CA": [
+          {
+            "title": "In win for voters with disabilities, court strikes down California mail ballot rule",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/in-win-for-voters-with-disabilities-court-strikes-down-california-mail-ballot-rule/",
+            "date": "2026-10-05",
+            "summary": "A federal court ruled that California's paper-only mail ballot return requirement for voters with disabilities violates state and federal law; a hearing on next steps is set for October 19."
+          }
+        ],
+        "DC": [
+          {
+            "title": "DOJ sued for records on 'unprecedented' plan to deploy 1,000 election monitors in midterms",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/doj-sued-for-records-on-unprecedented-plan-to-deploy-1000-election-monitors-in-midterms/",
+            "date": "2026-10-05",
+            "summary": "The NAACP sued the Justice Department for records on a plan to deploy roughly 1,000 federal personnel to polling places nationwide during the midterms, citing voter-intimidation concerns."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Trump judge dismisses challenge to strict Florida voter registration law as 'manufactured by meddlers'",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/trump-judge-dismisses-challenge-to-strict-florida-voter-registration-law-as-manufactured-by-meddlers/",
+            "date": "2026-10-01",
+            "summary": "A federal judge dismissed a civil-rights lawsuit over Florida's 'exact match' voter registration policy, ruling the plaintiff groups lacked standing."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia's GOP-controlled election board wants DOJ to investigate nonpartisan voter roll maintenance program",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/georgias-gop-controlled-election-board-wants-doj-to-investigate-nonpartisan-voter-roll-maintenance-program/",
+            "date": "2026-10-03",
+            "summary": "Georgia's State Election Board asked the DOJ to investigate ERIC, the multistate nonpartisan voter-roll-maintenance system, echoing Trump administration claims about the group."
+          }
+        ],
+        "KS": [
+          {
+            "title": "GOP bid to scrap Kansas mail ballot grace period fails again",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/gop-bid-to-scrap-kansas-mail-ballot-grace-period-fails-again/",
+            "date": "2026-10-02",
+            "summary": "The Kansas Court of Appeals again rejected Secretary of State Scott Schwab's bid to eliminate the state's three-day mail-ballot grace period before the November election."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Judge greenlights challenge to Louisiana anti-voting law, citing discrimination claims",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/judge-greenlights-challenge-to-louisiana-anti-voting-law-citing-discrimination-claims/",
+            "date": "2026-09-29",
+            "summary": "A federal judge allowed a challenge to Louisiana's proof-of-citizenship voter registration law to proceed on national-origin discrimination claims, without blocking the law."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Maine early voting starts today. Here's what you need to know",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/after-trump-folds-on-mail-ballot-restrictions-maine-starts-voting-period-with-more-confidence/",
+            "date": "2026-10-05",
+            "summary": "Early voting began in Maine's closely watched Senate race as Secretary of State Shenna Bellows pushed back on Trump administration efforts to access state voter data."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Voters in multiple Michigan counties still don't have absentee ballots after clerks miss mailing deadline",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/09/29/absentee-ballot-delays-missed-deadline-antrim-presque-isle-counties/",
+            "date": "2026-09-29",
+            "summary": "Clerks in Antrim and Presque Isle counties missed Michigan's September 24 deadline to mail absentee ballots, citing printer capacity and a tight turnaround after the August primary."
+          },
+          {
+            "title": "DOD tells senator it has 'no plan' for troops at polls. But she has 'no idea what Trump will do'",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/dod-tells-senator-it-has-no-plan-for-troops-at-polls-but-she-has-no-idea-what-trump-will-do/",
+            "date": "2026-10-01",
+            "summary": "The Pentagon told Michigan Sen. Elissa Slotkin it has no current plan to station troops at polling places, but she said she remains uncertain about the administration's intentions."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Montana court blocks onerous mail voting law that caused thousands of rejected absentee ballots last year",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/montana-court-blocks-onerous-mail-voting-law-that-caused-thousands-of-rejected-absentee-ballots-last-year/",
+            "date": "2026-10-03",
+            "summary": "A Montana state court blocked HB 719's birthdate-verification requirement for absentee ballots as unconstitutional, after the law caused nearly 3,000 rejected mail ballots in 2025."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina mailboxes overflow with voter registration warnings after state cut a deal with Trump's DOJ",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/north-carolina-mailboxes-overflow-with-voter-registration-warnings-after-state-cut-a-deal-with-trumps-doj/",
+            "date": "2026-10-01",
+            "summary": "North Carolina voters are receiving mailers demanding updated registration information by October 9 under a settlement between the state elections board and the Trump DOJ, which advocates warn could confuse eligible voters."
+          }
+        ],
+        "NH": [
+          {
+            "title": "Federal judge declines to block New Hampshire student ID ban for midterm election",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/federal-judge-declines-to-block-new-hampshire-student-id-ban-for-midterm-election/",
+            "date": "2026-10-05",
+            "summary": "A federal judge let New Hampshire's ban on student IDs for voting stand for the midterms, but barred officials from flatly refusing to consider student ID as evidence of identity."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Sherrill shuffles NJ election leadership after Caldwell resignation",
+            "source": "NJ Spotlight News",
+            "url": "https://www.njspotlightnews.org/2026/09/sherrill-shuffles-nj-election-leadership-after-caldwell-resignation/",
+            "date": "2026-09-30",
+            "summary": "Lt. Gov. Dale Caldwell resigned as secretary of state following an ethics investigation, and Gov. Mikie Sherrill named Shirley Emehelu acting secretary of state to oversee elections."
+          },
+          {
+            "title": "New Jersey GOP operative, pardoned by Trump, accused of scheming to purge Democratic voters ahead of midterms",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/new-jersey-gop-operative-pardoned-by-trump-accused-of-scheming-to-purge-democratic-voters/",
+            "date": "2026-10-01",
+            "summary": "Ocean County Republicans allegedly targeted Democratic and unaffiliated voters for eligibility challenges while exempting similarly situated Republicans, prompting an ACLU threat of legal action."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Some Tennesseans get ready to cast votes in state legislature race with no names on the ballot",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/some-tennesseans-get-ready-to-cast-votes-in-state-legislature-race-with-no-names-on-the-ballot/",
+            "date": "2026-09-30",
+            "summary": "Tennessee's House District 93 general election will list no candidates on the ballot itself, leaving voters to choose among five qualified write-in candidates after the seat's longtime occupant died."
+          },
+          {
+            "title": "Court upholds Tennessee's GOP gerrymander, saying lawmakers deserve 'presumption of good faith'",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/court-upholds-tennessees-gop-gerrymander-saying-lawmakers-deserve-presumption-of-good-faith/",
+            "date": "2026-10-02",
+            "summary": "A three-judge federal panel upheld Tennessee's congressional map, which eliminated the state's only Black-majority district, rejecting racial-discrimination claims."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Records show DPS knew of problems with Texas' online voter registration portal as early as March",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/texas/2026/10/01/records-show-dps-knew-of-problems-with-texas-online-voter-registration-as-early-as-march/",
+            "date": "2026-10-01",
+            "summary": "Texas DPS knew of flaws in the online voter-registration portal since March, but a backlog of at least 500,000 records still surfaced in late August, weeks before the midterms."
+          },
+          {
+            "title": "Tarrant County voters sue to block GOP polling site cuts targeting minority communities",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/tarrant-county-voters-sue-to-block-gop-polling-site-cuts-targeting-minority-voters/",
+            "date": "2026-10-02",
+            "summary": "Tarrant County voters filed an emergency lawsuit over a Republican plan to cut Election Day polling sites from 316 to 224, alleging the reduction disproportionately affects Black and Hispanic residents."
+          }
+        ],
+        "WA": [
+          {
+            "title": "With Voting Rights Act gutted, Supreme Court vacates discrimination finding against Washington map",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/supreme-court-vacates-lower-court-ruling-that-washington-map-discriminated-against-latino-voters/",
+            "date": "2026-10-05",
+            "summary": "The Supreme Court vacated a lower court's finding that Washington's legislative map discriminated against Latino voters, applying its Louisiana v. Callais decision that raised the bar for Voting Rights Act claims."
+          }
+        ]
+      }
     }
   ]
 }
