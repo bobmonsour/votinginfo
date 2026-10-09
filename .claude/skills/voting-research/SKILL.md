@@ -1,7 +1,6 @@
 ---
 name: voting-research
 description: Deep dive research across all 51 state entries to verify voting data accuracy against authoritative sources and gather recent election-related news items for each state and Washington DC.
-disable-model-invocation: true
 allowed-tools: Read, Write, Grep, Glob, WebSearch, WebFetch, Edit, Bash(node *), Bash(git *), Bash(curl *)
 ---
 
