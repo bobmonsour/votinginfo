@@ -1,30 +1,28 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-09",
   "items": [
     {
-      "text": "Two Georgia election board members say director overstepped by asking feds to intervene on voting system",
-      "url": "https://www.votebeat.org/national/2026/10/04/georgia-election-board-mills-federal-letters-dhs-doj-board-approval/",
-      "abbr": "GA"
+      "text": "New poll shows Maryland's Wes Moore crushing Cox by 2-to-1 in governor's race",
+      "url": "https://www.thebanner.com/politics-power/state-government/moore-cox-umbc-poll-JQZOMOUETFHOVJ7HP5BMU5CNXM/",
+      "abbr": "MD"
     },
     {
-      "text": "Pennsylvania lawmaker proposes barring ICE and other federal agents from polling places",
-      "url": "https://www.votebeat.org/pennsylvania/2026/10/06/midterm-2026-ice-law-enforcement-polls-bill-kenyatta/",
-      "abbr": "PA"
+      "text": "Marist poll has Troy Jackson narrowly ahead of Susan Collins in Maine Senate race",
+      "url": "https://politicalwire.com/2026/10/06/troy-jackson-leads-in-maine-senate-race/",
+      "abbr": "ME"
     },
     {
-      "text": "Texas officials say a broken state registration system is slowing efforts to clear a huge backlog",
-      "url": "https://www.votebeat.org/texas/2026/10/05/voter-registration-system-team-secretary-of-state/",
-      "abbr": "TX"
+      "text": "South Carolina governor nominees Johnson and Wilson face off in live debate",
+      "url": "https://www.wbtv.com/2026/10/05/live-stream-south-carolina-governor-candidates-debate-live-ahead-2026-general-election/",
+      "abbr": "SC"
     },
     {
-      "text": "Printing error forces thousands of new mail ballots in Michigan's Wayne County",
-      "url": "https://www.votebeat.org/michigan/2026/10/02/wayne-county-ballot-misprint-belleville-library-van-buren-sumpter/",
-      "abbr": "MI"
+      "text": "Montana's voter information pamphlet on three ballot measures arrives ahead of ballots",
+      "url": "https://dailymontanan.com/2026/10/06/montana-voter-information-pamphlet-hits-mailboxes-ahead-of-ballots/",
+      "abbr": "MT"
     },
     {
-      "text": "Colorado Senate races could hand Democrats their first supermajority since 1992",
-      "url": "https://news.ballotpedia.org/2026/10/05/colorado-voters-to-decide-whether-there-will-be-a-democratic-supermajority-in-the-state-senate/",
-      "abbr": "CO"
+      "text": "North Carolina and Vermont voters get fresh explainers on ballot measures and how to vote"
     }
   ]
 }

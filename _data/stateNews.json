@@ -34170,6 +34170,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-09",
+      "time": "17:00",
+      "states": {
+        "MD": [
+          {
+            "title": "UMBC Poll: Moore leads Cox in race for governor by 2-to-1 margin",
+            "source": "The Baltimore Banner",
+            "url": "https://www.thebanner.com/politics-power/state-government/moore-cox-umbc-poll-JQZOMOUETFHOVJ7HP5BMU5CNXM/",
+            "date": "2026-10-06",
+            "summary": "A UMBC Institute of Politics poll finds Gov. Wes Moore leading Republican challenger Dan Cox 51%-24% ahead of Maryland's November 3 gubernatorial election."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Troy Jackson Leads in Maine Senate Race",
+            "source": "Political Wire",
+            "url": "https://politicalwire.com/2026/10/06/troy-jackson-leads-in-maine-senate-race/",
+            "date": "2026-10-06",
+            "summary": "A new Marist poll shows Democrat Troy Jackson leading Republican Sen. Susan Collins 51%-47% among registered voters in Maine's U.S. Senate race."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Montana voter information pamphlet hits mailboxes ahead of ballots",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/10/06/montana-voter-information-pamphlet-hits-mailboxes-ahead-of-ballots/",
+            "date": "2026-10-06",
+            "summary": "Montana's 2026 Voter Information Pamphlet, covering three ballot measures with arguments and rebuttals plus voting logistics, began arriving in mailboxes ahead of ballots for the Nov. 3 general election."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Live stream: Breaking down 2026 property, income tax referendums on the North Carolina ballot",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/06/live-stream-breaking-down-2026-property-income-tax-referendums-north-carolina-ballot/",
+            "date": "2026-10-05",
+            "summary": "WBTV previewed its livestream explainer on two of the three proposed constitutional amendments on North Carolina's November ballot, covering property and income tax changes."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Watch: South Carolina governor candidates debate live ahead of 2026 general election",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/05/live-stream-south-carolina-governor-candidates-debate-live-ahead-2026-general-election/",
+            "date": "2026-10-05",
+            "summary": "Democrat Jermaine Johnson and Republican Alan Wilson, South Carolina's gubernatorial nominees, faced off in a live debate in Columbia ahead of the November 3 election."
+          }
+        ],
+        "VT": [
+          {
+            "title": "How to vote in the 2026 general election in Vermont",
+            "source": "Vermont Public",
+            "url": "https://www.vermontpublic.org/local-news/2026-10-07/how-to-vote-2026-general-election-vermont",
+            "date": "2026-10-07",
+            "summary": "Vermont Public's guide to registering, voting by mail or in person, and tracking ballots for the Nov. 3 general election also lists the statewide candidates and ballot measures on the governor's race."
+          }
+        ]
+      }
     }
   ]
 }
