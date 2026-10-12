@@ -450,5 +450,37 @@ After all file changes are complete:
    2. `git merge research/YYYY-MM-DD` (fast-forward expected — `main` was pointed at `origin/main` during Branch creation, so the research branch is a strict descendant)
    3. `git push origin main`
    4. `git branch -d research/YYYY-MM-DD`
+   5. Confirm the Cloudflare build — see "Post-push build check" below.
 
    If the merge is not a fast-forward or any step fails, do **not** force the operation. Leave the branch in place, abort cleanly, and report the failure so the routine surfaces a non-success exit. (This is the fail-safe that fired on the 2026-07-10 5pm run, when a stale detached checkout produced a non-fast-forward push; the base-normalization step in Branch creation above is what prevents that state from recurring.)
+
+### Post-push build check (autonomous mode only)
+
+A successful push is not a successful deploy. The push triggers a Cloudflare Workers Builds run that can fail on its own (on 2026-10-12 the 6am run pushed cleanly, then the build died with `Received a malformed response from the API`, and the site silently stayed on the previous version). Cloudflare reports each build back to GitHub as a check run named `Workers Builds: usvoting-info` on the pushed commit, so after step 4 read it:
+
+```bash
+SHA=$(git rev-parse HEAD)
+for i in 1 2 3 4 5; do
+  R=$(curl -s --max-time 20 -H "Accept: application/vnd.github+json" \
+    "https://api.github.com/repos/bobmonsour/votinginfo/commits/$SHA/check-runs" \
+    | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{let r;try{r=(JSON.parse(s).check_runs||[]).find(c=>c.name.startsWith("Workers Builds"))}catch(e){}console.log(r&&r.status==="completed"?`BUILD ${r.conclusion} ${r.details_url}`:"BUILD pending")})')
+  [ "$R" != "BUILD pending" ] && break
+  sleep 20
+done
+echo "$R"
+```
+
+The check run only appears once the build finishes (normally 2–3 minutes after the push), so `BUILD pending` is expected at first. Each invocation polls for about 100 seconds; re-run it while it prints `BUILD pending`, up to 6 invocations (~10 minutes) in total. Then act on the result:
+
+- **`BUILD success <url>`** — the deploy went out. Report success and finish. Send no email.
+- **`BUILD <anything else> <url>`** (e.g. `failure`, `cancelled`, `timed_out`) — the build failed and the site is still serving the previous version. Send the failure email below, then report the failure so the routine surfaces a non-success exit.
+- **Still `BUILD pending` after 6 invocations** — the result is unknown. Send the email below with the subject `usvoting.info: build status unknown for <short sha>`, then report it as unverified.
+
+**Failure email.** Use the Gmail connector's send-message tool to send one plain-text email to `bob.monsour@gmail.com`:
+
+- Subject: `usvoting.info: Cloudflare build FAILED for <short sha>`
+- Body: the run date and mode, the full commit SHA and its commit message, the check-run conclusion, the build URL printed above, and one line stating that the commit is on `main` but the live site was not updated.
+
+If no Gmail send tool is available in the session, do not try another way to send mail — say so explicitly in the final report, alongside the build failure.
+
+Do **not** try to repair or retry the build: no re-push, no empty commit, no `wrangler deploy` / `npm run deploy`. The data is already safely on `main`, and the next successful build will publish it. This check only detects and reports.
