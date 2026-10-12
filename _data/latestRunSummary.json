@@ -1,28 +1,25 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-12",
   "items": [
     {
-      "text": "New poll shows Maryland's Wes Moore crushing Cox by 2-to-1 in governor's race",
-      "url": "https://www.thebanner.com/politics-power/state-government/moore-cox-umbc-poll-JQZOMOUETFHOVJ7HP5BMU5CNXM/",
-      "abbr": "MD"
+      "text": "California's Weber urges voters to return mailed ballots early via drop box or mail",
+      "url": "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-dr-shirley-n-weber-phd-encourages-californians-vote-early-2026-general-election",
+      "abbr": "CA"
     },
     {
-      "text": "Marist poll has Troy Jackson narrowly ahead of Susan Collins in Maine Senate race",
-      "url": "https://politicalwire.com/2026/10/06/troy-jackson-leads-in-maine-senate-race/",
-      "abbr": "ME"
+      "text": "Michigan mail ballot returns running 30% ahead of 2022 pace four weeks out",
+      "url": "https://content.govdelivery.com/accounts/MISOS/bulletins/42e2d69",
+      "abbr": "MI"
     },
     {
-      "text": "South Carolina governor nominees Johnson and Wilson face off in live debate",
-      "url": "https://www.wbtv.com/2026/10/05/live-stream-south-carolina-governor-candidates-debate-live-ahead-2026-general-election/",
-      "abbr": "SC"
+      "text": "New York Democrats seek to block Blakeman campaign's public matching funds",
+      "url": "https://www.fox5ny.com/election/ny-midterm-elections-politics-kathy-hochul-bruce-blakeman-public-matching-funds",
+      "abbr": "NY"
     },
     {
-      "text": "Montana's voter information pamphlet on three ballot measures arrives ahead of ballots",
-      "url": "https://dailymontanan.com/2026/10/06/montana-voter-information-pamphlet-hits-mailboxes-ahead-of-ballots/",
-      "abbr": "MT"
-    },
-    {
-      "text": "North Carolina and Vermont voters get fresh explainers on ballot measures and how to vote"
+      "text": "Ohio launches program recognizing first-time and newly naturalized voters",
+      "url": "https://abc6onyourside.com/newsletter-daily/ohio-launches-new-initiative-to-recognize-first-time-voters-secretary-of-state-frank-larose-national-voter-registration-day-mifflin-high-school-columbus-civic-engagemnt-ballot-qr-code",
+      "abbr": "OH"
     }
   ]
 }

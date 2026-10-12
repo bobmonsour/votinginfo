@@ -34230,6 +34230,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-12",
+      "time": "06:00",
+      "states": {
+        "CA": [
+          {
+            "title": "California Secretary of State Dr. Shirley N. Weber, Ph.D., Encourages Californians to Vote Early in the 2026 General Election",
+            "source": "California Secretary of State",
+            "url": "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-dr-shirley-n-weber-phd-encourages-californians-vote-early-2026-general-election",
+            "date": "2026-10-06",
+            "summary": "Secretary of State Shirley Weber urged Californians to return their mailed ballots promptly via drop box or mail as the November 3 general election approaches."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Four weeks before Election Day, mail ballot returns are up 30% over same point in 2022",
+            "source": "Michigan Department of State",
+            "url": "https://content.govdelivery.com/accounts/MISOS/bulletins/42e2d69",
+            "date": "2026-10-06",
+            "summary": "Michigan reported about 201,900 mail ballots returned four weeks before the Nov. 3 election, up 30% over the same point in 2022, as the state launched a daily-updated voting data dashboard."
+          }
+        ],
+        "NY": [
+          {
+            "title": "NYS Dems don't want Blakeman's campaign to receive remaining public matching funds: Oct. 8 election update",
+            "source": "FOX 5 NY",
+            "url": "https://www.fox5ny.com/election/ny-midterm-elections-politics-kathy-hochul-bruce-blakeman-public-matching-funds",
+            "date": "2026-10-08",
+            "summary": "The New York State Democratic Party urged the Public Campaign Finance Board to withhold remaining matching funds from Republican gubernatorial candidate Bruce Blakeman's campaign."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio launches new initiative to recognize first-time voters",
+            "source": "ABC6 WSYX",
+            "url": "https://abc6onyourside.com/newsletter-daily/ohio-launches-new-initiative-to-recognize-first-time-voters-secretary-of-state-frank-larose-national-voter-registration-day-mifflin-high-school-columbus-civic-engagemnt-ballot-qr-code",
+            "date": "2026-10-08",
+            "summary": "Ohio Secretary of State Frank LaRose launched a program letting first-time voters request a personalized state proclamation, aiming to build lasting civic-participation habits among young and newly naturalized voters."
+          }
+        ]
+      }
     }
   ]
 }
