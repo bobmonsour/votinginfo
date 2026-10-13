@@ -34272,6 +34272,55 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-12",
+      "time": "17:00",
+      "states": {
+        "GA": [
+          {
+            "title": "Oct. 5 last day to register to vote in Georgia's 2026 midterms",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/10/05/today-is-last-day-register-vote-georgias-2026-midterms/",
+            "date": "2026-10-05",
+            "summary": "October 5 was the final day to register for Georgia's November 3 midterms, which include high-stakes U.S. Senate, governor, and down-ballot races."
+          },
+          {
+            "title": "Recap: Highlights of Georgia U.S. Senate debate between Collins, Ossoff",
+            "source": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com/politics/2026/10/georgia-us-senate-race-jon-ossoff-and-mike-collins-debate/",
+            "date": "2026-10-08",
+            "summary": "Republican congressman Mike Collins and Democratic incumbent Jon Ossoff clashed in their first Senate debate, with exchanges on an ethics investigation, the 2020 election, and each candidate's record."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Rogers, El-Sayed debate gets hostile as candidates clash in pivotal US Senate race",
+            "source": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/rogers-el-sayed-debate-gets-hostile-as-candidates-clash-in-pivotal-us-senate-race",
+            "date": "2026-10-09",
+            "summary": "Republican Mike Rogers and Democrat Abdul El-Sayed traded heated personal attacks in their first debate for Michigan's open U.S. Senate seat, with the moderator stepping in to restore order."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Watch: Breaking down 2026 property, income tax referendums on the North Carolina ballot",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/06/watch-breaking-down-2026-property-income-tax-referendums-north-carolina-ballot/",
+            "date": "2026-10-06",
+            "summary": "WBTV previewed North Carolina's November property and income tax constitutional referendums, part of three amendments on the statewide ballot alongside the regular election timeline."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Shapiro-Garrity debate recap: Key takeaways from the Pa. governor's race",
+            "source": "FOX 29 Philadelphia",
+            "url": "https://fox29.com/news/shapiro-garrity-debate-recap-key-takeaways-from-pa-governors-race",
+            "date": "2026-10-08",
+            "summary": "Gov. Josh Shapiro and Republican challenger Stacy Garrity met in their only scheduled debate before the election, splitting on spending, energy, taxes, education, and the death penalty."
+          }
+        ]
+      }
     }
   ]
 }

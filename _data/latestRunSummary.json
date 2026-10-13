@@ -2,24 +2,27 @@
   "date": "2026-10-12",
   "items": [
     {
-      "text": "California's Weber urges voters to return mailed ballots early via drop box or mail",
-      "url": "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-dr-shirley-n-weber-phd-encourages-californians-vote-early-2026-general-election",
-      "abbr": "CA"
+      "text": "Georgia Senate rivals Ossoff and Collins clash in first debate over ethics, 2020",
+      "url": "https://www.ajc.com/politics/2026/10/georgia-us-senate-race-jon-ossoff-and-mike-collins-debate/",
+      "abbr": "GA"
     },
     {
-      "text": "Michigan mail ballot returns running 30% ahead of 2022 pace four weeks out",
-      "url": "https://content.govdelivery.com/accounts/MISOS/bulletins/42e2d69",
+      "text": "Michigan Senate debate between Rogers and El-Sayed turns hostile in Grand Rapids",
+      "url": "https://www.michiganpublic.org/politics-government/2026-10-09/rogers-el-sayed-debate-gets-hostile-as-candidates-clash-in-pivotal-us-senate-race",
       "abbr": "MI"
     },
     {
-      "text": "New York Democrats seek to block Blakeman campaign's public matching funds",
-      "url": "https://www.fox5ny.com/election/ny-midterm-elections-politics-kathy-hochul-bruce-blakeman-public-matching-funds",
-      "abbr": "NY"
+      "text": "Pennsylvania's Shapiro and Garrity spar over spending and energy in only debate",
+      "url": "https://fox29.com/news/shapiro-garrity-debate-recap-key-takeaways-from-pa-governors-race",
+      "abbr": "PA"
     },
     {
-      "text": "Ohio launches program recognizing first-time and newly naturalized voters",
-      "url": "https://abc6onyourside.com/newsletter-daily/ohio-launches-new-initiative-to-recognize-first-time-voters-secretary-of-state-frank-larose-national-voter-registration-day-mifflin-high-school-columbus-civic-engagemnt-ballot-qr-code",
-      "abbr": "OH"
+      "text": "North Carolina voters weigh property and income tax referendums on November ballot",
+      "url": "https://www.wbtv.com/2026/10/06/watch-breaking-down-2026-property-income-tax-referendums-north-carolina-ballot/",
+      "abbr": "NC"
+    },
+    {
+      "text": "Today is the last day to register to vote in Georgia's 2026 midterms"
     }
   ]
 }
