@@ -34321,6 +34321,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-13",
+      "time": "06:00",
+      "states": {
+        "HI": [
+          {
+            "title": "Hawaii voters start receiving midterm ballots",
+            "source": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/10/10/hawaii-voters-start-receiving-midterm-ballots/",
+            "date": "2026-10-09",
+            "summary": "Mail ballots for Hawaii's Nov. 3 general election began arriving, with all ballots expected by Oct. 16; completed ballots must reach election offices by 7 p.m. on Election Day since postmarks don't count."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Montana voters head to the polls with increased access — for some",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/montana-voters-head-to-the-polls-with-increased-access-for-some/",
+            "date": "2026-10-08",
+            "summary": "Montana's Supreme Court struck down a requirement that mail voters handwrite their birthdate on return envelopes, a change benefiting voters with disabilities, as early in-person voting and mail ballot distribution get underway for the midterms."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Early voting set to begin in New Mexico amid wariness over possible disruptions",
+            "source": "Albuquerque Journal",
+            "url": "https://www.abqjournal.com/news/early-voting-set-to-begin-in-new-mexico-amid-wariness-over-possible-disruptions/3135752",
+            "date": "2026-10-05",
+            "summary": "Early in-person voting began statewide in New Mexico, with county clerks mailing absentee ballots to more than 62,000 voters on the permanent absentee list and poll workers trained to handle possible disruptions."
+          }
+        ]
+      }
     }
   ]
 }

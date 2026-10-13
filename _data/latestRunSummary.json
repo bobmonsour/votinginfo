@@ -1,28 +1,20 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "items": [
     {
-      "text": "Georgia Senate rivals Ossoff and Collins clash in first debate over ethics, 2020",
-      "url": "https://www.ajc.com/politics/2026/10/georgia-us-senate-race-jon-ossoff-and-mike-collins-debate/",
-      "abbr": "GA"
+      "text": "Hawaii midterm ballots begin arriving ahead of Nov. 3 deadline",
+      "url": "https://www.hawaiinewsnow.com/2026/10/10/hawaii-voters-start-receiving-midterm-ballots/",
+      "abbr": "HI"
     },
     {
-      "text": "Michigan Senate debate between Rogers and El-Sayed turns hostile in Grand Rapids",
-      "url": "https://www.michiganpublic.org/politics-government/2026-10-09/rogers-el-sayed-debate-gets-hostile-as-candidates-clash-in-pivotal-us-senate-race",
-      "abbr": "MI"
+      "text": "Montana court strikes mail ballot birthdate rule as early voting opens",
+      "url": "https://www.democracydocket.com/news-alerts/montana-voters-head-to-the-polls-with-increased-access-for-some/",
+      "abbr": "MT"
     },
     {
-      "text": "Pennsylvania's Shapiro and Garrity spar over spending and energy in only debate",
-      "url": "https://fox29.com/news/shapiro-garrity-debate-recap-key-takeaways-from-pa-governors-race",
-      "abbr": "PA"
-    },
-    {
-      "text": "North Carolina voters weigh property and income tax referendums on November ballot",
-      "url": "https://www.wbtv.com/2026/10/06/watch-breaking-down-2026-property-income-tax-referendums-north-carolina-ballot/",
-      "abbr": "NC"
-    },
-    {
-      "text": "Today is the last day to register to vote in Georgia's 2026 midterms"
+      "text": "New Mexico early voting begins with clerks mailing absentee ballots statewide",
+      "url": "https://www.abqjournal.com/news/early-voting-set-to-begin-in-new-mexico-amid-wariness-over-possible-disruptions/3135752",
+      "abbr": "NM"
     }
   ]
 }
