@@ -2,19 +2,29 @@
   "date": "2026-10-13",
   "items": [
     {
-      "text": "Hawaii midterm ballots begin arriving ahead of Nov. 3 deadline",
-      "url": "https://www.hawaiinewsnow.com/2026/10/10/hawaii-voters-start-receiving-midterm-ballots/",
-      "abbr": "HI"
+      "text": "Georgia's early voting opens with Ossoff casting his ballot ahead of a Trump visit",
+      "url": "https://www.atlantanewsfirst.com/2026/10/13/jon-ossoff-casts-his-ballot-georgia-early-voting-opens-closely-watched-senate-race/",
+      "abbr": "GA"
     },
     {
-      "text": "Montana court strikes mail ballot birthdate rule as early voting opens",
-      "url": "https://www.democracydocket.com/news-alerts/montana-voters-head-to-the-polls-with-increased-access-for-some/",
-      "abbr": "MT"
+      "text": "Trump blasts Alaska's ranked-choice voting as three-way Senate race heats up",
+      "url": "https://www.newsweek.com/trump-rages-at-alaska-republicans-over-three-way-race-how-stupid-are-we-12544803",
+      "abbr": "AK"
     },
     {
-      "text": "New Mexico early voting begins with clerks mailing absentee ballots statewide",
-      "url": "https://www.abqjournal.com/news/early-voting-set-to-begin-in-new-mexico-amid-wariness-over-possible-disruptions/3135752",
-      "abbr": "NM"
+      "text": "Newsom backs measure to kill California's billionaire tax proposal",
+      "url": "https://calmatters.org/politics/2026/10/newsom-tax-propositions-november-election/",
+      "abbr": "CA"
+    },
+    {
+      "text": "National Guard told to keep away from D.C. ballot drop boxes",
+      "url": "https://www.washingtonsun.com/metro/national-guard-dc-ballot-boxes",
+      "abbr": "DC"
+    },
+    {
+      "text": "Oklahoma's online voter registration portal crashed on deadline day",
+      "url": "https://www.news9.com/oklahoma-city-news/voter-portal-fails-on-deadline-day-leaving-oklahomans-unable-to-register-for-november-election",
+      "abbr": "OK"
     }
   ]
 }

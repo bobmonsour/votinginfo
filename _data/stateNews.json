@@ -34354,6 +34354,404 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-13",
+      "time": "17:00",
+      "states": {
+        "AL": [
+          {
+            "title": "1 week left to register to vote in 2026 midterms",
+            "source": "WSFA",
+            "url": "https://wsfa.com/2026/10/13/1-week-left-register-vote-2026-midterms",
+            "date": "2026-10-12",
+            "summary": "Alabama's voter registration deadline for the Nov. 3 general election is Monday, Oct. 19, with no early voting available and absentee ballots due by Oct. 27."
+          }
+        ],
+        "AK": [
+          {
+            "title": "Trump Rages at Alaska Republicans Over Three-Way Race: 'How Stupid Are We?'",
+            "source": "Newsweek",
+            "url": "https://www.newsweek.com/trump-rages-at-alaska-republicans-over-three-way-race-how-stupid-are-we-12544803",
+            "date": "2026-10-09",
+            "summary": "President Trump criticized Alaska's ranked-choice voting system and the three-way Republican Senate field on Truth Social, urging voters to repeal RCV via the November ballot measure."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Early voting starts in Arizona for November midterm election",
+            "source": "AZFamily",
+            "url": "https://www.azfamily.com/2026/10/07/early-voting-starts-arizona-november-midterm-election/",
+            "date": "2026-10-07",
+            "summary": "Early in-person voting opened in Maricopa County for the Nov. 3 general election, with a new option letting mail voters verify ID at vote centers to speed tabulation."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Early Voting Begins Oct. 19 in Arkansas; Where to Vote in Five NEA Counties",
+            "source": "NEA Report",
+            "url": "https://neareport.com/2026/10/13/early-voting-oct-19-2026-arkansas-craighead-county/",
+            "date": "2026-10-13",
+            "summary": "Arkansas early in-person voting opens Oct. 19 and runs through Nov. 2 ahead of the general election; the voter registration deadline has already passed."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Gavin Newsom backs measure to kill the billionaire tax and ban future wealth taxes",
+            "source": "CalMatters",
+            "url": "https://calmatters.org/politics/2026/10/newsom-tax-propositions-november-election/",
+            "date": "2026-10-09",
+            "summary": "Gov. Gavin Newsom endorsed Proposition 42, which would cancel a proposed billionaire tax and bar new wealth taxes, drawing criticism from some Democrats and labor groups."
+          }
+        ],
+        "CO": [
+          {
+            "title": "2026 voter guide for metro Denver residents",
+            "source": "Colorado Politics",
+            "url": "https://www.coloradopolitics.com/2026/10/11/colorado-voter-guide-metro-denver-residents/",
+            "date": "2026-10-11",
+            "summary": "A voter guide for metro Denver residents covers the certified November ballot, including the governor's race and 14 statewide measures."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Early voting starts Monday across Connecticut",
+            "source": "WFSB",
+            "url": "https://wfsb.com/2026/10/13/early-voting-starts-monday-across-connecticut",
+            "date": "2026-10-13",
+            "summary": "Connecticut's 14-day early voting period for the Nov. 3 general election begins Monday, Oct. 19, with towns preparing poll workers and voting locations."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Voting Alert: 2026 General Election Voter Registration Deadline is Saturday, October 10, 2026, at 11:59 p.m.",
+            "source": "State of Delaware News",
+            "url": "https://news.delaware.gov/2026/10/07/voting-alert-2026-general-election-voter-registration-deadline-is-saturday-october-10-2026-at-1159-p-m/",
+            "date": "2026-10-07",
+            "summary": "Delaware's Department of Elections reminded voters that new registrations for the Nov. 3 general election were due by Oct. 10."
+          }
+        ],
+        "FL": [
+          {
+            "title": "What to know about Florida's 2026 House races",
+            "source": "PantherNOW",
+            "url": "https://panthernow.com/2026/10/13/what-to-know-about-floridas-2026-house-races/",
+            "date": "2026-10-13",
+            "summary": "A preview of Florida's 28 congressional districts on the Nov. 3 ballot, including competitive South Florida matchups."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Early voting begins in Georgia's nationally watched midterms",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/10/13/early-voting-begins-georgias-nationally-watched-2026-midterm-elections/",
+            "date": "2026-10-13",
+            "summary": "Early voting opened Oct. 13 in Georgia's closely watched midterms, running through Oct. 30 ahead of the Nov. 3 general election."
+          },
+          {
+            "title": "Jon Ossoff casts his ballot as Georgia early voting opens in closely watched Senate race",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/10/13/jon-ossoff-casts-his-ballot-georgia-early-voting-opens-closely-watched-senate-race/",
+            "date": "2026-10-13",
+            "summary": "Sen. Jon Ossoff voted on the first day of early voting as he seeks reelection against Republican Rep. Mike Collins."
+          },
+          {
+            "title": "Voters begin casting ballots as GOP candidates hope for boost with a presidential visit this week",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/10/13/voters-begin-casting-ballots-gop-candidates-hope-boost-with-presidential-visit-this-week/",
+            "date": "2026-10-13",
+            "summary": "Georgia voters began casting early ballots as President Trump prepared to campaign in Dalton for Republican candidates."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Two amendments to the state Constitution are on the general election ballot",
+            "source": "Hawaii Tribune-Herald",
+            "url": "https://hawaiitribune-herald.com/2026/10/13/hawaii-news/two-amendments-to-the-state-constitution-are-on-the-general-election-ballot",
+            "date": "2026-10-13",
+            "summary": "Hawaii's Nov. 3 general election ballot includes two statewide constitutional amendment questions as ballots go out to voters."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Early voting starts today in several Idaho counties",
+            "source": "Local News 8",
+            "url": "https://localnews8.com/news/2026/10/13/early-voting-starts-today-in-several-idaho-counties/",
+            "date": "2026-10-13",
+            "summary": "Early voting began Oct. 13 in several Idaho counties ahead of the Nov. 3 general election, with remaining counties starting Oct. 19."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Early voting starts this week in Iowa. Here's what you need to know",
+            "source": "Iowa Public Radio",
+            "url": "https://www.iowapublicradio.org/political-news/2026-10-12/what-you-need-to-know-early-voting-iowa-2026-election",
+            "date": "2026-10-12",
+            "summary": "Iowa's early in-person absentee voting opened Oct. 14 ahead of the Nov. 3 election, the first cycle in 58 years with open-seat races for governor and U.S. Senate together."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas election officials prepare for national spotlight as voter registration deadline arrives",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/10/13/kansas-election-officials-prepare-national-spotlight-voter-registration-deadline-looms/",
+            "date": "2026-10-12",
+            "summary": "Kansas's voter registration deadline for the Nov. 3 general election closed Oct. 13, with a competitive Senate race and a citizenship ballot measure drawing attention."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Tuesday is the deadline for Louisiana residents to register online for upcoming election",
+            "source": "KTBS",
+            "url": "https://ktbs.com/news/arklatex-politics/tuesday-is-the-deadline-for-louisiana-residents-to-register-online-for-upcoming-election/article_93c461a3-27b7-4eec-8431-f76bdf01b9f3.html",
+            "date": "2026-10-13",
+            "summary": "Louisiana's online voter registration deadline for the Nov. 3 election was Tuesday, Oct. 13; in-person and mail registration had already closed Oct. 5."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland to start canvassing mail-in ballots Oct. 13 ahead of early voting",
+            "source": "WJLA",
+            "url": "https://wjla.com/news/local/maryland-start-canvassing-mail-in-ballots-early-voting",
+            "date": "2026-10-12",
+            "summary": "Maryland local election boards began reviewing and counting mail-in ballots for the November governor's race on Oct. 13, ahead of early voting opening Oct. 22."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Three weeks before Election Day, 6% of Michigan's active registered voters have already cast their ballot",
+            "source": "Michigan Department of State",
+            "url": "https://www.michigan.gov/sos/resources/news/2026/10/13/three-weeks-before-election-day-6-percent-of-voters-have-already-cast-their-ballot",
+            "date": "2026-10-13",
+            "summary": "Michigan's Secretary of State reported more than 440,000 voters had already returned ballots for the Nov. 3 election, with online registration closing Oct. 19."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Early voting surges in Minnesota ahead of the Nov. 3 election",
+            "source": "MPR News",
+            "url": "https://www.mprnews.org/story/2026/10/09/early-voting-surges-in-minnesota-head-of-the-nov-3-election",
+            "date": "2026-10-09",
+            "summary": "Minnesota absentee voting is outpacing the 2022 midterm pace ahead of the Nov. 3 general election, following a U.S. Supreme Court ruling against new federal mail-ballot restrictions."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Callais decision complicates Mississippi elections ahead of 2027",
+            "source": "Meridian Star",
+            "url": "https://meridianstar.com/2026/10/13/callais-decision-complicates-mississippi-elections-ahead-of-2027",
+            "date": "2026-10-13",
+            "summary": "A Supreme Court ruling raising the evidentiary bar for Voting Rights Act claims complicates Mississippi redistricting, as Gov. Tate Reeves has not called a special session to redraw districts."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Voter registration deadline for Missouri general election is Wednesday",
+            "source": "KOMU",
+            "url": "https://www.komu.com/news/elections/voter-registration-deadline-for-missouri-general-election-is-wednesday/article_ee137342-640e-49e1-b041-c33dfd9a3080.html",
+            "date": "2026-10-06",
+            "summary": "Missouri's voter registration deadline for the Nov. 3 general election was Wednesday, Oct. 7, with residents able to register online or in person."
+          }
+        ],
+        "MT": [
+          {
+            "title": "AARP Montana launches nonpartisan voter guide",
+            "source": "Yellowstone Public Radio",
+            "url": "https://ypradio.org/government-politics/2026-10-12/aarp-montana-launches-nonpartisan-voter-guide",
+            "date": "2026-10-12",
+            "summary": "AARP Montana released a nonpartisan voter guide to help residents navigate early voting ahead of the Nov. 3 general election."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Douglas County Election Commission shares registration deadlines for 2026 Gubernatorial Election",
+            "source": "WOWT",
+            "url": "https://wowt.com/2026/10/13/douglas-county-election-commission-shares-registration-deadlines-2026-gubernatorial-election",
+            "date": "2026-10-13",
+            "summary": "Douglas County election officials published registration deadlines and early-voting information ahead of Nebraska's Nov. 3 general election."
+          }
+        ],
+        "NV": [
+          {
+            "title": "For voters, Nevada's new in person process will look like the old one",
+            "source": "KUNR",
+            "url": "https://kunr.org/local-stories/2026-10-13/for-voters-nevadas-new-in-person-process-will-look-like-the-old-one",
+            "date": "2026-10-13",
+            "summary": "Nevada election officials say new ballot-marking devices for the Nov. 3 election will largely preserve the familiar in-person voting experience."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Over 21,000 ballots cast in first week of New Mexico early voting",
+            "source": "Yahoo News",
+            "url": "https://www.yahoo.com/news/politics/articles/over-21-000-ballots-cast-090556207.html",
+            "date": "2026-10-13",
+            "summary": "New Mexico's first week of early voting for the Nov. 3 general election produced more than 21,000 ballots, with Democrats casting more than double the Republican total."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Hochul and Blakeman get ready to face off in debate",
+            "source": "NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/10/09/hochul-and-blakeman-get-ready-to-face-off-in-debate",
+            "date": "2026-10-09",
+            "summary": "Gov. Kathy Hochul and Republican challenger Bruce Blakeman prepared for their sole gubernatorial debate ahead of New York's Nov. 3 election."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Early in-person voting begins this week in North Carolina for November midterms: What to know",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/12/early-in-person-voting-begins-north-carolina-this-week-what-know/",
+            "date": "2026-10-12",
+            "summary": "North Carolina's early in-person voting period opens Oct. 15 and runs through Oct. 31 ahead of the Nov. 3 general election, with same-day registration available."
+          }
+        ],
+        "ND": [
+          {
+            "title": "Some counties are preparing for early voting ahead of the midterm election",
+            "source": "KFYR-TV",
+            "url": "https://www.kfyrtv.com/2026/10/10/some-counties-are-preparing-early-voting-ahead-midterm-election/",
+            "date": "2026-10-09",
+            "summary": "Several North Dakota counties are preparing in-person early voting locations ahead of the Nov. 3 general election, while absentee voting is already underway."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio voters are deeply concerned about corruption, poll shows",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/10/13/ohio-voters-are-deeply-concerned-about-corruption-poll-shows",
+            "date": "2026-10-13",
+            "summary": "A new poll finds Ohio voters widely concerned about corruption heading into the Nov. 3 election, as early voting shows strong turnout."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Voter Portal Fails on Deadline Day, Leaving Oklahomans Unable to Register for November Election",
+            "source": "News 9 / Oklahoma Watch",
+            "url": "https://www.news9.com/oklahoma-city-news/voter-portal-fails-on-deadline-day-leaving-oklahomans-unable-to-register-for-november-election",
+            "date": "2026-10-11",
+            "summary": "Oklahoma's online voter registration system failed on the Oct. 9 deadline day for the Nov. 3 election, forcing would-be registrants to mail paper forms."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Oregon elections chief urges early voting as test of USPS service shows slow mail service",
+            "source": "Oregon Capital Chronicle",
+            "url": "https://oregoncapitalchronicle.com/2026/10/13/oregon-elections-chief-urges-early-voting-as-test-of-usps-service-shows-slow-mail-service/",
+            "date": "2026-10-13",
+            "summary": "Oregon's Secretary of State urged voters to return ballots early after a state test found slow mail delivery in rural counties ahead of the Nov. 3 election."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Rhode Island officials seek to reassure voters ahead of midterm elections",
+            "source": "Rhode Island Current",
+            "url": "https://rhodeislandcurrent.com/2026/10/13/rhode-island-officials-seek-to-reassure-voters-ahead-of-midterm-elections/",
+            "date": "2026-10-13",
+            "summary": "Rhode Island election officials said voting sites and equipment are ready as early voting begins ahead of the Nov. 3 general election."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Early voting in South Carolina for November midterms begins next week: What to know",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/13/early-voting-south-carolina-general-election-begins-next-week-what-know/",
+            "date": "2026-10-12",
+            "summary": "South Carolina's early voting period opens Oct. 19 and runs through Oct. 31 ahead of the Nov. 3 general election; voter registration closed Oct. 4."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Tennessee Republicans urge base to 'hold the line' despite economic pressures during Trump visit",
+            "source": "Tennessee Lookout",
+            "url": "https://tennesseelookout.com/2026/10/13/tennessee-republicans-urge-base-to-hold-the-line-despite-economic-pressures-during-trump-visit",
+            "date": "2026-10-13",
+            "summary": "Tennessee Republicans rallied with President Trump in Clarksville as early voting opened ahead of the Nov. 3 general election."
+          }
+        ],
+        "TX": [
+          {
+            "title": "New Texas Senate poll shows Republicans gaining as early voting nears",
+            "source": "Yahoo News",
+            "url": "https://www.yahoo.com/news/politics/articles/texas-senate-poll-shows-republicans-153537333.html",
+            "date": "2026-10-13",
+            "summary": "A new poll shows Democrat James Talarico's lead over Republican Ken Paxton narrowing to within the margin of error as early voting approaches in Texas."
+          }
+        ],
+        "UT": [
+          {
+            "title": "General election ballots to be mailed out this week",
+            "source": "Deseret News",
+            "url": "https://www.deseret.com/utah/2026/10/13/general-election-ballots-to-be-mailed-out-this-week/",
+            "date": "2026-10-13",
+            "summary": "Utah began mailing general election ballots Oct. 13, with clerks urging voters to use drop boxes rather than rely solely on mail delivery."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont general election ballots mailed later than expected",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2026/10/09/vermont-general-election-ballots-mailed-later-than-expected/",
+            "date": "2026-10-09",
+            "summary": "Vermont mailed general election ballots to all registered voters a week late after the Secretary of State cited printing press problems."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Virginia AG launches voter protection unit ahead of midterm elections",
+            "source": "Virginia Mercury",
+            "url": "https://virginiamercury.com/2026/10/13/virginia-ag-launches-voter-protection-unit-ahead-of-midterm-elections/",
+            "date": "2026-10-13",
+            "summary": "Virginia Attorney General Jay Jones announced a new Voter Protection Section to investigate voting rights violations ahead of the Nov. 3 election."
+          }
+        ],
+        "WA": [
+          {
+            "title": "WA 2026 general election: Key races, ballot updates, more",
+            "source": "FOX 13 Seattle",
+            "url": "https://www.fox13seattle.com/news/general-election-guide",
+            "date": "2026-10-08",
+            "summary": "A voter guide covers Washington's Nov. 3 general election, including competitive U.S. House races and statewide ballot initiatives, as ballots prepare to go out Oct. 16."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Tuesday is last day to register to vote in West Virginia for the general election",
+            "source": "West Virginia Watch",
+            "url": "https://westvirginiawatch.com/2026/10/12/tuesday-is-last-day-to-register-to-vote-in-west-virginia-for-the-general-election/",
+            "date": "2026-10-12",
+            "summary": "West Virginia's voter registration deadline for the Nov. 3 general election was Tuesday, Oct. 13, with early voting opening Oct. 21."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin governor race: Candidates campaign in Elm Grove, Racine",
+            "source": "FOX6 News Milwaukee",
+            "url": "https://www.fox6now.com/news/wisconsin-governor-race-candidates-campaign-elm-grove-racine",
+            "date": "2026-10-09",
+            "summary": "With about 25 days until the Nov. 3 election, Republican Tom Tiffany and Democrat David Crowley campaigned across Wisconsin on taxes and public safety."
+          }
+        ],
+        "DC": [
+          {
+            "title": "D.C. Elections Board Asks National Guard to Stay Away From Ballot Drop Boxes",
+            "source": "The Washington Sun",
+            "url": "https://www.washingtonsun.com/metro/national-guard-dc-ballot-boxes",
+            "date": "2026-10-09",
+            "summary": "D.C.'s Board of Elections asked National Guard troops to keep distance from ballot drop boxes after members were filmed near a Foggy Bottom site ahead of the Nov. 3 election."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Illinois election officials share key reminder about mail-in voting",
+            "source": "NBC Chicago",
+            "url": "https://www.nbcchicago.com/news/local/chicago-politics/illinois-election-officials-share-key-reminder-about-mail-in-voting/3998620/",
+            "date": "2026-10-06",
+            "summary": "Illinois officials warned that USPS is now postmarking mail after processing, which could delay ballots and keep them from being counted for the Nov. 3 election."
+          }
+        ]
+      }
     }
   ]
 }
