@@ -34752,6 +34752,91 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-14",
+      "time": "06:00",
+      "states": {
+        "MA": [
+          {
+            "title": "Question 4: Mass. voters to decide on Election Day voter registration",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/10/13/massachusetts-question-4-same-day-voting-ballot-registration",
+            "date": "2026-10-13",
+            "summary": "Massachusetts voters will decide Question 4, which would let eligible citizens register and vote at their polling place on Election Day starting January 1, 2028; supporters say it expands access for renters and students while opponents warn of fraud risks and strain on poll workers."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Minnesota adopts 'war room mentality' for election",
+            "source": "MinnPost (via Eden Prairie Local News)",
+            "url": "https://eplocalnews.org/2026/10/13/minnesota-adopts-war-room-mentality-for-election/",
+            "date": "2026-10-13",
+            "summary": "Minnesota Secretary of State Steve Simon says the state is coordinating with local agencies and county election offices to prepare for possible disruptions before the Nov. 3 election, noting the federal government is no longer partnering with the state on election security."
+          }
+        ],
+        "NC": [
+          {
+            "title": "NC elections board to notify 1,392 voters flagged as potential non-citizens",
+            "source": "WECT",
+            "url": "https://www.wect.com/2026/10/13/nc-elections-board-notify-1392-voters-flagged-potential-non-citizens/",
+            "date": "2026-10-13",
+            "summary": "The North Carolina State Board of Elections is sending letters to 1,392 registered voters flagged as potential non-citizens through a federal database, explaining how to verify citizenship or request removal; the board says no one will be removed based solely on that data."
+          },
+          {
+            "title": "Poll worker markings on ballots will not invalidate them, officials say",
+            "source": "WUNC",
+            "url": "https://www.wunc.org/2026-10-13/poll-worker-markings-on-ballots-will-not-invalidate-them-officials-say",
+            "date": "2026-10-13",
+            "summary": "North Carolina State Board of Elections officials pushed back on online claims that poll worker marks void a ballot, saying such markings are often required by state law."
+          }
+        ],
+        "OK": [
+          {
+            "title": "OK State Election Board evacuated after receiving envelope of white powder",
+            "source": "Free Press OKC",
+            "url": "https://freepressokc.com/ok-state-election-board-evacuated-after-receiving-envelope-of-white-powder/",
+            "date": "2026-10-13",
+            "summary": "Staff at the Oklahoma State Election Board were evacuated after an envelope containing suspicious white powder arrived at the State Capitol; officials said no one was harmed and the incident would not affect the state's ability to run elections."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Department of Justice charges 4 more noncitizens in Pennsylvania with voting in the 2024 election",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/10/13/department-of-justice-noncitizen-voting-2024-election-charges/",
+            "date": "2026-10-13",
+            "summary": "The U.S. Department of Justice charged four more Pennsylvania residents with noncitizen voting in the 2024 election, bringing the state's total to 11 such cases since September, though the article notes no evidence the cases are connected or that such fraud is widespread."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Clarendon County elections board hires new director, withholds name",
+            "source": "WIS-TV",
+            "url": "https://www.wistv.com/2026/10/14/clarendon-county-elections-board-hires-new-director-withholds-name/",
+            "date": "2026-10-14",
+            "summary": "The Clarendon County Board of Voter Registration and Elections unanimously hired a new elections director after the previous director was terminated, approving a $57,000 salary and withholding the new hire's name pending onboarding."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Voting rights groups sue Texas over failure to process more than 500,000 voter registrations",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/texas/2026/10/14/voting-rights-groups-sue-over-dps-voter-registration-error/",
+            "date": "2026-10-14",
+            "summary": "The League of Women Voters of Texas and MOVE Texas Civic Fund sued in Bexar County to force the state to fix a software error that left at least 500,000 online voter registration records from the Department of Public Safety unprocessed before the November midterms."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin officials can count ballots that arrive late over official errors, judge rules",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/10/13/late-arriving-ballots-can-count-if-officials-make-mistakes/",
+            "date": "2026-10-13",
+            "summary": "A Dane County judge ruled that Wisconsin clerks may count ballots that were in a municipality's possession by 8 p.m. on Election Day but arrived at polling places late due to election official errors, stemming from a case involving delayed Madison ballots."
+          }
+        ]
+      }
     }
   ]
 }
