@@ -34852,6 +34852,21 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-15",
+      "time": "06:00",
+      "states": {
+        "NJ": [
+          {
+            "title": "Judge refuses to halt Ocean County voter challenges in Bay Head",
+            "source": "New Jersey Globe",
+            "url": "https://newjerseyglobe.com/local/judge-refuses-to-halt-ocean-county-voter-challenges-in-bay-head/",
+            "date": "2026-10-13",
+            "summary": "A Mercer County judge declined to block the Ocean County Board of Elections' investigation into the voting eligibility of 37 Bay Head residents, rejecting an ACLU of New Jersey bid that called the probe a partisan effort targeting Democratic and unaffiliated voters."
+          }
+        ]
+      }
     }
   ]
 }
