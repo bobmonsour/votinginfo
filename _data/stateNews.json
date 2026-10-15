@@ -34837,6 +34837,21 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-14",
+      "time": "17:00",
+      "states": {
+        "NJ": [
+          {
+            "title": "New Jersey voters sue after GOP officials target Democrats for removal ahead of midterms",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/new-jersey-voters-sue-after-gop-officials-target-democrats-for-removal-ahead-of-midterms/",
+            "date": "2026-10-08",
+            "summary": "The League of Women Voters of New Jersey and three Bay Head residents sued the Ocean County Board of Elections and its chairman, alleging a GOP-led effort to challenge the eligibility of 39 flagged voters, all Democrats or unaffiliated, ahead of the Nov. 3 election."
+          }
+        ]
+      }
     }
   ]
 }
