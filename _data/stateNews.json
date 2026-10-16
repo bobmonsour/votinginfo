@@ -34872,6 +34872,21 @@
       "date": "2026-10-15",
       "time": "17:00",
       "states": {}
+    },
+    {
+      "date": "2026-10-16",
+      "time": "06:00",
+      "states": {
+        "DC": [
+          {
+            "title": "Judge strikes down Justice Department policy to use voter rolls for citizenship checks",
+            "source": "TheGrio",
+            "url": "https://thegrio.com/2026/10/10/doj-voter-roll-policy-judge-ruling/",
+            "date": "2026-10-10",
+            "summary": "A federal judge in Washington vacated the Justice Department's nationwide Voter List Maintenance Policy, ruling the agency lacked legal authority to collect and use state voter data to screen for noncitizens weeks before the midterms."
+          }
+        ]
+      }
     }
   ]
 }
