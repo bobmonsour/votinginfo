@@ -2,9 +2,24 @@
   "date": "2026-10-16",
   "items": [
     {
-      "text": "Federal judge vacates DOJ's nationwide voter-roll citizenship-check policy",
-      "url": "https://thegrio.com/2026/10/10/doj-voter-roll-policy-judge-ruling/",
-      "abbr": "DC"
+      "text": "Georgia shatters midterm early-voting record with 190,000 first-day ballots",
+      "url": "https://www.fox5atlanta.com/news/georgia-early-voting-sets-record-more-than-188k-voters.amp",
+      "abbr": "GA"
+    },
+    {
+      "text": "Indiana secretary of state hopefuls clash over noncitizen voting, spending audit",
+      "url": "https://www.insideindianabusiness.com/articles/sharp-divides-in-indiana-secretary-of-state-debate-over-noncitizen-vote-spending-audit",
+      "abbr": "IN"
+    },
+    {
+      "text": "Early voting opens in North Carolina's Cape Fear region ahead of Nov. 3",
+      "url": "https://www.wect.com/2026/10/14/vote-2026-where-when-vote-early-cape-fear-region/",
+      "abbr": "NC"
+    },
+    {
+      "text": "Tennessee early voting underway for governor, Senate and House races",
+      "url": "https://www.wsmv.com/2026/10/14/election-2026-early-voting-tennessees-november-3-general-election-is-underway/",
+      "abbr": "TN"
     }
   ]
 }

@@ -34887,6 +34887,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:00",
+      "states": {
+        "GA": [
+          {
+            "title": "Georgia early voting sets record with more than 190K voters",
+            "source": "Fox 5 Atlanta",
+            "url": "https://www.fox5atlanta.com/news/georgia-early-voting-sets-record-more-than-188k-voters.amp",
+            "date": "2026-10-14",
+            "summary": "Georgia's first day of early in-person voting for the November midterm drew roughly 190,000 voters, about 55,000 more than the 2022 midterm's opening day, with the Secretary of State projecting turnout could approach 2022's nearly 4 million votes."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Sharp divides in Indiana secretary of state debate over noncitizen vote, spending audit",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://www.insideindianabusiness.com/articles/sharp-divides-in-indiana-secretary-of-state-debate-over-noncitizen-vote-spending-audit",
+            "date": "2026-10-08",
+            "summary": "The four candidates for Indiana secretary of state clashed in a debate over blocking noncitizen voting and over calls for an independent audit of the current office's spending."
+          }
+        ],
+        "NC": [
+          {
+            "title": "VOTE 2026: Where and when to vote early in the Cape Fear region",
+            "source": "WECT",
+            "url": "https://www.wect.com/2026/10/14/vote-2026-where-when-vote-early-cape-fear-region/",
+            "date": "2026-10-14",
+            "summary": "Early voting for North Carolina's November general election opened October 15, and this guide lists early voting sites and hours across New Hanover, Brunswick, Pender, Columbus, and Bladen counties."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Election 2026: Early voting for Tennessee's November 3 general election is underway",
+            "source": "WSMV",
+            "url": "https://www.wsmv.com/2026/10/14/election-2026-early-voting-tennessees-november-3-general-election-is-underway/",
+            "date": "2026-10-14",
+            "summary": "Early voting began October 14 for Tennessee's November 3 general election, with races for governor, U.S. Senate and House, and state legislature, plus three proposed constitutional amendments on the ballot."
+          }
+        ]
+      }
     }
   ]
 }
