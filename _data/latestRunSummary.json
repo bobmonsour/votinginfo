@@ -1,25 +1,45 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-19",
   "items": [
     {
-      "text": "Georgia shatters midterm early-voting record with 190,000 first-day ballots",
-      "url": "https://www.fox5atlanta.com/news/georgia-early-voting-sets-record-more-than-188k-voters.amp",
+      "text": "Missouri voters face a crowded slate of ballot amendments on sheriffs, taxes and lawmaking power",
+      "url": "https://missouriindependent.com/2026/10/16/missouris-constitutional-sheriff-push-reaches-voters-with-amendment-8/",
+      "abbr": "MO"
+    },
+    {
+      "text": "Montana's open U.S. House race shifts to toss-up status as analysts move the line",
+      "url": "https://dailymontanan.com/2026/10/17/analysts-shift-western-montana-congressional-district-to-toss-up-status/",
+      "abbr": "MT"
+    },
+    {
+      "text": "Mississippi Senate race draws national Democratic star power for challenger Scott Colom",
+      "url": "https://mississippitoday.org/2026/10/14/sen-raphael-warnock-says-scott-colom-could-flip-senate-seat-democratic-like-his-georgia-upset/",
+      "abbr": "MS"
+    },
+    {
+      "text": "Wisconsin's open governor's race tightens between Crowley and Tiffany",
+      "url": "https://politicalwire.com/2026/10/16/crowley-leads-tiffany-in-wisconsin-governors-race-2/",
+      "abbr": "WI"
+    },
+    {
+      "text": "Arkansas election officials forecast roughly 50% turnout for the midterm",
+      "url": "https://www.arkansasonline.com/news/2026/oct/17/solid-turnout-forecast-for-early-voting-in/",
+      "abbr": "AR"
+    },
+    {
+      "text": "Thousands of Utah voters risk a federal-only ballot over a missed citizenship-proof deadline",
+      "url": "https://utahnewsdispatch.com/2026/10/15/utah-voters-need-to-prove-citizenship-under-new-law-fewer-than-2000-responded/",
+      "abbr": "UT"
+    },
+    {
+      "text": "South Carolina Democrats rally with Sen. Warnock as early voting opens",
+      "url": "https://scdailygazette.com/2026/10/16/sc-democrats-rally-with-georgia-us-senator-ahead-of-early-voting/",
+      "abbr": "SC"
+    },
+    {
+      "text": "Georgia's early-voting record keeps climbing past 180,000 first-day ballots",
+      "url": "https://politicalwire.com/2026/10/15/georgia-early-voting-sets-record-on-first-day/",
       "abbr": "GA"
-    },
-    {
-      "text": "Indiana secretary of state hopefuls clash over noncitizen voting, spending audit",
-      "url": "https://www.insideindianabusiness.com/articles/sharp-divides-in-indiana-secretary-of-state-debate-over-noncitizen-vote-spending-audit",
-      "abbr": "IN"
-    },
-    {
-      "text": "Early voting opens in North Carolina's Cape Fear region ahead of Nov. 3",
-      "url": "https://www.wect.com/2026/10/14/vote-2026-where-when-vote-early-cape-fear-region/",
-      "abbr": "NC"
-    },
-    {
-      "text": "Tennessee early voting underway for governor, Senate and House races",
-      "url": "https://www.wsmv.com/2026/10/14/election-2026-early-voting-tennessees-november-3-general-election-is-underway/",
-      "abbr": "TN"
     }
   ]
 }

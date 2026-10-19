@@ -34929,6 +34929,276 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-19",
+      "time": "06:00",
+      "states": {
+        "AR": [
+          {
+            "title": "Solid turnout forecast for early voting in Arkansas, with total participation estimated at 50%",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/oct/17/solid-turnout-forecast-for-early-voting-in/",
+            "date": "2026-10-17",
+            "summary": "The Arkansas secretary of state's office projects about 920,000 of the state's 1.85 million registered voters, roughly 50%, will cast ballots in the Nov. 3 general election, based on average midterm turnout over the past 16 years."
+          },
+          {
+            "title": "Know before you go: How to find your polling place",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/oct/16/know-before-you-go-how-to-find-your-polling-place/",
+            "date": "2026-10-16",
+            "summary": "Explains how Arkansas voters can find their assigned polling place through the Secretary of State's VoterView site, plus early voting dates and hours for the Nov. 3 midterms."
+          },
+          {
+            "title": "Know before you go: Election laws",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/oct/16/know-before-you-go-election-laws/",
+            "date": "2026-10-16",
+            "summary": "Covers Arkansas election rules ahead of the Nov. 3 midterm, including 2025 laws on Election Day registration updates for movers, ID and age requirements for voter assistants, and absentee witness rules."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia Early Voting Sets Record On First Day",
+            "source": "Political Wire",
+            "url": "https://politicalwire.com/2026/10/15/georgia-early-voting-sets-record-on-first-day/",
+            "date": "2026-10-15",
+            "summary": "More than 180,000 Georgians cast ballots on the first day of early voting for the Nov. 3 general election, about 55,000 more than the same day in 2022, setting a new midterm early-voting record."
+          }
+        ],
+        "IA": [
+          {
+            "title": "What to know as early voting begins in Iowa for 2026 general election",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/10/14/what-to-know-as-early-voting-begins-in-iowa-for-2026-general-election/",
+            "date": "2026-10-14",
+            "summary": "Covers Iowa's Oct. 14 early-voting start, absentee ballot deadlines, and ID and registration rules for the Nov. 3 general election."
+          },
+          {
+            "title": "U.S. Rep. Zach Nunn reignites talks of 3rd District debate as early voting begins",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/10/14/u-s-rep-zach-nunn-reignites-talks-of-3rd-district-debate-as-early-voting-begins/",
+            "date": "2026-10-14",
+            "summary": "U.S. Rep. Zach Nunn and challenger Christina Bohannan Trone Garriott agreed to an Oct. 27 debate in Iowa's 3rd Congressional District after earlier talks stalled."
+          },
+          {
+            "title": "Iowa colleges and universities host early voting places for students, community",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/10/14/iowa-colleges-and-universities-host-early-voting-places-for-students-community/",
+            "date": "2026-10-14",
+            "summary": "Several Iowa universities, including the University of Iowa, Iowa State, and Grinnell College, are hosting early voting sites for the Nov. 3 general election."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Court of Appeals and Tax Court judges are on the ballot for retention",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/10/13/court-of-appeals-and-tax-court-judges-are-on-the-ballot-for-retention/",
+            "date": "2026-10-13",
+            "summary": "Indiana voters will decide whether to retain Court of Appeals Judges Mary DeBoer and Paul Felix, Judge Dana Kenworthy, and Tax Court Judge Justin McAdam on the Nov. 3 ballot."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Highest monthly total of new voters since 2024 register to vote in Kentucky elections",
+            "source": "Kentucky Lantern",
+            "url": "https://kentuckylantern.com/2026/10/02/highest-monthly-total-of-new-voters-since-2024-register-to-vote-in-kentucky-elections/",
+            "date": "2026-10-02",
+            "summary": "Kentucky saw its highest monthly total of new voter registrations since 2024 ahead of the Nov. 3 general election, which includes an open U.S. Senate race."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri voters will decide whether to create a sovereign wealth fund",
+            "source": "Missouri Independent",
+            "url": "https://missouriindependent.com/2026/10/12/missouri-voters-will-decide-whether-to-create-a-sovereign-wealth-fund/",
+            "date": "2026-10-12",
+            "summary": "Amendment 7 on the Nov. 3 ballot would create a sovereign wealth fund that supporters say could eventually help eliminate state taxes."
+          },
+          {
+            "title": "Amendment 6 would remake balance of power between Missouri voters and lawmakers",
+            "source": "Missouri Independent",
+            "url": "https://missouriindependent.com/2026/10/14/amendment-6-would-remake-balance-of-power-between-missouri-voters-and-lawmakers/",
+            "date": "2026-10-14",
+            "summary": "Amendment 6 would require 80% supermajorities in both legislative chambers before lawmakers could alter voter-passed ballot initiatives."
+          },
+          {
+            "title": "Missouri Democrats aim to break Republicans' streak of House supermajorities",
+            "source": "Missouri Independent",
+            "url": "https://missouriindependent.com/2026/10/15/missouri-democrats-aim-to-break-republicans-streak-of-house-supermajorities/",
+            "date": "2026-10-15",
+            "summary": "Democrats are contesting 158 Missouri House seats to Republicans' 134, needing just three seats to break the GOP's streak of seven consecutive supermajority wins."
+          },
+          {
+            "title": "Missouri's 'constitutional sheriff' push reaches voters with Amendment 8",
+            "source": "Missouri Independent",
+            "url": "https://missouriindependent.com/2026/10/16/missouris-constitutional-sheriff-push-reaches-voters-with-amendment-8/",
+            "date": "2026-10-16",
+            "summary": "Amendment 8 on the Nov. 3 ballot would make the elected office of county sheriff a requirement under the Missouri Constitution."
+          },
+          {
+            "title": "Missouri Democrats gain ground in polls, but congressional races remain uphill battles",
+            "source": "Missouri Independent",
+            "url": "https://missouriindependent.com/2026/10/19/missouri-democrats-gain-ground-in-polls-but-congressional-races-remain-uphill-battles/",
+            "date": "2026-10-19",
+            "summary": "Missouri Democrats have gained ground statewide in polling, but only the 2nd Congressional District among the state's eight U.S. House races has drawn significant competitive spending."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Sen. Raphael Warnock says Scott Colom could flip Senate seat Democratic like his Georgia upset",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/10/14/sen-raphael-warnock-says-scott-colom-could-flip-senate-seat-democratic-like-his-georgia-upset/",
+            "date": "2026-10-14",
+            "summary": "Sen. Raphael Warnock campaigned in Jackson for Democratic Senate nominee Scott Colom against incumbent Cindy Hyde-Smith, arguing Mississippi could flip Democratic like Georgia did."
+          },
+          {
+            "title": "Kamala Harris to campaign in Columbus for Scott Colom",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/10/14/kamala-harris-to-campaign-in-columbus-for-scott-colom/",
+            "date": "2026-10-14",
+            "summary": "Former Vice President Kamala Harris is scheduled to campaign for Senate candidate Scott Colom in Columbus, Mississippi on Oct. 22."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Flint, Forstag trade barbs during debate for Montana's open Congressional seat",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/10/14/flint-forstag-trade-barbs-during-debate-for-montanas-open-congressional-seat/",
+            "date": "2026-10-14",
+            "summary": "Republican Aaron Flint and Democrat Sam Forstag clashed in a debate for Montana's open U.S. House seat."
+          },
+          {
+            "title": "Trump announces 'super range' military installment on stump for Montana GOP candidates",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/10/15/trump-announces-super-range-military-installment-on-stump-for-montana-gop-candidates/",
+            "date": "2026-10-15",
+            "summary": "During a Kalispell rally for GOP candidates Aaron Flint and Kurt Alme, President Trump announced a new military testing 'super range' in Montana."
+          },
+          {
+            "title": "Analysts shift western Montana congressional district to toss-up status",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/10/17/analysts-shift-western-montana-congressional-district-to-toss-up-status/",
+            "date": "2026-10-17",
+            "summary": "Fox News, the Cook Political Report and Inside Elections all moved Montana's western congressional race between Forstag and Flint to toss-up status this week."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina voters facing big decisions in 2026 election: What's on the ballot",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/16/north-carolina-voters-facing-big-decisions-2026-election-whats-ballot/",
+            "date": "2026-10-16",
+            "summary": "Overview of North Carolina's Nov. 3 ballot, including the open U.S. Senate seat (Cooper vs. Whatley), a state Supreme Court race, and a statewide voter-ID constitutional amendment."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "NJ's hottest congressional race not short on cash",
+            "source": "NJ Spotlight News",
+            "url": "https://www.njspotlightnews.org/2026/10/njs-hottest-congressional-race-not-short-on-cash/",
+            "date": "2026-10-15",
+            "summary": "New Jersey's 7th District House race has drawn roughly $14.4 million in Republican spending alone since Aug. 1, making it the state's most expensive congressional contest."
+          }
+        ],
+        "NM": [
+          {
+            "title": "New Mexico AG, Secretary of State issue voter advisory for Nov. 3 general election",
+            "source": "Source New Mexico",
+            "url": "https://sourcenm.com/2026/10/14/new-mexico-ag-secretary-of-state-issue-voter-advisory-for-nov-3-general-election/",
+            "date": "2026-10-14",
+            "summary": "New Mexico's Attorney General and Secretary of State jointly issued a voter advisory covering key dates, polling-place rules, and voter rights ahead of the Nov. 3 general election."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Hochul, Blakeman talk debate performance after clash on NY1",
+            "source": "NY1",
+            "url": "https://ny1.com/nyc/all-boroughs/politics/2026/10/14/kathy-hochul-bruce-blakeman-debate",
+            "date": "2026-10-14",
+            "summary": "Gov. Kathy Hochul and Republican challenger Bruce Blakeman gave dueling assessments of their Oct. 13 gubernatorial debate, which focused on Trump, immigration, and affordability."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio early vote way up compared to 2022 but absentee ballot requests are down",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/10/15/ohio-early-vote-way-up-compared-to-2022-but-absentee-ballot-requests-are-down/",
+            "date": "2026-10-15",
+            "summary": "Ohio's early in-person voting is running well ahead of 2022 levels for the Nov. 3 midterm, while absentee ballot requests have dropped by almost a quarter million."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Election 2026: What you need to know about Oregon and Southwest Washington's biggest races",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/10/14/election-2026-what-to-know-oregon-southwest-washington-races/",
+            "date": "2026-10-14",
+            "summary": "Overview of Oregon's close governor's race between Christine Drazan and Tina Kotek, plus Washington's 3rd Congressional District, which could affect U.S. House control."
+          }
+        ],
+        "PA": [
+          {
+            "title": "PA election 2026: Your guide to voting on Nov. 3",
+            "source": "Spotlight PA",
+            "url": "https://www.spotlightpa.org/news/2026/10/pennsylvania-general-election-day-2026-voter-information-registration-elections/",
+            "date": "2026-10-19",
+            "summary": "Guide to Pennsylvania's Nov. 3 general election, including the Shapiro-Garrity governor's race and all 17 congressional districts on the ballot."
+          }
+        ],
+        "SC": [
+          {
+            "title": "SC Democrats rally with Georgia US senator ahead of early voting",
+            "source": "SC Daily Gazette",
+            "url": "https://scdailygazette.com/2026/10/16/sc-democrats-rally-with-georgia-us-senator-ahead-of-early-voting/",
+            "date": "2026-10-16",
+            "summary": "South Carolina Democrats rallied with Georgia Sen. Raphael Warnock ahead of early voting for the Nov. 3 special U.S. Senate election and governor's race."
+          },
+          {
+            "title": "2 weeks of early voting in SC is underway",
+            "source": "SC Daily Gazette",
+            "url": "https://scdailygazette.com/2026/10/19/2-weeks-of-early-voting-in-sc-is-underway/",
+            "date": "2026-10-19",
+            "summary": "South Carolina's two-week early voting period for the Nov. 3 election began, running through Oct. 31 with no voting on Oct. 25."
+          }
+        ],
+        "SD": [
+          {
+            "title": "South Dakota's federal-only voter list grows to nearly 6,000, surprising some who are on it",
+            "source": "South Dakota Searchlight",
+            "url": "https://southdakotasearchlight.com/2026/10/13/south-dakotas-federal-only-voter-list-grows-to-nearly-6000-surprising-some-who-are-on-it/",
+            "date": "2026-10-13",
+            "summary": "New state laws have grown South Dakota's federal-only voter list to 5,735 people who may vote only in the U.S. House and Senate races on Nov. 3."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Of about 6K Utah voters needing to prove citizenship under new law, fewer than 2K have responded",
+            "source": "Utah News Dispatch",
+            "url": "https://utahnewsdispatch.com/2026/10/15/utah-voters-need-to-prove-citizenship-under-new-law-fewer-than-2000-responded/",
+            "date": "2026-10-15",
+            "summary": "Under Utah's HB209, fewer than 2,000 of 6,191 voters notified they must prove citizenship had responded as of Oct. 15, risking a federal-only ballot for the rest."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Voting underway in Washington in the midterm election",
+            "source": "Washington State Standard",
+            "url": "https://washingtonstatestandard.com/2026/10/14/voting-underway-in-washington-in-the-midterm-election/",
+            "date": "2026-10-14",
+            "summary": "Washington's Nov. 3 midterm ballots are out, with all 10 U.S. House seats, 98 state House seats, and five state Supreme Court seats up for election."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Crowley Leads Tiffany in Wisconsin Governor's Race",
+            "source": "Political Wire",
+            "url": "https://politicalwire.com/2026/10/16/crowley-leads-tiffany-in-wisconsin-governors-race-2/",
+            "date": "2026-10-16",
+            "summary": "A City Forward Collective/YouGov poll shows Democrat David Crowley leading Republican Tom Tiffany 46%-42% in Wisconsin's open governor's race."
+          }
+        ]
+      }
     }
   ]
 }
