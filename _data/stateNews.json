@@ -35199,6 +35199,435 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-19",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Early voting opens in Alaska's midterm elections",
+            "source": "KTOO",
+            "url": "https://www.ktoo.org/2026/10/19/early-voting-opens-in-alaskas-midterm-elections/",
+            "date": "2026-10-19",
+            "summary": "Early voting began across most of Alaska ahead of the Nov. 3 election, with voters deciding the U.S. Senate, U.S. House, governor, legislative races, and two ballot measures."
+          },
+          {
+            "title": "Early voting begins in Alaska with neck-and-neck Senate race front of mind",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/10/19/early-voting-begins-alaska-with-neck-and-neck-senate-race-front-mind/",
+            "date": "2026-10-19",
+            "summary": "In-person early voting opened statewide with Election Day less than three weeks away, as the tight U.S. Senate race between Sen. Dan Sullivan and former Rep. Mary Peltola could help decide control of Congress."
+          }
+        ],
+        "AL": [
+          {
+            "title": "Midterm election: Voter registration deadline, early voting begins",
+            "source": "FOX10 (WALA)",
+            "url": "https://www.fox10tv.com/2026/10/19/midterm-election-voter-registration-deadline-early-voting-begins/",
+            "date": "2026-10-19",
+            "summary": "Alabama's voter registration deadline for the Nov. 3 general election fell on Oct. 19, the same day the article covers where and how to vote, including the statewide constitutional amendments on the ballot."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Maricopa County early voters who don't have ballots by end of week should request new ones",
+            "source": "KJZZ",
+            "url": "https://www.kjzz.org/elections/2026-10-15/maricopa-county-early-voters-who-dont-have-ballots-by-end-of-week-should-request-new-ones",
+            "date": "2026-10-15",
+            "summary": "Maricopa County's Recorder's Office urged voters who still haven't received a requested mail ballot to ask for a replacement, after about 1.9 million early ballots were handed to the Postal Service on Oct. 7."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Denver opens 13 voter service centers for early in-person voting",
+            "source": "Denver Gazette",
+            "url": "https://denvergazette.com/2026/10/19/denver-opens-13-voter-service-centers-for-early-in-person-voting",
+            "date": "2026-10-19",
+            "summary": "Denver opened 13 voter service and polling centers offering in-person voting, registration, translation help, and election questions ahead of the Nov. 3 election, with more sites opening Oct. 26, Oct. 30, and Nov. 2."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Early voting kicks off across Connecticut",
+            "source": "WFSB",
+            "url": "https://www.wfsb.com/2026/10/19/early-voting-kicks-off-across-connecticut/",
+            "date": "2026-10-19",
+            "summary": "Connecticut's early voting period opened for local races and the governor's race, continuing through Nov. 1, with same-day registration available at polling sites."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Election Taskforce reviews voting technology ahead of 2026 midterms",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-10-16/election-taskforce-reviews-voting-technology-ahead-of-2026-midterms",
+            "date": "2026-10-16",
+            "summary": "Delaware's Election Taskforce examined the state's voting machines, which a vendor security official said keep timestamped audit logs and run only approved software offline, following 2025 software updates meant to meet new federal standards."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Early voting begins Monday for most Central Florida counties",
+            "source": "News 13 (Spectrum)",
+            "url": "https://mynews13.com/fl/orlando/news/2026/10/19/early-voting-begins-monday-for-most-central-florida-counties",
+            "date": "2026-10-19",
+            "summary": "Early voting opened Oct. 19 in seven Central Florida counties ahead of the Nov. 3 general election, with Orange County adding polling sites to handle expected higher turnout."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Who will win Ga. elections? New poll reveals clues",
+            "source": "WRDW",
+            "url": "https://www.wrdw.com/2026/10/19/who-will-win-ga-elections-new-poll-reveals-clues/",
+            "date": "2026-10-19",
+            "summary": "A Quantus Insights poll of 755 likely Georgia voters found Democratic Sen. Jon Ossoff leading Republican Mike Collins by nearly seven points, while the governor's and lieutenant governor's races are close, as early voting continues."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Voting centers to open throughout Oahu",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/10/14/breaking-news/voting-centers-to-open-throughout-oahu/",
+            "date": "2026-10-14",
+            "summary": "Honolulu's elections office announced full-time voter service centers for the Nov. 3 general election, plus temporary pop-up centers in Kaneohe and Wahiawa from Oct. 27-31, with a valid photo ID required."
+          },
+          {
+            "title": "Getting ready to vote",
+            "source": "The Garden Island",
+            "url": "https://www.thegardenisland.com/2026/10/17/hawaii-news/getting-ready-to-vote/",
+            "date": "2026-10-17",
+            "summary": "Kauai voters began receiving general election ballots in the mail, with officials recommending they be returned by Oct. 27, and a Voter Service Center open from Oct. 20 through Election Day for in-person help."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Voters flock to Ada County polls as early voting gets underway",
+            "source": "Boise State Public Radio",
+            "url": "https://www.boisestatepublicradio.org/politics-government/2026-10-19/idaho-early-voting-ada-county",
+            "date": "2026-10-19",
+            "summary": "In-person early voting opened in Ada County and much of Idaho for the Nov. 3 general election, which includes races for governor and all 105 legislative seats; early voting sites close at 5 p.m. local time on Oct. 30."
+          },
+          {
+            "title": "Early voting begins in several Eastern Idaho counties",
+            "source": "KIFI Local News 8",
+            "url": "https://localnews8.com/home/2026/10/19/early-voting-begins-in-several-eastern-idaho-counties/",
+            "date": "2026-10-19",
+            "summary": "Early voting started in 11 Eastern Idaho counties; voters who cast an early ballot cannot vote again on Election Day, and the deadline to register early or request an absentee ballot is 5 p.m. Oct. 23."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Chicago, Illinois early voting sites expand in all counties on Monday morning; find your nearest location",
+            "source": "CBS Chicago",
+            "url": "https://www.cbsnews.com/chicago/news/early-voting-illinois-chicago-locations-near-me/",
+            "date": "2026-10-19",
+            "summary": "Early voting expanded across Chicago and suburban Cook County, with the city now offering sites in all 50 wards and the suburbs growing from six locations to 56 ahead of the Nov. 3 election."
+          }
+        ],
+        "IN": [
+          {
+            "title": "New poll shows Trump's approval ratings falter in Indiana",
+            "source": "WNDU",
+            "url": "https://wndu.com/2026/10/19/new-poll-shows-trumps-approval-ratings-falter-indiana",
+            "date": "2026-10-19",
+            "summary": "A Free Press Indiana poll of 839 likely voters found most Hoosiers disapprove of President Trump and Gov. Mike Braun, and that Democrats say they are more eager than Republicans to vote in the midterms."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Johnson County early voting draws presidential-election-level turnout",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/10/19/johnson-county-early-voting-draws-presidential-election-level-turnout/",
+            "date": "2026-10-19",
+            "summary": "Johnson County election officials reported early-voting turnout comparable to a presidential year, even though this November's ballot has no presidential race; early voting runs through next week ahead of Nov. 3."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Kentucky voters face U.S. Senate race, constitutional amendment on Nov. 3 ballot",
+            "source": "WBKO",
+            "url": "https://www.wbko.com/2026/10/14/kentucky-voters-face-us-senate-race-constitutional-amendment-nov-3-ballot/",
+            "date": "2026-10-14",
+            "summary": "Kentucky's Nov. 3 ballot includes an open U.S. Senate seat, all six U.S. House districts, and a proposed amendment barring governors from issuing pardons or commuting sentences in the 60 days before their own election."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Early voting in Louisiana begins Tuesday for November election. Here's what to know",
+            "source": "KNOE",
+            "url": "https://www.knoe.com/2026/10/16/early-voting-louisiana-begins-tuesday-november-election-heres-what-know/",
+            "date": "2026-10-16",
+            "summary": "Louisiana's early voting runs Oct. 20-27, excluding Oct. 25, ahead of the Nov. 3 election, with polls open 8:30 a.m. to 6 p.m. during that period."
+          },
+          {
+            "title": "What's on the ballot in Louisiana's November 2026 election?",
+            "source": "WAFB",
+            "url": "https://www.wafb.com/2026/10/16/whats-ballot-louisianas-november-2026-election/",
+            "date": "2026-10-16",
+            "summary": "Louisiana voters on Nov. 3 will fill a U.S. Senate seat and all six U.S. House seats, plus decide ten proposed amendments to the state constitution covering property taxes, term limits, and criminal justice."
+          }
+        ],
+        "MA": [
+          {
+            "title": "A new poll takes the temperature on the Mass. governor's race — and all 9 ballot questions",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/10/19/massachusetts-governors-race-ballot-question-poll",
+            "date": "2026-10-19",
+            "summary": "A UMass Amherst/WCVB poll shows Democratic Gov. Maura Healey leading Republican Mike Minogue 57% to 32% among likely voters, with strong support for upholding the 2024 gun law and weak support for repealing recreational marijuana sales."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland Week in Review: Baltimore Reviews a Controversial Letter, Blueprint Board Seeks a Longer Pause and Early Voting Opens Thursday",
+            "source": "Maryland Bay News",
+            "url": "https://mdbaynews.com/2026/10/19/maryland-week-in-review-october-19-2026/",
+            "date": "2026-10-19",
+            "summary": "Maryland's early voting runs Oct. 22-29 from 7 a.m. to 8 p.m. at any center in a voter's county, with mail-in ballot request deadlines of Oct. 27 and Oct. 30 ahead of the Nov. 3 general election."
+          }
+        ],
+        "ME": [
+          {
+            "title": "A blue-collar bellwether weighs ousting longtime GOP Sen. Susan Collins in Maine",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/blue-collar-bellwether-weighs-ousting-longtime-gop-sen-susan-collins-m-rcna598591",
+            "date": "2026-10-19",
+            "summary": "Voters in Lewiston, a working-class city that helped reelect Sen. Susan Collins last time, are divided over whether to replace her this November, with some citing a desire for new leadership and others wary of losing her Senate seniority."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Michigan residents invited to observe voting machine testing ahead of General Election",
+            "source": "ClickOnDetroit (WDIV)",
+            "url": "https://www.clickondetroit.com/news/local/2026/10/15/residents-invited-to-observe-election-equipment-testing-ahead-of-early-voting-period/",
+            "date": "2026-10-15",
+            "summary": "Michigan election officials began public logic-and-accuracy testing of voting equipment before the Nov. 3 election; state law opens the testing to residents, who can watch clerks confirm each machine counts trial ballots correctly."
+          }
+        ],
+        "MN": [
+          {
+            "title": "More than 200K Minnesotans have cast their ballots in midterm election",
+            "source": "CBS News Minnesota",
+            "url": "https://www.cbsnews.com/minnesota/news/more-than-200k-minnesotans-vote-in-midterm-election-so-far/",
+            "date": "2026-10-16",
+            "summary": "Secretary of State data show more than 200,000 Minnesotans had already voted, including over 80,000 in-person early votes and about 121,000 returned mail ballots, with every county offering at least one early voting site through Nov. 2."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Absentee voting still open for November election",
+            "source": "Daily Leader",
+            "url": "https://dailyleader.com/2026/10/19/absentee-voting-still-open-for-november-election",
+            "date": "2026-10-19",
+            "summary": "Lincoln County, Mississippi voters can still cast absentee ballots in person at the Circuit Clerk's office through Oct. 31 ahead of the Nov. 3 general election; mailed absentee ballots must be postmarked by Election Day."
+          },
+          {
+            "title": "Mississippi incumbents hold sizeable cash advantage as General Election nears",
+            "source": "Magnolia Tribune",
+            "url": "https://magnoliatribune.com/2026/10/19/mississippi-incumbents-hold-sizeable-cash-advantage-as-general-election-nears/",
+            "date": "2026-10-19",
+            "summary": "Third-quarter FEC filings show Sen. Cindy Hyde-Smith has outraised every other Mississippi federal candidate this cycle, while three of the state's four incumbent U.S. House members report more than $1 million in cash on hand."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Nearly 12% of absentee ballots returned, according to Montana Secretary of State's Office",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/10/19/nearly-12-of-absentee-ballots-returned-according-to-montana-secretary-of-states-office",
+            "date": "2026-10-19",
+            "summary": "About 60,000 Montanans, roughly 11.6% of those sent general election absentee ballots, had returned them by Oct. 19, as local officials encouraged unregistered voters to sign up early to avoid Election Day lines."
+          }
+        ],
+        "NC": [
+          {
+            "title": "North Carolina early voting numbers spike from 2022 general election",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/19/north-carolina-early-voting-numbers-spike-2022-general-election/",
+            "date": "2026-10-19",
+            "summary": "North Carolina's early voting is running well ahead of the 2022 midterm pace, with about 501,000 ballots cast by Oct. 18, most in person, and registered Democrats accounting for the largest share so far, per state Board of Elections data."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Nebraska Supreme Court upholds voting for citizens abroad in yet another GOP loss",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/nebraska-supreme-court-upholds-voting-for-citizens-abroad-in-yet-another-gop-loss/",
+            "date": "2026-10-16",
+            "summary": "The Nebraska Supreme Court ruled 6-1 to uphold a state law letting certain U.S. citizens living abroad vote in Nebraska, rejecting a Republican National Committee challenge to the law."
+          }
+        ],
+        "NH": [
+          {
+            "title": "Republicans made NH among the hardest states to vote. They now warn 1 in 8 may be turned away",
+            "source": "Granite Post",
+            "url": "https://granitepostnews.com/news/politics/republicans-nh-vote/",
+            "date": "2026-10-16",
+            "summary": "A Turning Point USA ad campaign warns that one in eight New Hampshire voters could be turned away on Election Day, a claim the state doesn't track; the article ties the warning to a 2024 law requiring documentary proof of citizenship for first-time registrants."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Expanded early voting opened Saturday. See where you can vote",
+            "source": "Santa Fe New Mexican",
+            "url": "https://www.santafenewmexican.com/news/local_news/expanded-early-voting-opened-saturday-see-where-you-can-vote/article_8fd20f1f-9fd0-4fb4-b526-69ae03ce7ba8.html",
+            "date": "2026-10-17",
+            "summary": "Early voting expanded to additional sites in Santa Fe and other New Mexico counties on Oct. 17 and runs through Oct. 31, with new satellite locations including community centers, a library, and the county fairgrounds."
+          }
+        ],
+        "NV": [
+          {
+            "title": "More than 23,000 cast ballots in Clark County early voting opening weekend",
+            "source": "FOX5 Las Vegas",
+            "url": "https://www.fox5vegas.com/2026/10/19/more-than-23000-cast-ballots-clark-county-early-voting-opening-weekend/",
+            "date": "2026-10-19",
+            "summary": "More than 23,000 people voted in person during Nevada's first early-voting weekend in Clark County ahead of the Nov. 3 election, as officials pointed voters to the state's online ballot-tracking portal."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Early voting starts Saturday. Here's what you need to know",
+            "source": "WXXI News",
+            "url": "https://www.wxxinews.org/local-news/2026-10-19/early-voting-starts-saturday-heres-what-you-need-to-know",
+            "date": "2026-10-19",
+            "summary": "New York's early voting opens Oct. 24, which is also the last day for new voter registration, letting eligible residents register and vote at an early site in the same visit; Monroe County will offer 15 in-person sites."
+          },
+          {
+            "title": "High stakes for voters deciding local races to watch for 2026 election",
+            "source": "Long Island Press",
+            "url": "https://longislandpress.com/2026/10/19/26-election-voters-races",
+            "date": "2026-10-19",
+            "summary": "Long Island voters face an unusually large number of races this November after New York moved local elections to even years, including the governor's race and congressional, state legislative, county, and judicial contests."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Some rural Ohio voters still 'on the edge' as election day approaches",
+            "source": "WYSO",
+            "url": "https://www.wyso.org/2026-10-19/some-rural-ohio-voters-still-on-the-edge-as-election-day-approaches",
+            "date": "2026-10-19",
+            "summary": "Rural Ohio voters in Wayne County and Garrettsville expressed uncertainty about the Nov. 3 election, with polling showing rural support for Sen. Jon Husted dropping seven points since the spring, even as one analyst doubts rural Republicans will shift parties."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Long Story Short: Voter portal fails on deadline day, leaving Oklahomans unable to register for November election",
+            "source": "KGOU / Oklahoma Watch",
+            "url": "https://www.kgou.org/show/oklahoma-watch-long-story-short/2026-10-14/long-story-short-voter-portal-fails-on-deadline-day-leaving-oklahomans-unable-to-register-for-november-election",
+            "date": "2026-10-14",
+            "summary": "Oklahoma's online voter registration portal went down on the last day to register for the Nov. 3 election, leaving late registrants to mail a printed form instead; advocates say the state should extend the deadline to account for such outages."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Feds intercept 'suspicious' package intended for Oregon election office",
+            "source": "OPB",
+            "url": "https://www.opb.org/article/2026/10/19/federal-officials-intercept-suspicious-package-oregon-election-office/",
+            "date": "2026-10-19",
+            "summary": "Federal officials stopped a suspicious package addressed to Oregon's election office before it reached the state, part of a series of similar mailings to election offices nationwide; officials still urge voters mailing ballots to do so by Oct. 27."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Positions on election hand-counting split candidates in South Dakota's secretary of state race",
+            "source": "KFGO",
+            "url": "https://kfgo.com/2026/10/15/1364067/",
+            "date": "2026-10-15",
+            "summary": "Republican secretary of state nominee Heather Baxter wants to expand hand-counting of ballots and limit tabulation machines, while Democrat Terrence Davis and Libertarian Tamara Lesnar favor keeping the machines, as advance voting is already underway."
+          }
+        ],
+        "TN": [
+          {
+            "title": "What sample ballots look like for each Middle Tennessee county",
+            "source": "WSMV",
+            "url": "https://www.wsmv.com/2026/10/18/what-sample-ballots-look-like-each-middle-tennessee-county/",
+            "date": "2026-10-18",
+            "summary": "Early voting in Middle Tennessee runs through Oct. 29 ahead of the Nov. 3 midterm, with the ballot featuring three proposed constitutional amendments on bail denial, a state property tax ban, and victims' rights, plus the governor's and U.S. Senate races."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Texas Early Voting to Open With Record 19M Voters After State Missteps",
+            "source": "Newsweek",
+            "url": "https://www.newsweek.com/texas-early-voting-record-19m-voters-12582979",
+            "date": "2026-10-18",
+            "summary": "Texas entered early voting with about 19.04 million registered voters, even as state system errors forced counties to process thousands of delayed or corrected voter records just before the vote; voting rights groups have sued over the registration failures."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Early voting picks up as Virginia holds first Sunday voting",
+            "source": "WTVR (CBS 6)",
+            "url": "https://www.wtvr.com/news/local-news/virginia-holds-first-sunday-early-voting-oct-18-2026",
+            "date": "2026-10-18",
+            "summary": "Virginia held its first-ever Sunday early voting under a new state law, with turnout running well ahead of the 2022 midterm pace; all voters will also decide three proposed constitutional amendments on abortion, same-sex marriage, and felony voting rights."
+          },
+          {
+            "title": "Sunday early voting draws a higher turnout from the primary in Charlottesville",
+            "source": "WVIR (NBC29)",
+            "url": "https://www.29news.com/2026/10/19/sunday-early-voting-draws-higher-turnout-primary-charlottesville/",
+            "date": "2026-10-19",
+            "summary": "Charlottesville saw higher Sunday early-voting turnout than August's primary, and the article notes Friday, Oct. 23 at 5 p.m. as the deadline to register, update registration, or request a mail ballot."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont pushes to expand voting access for incarcerated residents",
+            "source": "WCAX",
+            "url": "https://www.wcax.com/2026/10/15/vermont-pushes-expand-voting-access-incarcerated-residents/",
+            "date": "2026-10-15",
+            "summary": "Vermont, one of two states that lets incarcerated people vote, is working with town clerks and the Corrections Department to get ballots to eligible inmates and help them register ahead of the Nov. 3 election."
+          },
+          {
+            "title": "Vermont voter guide available online",
+            "source": "WAMC",
+            "url": "https://www.wamc.org/news/2026-10-16/vermont-voter-guide-available-online",
+            "date": "2026-10-16",
+            "summary": "Vermont's Secretary of State released an online voter guide covering candidates and procedures for all 283 district-specific ballots and two state constitutional amendments, after a printing vendor delay held up the mailed version."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Election officials urge Washington voters to cast ballots early",
+            "source": "OPB / KNKX",
+            "url": "https://www.opb.org/article/2026/10/19/vote-early-washington-state/",
+            "date": "2026-10-19",
+            "summary": "Washington election officials urged voters to return mail ballots well before Nov. 3, after more than 20,000 ballots were rejected for missing postmark deadlines in the August primary, a problem they link partly to reduced USPS mail collection in rural areas."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Here are key dates to know to vote in the November general election in Milwaukee",
+            "source": "Milwaukee Neighborhood News Service",
+            "url": "https://milwaukeenns.org/2026/10/19/heres-what-you-need-to-know-to-vote-in-the-november-general-election-in-milwaukee/",
+            "date": "2026-10-19",
+            "summary": "Milwaukee voters can register, request and return absentee ballots, and find polling places ahead of the Nov. 3 election, with the article also covering early in-person voting and how to apply as a poll worker."
+          }
+        ],
+        "WV": [
+          {
+            "title": "More than 17,800 West Virginians register to vote ahead of November election",
+            "source": "WDTV",
+            "url": "https://www.wdtv.com/2026/10/19/more-than-17800-west-virginians-register-vote-ahead-november-election/",
+            "date": "2026-10-19",
+            "summary": "More than 17,800 West Virginians registered to vote since May's primary, bringing the state to about 1.21 million registered voters before the Nov. 3 election, the first statewide general election requiring photo ID under the state's new voter ID law."
+          }
+        ],
+        "WY": [
+          {
+            "title": "2026 General Election early/absentee voting period begins in Wyoming",
+            "source": "Wyoming News Now",
+            "url": "https://www.wyomingnewsnow.tv/news/2026-general-election-early-absentee-voting-period-begins-in-wyoming/article_97f4c798-e19e-4cd4-ae33-da3bfe012739.html",
+            "date": "2026-10-06",
+            "summary": "Early and absentee voting opened across Wyoming for the Nov. 3 general election, with Laramie County reporting strong first-day turnout at the county courthouse complex and three satellite locations."
+          },
+          {
+            "title": "Early voting numbers in Laramie County show an increase from 2022",
+            "source": "Wyoming News Now",
+            "url": "https://www.wyomingnewsnow.tv/news/early-voting-numbers-in-laramie-county-show-and-increase-from-2022/article_3421d1cd-cb9d-4741-996d-d8e0db11dc16.html",
+            "date": "2026-10-09",
+            "summary": "Laramie County recorded 1,212 early votes in the first three days of voting, well above the 290 cast over the same span in 2022, with early voting continuing through Nov. 2."
+          }
+        ]
+      }
     }
   ]
 }

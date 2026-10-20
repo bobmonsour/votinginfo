@@ -2,44 +2,39 @@
   "date": "2026-10-19",
   "items": [
     {
-      "text": "Missouri voters face a crowded slate of ballot amendments on sheriffs, taxes and lawmaking power",
-      "url": "https://missouriindependent.com/2026/10/16/missouris-constitutional-sheriff-push-reaches-voters-with-amendment-8/",
-      "abbr": "MO"
+      "text": "Texas opens early voting with a record 19 million registered voters after system missteps",
+      "url": "https://www.newsweek.com/texas-early-voting-record-19m-voters-12582979",
+      "abbr": "TX"
     },
     {
-      "text": "Montana's open U.S. House race shifts to toss-up status as analysts move the line",
-      "url": "https://dailymontanan.com/2026/10/17/analysts-shift-western-montana-congressional-district-to-toss-up-status/",
-      "abbr": "MT"
+      "text": "North Carolina early voting surges past 2022 pace, led by registered Democrats",
+      "url": "https://www.wbtv.com/2026/10/19/north-carolina-early-voting-numbers-spike-2022-general-election/",
+      "abbr": "NC"
     },
     {
-      "text": "Mississippi Senate race draws national Democratic star power for challenger Scott Colom",
-      "url": "https://mississippitoday.org/2026/10/14/sen-raphael-warnock-says-scott-colom-could-flip-senate-seat-democratic-like-his-georgia-upset/",
-      "abbr": "MS"
+      "text": "A suspicious package addressed to Oregon's election office is intercepted by federal officials",
+      "url": "https://www.opb.org/article/2026/10/19/federal-officials-intercept-suspicious-package-oregon-election-office/",
+      "abbr": "OR"
     },
     {
-      "text": "Wisconsin's open governor's race tightens between Crowley and Tiffany",
-      "url": "https://politicalwire.com/2026/10/16/crowley-leads-tiffany-in-wisconsin-governors-race-2/",
-      "abbr": "WI"
+      "text": "Nebraska's Supreme Court upholds voting rights for citizens living abroad",
+      "url": "https://www.democracydocket.com/news-alerts/nebraska-supreme-court-upholds-voting-for-citizens-abroad-in-yet-another-gop-loss/",
+      "abbr": "NE"
     },
     {
-      "text": "Arkansas election officials forecast roughly 50% turnout for the midterm",
-      "url": "https://www.arkansasonline.com/news/2026/oct/17/solid-turnout-forecast-for-early-voting-in/",
-      "abbr": "AR"
+      "text": "Virginia holds its first-ever Sunday early voting session under a new state law",
+      "url": "https://www.wtvr.com/news/local-news/virginia-holds-first-sunday-early-voting-oct-18-2026",
+      "abbr": "VA"
     },
     {
-      "text": "Thousands of Utah voters risk a federal-only ballot over a missed citizenship-proof deadline",
-      "url": "https://utahnewsdispatch.com/2026/10/15/utah-voters-need-to-prove-citizenship-under-new-law-fewer-than-2000-responded/",
-      "abbr": "UT"
+      "text": "Alaska's early voting opens with a neck-and-neck Sullivan-Peltola Senate race in focus",
+      "url": "https://www.alaskasnewssource.com/2026/10/19/early-voting-begins-alaska-with-neck-and-neck-senate-race-front-mind/",
+      "abbr": "AK"
     },
     {
-      "text": "South Carolina Democrats rally with Sen. Warnock as early voting opens",
-      "url": "https://scdailygazette.com/2026/10/16/sc-democrats-rally-with-georgia-us-senator-ahead-of-early-voting/",
-      "abbr": "SC"
-    },
-    {
-      "text": "Georgia's early-voting record keeps climbing past 180,000 first-day ballots",
-      "url": "https://politicalwire.com/2026/10/15/georgia-early-voting-sets-record-on-first-day/",
-      "abbr": "GA"
+      "text": "Oklahoma's online voter registration portal crashed on the final deadline day",
+      "url": "https://www.kgou.org/show/oklahoma-watch-long-story-short/2026-10-14/long-story-short-voter-portal-fails-on-deadline-day-leaving-oklahomans-unable-to-register-for-november-election",
+      "abbr": "OK"
     }
   ]
 }
