@@ -35628,6 +35628,21 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-20",
+      "time": "06:00",
+      "states": {
+        "IA": [
+          {
+            "title": "President Donald Trump will headline midterm election rally in Sioux City",
+            "source": "WOWT (KTIV)",
+            "url": "https://www.wowt.com/2026/10/16/president-donald-trump-will-headline-midterm-election-rally-sioux-city/",
+            "date": "2026-10-15",
+            "summary": "The Republican National Committee announced that President Trump will hold a midterm rally in Sioux City on Oct. 22, ahead of Iowa's Nov. 3 general election, with the venue not yet listed on the RSVP invitation."
+          }
+        ]
+      }
     }
   ]
 }
