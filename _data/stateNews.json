@@ -35648,6 +35648,21 @@
       "date": "2026-10-20",
       "time": "17:00",
       "states": {}
+    },
+    {
+      "date": "2026-10-21",
+      "time": "06:00",
+      "states": {
+        "SD": [
+          {
+            "title": "Sec. of State reminds voters South Dakota's registration deadline is Monday",
+            "source": "Dakota News Now",
+            "url": "https://www.dakotanewsnow.com/2026/10/17/sec-state-reminds-voters-south-dakotas-registration-deadline-is-monday/",
+            "date": "2026-10-17",
+            "summary": "South Dakota's Secretary of State reminded voters that the deadline to register for the Nov. 3 general election is 5 p.m. Monday, Oct. 19, with registration available at county auditor offices and other designated sites."
+          }
+        ]
+      }
     }
   ]
 }
