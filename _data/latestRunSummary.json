@@ -1,4 +1,40 @@
 {
-  "date": "2026-10-22",
-  "items": []
+  "date": "2026-10-23",
+  "items": [
+    {
+      "text": "Suspicious letters laced with unknown substances mailed to election offices nationwide",
+      "url": "https://www.pbs.org/newshour/politics/authorities-investigate-letters-with-suspicious-substances-sent-to-congressional-election-offices",
+      "abbr": "DC"
+    },
+    {
+      "text": "Justice Department presses California to withhold mail ballots from alleged noncitizens",
+      "url": "https://gvwire.com/2026/10/14/justice-department-threatens-california-over-alleged-noncitizen-voters-letters-show/",
+      "abbr": "CA"
+    },
+    {
+      "text": "North Carolina Republicans fight to keep their legislative supermajority",
+      "url": "https://www.wbtv.com/2026/10/20/watch-breaking-down-north-carolina-general-assembly-supermajority-makeup-this-2026-election/",
+      "abbr": "NC"
+    },
+    {
+      "text": "Trump-backed Garrity challenges Pennsylvania Gov. Shapiro's reelection bid",
+      "url": "https://www.fox29.com/news/stacy-garrity-challenges-shapiro-pa-governor-trump-endorsement-key-issues-background",
+      "abbr": "PA"
+    },
+    {
+      "text": "South Carolina voters weigh an open governor's race and a pivotal US Senate seat",
+      "url": "https://www.wbtv.com/2026/10/20/south-carolina-voters-facing-big-decisions-2026-election-whats-ballot/",
+      "abbr": "SC"
+    },
+    {
+      "text": "Texas early voting opens ahead of a tight Talarico-Paxton Senate race",
+      "url": "https://www.tpr.org/government-politics/2026-10-19/early-voting-is-underway-in-texas-heres-how-to-vote-in-the-midterm-election",
+      "abbr": "TX"
+    },
+    {
+      "text": "Alaskans vote again on whether to repeal ranked-choice voting",
+      "url": "https://www.karmactive.com/?p=283070",
+      "abbr": "AK"
+    }
+  ]
 }

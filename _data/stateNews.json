@@ -35678,6 +35678,75 @@
       "date": "2026-10-22",
       "time": "17:00",
       "states": {}
+    },
+    {
+      "date": "2026-10-23",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska Early Voting Is Open—but Ranked Choice Voting That Won by 737 Votes in 2024 Is on the Ballot Again",
+            "source": "Karmactive",
+            "url": "https://www.karmactive.com/?p=283070",
+            "date": "2026-10-21",
+            "summary": "Early voting opened Oct. 19 for Alaska's Nov. 3 general election, with Ballot Measure 2 asking voters to repeal the ranked-choice voting system that survived a similar 2024 challenge by fewer than 800 votes."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Justice Department Threatens California Over Alleged Noncitizen Voters, Letters Show",
+            "source": "Reuters",
+            "url": "https://gvwire.com/2026/10/14/justice-department-threatens-california-over-alleged-noncitizen-voters-letters-show/",
+            "date": "2026-10-14",
+            "summary": "The U.S. Justice Department sent letters to California's Secretary of State and the Los Angeles County registrar demanding that mail ballots from a federal list of alleged noncitizens be segregated and withheld from the count until citizenship is verified."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Breaking down North Carolina General Assembly, supermajority makeup this 2026 election",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/20/watch-breaking-down-north-carolina-general-assembly-supermajority-makeup-this-2026-election/",
+            "date": "2026-10-20",
+            "summary": "WBTV examined whether Republicans can preserve their North Carolina General Assembly supermajority in the Nov. 3 election, alongside a reminder of the state's early-voting and absentee-ballot deadlines."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Stacy Garrity challenges Shapiro for PA Governor: Trump endorsement, key issues, background",
+            "source": "FOX 29 Philadelphia",
+            "url": "https://www.fox29.com/news/stacy-garrity-challenges-shapiro-pa-governor-trump-endorsement-key-issues-background",
+            "date": "2026-10-21",
+            "summary": "A profile of Republican gubernatorial challenger Stacy Garrity, who has former President Trump's endorsement in her race against Democratic Gov. Josh Shapiro, noted an Oct. 7 Quinnipiac poll showing Shapiro with a wide lead among likely voters."
+          }
+        ],
+        "SC": [
+          {
+            "title": "South Carolina voters facing big decisions in 2026 election: What's on the ballot",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/10/20/south-carolina-voters-facing-big-decisions-2026-election-whats-ballot/",
+            "date": "2026-10-20",
+            "summary": "WBTV previewed South Carolina's open governor's race, a U.S. Senate contest, and a competitive U.S. House district ahead of the Nov. 3 general election."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Early voting is underway in Texas. Here's how to vote in the midterm election.",
+            "source": "San Antonio Report / Texas Public Radio",
+            "url": "https://www.tpr.org/government-politics/2026-10-19/early-voting-is-underway-in-texas-heres-how-to-vote-in-the-midterm-election",
+            "date": "2026-10-19",
+            "summary": "A voter guide walked Texans through early voting, which runs Oct. 19–30 ahead of the Nov. 3 midterm, including how to find a polling location and sample ballot."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
+            "source": "Associated Press",
+            "url": "https://www.pbs.org/newshour/politics/authorities-investigate-letters-with-suspicious-substances-sent-to-congressional-election-offices",
+            "date": "2026-10-15",
+            "summary": "The FBI, U.S. Postal Inspection Service and Capitol Police are investigating a wave of letters containing unidentified powders mailed to congressional and election offices in multiple states, just weeks before the Nov. 3 election."
+          }
+        ]
+      }
     }
   ]
 }
