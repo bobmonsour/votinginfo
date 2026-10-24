@@ -35747,6 +35747,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-23",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "U.S. Justice Department sues to block possible Democratic win in Alaska Senate race",
+            "source": "Reuters (via The Globe and Mail)",
+            "url": "https://www.theglobeandmail.com/world/us-politics/article-us-justice-department-sues-to-block-possible-democratic-win-in-alaska/",
+            "date": "2026-10-23",
+            "summary": "The DOJ sued in federal court in Anchorage to block certification of Alaska's Senate race if Republican incumbent Dan Sullivan loses narrowly, citing voter confusion from a like-named third-party candidate; election law experts called the suit meritless."
+          }
+        ],
+        "CA": [
+          {
+            "title": "28 charged in California sweep targeting alleged noncitizen voters",
+            "source": "ABC7 News (AP)",
+            "url": "https://abc7news.com/post/28-charged-california-sweep-targeting-alleged-noncitizen-voters/19956203/",
+            "date": "2026-10-19",
+            "summary": "Federal officials charged 28 lawful permanent residents in a DOJ sweep dubbed Operation Protect the Vote, alleging fraudulent voter registration and voting by noncitizens, amid a separate federal suit over California's handling of a federal noncitizen-voter list."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Democrats sue to block Trump administration from usurping states' authority to administer elections",
+            "source": "Associated Press (via WSB-TV)",
+            "url": "https://www.wsbtv.com/news/politics/democrats-sue-block/KNLXD3YPYIYHFDHAZWYMWPX7HE/?outputType=amp",
+            "date": "2026-10-21",
+            "summary": "Congressional Democratic leaders including Sen. Chuck Schumer and Rep. Hakeem Jeffries sued the Trump administration, alleging it illegally pressured states and intimidated election officials using unverified noncitizen-voter claims ahead of the midterms."
+          }
+        ]
+      }
     }
   ]
 }
