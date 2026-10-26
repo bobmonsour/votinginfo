@@ -1,20 +1,38 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-26",
   "items": [
     {
-      "text": "DOJ sues to block certification of Alaska's Senate race if Sullivan loses narrowly",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-us-justice-department-sues-to-block-possible-democratic-win-in-alaska/",
-      "abbr": "AK"
+      "text": "Federal judge blocks DHS election-related sweeps in nine states until polls close",
+      "url": "https://ctmirror.org/2026/10/22/judge-blocks-dhs-from-conducting-election-related-sweeps-in-9-states/",
+      "abbr": "DC"
     },
     {
-      "text": "Federal sweep charges 28 alleged noncitizen voters in California",
-      "url": "https://abc7news.com/post/28-charged-california-sweep-targeting-alleged-noncitizen-voters/19956203/",
+      "text": "Trump administration presses appeals court to set aside 20,000 disputed California ballots",
+      "url": "https://www.votebeat.org/national/2026/10/26/trump-california-noncitizens-ballots-lawsuit-midterm/",
       "abbr": "CA"
     },
     {
-      "text": "Congressional Democrats sue Trump administration over election intimidation claims",
-      "url": "https://www.wsbtv.com/news/politics/democrats-sue-block/KNLXD3YPYIYHFDHAZWYMWPX7HE/?outputType=amp",
-      "abbr": "DC"
+      "text": "Maricopa County restores 25 voters wrongly flagged as noncitizens after Arizona AG's lawsuit",
+      "url": "https://www.votebeat.org/arizona/2026/10/22/attorney-general-mayes-maricopa-county-recorder-heap-lawsuit-25-citizen-voters-save/",
+      "abbr": "AZ"
+    },
+    {
+      "text": "US Supreme Court reinstates New Hampshire's ban on student IDs at the polls",
+      "url": "https://www.newsfromthestates.com/article/us-supreme-court-ruling-restores-nh-law-blocking-use-student-ids-polls",
+      "abbr": "NH"
+    },
+    {
+      "text": "Outside spending in Ohio's Senate and governor's races tops $325 million, a national record pace",
+      "url": "https://www.newsfromthestates.com/article/outside-groups-pour-hundreds-millions-ohio-races-governor-us-senate",
+      "abbr": "OH"
+    },
+    {
+      "text": "Georgia, Louisiana and North Carolina report strong early-voting turnout; Hawaii's lags 2022's pace"
+    },
+    {
+      "text": "DOJ brings more noncitizen-voting charges in Pennsylvania as Westmoreland County mails duplicate ballots",
+      "url": "https://www.votebeat.org/pennsylvania/2026/10/23/department-of-justice-noncitizen-voting-charges-2026/",
+      "abbr": "PA"
     }
   ]
 }

@@ -35780,6 +35780,447 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-26",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "After lawsuit, Maricopa County reinstates 25 voters mistakenly flagged in citizenship check",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/10/22/attorney-general-mayes-maricopa-county-recorder-heap-lawsuit-25-citizen-voters-save/",
+            "date": "2026-10-22",
+            "summary": "Maricopa County Recorder Justin Heap agreed to restore 25 voters wrongly flagged as noncitizens by a federal citizenship-check database, after Arizona's attorney general sued; county investigators had already confirmed the voters were citizens."
+          }
+        ],
+        "AR": [
+          {
+            "title": "What Arkansans said on the first day of early voting for the midterm election",
+            "source": "Arkansas Advocate (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/what-arkansans-said-first-day-early-voting-midterm-election",
+            "date": "2026-10-19",
+            "summary": "Arkansas voters described their motivations on the first day of early voting for the Nov. 3 midterm, citing frustration with the Trump administration, concerns over statewide ballot measures, and support for Republican incumbents."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Trump administration asks appeals court to set aside ballots in ongoing California election",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/10/26/trump-california-noncitizens-ballots-lawsuit-midterm/",
+            "date": "2026-10-26",
+            "summary": "The Justice Department asked a federal appeals court to force California to segregate ballots from up to 20,000 voters on a disputed noncitizen list; appellate judges appeared skeptical of the request at a Sunday hearing."
+          },
+          {
+            "title": "Trump lawsuit against California over noncitizen voters heads for uncharted territory",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/10/20/trump-california-noncitizen-voters-2026-election-lawsuit/",
+            "date": "2026-10-20",
+            "summary": "The Justice Department sued California seeking to set aside as many as 20,000 ballots it says were cast by ineligible noncitizens, raising concerns that the White House could try to interfere with the November midterm results."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Last-ditch effort to block Amendment 87, Colorado's graduated income tax ballot measure, is rejected by Denver judge",
+            "source": "The Colorado Sun",
+            "url": "https://coloradosun.com/2026/10/21/amendment-87-court-ruling-challenge/",
+            "date": "2026-10-21",
+            "summary": "A Denver judge rejected a conservative lawsuit that sought to remove Colorado's Amendment 87 graduated income tax measure from the Nov. 3 ballot over paid-circulator registration issues."
+          }
+        ],
+        "CT": [
+          {
+            "title": "In CT's 3rd District, DeLauro eyes gavel as Lancia seeks change",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/10/22/in-cts-3rd-district-delauro-eyes-gavel-as-lancia-seeks-change/",
+            "date": "2026-10-22",
+            "summary": "The race for Connecticut's 3rd Congressional District pits longtime incumbent Rosa DeLauro against Republican challenger Chris Lancia, with early voting underway ahead of the Nov. 3 election."
+          }
+        ],
+        "DE": [
+          {
+            "title": "While Election Day is November 3, early voting for the General Election kicks off Thursday",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-10-20/while-election-day-is-november-3-early-voting-for-the-general-election-kicks-off-thursday",
+            "date": "2026-10-20",
+            "summary": "Delaware's 10-day early voting period for the general election began Oct. 22, letting voters cast a ballot at any early voting site in their county of residence."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Judge blocks DHS from conducting election-related sweeps in 9 states",
+            "source": "CT Mirror / States Newsroom",
+            "url": "https://ctmirror.org/2026/10/22/judge-blocks-dhs-from-conducting-election-related-sweeps-in-9-states/",
+            "date": "2026-10-22",
+            "summary": "A federal judge issued a preliminary injunction barring DHS from conducting election-related field operations in nine states until polls close Nov. 3, finding the armed-agent sweeps could intimidate voters."
+          },
+          {
+            "title": "D.C. Attorney General Warns Federal Agents, National Guard Against Interfering with November Election",
+            "source": "The Washington Informer",
+            "url": "https://www.washingtoninformer.com/dc-attorney-general-warns-election-interference/",
+            "date": "2026-10-22",
+            "summary": "D.C. Attorney General Brian Schwalb issued an advisory stating that federal agents, National Guard troops, and unauthorized monitors lack authority to enter District polling places or interfere with vote counting ahead of Nov. 3."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Come together: Jolly and Nixon stump on FAMU campus as election draws near",
+            "source": "Florida Phoenix (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/come-together-jolly-and-nixon-stump-famu-campus-election-draws-near",
+            "date": "2026-10-23",
+            "summary": "Florida's top Democratic statewide candidates, David Jolly and Angie Nixon, campaigned together at Florida A&M University as early voting continues ahead of the Nov. 3 election."
+          },
+          {
+            "title": "Despite earlier hesitation to campaign, DeSantis hosts event supporting Amendment 3",
+            "source": "Florida Phoenix (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/despite-earlier-hesitation-campaign-desantis-hosts-event-supporting-amendment-3",
+            "date": "2026-10-21",
+            "summary": "Gov. Ron DeSantis publicly backed Florida's Amendment 3 homestead exemption measure at a Miami event, despite earlier saying he would not formally campaign for it."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia early voting tops 1 million. Here's what the numbers tell us.",
+            "source": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com/politics/2026/10/georgia-early-voting-tops-1-million/",
+            "date": "2026-10-20",
+            "summary": "Georgia's early vote surpassed one million ballots, with early turnout patterns showing Democratic strength in metro Atlanta and Republican strength in outer suburbs ahead of the Nov. 3 election."
+          },
+          {
+            "title": "Rick Jackson sounds alarm over sluggish rural early voting",
+            "source": "The Atlanta Journal-Constitution",
+            "url": "https://www.ajc.com/politics/2026/10/rick-jackson-sounds-alarm-over-sluggish-rural-early-voting/",
+            "date": "2026-10-23",
+            "summary": "Georgia's Republican gubernatorial nominee Rick Jackson warned that GOP-leaning rural counties are lagging in early voting turnout compared with Democratic-leaning areas."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Early voting numbers lag last midterm tally",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/10/25/hawaii-news/early-voting-numbers-lag-last-midterm-tally/",
+            "date": "2026-10-25",
+            "summary": "Hawaii's mail-in ballot returns are running roughly a third behind the 2022 midterm pace, and election officials have no clear explanation for the decline."
+          },
+          {
+            "title": "Dos Santos-Tam touts record; Morihara targets spending",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/10/26/hawaii-news/dos-santos-tam-touts-record-morihara-targets-spending/",
+            "date": "2026-10-26",
+            "summary": "The article previews Honolulu City Council District 6, where incumbent Tyler Dos Santos-Tam seeks a second term against challenger Corey Morihara ahead of the Nov. 3 election."
+          }
+        ],
+        "IL": [
+          {
+            "title": "More Than $9 Million in Spending is Pouring Into Chicago School Board Races. Here's Where It's Going.",
+            "source": "Illinois Answers Project",
+            "url": "https://illinoisanswers.org/2026/10/21/more-than-9-million-in-spending-is-pouring-into-chicago-school-board-races-heres-where-its-going",
+            "date": "2026-10-21",
+            "summary": "Campaign spending in Chicago's first school board elections in decades has topped $9 million as early voting gets underway, with money flowing into district races and the board presidency contest."
+          },
+          {
+            "title": "Statewide races: Little-known GOP slate faces uphill battle against mostly incumbent Dems",
+            "source": "Capitol News Illinois",
+            "url": "https://capitolnewsillinois.com/news/statewide-races-little-known-gop-slate-faces-uphill-battle-against-mostly-incumbent-dems/",
+            "date": "2026-10-23",
+            "summary": "Illinois Republicans face a steep funding gap against incumbent Democrats, who have held all six statewide constitutional offices since 2019, ahead of the Nov. 3 election."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Candidates for Iowa governor discuss their top priorities: cancer, cost of living",
+            "source": "Iowa Capital Dispatch (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/candidates-iowa-governor-discuss-their-top-priorities-cancer-cost-living",
+            "date": "2026-10-23",
+            "summary": "Iowa governor candidates Zach Lahn and Rob Sand both named high cancer rates and affordability as top priorities, though they proposed different fixes ahead of the Nov. 3 election."
+          },
+          {
+            "title": "Miller-Meeks, Bohannan spar on Iran war, rising costs in 1st District debate",
+            "source": "Iowa Capital Dispatch (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/miller-meeks-bohannan-spar-iran-war-rising-costs-1st-district-debate",
+            "date": "2026-10-20",
+            "summary": "Rep. Mariannette Miller-Meeks and challenger Christina Bohannan clashed over tariffs and the Iran war's effect on costs in their only scheduled debate in Iowa's competitive 1st District."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Alvarado, Dembo spar over Iran war, data centers and Epstein in central Kentucky debate",
+            "source": "Kentucky Lantern (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/alvarado-dembo-spar-over-iran-war-data-centers-and-epstein-central-kentucky-debate",
+            "date": "2026-10-23",
+            "summary": "Republican Ralph Alvarado and Democrat Zach Dembo debated the Iran war, data centers, and the Epstein files in Kentucky's competitive open 6th Congressional District race."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Black voter turnout higher than normal for Louisiana's first day of early voting",
+            "source": "Louisiana Illuminator (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/black-voter-turnout-higher-normal-louisianas-first-day-early-voting",
+            "date": "2026-10-22",
+            "summary": "Black voters made up about 32% of Louisiana's in-person early voters on the first day, a larger share than in nearly every election over the past 18 years, as the state's Nov. 3 election nears."
+          }
+        ],
+        "ME": [
+          {
+            "title": "AOC stumps for Jackson as high profile figures descend on Maine ahead of election",
+            "source": "Maine Morning Star (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/aoc-stumps-jackson-high-profile-figures-descend-maine-ahead-election",
+            "date": "2026-10-22",
+            "summary": "Rep. Alexandria Ocasio-Cortez campaigned with Maine U.S. Senate candidate Troy Jackson in Portland, part of a wave of national figures visiting the state ahead of the Nov. 3 election."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Seeing double, seeing red: Moore demands Question 3 opponents halt look-alike ad",
+            "source": "Maryland Matters (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/seeing-double-seeing-red-moore-demands-question-3-opponents-halt-lookalike-ad",
+            "date": "2026-10-22",
+            "summary": "Gov. Wes Moore's campaign demanded a super PAC pull an ad opposing Maryland's Question 3 redistricting amendment, saying the ad mimics his campaign's branding."
+          }
+        ],
+        "MI": [
+          {
+            "title": "How Michigan stopped Antrim County Clerk Victoria Bishop from canceling voter registrations",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/10/22/antrim-county-victoria-bishop-local-clerks-bureau-elections/",
+            "date": "2026-10-22",
+            "summary": "The state revoked Antrim County Clerk Victoria Bishop's access to the voter file after she took steps to remove about 1,600 voters ahead of the Nov. 3 election."
+          },
+          {
+            "title": "Mayoral election result from 2025 overturned after 37 disputed ballots are finally counted",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/10/16/hamtramck-mayor-election-2025-overturned-alharbi-mahmood/",
+            "date": "2026-10-16",
+            "summary": "A 2025 Hamtramck mayoral race was overturned after 37 disputed mail ballots were counted and flipped the outcome, prompting the incumbent to contest the result in court."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Race for Minnesota's 2nd Congressional District tests how much south suburbs have shifted left",
+            "source": "Minnesota Reformer (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/race-minnesotas-2nd-congressional-district-tests-how-much-south-suburbs-have-shifted-left",
+            "date": "2026-10-20",
+            "summary": "The contest between Little and Pratt for Minnesota's 2nd District seat tests whether the Twin Cities' south suburbs have continued shifting toward Democrats ahead of Nov. 3."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Republicans pour $300,000 into defense of GOP-leaning Senate seat in northwest Missouri",
+            "source": "Missouri Independent (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/republicans-pour-300000-defense-gop-leaning-senate-seat-northwest-missouri",
+            "date": "2026-10-20",
+            "summary": "Republicans spent heavily on TV ads to defend a northwest Missouri state Senate seat as Democrats hope an unpopular president and contentious ballot measures boost turnout."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Democrat Sam Forstag outraises Republican Aaron Flint in western US House district",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/10/23/democrat-sam-forstag-outraises-republican-aaron-flint-in-western-us-house-district/",
+            "date": "2026-10-23",
+            "summary": "Democrat Sam Forstag outraised Republican Aaron Flint in Montana's western U.S. House race, which analysts have recently shifted to toss-up status."
+          }
+        ],
+        "NE": [
+          {
+            "title": "At 'cross-partisan' town hall, Osborn shares stage with Democrat, ex-Republican and former RNC chair",
+            "source": "Nebraska Examiner (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/cross-partisan-town-hall-osborn-shares-stage-democrat-ex-republican-and-former-rnc-chair",
+            "date": "2026-10-25",
+            "summary": "Independent Senate candidate Dan Osborn held a town hall with a Democratic congressman, a former Republican-turned-Democrat, and a former RNC chair, as his campaign faces questions over his independence."
+          }
+        ],
+        "NH": [
+          {
+            "title": "US Supreme Court ruling restores NH ban on use of student IDs at polls",
+            "source": "New Hampshire Bulletin (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/us-supreme-court-ruling-restores-nh-law-blocking-use-student-ids-polls",
+            "date": "2026-10-22",
+            "summary": "The U.S. Supreme Court reinstated New Hampshire's law barring student IDs as voter identification for the Nov. 3 election, overruling a lower court's injunction."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "NJ Assembly panel OKs bill limiting federal agents, armed forces at polls",
+            "source": "States Newsroom",
+            "url": "https://www.newsfromthestates.com/article/nj-assembly-panel-oks-bill-limiting-federal-agents-armed-forces-polls",
+            "date": "2026-10-22",
+            "summary": "A New Jersey Assembly panel approved a bill to keep federal law enforcement and uniformed military 100 feet away from polling places and ballot drop boxes."
+          },
+          {
+            "title": "House Republicans subpoena NJ for records in voter registration snafu",
+            "source": "New Jersey Monitor (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/house-republicans-subpoena-nj-records-voter-registration-snafu",
+            "date": "2026-10-21",
+            "summary": "House Republicans subpoenaed the Sherrill administration for records on roughly 6,000 noncitizens improperly registered to vote because of a state software error."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Democratic US senators considering presidential runs rally party faithful at New Mexico matanza",
+            "source": "Source New Mexico (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/democratic-us-senators-considering-presidential-runs-rally-party-faithful-new-mexico",
+            "date": "2026-10-25",
+            "summary": "Sens. Mark Kelly and Chris Van Hollen, both considering 2028 presidential bids, rallied Democrats at an Albuquerque event ahead of New Mexico's Nov. 3 election."
+          }
+        ],
+        "NY": [
+          {
+            "title": "New York City voters to decide five charter amendments on permitting, contracting, and other government processes on Nov. 3",
+            "source": "Ballotpedia News",
+            "url": "https://news.ballotpedia.org/2026/10/20/new-york-city-voters-to-decide-five-charter-amendments-on-permitting-contracting-and-other-government-processes-on-nov-3/",
+            "date": "2026-10-20",
+            "summary": "New York City voters will decide five charter amendments covering permitting, contracting, and other government processes on the Nov. 3 ballot."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Cooper rallies support one week into North Carolina's early voting",
+            "source": "NC Newsline",
+            "url": "https://ncnewsline.com/2026/10/22/cooper-rallies-support-one-week-into-north-carolinas-early-voting/",
+            "date": "2026-10-22",
+            "summary": "Senate candidate Roy Cooper campaigned in Raleigh as North Carolina's early voting turnout topped a million ballots in its first week, driven largely by unaffiliated voters."
+          }
+        ],
+        "ND": [
+          {
+            "title": "No Kings rallies in North Dakota emphasize early voting",
+            "source": "States Newsroom",
+            "url": "https://www.newsfromthestates.com/article/no-kings-rallies-north-dakota-emphasize-early-voting",
+            "date": "2026-10-17",
+            "summary": "No Kings protest rallies in Fargo, Bismarck, and other North Dakota cities urged early voting, as organizers reported more than 21,900 absentee and mail ballots already cast."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Outside groups pour hundreds of millions into Ohio races for governor, US Senate",
+            "source": "Ohio Capital Journal (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/outside-groups-pour-hundreds-millions-ohio-races-governor-us-senate",
+            "date": "2026-10-20",
+            "summary": "Outside groups have spent more than $325 million combined on Ohio's U.S. Senate and governor's races, making the Senate contest the most expensive in the country this cycle."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Two longtime rivals seek new audiences in Oregon governor's race. Who will persuade voters?",
+            "source": "Oregon Capital Chronicle (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/two-longtime-rivals-seek-new-audiences-oregon-governors-race-who-will-persuade-voters",
+            "date": "2026-10-20",
+            "summary": "Oregon governor candidates Christine Drazan and Tina Kotek are both courting new groups of voters as polling shows the race in a statistical tie ahead of Nov. 3."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Department of Justice brings additional noncitizen voting charges ahead of 2026 election",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/10/23/department-of-justice-noncitizen-voting-charges-2026/",
+            "date": "2026-10-23",
+            "summary": "The Justice Department charged nine more Pennsylvania residents with illegal voting, bringing the total number of noncitizen-voting-related charges in the state to 20 since September."
+          },
+          {
+            "title": "Westmoreland County sends roughly 150 duplicate mail ballots to Pa. voters",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/10/23/duplicate-mail-ballots-westmoreland-2026-human-error/",
+            "date": "2026-10-23",
+            "summary": "Westmoreland County mailed about 150 duplicate mail ballots because of human error; the state says only one ballot per voter will be counted."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Eight days in, 30,000 Rhode Island voters cast ballots early",
+            "source": "Rhode Island Current (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/eight-days-30000-rhode-island-voters-cast-ballots-early",
+            "date": "2026-10-21",
+            "summary": "About 30,000 Rhode Islanders voted early in person in the first eight days, running behind the 2024 presidential-year pace but nearly double the 2022 midterm's turnout at the same point."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Trump rallies support for Graham in pre-election visit to deeply red Upstate",
+            "source": "SC Daily Gazette (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/trump-rallies-support-republicans-pre-election-visit-deeply-red-upstate",
+            "date": "2026-10-22",
+            "summary": "Trump rallied supporters for Sen. Darline Graham in South Carolina's Upstate region as polling shows her race against Democrat Annie Andrews has tightened."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Independent US Senate candidate in South Dakota backed by Forward Party",
+            "source": "South Dakota Searchlight (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/independent-us-senate-candidate-south-dakota-backed-forward-party",
+            "date": "2026-10-25",
+            "summary": "Independent Senate candidate Brian Bengs touted the Forward Party's endorsement in his race against Republican Sen. Mike Rounds, though recent polls show conflicting results."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Ties to Trump, Biden loom large in key South Texas congressional race",
+            "source": "The Texas Tribune",
+            "url": "https://www.texastribune.org/2026/10/26/texas-vicente-gonzalez-eric-flores-district-34-2026-election/",
+            "date": "2026-10-26",
+            "summary": "The redrawn South Texas 34th District race between Democratic incumbent Vicente Gonzalez and Republican Eric Flores is shaped by each candidate's ties to Trump and Biden."
+          },
+          {
+            "title": "Fed up with data centers and Big Tech, rural Republican crossover could decide Democrats' fate in Texas",
+            "source": "The Texas Tribune",
+            "url": "https://www.texastribune.org/2026/10/23/texas-rural-voters-data-centers-backlash-big-tech-2026-election/",
+            "date": "2026-10-23",
+            "summary": "Backlash against data center development among rural Texas Republicans could help Democrats in several competitive races in the Nov. 3 election."
+          }
+        ],
+        "VT": [
+          {
+            "title": "The last Democratic legislator in Rutland County is leaving office. What could that mean for the county's political future?",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2026/10/23/the-last-democratic-legislator-in-rutland-county-is-leaving-office-what-could-that-mean-for-the-countys-political-future/",
+            "date": "2026-10-23",
+            "summary": "Rutland County, Vermont will have no Democratic legislators after this term, raising questions about the county's political future ahead of the Nov. 3 election."
+          },
+          {
+            "title": "5 takeaways from Phil Scott and Amanda Janoo's first debate of the campaign",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2026/10/22/5-takeaways-from-phil-scott-and-amanda-janoos-first-debate-of-the-campaign/",
+            "date": "2026-10-22",
+            "summary": "Gov. Phil Scott and Democratic/Progressive challenger Amanda Janoo offered contrasting plans on affordability in their first gubernatorial debate of the campaign."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Elections chief says Virginia is ready for midterms, potential federal interference",
+            "source": "Virginia Mercury (via States Newsroom)",
+            "url": "https://www.newsfromthestates.com/article/elections-chief-says-virginia-ready-midterms-potential-federal-interference",
+            "date": "2026-10-22",
+            "summary": "Virginia's elections commissioner said the state is prepared to run secure elections and respond to possible federal interference ahead of the Nov. 3 midterms."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Early voting has begun. Here's what you should know before you head to the polls.",
+            "source": "Mountain State Spotlight",
+            "url": "https://mountainstatespotlight.org/2026/10/21/2026-early-voting/",
+            "date": "2026-10-21",
+            "summary": "West Virginia's early voting period opened Oct. 21, with voters required to show photo ID for the first time under a 2025 law ahead of the Nov. 3 election."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Can unarmed ICE agents show up at the polls? Dane County, WEC have different answers",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/10/22/dane-county-election-commission-ice-fbi-polls/",
+            "date": "2026-10-22",
+            "summary": "Wisconsin election officials disagree over whether new state guidance could allow armed federal agents to observe polling places, with Dane County warning the language is too permissive."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Elections, data centers and court battles: Three secretary of state debate takeaways",
+            "source": "WyoFile",
+            "url": "https://wyofile.com/elections-data-centers-and-court-battles-three-secretary-of-state-debate-takeaways/",
+            "date": "2026-10-19",
+            "summary": "Wyoming's three secretary of state candidates split over spending state funds on out-of-state court fights and on handing voter data to federal officials in a PBS debate."
+          }
+        ]
+      }
     }
   ]
 }
