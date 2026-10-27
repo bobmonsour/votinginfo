@@ -36221,6 +36221,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-26",
+      "time": "17:00",
+      "states": {
+        "NH": [
+          {
+            "title": "Election officials in NH say they're ready for a big day at the polls, with little drama",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/nh-news/2026-10-26/election-officials-nh-newhampshire-election-security-midterms-2026",
+            "date": "2026-10-26",
+            "summary": "New Hampshire election officials, including the state Attorney General's Election Law Unit, say the state's systems and paper-ballot counting process are ready for a smooth, high-turnout Nov. 3 general election."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Trump's not on the ballot but swing state voters still cast ballots with MAGA in mind",
+            "source": "Fox News",
+            "url": "https://www.foxnews.com/politics/trumps-not-ballot-swing-state-voters-still-cast-ballots-maga-mind",
+            "date": "2026-10-26",
+            "summary": "Pennsylvania voters interviewed by Fox News say they plan to back Democrats in the midterms mainly to check President Trump's agenda, even as some distrust the party on issues like prices and the Iran war."
+          }
+        ]
+      }
     }
   ]
 }
