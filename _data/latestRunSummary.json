@@ -1,4 +1,33 @@
 {
-  "date": "2026-10-28",
-  "items": []
+  "date": "2026-10-29",
+  "items": [
+    {
+      "text": "Georgia early voting tops 2 million as Obama rallies Democrats",
+      "url": "https://georgiarecorder.com/2026/10/29/obama-rallies-with-georgia-democratic-candidates-as-early-voting-winds-down/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Minnesota charges right-wing activist James O'Keefe with voter fraud",
+      "url": "https://minnesotareformer.com/2026/10/28/right-wing-influencer-james-okeefe-charged-with-voter-fraud-after-impersonating-registered-voters/",
+      "abbr": "MN"
+    },
+    {
+      "text": "AI-generated Shapiro ad spotlights gap in Pennsylvania election law",
+      "url": "https://penncapital-star.com/election-2026/pa-law-doesnt-regulate-ai-generated-candidates-in-election-ads-but-some-hope-to-change-that/",
+      "abbr": "PA"
+    },
+    {
+      "text": "Texas county GOP sues for a full hand count of ballots before certification",
+      "url": "https://www.texastribune.org/2026/10/28/texas-potter-county-republican-lawsuit-hand-count-ballots/",
+      "abbr": "TX"
+    },
+    {
+      "text": "Justice Department election monitors fan out to Idaho, Indiana, Iowa and South Dakota"
+    },
+    {
+      "text": "Louisiana's Senate race tightens as early Black voter turnout surges",
+      "url": "https://lailluminator.com/2026/10/29/louisiana-senate-3/",
+      "abbr": "LA"
+    }
+  ]
 }

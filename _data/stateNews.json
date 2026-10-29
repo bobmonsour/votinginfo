@@ -36872,6 +36872,336 @@
       "date": "2026-10-28",
       "time": "17:00",
       "states": {}
+    },
+    {
+      "date": "2026-10-29",
+      "time": "06:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Young Boozer, Rosilyn Houston face off in state treasurer race",
+            "source": "Alabama Reflector",
+            "url": "https://alabamareflector.com/2026/10/29/young-boozer-rosilyn-houston-face-off-in-state-treasurer-race",
+            "date": "2026-10-29",
+            "summary": "Incumbent Republican state treasurer Young Boozer faces Democrat Rosilyn Houston in Alabama's Nov. 3 general election, with Boozer significantly outraising his challenger."
+          }
+        ],
+        "AK": [
+          {
+            "title": "Alaska is on pace to match 2024's record-high early voting numbers",
+            "source": "Alaska Beacon",
+            "url": "https://alaskabeacon.com/2026/10/28/alaska-is-on-pace-to-match-2024s-record-high-early-voting-numbers/",
+            "date": "2026-10-28",
+            "summary": "Early and absentee voting in Alaska's Nov. 3 general election is on pace to match the record turnout seen in 2024, already exceeding 2022 midterm totals."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Arkansas amendment aims to prohibit noncitizens from voting in local elections",
+            "source": "Arkansas Advocate",
+            "url": "https://arkansasadvocate.com/2026/10/29/arkansas-amendment-aims-to-prohibit-noncitizens-from-voting-in-local-elections/",
+            "date": "2026-10-29",
+            "summary": "Issue 1 on Arkansas's Nov. 3 ballot would add language to the state constitution specifying only U.S. citizens may vote in state and local elections."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Democratic super PAC says it's spending $2.1M more in Colorado's 3rd Congressional District",
+            "source": "The Colorado Sun",
+            "url": "https://coloradosun.com/2026/10/28/hmp-3rd-congressional-district-ads/",
+            "date": "2026-10-28",
+            "summary": "House Majority PAC is adding $2.1 million in ad spending to help Democrat Dwayne Romero in Colorado's competitive 3rd Congressional District race against Republican Rep. Jeff Hurd."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Hayes, Shea compete in CT 5th District as national attention shifts",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/10/29/jahana-hayes-chris-shea-ct-5th-district/",
+            "date": "2026-10-29",
+            "summary": "Democratic incumbent Jahana Hayes faces Republican Chris Shea in Connecticut's 5th Congressional District, one of the state's most closely watched Nov. 3 races."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Strong early voting turn out in Delaware tracks with national trends",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-10-28/strong-early-voting-turn-out-in-delaware-tracks-with-national-trends",
+            "date": "2026-10-28",
+            "summary": "Early in-person turnout in Delaware is running well ahead of the 2022 midterms, with Democrats casting a majority of the ballots so far."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Obama rallies with Georgia Democratic candidates as early voting winds down",
+            "source": "Georgia Recorder",
+            "url": "https://georgiarecorder.com/2026/10/29/obama-rallies-with-georgia-democratic-candidates-as-early-voting-winds-down/",
+            "date": "2026-10-29",
+            "summary": "Former President Obama campaigned for Georgia Democrats as the state's early voting period neared its close, with turnout already topping 2 million ballots cast."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Trump administration to send election monitors to Idaho's largest county",
+            "source": "Idaho Capital Sun",
+            "url": "https://idahocapitalsun.com/2026/10/29/trump-administration-to-send-election-monitors-to-idahos-largest-county/",
+            "date": "2026-10-29",
+            "summary": "The U.S. Justice Department will send election monitors to Ada County on Nov. 3, with Idaho's secretary of state calling the deployment routine."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Third-party U.S. Senate candidate gives voters an alternative",
+            "source": "Capitol News Illinois",
+            "url": "https://capitolnewsillinois.com/news/third-party-u-s-senate-candidate-gives-voters-an-alternative/",
+            "date": "2026-10-28",
+            "summary": "American Center Party candidate Whitfield Harrington is offering Illinois voters a third option in the U.S. Senate race against Democrat Juliana Stratton and Republican Don Tracy."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Federal election monitors won't enter Indiana polling sites, officials say",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/10/28/federal-election-monitors-wont-enter-indiana-polling-sites-officials-say/",
+            "date": "2026-10-28",
+            "summary": "Indiana election officials say Justice Department monitors assigned to Marion and Lake counties for Nov. 3 will observe only from outside polling locations, since state law doesn't grant them entry."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Iowa Secretary of State confirms DOJ election monitors will be in Iowa",
+            "source": "Iowa Capital Dispatch",
+            "url": "https://iowacapitaldispatch.com/2026/10/28/iowa-secretary-of-state-confirms-doj-election-monitors-will-be-in-iowa/",
+            "date": "2026-10-28",
+            "summary": "Secretary of State Paul Pate confirmed U.S. Department of Justice monitors will be present at some Iowa polling places on Election Day."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Lack of major property tax relief in Kansas prompts fingerpointing in governor's race",
+            "source": "Kansas Reflector",
+            "url": "https://kansasreflector.com/2026/10/28/lack-of-major-property-tax-relief-in-kansas-prompts-fingerpointing-in-governors-race/",
+            "date": "2026-10-28",
+            "summary": "Kansas gubernatorial candidates Cindy Holscher and Ty Masterson are trading blame over the Legislature's failure to deliver major property tax relief ahead of the Nov. 3 election."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Ahead of Election Day, control of Daviess County Public Library stays at forefront of politics",
+            "source": "Kentucky Lantern",
+            "url": "https://kentuckylantern.com/2026/10/28/ahead-of-election-day-control-of-daviess-county-public-library-stays-at-forefront-of-politics/",
+            "date": "2026-10-28",
+            "summary": "Local elected officials' influence over the Daviess County Public Library board has become a notable issue in county races ahead of Kentucky's Nov. 3 election."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Louisiana Senate race enters home stretch tighter than expected",
+            "source": "Louisiana Illuminator",
+            "url": "https://lailluminator.com/2026/10/29/louisiana-senate-3/",
+            "date": "2026-10-29",
+            "summary": "Republican Julia Letlow remains the favorite in Louisiana's U.S. Senate race, but strong early Black voter turnout has tightened her race against Democrat Jamie Davis."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Competing US Senate endorsements highlight tension between tribal sovereignty and investment",
+            "source": "Maine Morning Star",
+            "url": "https://mainemorningstar.com/2026/10/29/competing-us-senate-endorsements-highlight-tension-between-tribal-sovereignty-and-investment/",
+            "date": "2026-10-29",
+            "summary": "Maine tribal nations split their endorsements in the U.S. Senate race, with some backing Troy Jackson and others backing incumbent Sen. Susan Collins."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Data centers tighten county executive battle in Frederick",
+            "source": "Maryland Matters",
+            "url": "https://marylandmatters.org/2026/10/29/data-centers-fitzwater-reelection/",
+            "date": "2026-10-29",
+            "summary": "Data center policy has made Frederick County's executive race closer than expected, with Democratic incumbent Jessica Fitzwater facing a tougher-than-anticipated challenge from Republican Jeff Holtzinger."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Minogue highlights sheriffs' concerns with PROTECT Act",
+            "source": "CommonWealth Beacon",
+            "url": "https://commonwealthbeacon.org/government/state-government/election-2026/minogue-highlights-sheriffs-concerns-with-protect-act/",
+            "date": "2026-10-28",
+            "summary": "Republican gubernatorial nominee Mike Minogue highlighted sheriffs' concerns with the PROTECT Act, prompting Gov. Maura Healey's campaign to announce endorsements from 12 Democratic sheriffs."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Clerks must temporarily retain electronic pollbook after Nov. 3 election, Court of Claims rules",
+            "source": "Michigan Advance",
+            "url": "https://michiganadvance.com/2026/10/28/clerks-must-temporarily-retain-electronic-pollbook-after-nov-3-election-court-of-claims-rules/",
+            "date": "2026-10-28",
+            "summary": "A Michigan Court of Claims order directs local clerks to retain electronic pollbook data from the Nov. 3 election while the state reviews the ruling."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Right-wing influencer James O'Keefe charged with voter fraud after impersonating registered voters",
+            "source": "Minnesota Reformer",
+            "url": "https://minnesotareformer.com/2026/10/28/right-wing-influencer-james-okeefe-charged-with-voter-fraud-after-impersonating-registered-voters/",
+            "date": "2026-10-28",
+            "summary": "Hennepin County prosecutors charged conservative activists James O'Keefe and Cam Higby with unlawful voting for impersonating registered voters during Minnesota's August primary."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Former President Bill Clinton to campaign in Mississippi for Scott Colom",
+            "source": "Mississippi Today",
+            "url": "https://mississippitoday.org/2026/10/28/former-president-bill-clinton-to-campaign-in-mississippi-for-scott-colom/",
+            "date": "2026-10-28",
+            "summary": "Former President Bill Clinton campaigned in Tupelo for Democratic U.S. Senate nominee Scott Colom, who is challenging incumbent Republican Cindy Hyde-Smith."
+          }
+        ],
+        "MT": [
+          {
+            "title": "With 1 week until Election Day, Montana absentee votes exceed 225,000",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/10/27/with-1-week-until-election-day-montana-absentee-votes-exceed-225000/",
+            "date": "2026-10-27",
+            "summary": "Montana absentee ballot returns are running well ahead of the 2022 midterm pace, with about 43% of the roughly 525,000 ballots sent out already returned."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Comstock, Hosein face off for NU Regents District 1 in Lincoln, northwest Lancaster County",
+            "source": "Nebraska Examiner",
+            "url": "https://nebraskaexaminer.com/2026/10/28/comstock-hosein-face-off-for-nu-regents-district-1-in-lincoln-northwest-lancaster-county/",
+            "date": "2026-10-28",
+            "summary": "Two Lincoln candidates are competing for an open University of Nebraska Board of Regents seat after longtime Regent Tim Clare declined to seek another term."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Trump approval at 29% among likely NJ voters, poll finds",
+            "source": "New Jersey Monitor",
+            "url": "https://newjerseymonitor.com/2026/10/28/nj-poll-donald-trump/",
+            "date": "2026-10-28",
+            "summary": "A Fairleigh Dickinson University poll found President Trump's approval among likely New Jersey voters at 29% ahead of the Nov. 3 election, with Gov. Sherrill's approval also sliding."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Prediction markets diverge from traditional polls in NC races as Election Day nears",
+            "source": "NC Newsline",
+            "url": "https://ncnewsline.com/2026/10/29/prediction-markets-diverge-from-traditional-polls-in-nc-races-as-election-day-nears/",
+            "date": "2026-10-29",
+            "summary": "Betting markets Kalshi and Polymarket show stronger odds for North Carolina Democrats than traditional polling, including in the U.S. Senate race between Roy Cooper and Michael Whatley."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio Sec. of State LaRose refers progressive group to federal law enforcement",
+            "source": "Ohio Capital Journal",
+            "url": "https://ohiocapitaljournal.com/2026/10/29/ohio-sec-of-state-larose-refers-progressive-group-to-federal-law-enforcement/",
+            "date": "2026-10-29",
+            "summary": "Secretary of State Frank LaRose referred voter engagement group Field Forward Ohio to law enforcement over allegedly late or problematic voter registration forms ahead of the Nov. 3 election."
+          }
+        ],
+        "OK": [
+          {
+            "title": "'Anything could happen': Oklahomans wait in lines to vote early ahead of Nov. 3 election",
+            "source": "Oklahoma Voice",
+            "url": "https://oklahomavoice.com/2026/10/28/anything-could-happen-oklahomans-wait-in-lines-to-vote-early-ahead-of-nov-3-election/",
+            "date": "2026-10-28",
+            "summary": "Oklahomans turned out in lines for the state's four-day in-person early voting window ahead of the Nov. 3 general election."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pa. law doesn't regulate AI-generated candidates in election ads, but some hope to change that",
+            "source": "Pennsylvania Capital-Star",
+            "url": "https://penncapital-star.com/election-2026/pa-law-doesnt-regulate-ai-generated-candidates-in-election-ads-but-some-hope-to-change-that/",
+            "date": "2026-10-29",
+            "summary": "Republican gubernatorial nominee Stacy Garrity ran an ad using an AI-generated likeness of Gov. Josh Shapiro, highlighting a gap in Pennsylvania law on regulating deepfakes in campaign ads."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Diners applaud 'smart move' in Democrat's final stretch as he tries to make history in SC",
+            "source": "SC Daily Gazette",
+            "url": "https://scdailygazette.com/2026/10/28/diners-applaud-smart-move-in-democrats-final-stretch-as-he-tries-to-make-history-in-sc/",
+            "date": "2026-10-28",
+            "summary": "Democratic gubernatorial candidate Jermaine Johnson, who would be South Carolina's first Black governor if elected, campaigned in his final week before the Nov. 3 election."
+          }
+        ],
+        "SD": [
+          {
+            "title": "Department of Justice election monitor deployment will include South Dakota's Minnehaha County",
+            "source": "South Dakota Searchlight",
+            "url": "https://southdakotasearchlight.com/2026/10/27/department-of-justice-election-monitor-deployment-will-include-south-dakotas-minnehaha-county/",
+            "date": "2026-10-27",
+            "summary": "The U.S. Department of Justice will send election monitors to Minnehaha County, South Dakota's most populous county, for the Nov. 3 general election."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Green and Pinkston speak after gubernatorial forum. Here are the biggest takeaways",
+            "source": "Tennessee Lookout",
+            "url": "https://tennesseelookout.com/2026/10/28/green-and-pinkston-speak-after-gubernatorial-forum-here-are-the-biggest-takeaways/",
+            "date": "2026-10-28",
+            "summary": "Democratic candidate Jerri Green and independent Lauren Pinkston spoke after a Tennessee gubernatorial forum that Republican frontrunner Marsha Blackburn skipped."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Panhandle Republican group wants all Texas ballots hand counted in the Nov. 3 election",
+            "source": "The Texas Tribune",
+            "url": "https://www.texastribune.org/2026/10/28/texas-potter-county-republican-lawsuit-hand-count-ballots/",
+            "date": "2026-10-28",
+            "summary": "The Potter County Republican Party filed a federal lawsuit seeking a hand count of all Texas ballots before certification, without providing evidence that machines have been compromised."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Ex-Utah Supreme Court justice urges voters to retain judges amid push to unseat her former colleague",
+            "source": "Utah News Dispatch",
+            "url": "https://utahnewsdispatch.com/2026/10/28/ex-utah-supreme-court-justice-urges-voters-to-retain-judges-amid-push-to-unseat-her-former-colleague/",
+            "date": "2026-10-28",
+            "summary": "Former Utah Supreme Court Justice Diana Hagen is urging voters to retain sitting justices, as some Republican leaders campaign against retaining colleagues over redistricting and abortion rulings."
+          }
+        ],
+        "VT": [
+          {
+            "title": "State senator from Rutland County arrested on domestic assault charge, denies allegation",
+            "source": "VTDigger",
+            "url": "https://vtdigger.org/2026/10/28/state-senator-from-rutland-county-arrested-jailed-on-domestic-assault-charge/",
+            "date": "2026-10-28",
+            "summary": "Vermont state Sen. Terry Williams, who is up for reelection Nov. 3, was arrested on a domestic assault charge and has pleaded not guilty."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Democrat turnout exceeding GOP in early voting in West Virginia",
+            "source": "West Virginia Watch",
+            "url": "https://westvirginiawatch.com/2026/10/27/democrat-turnout-exceeding-gop-in-early-voting-in-west-virginia/",
+            "date": "2026-10-27",
+            "summary": "Registered Democrats outpaced Republicans in early in-person voting during the first four days of West Virginia's early voting period, despite the GOP's registration advantage."
+          }
+        ],
+        "WI": [
+          {
+            "title": "There's a big divide between Lt. Gov. candidates",
+            "source": "Wisconsin Examiner",
+            "url": "https://wisconsinexaminer.com/2026/10/29/theres-a-big-divide-between-lt-gov-candidates/",
+            "date": "2026-10-29",
+            "summary": "Wisconsin's lieutenant governor candidates, David Varnam and Sarah Godlewski, show sharp differences ahead of the Nov. 3 election, even though neither was chosen by their running mate."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Voting machine problems in the 2026 midterms: What voters should know",
+            "source": "Votebeat",
+            "url": "https://votebeat.org/national/2026/10/29/voting-machines-midterm-problems-safeguards",
+            "date": "2026-10-29",
+            "summary": "As scrutiny of election equipment intensifies ahead of the Nov. 3 midterms, Votebeat outlines the safeguards in place to catch and correct voting machine malfunctions."
+          }
+        ]
+      }
     }
   ]
 }
