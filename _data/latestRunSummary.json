@@ -1,28 +1,4 @@
 {
   "date": "2026-10-28",
-  "items": [
-    {
-      "text": "Record early-voting turnout reported across Georgia, Texas, South Carolina and other midterm battlegrounds"
-    },
-    {
-      "text": "Wyoming negotiates 100-yard buffer for DOJ election monitors after primary-season complaints",
-      "url": "https://wyofile.com/doj-election-monitors-will-return-to-cheyenne-but-this-time-theyve-agreed-to-stay-100-yards-from-polling-places/",
-      "abbr": "WY"
-    },
-    {
-      "text": "Judge dismisses DOJ bid for Utah voters' private data as noncitizen-voting claims flare in Arizona and Washington",
-      "url": "https://utahnewsdispatch.com/2026/10/23/judge-dismisses-doj-lawsuit-against-utah-lieutenant-governor-demanding-private-voter-information/",
-      "abbr": "UT"
-    },
-    {
-      "text": "Tennessee officials urge voters to double-check paper ballots after reported selection glitches",
-      "url": "https://tennesseelookout.com/2026/10/26/tennessee-officials-urge-caution-amid-reports-of-ballot-problems/",
-      "abbr": "TN"
-    },
-    {
-      "text": "Missouri and Mississippi voters weigh high-stakes abortion-related ballot measures and ads in the closing days",
-      "url": "https://missouriindependent.com/2026/10/28/missouri-pastors-take-opposing-sides-in-fight-over-abortion-amendment/",
-      "abbr": "MO"
-    }
-  ]
+  "items": []
 }
