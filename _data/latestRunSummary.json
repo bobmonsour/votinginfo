@@ -1,10 +1,20 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
     {
-      "text": "Border Patrol agents at Florida early voting sites say they were trying to vote",
-      "url": "https://www.wusf.org/politics-issues/2026-10-27/border-patrol-agents-leon-county-polls-wanted-to-vote-officials-say",
-      "abbr": "FL"
+      "text": "North Dakota's top court rejects late GOP bid to void four legislative wins",
+      "url": "https://www.thedickinsonpress.com/news/north-dakota/north-dakota-supreme-court-denies-attempt-to-overturn-potential-wins-of-4-legislative-candidates",
+      "abbr": "ND"
+    },
+    {
+      "text": "North Dakota's Measure 1 framed by backers as block on future abortion-rights vote",
+      "url": "https://kfgo.com/2026/10/24/some-measure-1-backers-see-it-as-a-roadblock-to-potential-abortion-rights-initiatives-in-nd/",
+      "abbr": "ND"
+    },
+    {
+      "text": "Texas enters final week of early voting as Harris County sets turnout records",
+      "url": "https://abc13.com/live-updates/2026-midterm-election-early-voting-starts-monday-runs-oct-30-texas/19850056/",
+      "abbr": "TX"
     }
   ]
 }

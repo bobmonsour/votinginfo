@@ -37217,6 +37217,37 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-30",
+      "time": "06:00",
+      "states": {
+        "ND": [
+          {
+            "title": "North Dakota Supreme Court denies attempt to overturn potential wins of 4 legislative candidates",
+            "source": "North Dakota Monitor",
+            "url": "https://www.thedickinsonpress.com/news/north-dakota/north-dakota-supreme-court-denies-attempt-to-overturn-potential-wins-of-4-legislative-candidates",
+            "date": "2026-10-28",
+            "summary": "The state Supreme Court rejected a Republican-led challenge seeking to void potential election wins by four legislative candidates over alleged paperwork errors, ruling the challenge was filed too late and could confuse voters already casting ballots."
+          },
+          {
+            "title": "Some Measure 1 backers see it as a roadblock to potential abortion rights initiatives in ND",
+            "source": "North Dakota Monitor",
+            "url": "https://kfgo.com/2026/10/24/some-measure-1-backers-see-it-as-a-roadblock-to-potential-abortion-rights-initiatives-in-nd/",
+            "date": "2026-10-24",
+            "summary": "Supporters of Measure 1, which would set a 60% supermajority threshold for amending North Dakota's constitution, say it would block a future abortion-rights ballot initiative; opponents call that framing a fear tactic."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Live updates: Final week of early voting underway in Texas",
+            "source": "ABC13 Houston",
+            "url": "https://abc13.com/live-updates/2026-midterm-election-early-voting-starts-monday-runs-oct-30-texas/19850056/",
+            "date": "2026-10-29",
+            "summary": "Texas entered the final week of early voting for the Nov. 3 midterms, with Harris County reporting record-setting early turnout compared to prior midterm cycles."
+          }
+        ]
+      }
     }
   ]
 }
