@@ -37202,6 +37202,21 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-29",
+      "time": "17:00",
+      "states": {
+        "FL": [
+          {
+            "title": "Border Patrol agents at Leon County polls wanted to vote, officials say",
+            "source": "WUSF",
+            "url": "https://www.wusf.org/politics-issues/2026-10-27/border-patrol-agents-leon-county-polls-wanted-to-vote-officials-say",
+            "date": "2026-10-27",
+            "summary": "Leon and Monroe county elections officials reported U.S. Border Patrol agents and masked federal agents near early voting sites; officials say the Leon County agents were trying to vote before leaving the state."
+          }
+        ]
+      }
     }
   ]
 }
