@@ -2,19 +2,42 @@
   "date": "2026-10-30",
   "items": [
     {
-      "text": "North Dakota's top court rejects late GOP bid to void four legislative wins",
-      "url": "https://www.thedickinsonpress.com/news/north-dakota/north-dakota-supreme-court-denies-attempt-to-overturn-potential-wins-of-4-legislative-candidates",
-      "abbr": "ND"
-    },
-    {
-      "text": "North Dakota's Measure 1 framed by backers as block on future abortion-rights vote",
-      "url": "https://kfgo.com/2026/10/24/some-measure-1-backers-see-it-as-a-roadblock-to-potential-abortion-rights-initiatives-in-nd/",
-      "abbr": "ND"
-    },
-    {
-      "text": "Texas enters final week of early voting as Harris County sets turnout records",
-      "url": "https://abc13.com/live-updates/2026-midterm-election-early-voting-starts-monday-runs-oct-30-texas/19850056/",
+      "text": "Republican group sues to force a hand count of all Texas ballots in the Nov. 3 election",
+      "url": "https://www.votebeat.org/texas/2026/10/30/texas-potter-county-republican-lawsuit-hand-count-ballots/",
       "abbr": "TX"
+    },
+    {
+      "text": "Appeals court again rejects DOJ bid to block California noncitizen-ballot count, setting up Supreme Court fight",
+      "url": "https://www.democracydocket.com/news-alerts/appeals-court-again-rejects-dojs-bid-to-block-some-california-ballots-setting-up-supreme-court-showdown/",
+      "abbr": "CA"
+    },
+    {
+      "text": "DOJ warns election officials nationwide of possible criminal prosecution days before midterms",
+      "url": "https://www.votebeat.org/national/2026/10/30/doj-election-officials-criminal-prosecution-letters-2026-midterms/",
+      "abbr": "DC"
+    },
+    {
+      "text": "DOJ escalates fight over Alaska's Senate race, seeks to segregate disputed ballots",
+      "url": "https://www.democracydocket.com/news-alerts/in-new-escalation-doj-wants-to-force-alaska-to-segregate-ballots-in-senate-race/",
+      "abbr": "AK"
+    },
+    {
+      "text": "Nebraska secretary of state race turns on GOP candidate's push to restrict mail and early voting",
+      "url": "https://www.votebeat.org/national/2026/10/30/nebraska-secretary-state-scott-petersen-mail-early-voting-restrictions/",
+      "abbr": "NE"
+    },
+    {
+      "text": "Unions sue DOJ over 'unlawful threats' against California election officials",
+      "url": "https://www.democracydocket.com/news-alerts/unions-sue-doj-over-unprecedented-and-unlawful-threats-against-california-election-officials/",
+      "abbr": "CA"
+    },
+    {
+      "text": "Texas voter-assistance groups scale back help over SB1 criminal-liability fears",
+      "url": "https://www.votebeat.org/texas/2026/10/30/sb1-ballot-harvesting-restrictions-on-helping-voters-lupe/",
+      "abbr": "TX"
+    },
+    {
+      "text": "Wisconsin and Arizona election administration under strain: rural mail delays and an Apache County investigation"
     }
   ]
 }

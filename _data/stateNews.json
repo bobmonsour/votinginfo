@@ -37248,6 +37248,103 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-10-30",
+      "time": "17:00",
+      "states": {
+        "TX": [
+          {
+            "title": "Republican group wants all Texas ballots hand counted in the Nov. 3 election",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/texas/2026/10/30/texas-potter-county-republican-lawsuit-hand-count-ballots/",
+            "date": "2026-10-30",
+            "summary": "A Republican-aligned group is pushing for all ballots to be hand counted in a Texas county ahead of the Nov. 3 election, reviving a disputed practice election officials say is slower and less accurate than machine tabulation."
+          },
+          {
+            "title": "Voting rights groups, afraid of criminal penalties, cut back on helping some of Texas' most vulnerable voters",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/texas/2026/10/30/sb1-ballot-harvesting-restrictions-on-helping-voters-lupe/",
+            "date": "2026-10-30",
+            "summary": "Texas' 2021 voting law has made voter-assistance groups wary of criminal liability, leading some to scale back help for elderly, disabled, and non-English-speaking voters ahead of the midterms."
+          },
+          {
+            "title": "Texas county ends ads encouraging minority voters, settling lawsuit",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/texas-county-ends-ads-encouraging-minority-voters-to-settle-lawsuit/",
+            "date": "2026-10-30",
+            "summary": "Texas's largest county agreed to end advertising aimed at encouraging turnout among minority voters, settling a lawsuit filed by the state attorney general's office."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Appeals court again rejects DOJ's bid to block some California ballots, setting up Supreme Court showdown",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/appeals-court-again-rejects-dojs-bid-to-block-some-california-ballots-setting-up-supreme-court-showdown/",
+            "date": "2026-10-30",
+            "summary": "A federal appeals court for a second time rejected the Trump administration's bid to block California from counting roughly 20,000 ballots the DOJ alleges came from noncitizens, setting up a potential Supreme Court fight."
+          },
+          {
+            "title": "Unions sue DOJ over 'unprecedented and unlawful threats' against California election officials",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/unions-sue-doj-over-unprecedented-and-unlawful-threats-against-california-election-officials/",
+            "date": "2026-10-30",
+            "summary": "Labor unions sued the Justice Department over criminal subpoenas issued to California state and local election officials, calling the DOJ's actions unprecedented and unlawful."
+          }
+        ],
+        "AK": [
+          {
+            "title": "In new escalation, DOJ wants to force Alaska to segregate ballots in Senate race",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/in-new-escalation-doj-wants-to-force-alaska-to-segregate-ballots-in-senate-race/",
+            "date": "2026-10-30",
+            "summary": "The Justice Department escalated its fight over Alaska's U.S. Senate race, asking a federal judge to force the state to preserve and segregate ballots it says may be affected by voter confusion."
+          },
+          {
+            "title": "Alaska sued over failure to open voting locations advertised to voters",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/alaska-sued-over-failure-to-open-voting-locations-advertised-to-voters/",
+            "date": "2026-10-29",
+            "summary": "Alaska was sued over claims that it failed to open voting locations it had advertised to voters, raising concerns about access ahead of the Nov. 3 election."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Nebraska secretary of state race centers on Republican's push to restrict mail and early voting",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/10/30/nebraska-secretary-state-scott-petersen-mail-early-voting-restrictions/",
+            "date": "2026-10-30",
+            "summary": "Nebraska's secretary of state race has become a referendum on voting access, with Republican candidate Scott Petersen calling for sharp restrictions on mail and early voting."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Mail delays are leading to more early voting. That shift is especially clear in rural Wisconsin.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/10/30/rural-clerks-say-vote-early-in-person/",
+            "date": "2026-10-30",
+            "summary": "Mail delivery delays are pushing more Wisconsin voters, especially in rural counties, to vote in person during the early voting period rather than risk late-arriving mail ballots."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Apache County's 2024 election was worse than reported, records show. Now, it faces another test at the polls.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/10/30/apache-county-2024-election-navajo-nation-pollbooks-fontes-2026/",
+            "date": "2026-10-30",
+            "summary": "A Votebeat investigation found Apache County's 2024 election problems were more severe than previously reported, raising concerns about the county's readiness for this year's midterms and its Navajo Nation voters."
+          }
+        ],
+        "DC": [
+          {
+            "title": "DOJ again warns election officials of potential criminal prosecution, days before midterm elections",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/10/30/doj-election-officials-criminal-prosecution-letters-2026-midterms/",
+            "date": "2026-10-30",
+            "summary": "The Justice Department sent another round of letters warning election officials nationwide of potential criminal prosecution just days before the midterm elections."
+          }
+        ]
+      }
     }
   ]
 }
