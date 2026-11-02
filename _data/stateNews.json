@@ -37345,6 +37345,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-02",
+      "time": "06:00",
+      "states": {
+        "AR": [
+          {
+            "title": "Sebastian County early voting up 13.5%; Arkansas early voting up 17%",
+            "source": "Talk Business & Politics",
+            "url": "https://talkbusiness.net/2026/10/sebastian-county-early-voting-up-13-5-arkansas-early-voting-up-17/",
+            "date": "2026-10-30",
+            "summary": "Arkansas early and absentee voting reached roughly 460,000 ballots in the first 10 days of the 2026 midterms, about 17% ahead of the same point in 2022, with Sebastian County's early vote up 13.5%."
+          }
+        ],
+        "CT": [
+          {
+            "title": "5 things to know about CT's 2026 elections if you haven't voted yet",
+            "source": "CT Mirror",
+            "url": "https://ctmirror.org/2026/10/30/5-things-to-know-about-cts-2026-elections-if-you-havent-voted-yet/",
+            "date": "2026-10-30",
+            "summary": "About 394,000 Connecticut voters had cast ballots by the Thursday before Election Day, mostly during early voting, with the piece outlining what's on the ballot and the deadlines for absentee and Election Day voting."
+          }
+        ],
+        "MN": [
+          {
+            "title": "More Minnesotans have voted already than did early in the 2022 midterms",
+            "source": "KAXE",
+            "url": "https://www.kaxe.org/elections/2026-10-30/more-minnesotans-have-voted-already-than-did-early-in-the-2022-midterms",
+            "date": "2026-10-30",
+            "summary": "Minnesota's Secretary of State reported 728,961 early ballots cast by Oct. 29, already surpassing the 673,360 cast during the entire 2022 midterm early-voting period."
+          }
+        ],
+        "NH": [
+          {
+            "title": "State election official predicts record NH voter turnout, urges voters to have a plan",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.vermontpublic.org/2026-10-30/voter-turnout-nh-election-chief-predicts-record",
+            "date": "2026-10-30",
+            "summary": "New Hampshire Secretary of State David Scanlan predicted about 635,000 voters would cast ballots on Nov. 3, a record, citing competitive races and recent changes to acceptable voter ID rules."
+          }
+        ],
+        "NY": [
+          {
+            "title": "As Northeast sees high early-voting turnout, Albany County numbers set to double",
+            "source": "WAMC Northeast Public Radio",
+            "url": "https://www.wamc.org/news/2026-10-29/early-voter-turnout-2026-elections-midterms-albany-new-york-massachusetts-vermont",
+            "date": "2026-10-29",
+            "summary": "About 1.11 million New Yorkers had voted early as of Wednesday evening, with Albany County's nearly 26,800 early votes already exceeding its full nine-day early-voting total from the 2022 midterms."
+          }
+        ],
+        "VT": [
+          {
+            "title": "As Northeast sees high early-voting turnout, Albany County numbers set to double",
+            "source": "WAMC Northeast Public Radio",
+            "url": "https://www.wamc.org/news/2026-10-29/early-voter-turnout-2026-elections-midterms-albany-new-york-massachusetts-vermont",
+            "date": "2026-10-29",
+            "summary": "Vermont had seen 131,611 voters cast ballots by Thursday afternoon, a 26.1% turnout rate so far, as the state headed into the Nov. 3 general election."
+          }
+        ]
+      }
     }
   ]
 }

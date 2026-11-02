@@ -1,43 +1,30 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "items": [
     {
-      "text": "Republican group sues to force a hand count of all Texas ballots in the Nov. 3 election",
-      "url": "https://www.votebeat.org/texas/2026/10/30/texas-potter-county-republican-lawsuit-hand-count-ballots/",
-      "abbr": "TX"
+      "text": "Minnesota early voting surpasses its entire 2022 midterm total before Election Day",
+      "url": "https://www.kaxe.org/elections/2026-10-30/more-minnesotans-have-voted-already-than-did-early-in-the-2022-midterms",
+      "abbr": "MN"
     },
     {
-      "text": "Appeals court again rejects DOJ bid to block California noncitizen-ballot count, setting up Supreme Court fight",
-      "url": "https://www.democracydocket.com/news-alerts/appeals-court-again-rejects-dojs-bid-to-block-some-california-ballots-setting-up-supreme-court-showdown/",
-      "abbr": "CA"
+      "text": "New Hampshire election chief predicts record turnout for Tuesday's midterms",
+      "url": "https://www.vermontpublic.org/2026-10-30/voter-turnout-nh-election-chief-predicts-record",
+      "abbr": "NH"
     },
     {
-      "text": "DOJ warns election officials nationwide of possible criminal prosecution days before midterms",
-      "url": "https://www.votebeat.org/national/2026/10/30/doj-election-officials-criminal-prosecution-letters-2026-midterms/",
-      "abbr": "DC"
+      "text": "Connecticut voters cast nearly 394,000 ballots ahead of Election Day",
+      "url": "https://ctmirror.org/2026/10/30/5-things-to-know-about-cts-2026-elections-if-you-havent-voted-yet/",
+      "abbr": "CT"
     },
     {
-      "text": "DOJ escalates fight over Alaska's Senate race, seeks to segregate disputed ballots",
-      "url": "https://www.democracydocket.com/news-alerts/in-new-escalation-doj-wants-to-force-alaska-to-segregate-ballots-in-senate-race/",
-      "abbr": "AK"
+      "text": "Arkansas early voting outpaces its 2022 midterm pace by 17%",
+      "url": "https://talkbusiness.net/2026/10/sebastian-county-early-voting-up-13-5-arkansas-early-voting-up-17/",
+      "abbr": "AR"
     },
     {
-      "text": "Nebraska secretary of state race turns on GOP candidate's push to restrict mail and early voting",
-      "url": "https://www.votebeat.org/national/2026/10/30/nebraska-secretary-state-scott-petersen-mail-early-voting-restrictions/",
-      "abbr": "NE"
-    },
-    {
-      "text": "Unions sue DOJ over 'unlawful threats' against California election officials",
-      "url": "https://www.democracydocket.com/news-alerts/unions-sue-doj-over-unprecedented-and-unlawful-threats-against-california-election-officials/",
-      "abbr": "CA"
-    },
-    {
-      "text": "Texas voter-assistance groups scale back help over SB1 criminal-liability fears",
-      "url": "https://www.votebeat.org/texas/2026/10/30/sb1-ballot-harvesting-restrictions-on-helping-voters-lupe/",
-      "abbr": "TX"
-    },
-    {
-      "text": "Wisconsin and Arizona election administration under strain: rural mail delays and an Apache County investigation"
+      "text": "New York and Vermont report surging early-voting turnout in the final stretch",
+      "url": "https://www.wamc.org/news/2026-10-29/early-voter-turnout-2026-elections-midterms-albany-new-york-massachusetts-vermont",
+      "abbr": "NY"
     }
   ]
 }
