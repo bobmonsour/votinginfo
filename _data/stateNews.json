@@ -37405,6 +37405,462 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-02",
+      "time": "17:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Today is the last day in Alabama to turn in an absentee ballot by hand",
+            "source": "Alabama Public Radio",
+            "url": "https://www.apr.org/news/2026-11-02/today-is-the-last-day-in-alabama-to-turn-in-an-absentee-ballot-by-hand",
+            "date": "2026-11-02",
+            "summary": "Voters who wanted to return an absentee ballot by hand had to drop it off with their county election official by the close of business Monday, the day before Alabama's general election."
+          }
+        ],
+        "AK": [
+          {
+            "title": "As controversy looms in the Alaska Senate race, the state's voting system is on the ballot",
+            "source": "MS NOW",
+            "url": "https://www.ms.now/news/as-controversy-looms-in-the-alaska-senate-race-the-states-voting-system-is-on-the-ballot",
+            "date": "2026-11-02",
+            "summary": "Alaska's open-primary and ranked-choice voting system is itself on the Nov. 3 ballot as Measure 2, a repeal effort intertwined with the contested U.S. Senate race between Dan Sullivan and Mary Peltola."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Election 2026: How Arizona's Prop. 144 would change mail voting",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/11/02/prop-144-election-2026-mail-voting-id-fast-counting-legislature-kolodin/",
+            "date": "2026-11-02",
+            "summary": "Arizona's Prop. 144 would require mail voters to show ID and let voters who drop off mail ballots at polling sites have them counted there; supporters say it will speed up results while critics warn it could weaken mail voting."
+          }
+        ],
+        "AR": [
+          {
+            "title": "Arkansas enters final days of midterm voting with Democrats, Republicans hopeful",
+            "source": "Arkansas Democrat-Gazette",
+            "url": "https://www.arkansasonline.com/news/2026/oct/31/arkansas-enters-final-days-of-midterm-voting/",
+            "date": "2026-10-31",
+            "summary": "At least 451,760 Arkansans voted in the first 10 days of early voting ahead of Tuesday's general election, which will decide U.S. Senate, governor, legislative races and four statewide ballot measures."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+            "date": "2026-11-02",
+            "summary": "The Supreme Court denied the Justice Department's last-minute request to stop California from counting mail-in ballots from about 20,000 voters the DOJ says may not be U.S. citizens, allowing the count to continue through Election Day."
+          }
+        ],
+        "CO": [
+          {
+            "title": "DOJ election monitors in Colorado: What voters should expect",
+            "source": "Axios Denver",
+            "url": "https://www.axios.com/local/denver/2026/11/02/doj-election-monitors-adams-county-colorado-what-to-expect",
+            "date": "2026-11-02",
+            "summary": "The Justice Department plans to station election monitors outside Adams County polling places on Election Day, the only Colorado county where it plans to deploy them, after the county rejected DOJ's request to enter voting centers."
+          }
+        ],
+        "CT": [
+          {
+            "title": "CT early voting tops 500,000 ahead of Election Day",
+            "source": "WSHU",
+            "url": "https://www.wshu.org/connecticut-news/2026-11-02/ct-early-voting-numbers",
+            "date": "2026-11-02",
+            "summary": "Connecticut's early and absentee voting totals passed 508,000 before Tuesday's election, roughly 20% of the state's 2.3 million registered voters, according to preliminary Secretary of the State figures."
+          }
+        ],
+        "DE": [
+          {
+            "title": "Final numbers show strong turnout for early voting in Delaware",
+            "source": "Delaware Public Media",
+            "url": "https://www.delawarepublic.org/politics-government/2026-11-02/final-numbers-show-strong-turnout-for-early-voting-in-delaware",
+            "date": "2026-11-02",
+            "summary": "About 129,500 people, roughly 16% of Delaware's registered voters, cast early ballots ahead of the general election, more than double the pace of the 2022 midterm at the same point."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Florida's voter turnout nears 40% ahead of Tuesday's election",
+            "source": "News4Jax",
+            "url": "https://www.news4jax.com/news/local/2026/11/02/floridas-voter-turnout-nears-40-ahead-of-tuesdays-election/",
+            "date": "2026-11-02",
+            "summary": "Roughly 5.4 million of Florida's 13.7 million registered voters had already cast ballots by mail or during early voting as of Monday, with turnout nearing 40% ahead of the midterm election."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Record 2.8M early votes set up high-stakes Ga. Election Day",
+            "source": "WRDW",
+            "url": "https://www.wrdw.com/2026/11/02/record-28m-early-votes-set-up-high-stakes-ga-election-day/",
+            "date": "2026-11-02",
+            "summary": "More than 2.8 million Georgians cast early ballots, a midterm record, setting up a high-stakes Election Day where some statewide races could be decided by narrow margins."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Honolulu expecting election day surge of in-person voting",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/11/01/hawaii-news/honolulu-expecting-election-day-surge-of-in-person-voting/",
+            "date": "2026-11-01",
+            "summary": "Honolulu election officials expect a rush of in-person voting on Election Day after mail-in ballot returns ran about 20% behind 2022 levels, which could delay statewide results."
+          }
+        ],
+        "ID": [
+          {
+            "title": "More than 200,000 Idahoans vote early for midterms",
+            "source": "Idaho Press",
+            "url": "https://www.idahopress.com/news/elections/more-than-200-000-idahoans-vote-early-for-midterms/article_c4d4024a-8453-4a05-8499-5d662bada56e.html",
+            "date": "2026-10-30",
+            "summary": "Idaho's early voting period ended with 234,199 ballots already cast in the midterms, well ahead of the 2022 pace, though absentee ballots can still be returned through Election Day."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Chicago voters line up before early voting ends for the 2026 Illinois midterm election; Election Day is Tuesday",
+            "source": "CBS Chicago",
+            "url": "https://www.cbsnews.com/chicago/news/last-early-voters-illinois-candidates-vie-for-votes/",
+            "date": "2026-11-02",
+            "summary": "Chicago residents turned out on the last day of early voting for the 2026 Illinois midterms, with more than 280,000 ballots already cast in the city ahead of Tuesday's election."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Marion County sees record early-voting turnout in midterm election",
+            "source": "WRTV",
+            "url": "https://www.wrtv.com/news/election/early-voting-surges-in-marion-and-hamilton-counties/",
+            "date": "2026-11-02",
+            "summary": "Local election officials reported a sharp rise in early in-person voting ahead of Indiana's midterms, even without a presidential, gubernatorial, or U.S. Senate race on the ballot this cycle."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Iowa sees record early voting ahead of Election Day",
+            "source": "KTTC",
+            "url": "https://www.kttc.com/2026/11/02/iowa-sees-record-early-voting-ahead-election-day/",
+            "date": "2026-11-02",
+            "summary": "Iowa's Secretary of State reported record early voting, with more than 482,000 ballots requested in advance, most of them cast in person ahead of Election Day."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas City, Kansas, will have DJs at the polls on Election Day to get people 'excited to vote'",
+            "source": "KCUR",
+            "url": "https://www.kcur.org/politics-elections-and-government/2026-11-02/kansas-polling-locations-djs-voter-turnout",
+            "date": "2026-11-02",
+            "summary": "A nonprofit is hiring local DJs to play music outside more than a dozen Wyandotte County voting sites on Election Day to encourage turnout amid a close U.S. Senate race."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Kentucky early voting tops 400,000 as UK professor cautions against reading early party totals",
+            "source": "WKYT",
+            "url": "https://www.wkyt.com/2026/11/02/kentucky-early-voting-tops-400000-uk-professor-cautions-against-reading-early-party-totals/",
+            "date": "2026-11-01",
+            "summary": "More than 400,000 Kentuckians voted early ahead of the midterms, but a University of Kentucky political scientist cautions that party-registration totals are a weak guide to how people actually voted."
+          }
+        ],
+        "LA": [
+          {
+            "title": "Louisiana voters share their key issues as polls show tight Senate race",
+            "source": "Fox 8 WVUE",
+            "url": "https://www.fox8live.com/2026/11/02/louisiana-voters-share-their-key-issues-polls-show-tight-senate-race/",
+            "date": "2026-11-01",
+            "summary": "Ahead of Election Day, Louisiana voters cited the economy as their top concern amid unusually high early turnout and a close U.S. Senate race between Julia Letlow and Jamie Davis."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Election Day is Tuesday. Here's what Mainers need to know",
+            "source": "Portland Press Herald",
+            "url": "https://www.pressherald.com/2026/11/02/election-day-is-tuesday-heres-what-mainers-need-to-know/",
+            "date": "2026-11-02",
+            "summary": "This voter guide covers Maine's statewide and congressional races, polling hours, Election Day registration, absentee ballot returns, and why ranked-choice results may take time to finalize."
+          }
+        ],
+        "MD": [
+          {
+            "title": "Maryland's top election official says casting ballots will be 'safe, secure'",
+            "source": "Baltimore Sun",
+            "url": "https://www.baltimoresun.com/2026/11/02/marylands-top-election-official-says-casting-ballots-will-be-safe-secure/",
+            "date": "2026-11-02",
+            "summary": "State elections administrator Jared DeMarinis told Maryland voters the Election Day process is secure, as the Justice Department announced it would send election monitors to Prince George's County."
+          }
+        ],
+        "MA": [
+          {
+            "title": "More than 1.1M Massachusetts voters cast ballots early, but Galvin uncertain about Election Day turnout",
+            "source": "Daily Hampshire Gazette",
+            "url": "https://gazettenet.com/2026/11/02/more-than-1-1m-massachusetts-voters-cast-ballots-early-but-galvin-uncertain-about-election-day-turnout/",
+            "date": "2026-11-02",
+            "summary": "More than 1.1 million Massachusetts voters cast ballots early ahead of the midterms, with Secretary of State William Galvin declining to forecast overall Election Day turnout."
+          }
+        ],
+        "MI": [
+          {
+            "title": "More than 2.3 million Michigan voters cast ballots ahead of Election Day",
+            "source": "WILX",
+            "url": "https://www.wilx.com/2026/11/02/more-than-23-million-michigan-voters-cast-ballots-ahead-election-day/",
+            "date": "2026-11-02",
+            "summary": "Early and absentee voting in Michigan reached about 31% of active registered voters ahead of Tuesday's election, with officials reminding voters of mail-ballot deadlines and same-day registration."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Early voters get their ballots in to avoid lines in final weekend before Election Day",
+            "source": "MPR News",
+            "url": "https://www.mprnews.org/story/2026/10/31/early-voting-final-weekend-rush-to-avoid-long-lines",
+            "date": "2026-11-01",
+            "summary": "Minnesota early voting hit record highs, with more than 886,000 ballots cast through Sunday, as voters rushed to beat the final weekend before Election Day."
+          }
+        ],
+        "MS": [
+          {
+            "title": "What to know before voting in Mississippi's midterm election",
+            "source": "WLOX",
+            "url": "https://www.wlox.com/2026/11/02/what-know-before-voting-mississippis-midterm-election/",
+            "date": "2026-11-02",
+            "summary": "This voter guide covers polling hours, registration status, photo ID rules, and the races on Mississippi's Nov. 3 ballot, including the U.S. Senate seat and the 4th Congressional District."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Early voting surges in St. Louis area compared to 2022",
+            "source": "St. Louis Public Radio",
+            "url": "https://www.stlpr.org/government-politics-issues/2026-11-02/early-voting-surges-in-st-louis-area-compared-to-2022",
+            "date": "2026-11-02",
+            "summary": "In-person early voting in Missouri's 2026 midterms ran well ahead of 2022, with ballot measures on abortion rights, congressional redistricting, and citizen initiatives drawing voters to the polls early."
+          }
+        ],
+        "MT": [
+          {
+            "title": "300,000 Montanans have voted, in-person voting kicks off at 7 a.m.",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/2026/11/02/300000-montanans-have-voted-in-person-voting-kicks-off-at-7-a-m/",
+            "date": "2026-11-02",
+            "summary": "Over 300,000 Montanans had already voted with one day left before the midterm election, with more than half of the roughly 530,000 absentee ballots sent out already returned."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Mail voting dropped sharply in a Nebraska county after a group spread voter fraud claims there",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/11/02/nebraska-sarpy-county-mail-voting-decline-election-fraud-claims/",
+            "date": "2026-11-02",
+            "summary": "A Flatwater Free Press investigation found that mail voting dropped sharply in Sarpy County after a group's door-to-door fraud claims, though an $88,000 county probe found no substantiated fraud."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Clark County early voting closes with 220,021 ballots cast ahead of general election",
+            "source": "Fox5 Las Vegas",
+            "url": "https://fox5vegas.com/2026/11/02/clark-county-early-voting-closes-with-220021-ballots-cast-ahead-general-election",
+            "date": "2026-11-02",
+            "summary": "Early voting in Clark County, Nevada ended with 220,021 ballots cast ahead of the Nov. 3 general election, and voters can cast ballots at any polling site in the county on Election Day."
+          }
+        ],
+        "NH": [
+          {
+            "title": "NH Election Day Live Updates: Voters prepare to cast ballots in midterms",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/live-updates/election-day-live-blog-newhampshire-voting-2026",
+            "date": "2026-11-02",
+            "summary": "This live guide covers what New Hampshire voters need to bring to the polls, state and federal voter hotlines, and the two statewide ballot questions ahead of Tuesday's midterm election."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Could NJ turn even bluer? Democrats target two Republican holdouts",
+            "source": "New Jersey 101.5",
+            "url": "https://nj1015.com/new-jersey-congressional-races-early-voting/",
+            "date": "2026-11-02",
+            "summary": "Democrats are targeting two Republican-held New Jersey House seats, Rep. Tom Kean Jr.'s North Jersey district and Rep. Jeff Van Drew's South Jersey district, after early voting showed Democratic ballot leads in both."
+          }
+        ],
+        "NM": [
+          {
+            "title": "New Mexico's early vote tally surpasses 2022 levels, as Election Day finally arrives",
+            "source": "Albuquerque Journal",
+            "url": "https://www.abqjournal.com/news/new-mexicos-early-vote-tally-surpasses-2022-levels-as-election-day-finally-arrives/3153879",
+            "date": "2026-11-02",
+            "summary": "About 456,700 New Mexicans had voted early or by absentee ballot heading into Election Day, more than 17,000 above the 2022 total, with Democrats and independents voting at higher rates than Republicans."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Final day of early voting puts focus on New York governor's race",
+            "source": "ABC7 New York",
+            "url": "https://abc7ny.com/post/hochul-holds-lead-blakeman-governors-race-enters-final-stretch/20005516/",
+            "date": "2026-11-02",
+            "summary": "With early voting in New York City ending Sunday, Gov. Kathy Hochul and Republican challenger Bruce Blakeman made their final pitches to voters ahead of Tuesday's election."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Record 2.8M early ballots cast in North Carolina, driven by unaffiliated voters and steady Democrats",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/11/01/record-28m-early-ballots-cast-north-carolina-driven-by-unaffiliated-voters-steady-democrats/",
+            "date": "2026-11-01",
+            "summary": "North Carolina's 2026 midterm early voting set a record at about 2.8 million ballots cast, driven mostly by unaffiliated voters and Democrats, ahead of Tuesday's general election."
+          }
+        ],
+        "ND": [
+          {
+            "title": "Poll monitors expected at North Dakota election sites",
+            "source": "InForum",
+            "url": "https://www.inforum.com/news/north-dakota/poll-monitors-expected-at-north-dakota-election-sites",
+            "date": "2026-11-02",
+            "summary": "Federal poll monitors will visit some North Dakota polling sites, including in Cass County, on Election Day, which the Secretary of State says is routine and meant to check compliance with federal voting rights law."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Nearly 300,000 central Ohioans voted early, but nearly 20K mail-in ballots haven't been returned",
+            "source": "WOSU",
+            "url": "https://www.wosu.org/politics-government/2026-11-02/nearly-300-000-central-ohioans-voted-early-but-nearly-20k-mail-in-ballots-havent-been-returned",
+            "date": "2026-11-02",
+            "summary": "About 19,000 mail-in ballots across seven central Ohio counties remained unreturned after early voting ended, and officials urged those voters to drop ballots off in person since Ohio no longer has a grace period."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Oklahoma Voters Head to Polls Tomorrow for Major Statewide Races, Ballot Questions and Local Issues",
+            "source": "Oklahoma Farm Report",
+            "url": "https://www.oklahomafarmreport.com/2026/11/02/oklahoma-voters-head-to-polls-tomorrow-for-major-statewide-races-ballot-questions-and-local-issues/",
+            "date": "2026-11-02",
+            "summary": "This voter guide covers Oklahoma's governor's race, a U.S. Senate seat, two state questions, and a proposed Oklahoma County jail sales tax ahead of the Nov. 3 general election."
+          }
+        ],
+        "OR": [
+          {
+            "title": "Decision 2026: More than 1.16 million Oregonians have voted early as of Sunday, NBC News data shows",
+            "source": "KTVZ",
+            "url": "https://ktvz.com/news/2026/11/01/decision-2026-more-than-1-16-million-oregonians-have-voted-early-as-of-sunday-nbc-news-data-shows/",
+            "date": "2026-11-01",
+            "summary": "Roughly a third of Oregon's eligible voters had cast ballots by Sunday under the state's universal vote-by-mail system, though final turnout will depend on ballots still arriving before Election Day."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Are you registered to vote for the 2026 midterms in Pennsylvania? Here's how to check.",
+            "source": "CBS News Pittsburgh",
+            "url": "https://www.cbsnews.com/pittsburgh/news/are-you-registered-to-vote-pennsylvania-2026/",
+            "date": "2026-11-02",
+            "summary": "This guide explains how Pennsylvanians can confirm their voter registration through the state Department of State website ahead of Tuesday's election, noting the Oct. 19 registration deadline has passed."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Final poll gives glimpse on where voters stand ahead of Election Day",
+            "source": "Turn to 10 (WJAR)",
+            "url": "https://turnto10.com/news/local/final-poll-gives-glimpse-on-where-voters-stand-ahead-of-election-day-nov-2-2026",
+            "date": "2026-11-02",
+            "summary": "A University of New Hampshire poll shows Democrats leading Rhode Island's governor and U.S. Senate races ahead of Tuesday's election, with in-person early voting still available until 4 p.m. on Election Day."
+          }
+        ],
+        "SC": [
+          {
+            "title": "More than 1 million ballots cast in South Carolina's final tally of early votes",
+            "source": "South Carolina Public Radio",
+            "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-02/more-than-1-million-ballots-cast-in-south-carolinas-final-tally-of-early-votes",
+            "date": "2026-11-02",
+            "summary": "About 1.04 million South Carolinians voted early over the 12-day period before the general election, more than voted early in the entire 2022 midterm."
+          }
+        ],
+        "SD": [
+          {
+            "title": "South Dakotans flock to polls on election day eve",
+            "source": "KOTA TV",
+            "url": "https://www.kotatv.com/2026/11/03/south-dakotans-flock-polls-election-day-eve/",
+            "date": "2026-11-02",
+            "summary": "South Dakotans cast early ballots on the last day of absentee voting before the midterm elections, citing reasons from convenience to civic duty ahead of several statewide ballot measures."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Early voting surges 45% in Tennessee during 2026 midterms. See the turnout by county",
+            "source": "WSMV",
+            "url": "https://www.wsmv.com/2026/11/02/early-voting-surges-45-tennessee-during-2026-midterms-see-turnout-by-county/",
+            "date": "2026-11-02",
+            "summary": "Tennessee's early voter turnout for the 2026 midterms ran more than 45% above the same point in 2022, with nearly 1.3 million votes cast by the 14th day of early voting."
+          }
+        ],
+        "TX": [
+          {
+            "title": "More than 7.7 million Texans voted early in 2026 election, surpassing 2018 record",
+            "source": "The Texas Tribune",
+            "url": "https://www.kvue.com/article/news/politics/vote-texas/texans-voted-early-2026-election-surpassing-record/269-42414264-9fbe-428b-b03e-84f8689d231e",
+            "date": "2026-10-31",
+            "summary": "Early voting in Texas's 2026 midterm drew preliminary turnout of about 40.5%, topping the 2018 midterm record, though county reporting was still incomplete ahead of Election Day."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Trump DOJ sending 12 election monitors to Salt Lake County polls",
+            "source": "The Salt Lake Tribune",
+            "url": "https://www.sltrib.com/news/politics/2026/11/02/trump-doj-sending-12-election/",
+            "date": "2026-11-02",
+            "summary": "The Justice Department is sending 12 federal election monitors to Salt Lake County polling sites, prompting concerns from local election officials about possible disruption or voter intimidation."
+          }
+        ],
+        "VT": [
+          {
+            "title": "More than 150,000 Vermonters voted early",
+            "source": "WCAX",
+            "url": "https://www.wcax.com/2026/11/02/more-than-150000-vermonters-voted-early/",
+            "date": "2026-11-02",
+            "summary": "Over 150,000 Vermonters had already voted through early or absentee options ahead of Tuesday's election, with turnout staying well above pre-pandemic levels since universal mailed ballots began in 2020."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Congress, amendments, taxes: Election referendums up and down Virginians' ballots",
+            "source": "VPM",
+            "url": "https://www.vpm.org/elections/2026-11-02/election-day-2026-va-amendment-tax-ballot-congress/",
+            "date": "2026-11-02",
+            "summary": "Virginians will decide three proposed constitutional amendments and a local school-construction sales tax in 47 localities, alongside competitive U.S. House races, on Election Day."
+          }
+        ],
+        "WA": [
+          {
+            "title": "Clash with feds hangs over Washington as votes roll in before Election Day",
+            "source": "The Seattle Times",
+            "url": "https://www.chronline.com/stories/clash-with-feds-hangs-over-washington-as-votes-roll-in-before-election-day,411183",
+            "date": "2026-11-02",
+            "summary": "Washington voters are casting ballots amid federal pressure, including Justice Department voter-roll challenges and election monitors in King and Yakima counties, while officials warn a postal change could delay mailed ballots."
+          }
+        ],
+        "WV": [
+          {
+            "title": "Secretary Warner announces more than 115,000 ballots have been cast in absentee voting and during the first seven days of early voting for the 2026 General Election",
+            "source": "West Virginia Secretary of State",
+            "url": "https://sos.wv.gov/article/secretary-warner-announces-more-115000-ballots-have-been-cast-absentee-voting-and-during",
+            "date": "2026-10-29",
+            "summary": "Early voter turnout in West Virginia ran about 30% above the same point in the 2022 midterm, with 115,855 ballots cast in the first seven days, in the state's first general election requiring photo ID."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Nearly 778K absentee ballots returned in Wisconsin, above '22 midterms",
+            "source": "WJFW",
+            "url": "https://www.wjfw.com/news/regional/nearly-778k-absentee-ballots-returned-in-wisconsin-above-22-midterms/article_40b09f43-31d3-500a-8e53-78e85182e37c.html",
+            "date": "2026-11-02",
+            "summary": "Wisconsin's absentee ballot count passed the full 2022 midterm total, with about 778,000 ballots received as of Monday morning ahead of the general election."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Early voting totals across the DC region reflect a national surge ahead of Election Day",
+            "source": "WTOP",
+            "url": "https://wtop.com/elections/2026/11/early-voting-totals-across-the-dc-region-reflects-a-national-surge-ahead-of-election-day/",
+            "date": "2026-11-02",
+            "summary": "More than 98,000 D.C. residents voted early ahead of the general election, part of a regional and national surge in advance ballots heading into Tuesday."
+          }
+        ]
+      }
     }
   ]
 }
