@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
-      "text": "Alaska judge dismisses DOJ suit seeking to block certification of Senate race",
-      "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
-      "abbr": "AK"
+      "text": "Massachusetts voters approve Election Day voter registration",
+      "url": "https://www.wbur.org/news/2026/11/04/massachusetts-ballot-question-results",
+      "abbr": "MA"
     },
     {
-      "text": "Supreme Court rejects bid to set aside thousands of California ballots",
-      "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
+      "text": "California voters reject Prop. 39 voter ID requirement",
+      "url": "https://calmatters.org/newsletter/california-election-overnight-results/",
       "abbr": "CA"
     },
     {
-      "text": "Flooding and a safety-feature glitch delay voting in Broward County, Florida",
-      "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
-      "abbr": "FL"
+      "text": "South Dakota and West Virginia add noncitizen voting bans to state constitutions",
+      "url": "https://southdakotasearchlight.com/2026/11/04/south-dakotans-approve-a-state-constitutional-ban-on-noncitizens-voting/",
+      "abbr": "SD"
     },
     {
-      "text": "Westchester County, New York ballot scanners reject paper ballots on Election Day",
-      "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
-      "abbr": "NY"
+      "text": "Repeal of Alaska's ranked choice voting narrowly trails in early count",
+      "url": "https://www.ktoo.org/2026/11/04/early-results-show-alaskans-narrowly-rejecting-repeal-of-ranked-choice-voting/",
+      "abbr": "AK"
     },
     {
-      "text": "Flash flooding complicates voter access in parts of Colorado",
-      "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
-      "abbr": "CO"
+      "text": "Maryland voters approve Question 3 on congressional redistricting",
+      "url": "https://marylandmatters.org/2026/11/03/months-of-congressional-redistricting-fights-end-with-apparent-question-3-win/",
+      "abbr": "MD"
     }
   ]
 }
