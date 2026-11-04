@@ -37866,6 +37866,57 @@
       "date": "2026-11-03",
       "time": "06:00",
       "states": {}
+    },
+    {
+      "date": "2026-11-03",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
+            "source": "Associated Press",
+            "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
+            "date": "2026-11-03",
+            "summary": "At the president's urging, the Justice Department sued to block certification of Alaska's Senate election results if Republican Sen. Dan Sullivan loses; a federal judge dismissed the suit on Sunday."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
+            "source": "Associated Press",
+            "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
+            "date": "2026-11-03",
+            "summary": "A federal law-enforcement operation led to more than two dozen arrests in California on Election Day, and the Supreme Court rejected a bid to set aside thousands of California ballots."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
+            "source": "Associated Press",
+            "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
+            "date": "2026-11-03",
+            "summary": "A malfunctioning new safety feature delayed voting in Broward County by 20 minutes, and flooding in eight Florida counties prompted last-minute polling-location changes."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
+            "source": "Associated Press",
+            "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
+            "date": "2026-11-03",
+            "summary": "Ballot scanners in Westchester County stopped accepting paper ballots on Election Day, requiring ballots to be set aside in emergency bags for later counting."
+          }
+        ],
+        "CO": [
+          {
+            "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
+            "source": "Associated Press",
+            "url": "https://www.wsls.com/news/politics/2026/11/03/election-day-arrives-after-a-surge-in-early-voting-with-observers-keeping-close-watch-at-the-polls/",
+            "date": "2026-11-03",
+            "summary": "Heavy rain and flash flooding made it harder for some voters in parts of Colorado to reach polling places on Election Day."
+          }
+        ]
+      }
     }
   ]
 }
