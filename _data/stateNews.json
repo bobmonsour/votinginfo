@@ -38401,6 +38401,42 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-04",
+      "time": "17:00",
+      "states": {
+        "NH": [
+          {
+            "title": "Democrats sweep NH's congressional seats with wins by Goodlander, Shaheen",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/nh-news/2026-11-03/democrats-sweep-nh-congressional-seats-goodlander-shaheen-win",
+            "date": "2026-11-03",
+            "summary": "Democrats Stefany Shaheen and Maggie Goodlander won New Hampshire's two U.S. House seats, with Shaheen defeating Republican Anthony DiLorenzo in the 1st District and Goodlander defeating Republican Lily Tang Williams in the 2nd District."
+          },
+          {
+            "title": "Pappas wins U.S. Senate seat; Democrats sweep federal races as NH voter turnout surges",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/live-updates/election-day-live-blog-newhampshire-voting-2026",
+            "date": "2026-11-04",
+            "summary": "Democrat Chris Pappas defeated Republican John E. Sununu in New Hampshire's open U.S. Senate race as Democrats swept the state's federal contests amid surging turnout."
+          },
+          {
+            "title": "Ayotte secures reelection, providing a rare bright spot for NH Republicans",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/nh-news/2026-11-04/governor-nh-newhampshire-election-ayotte",
+            "date": "2026-11-04",
+            "summary": "Republican Gov. Kelly Ayotte won a second term over Democrat Cinde Warmington even as Democrats swept New Hampshire's other major races, leaving her to face a Legislature likely to lean Democratic."
+          },
+          {
+            "title": "Democrats appear to sweep NH Executive Council, grab big majorities in Legislature",
+            "source": "New Hampshire Public Radio",
+            "url": "https://www.nhpr.org/nh-news/2026-11-04/democrats-sweep-nh-newhampshire-state-house-executive-council-majorities-legislature-election",
+            "date": "2026-11-04",
+            "summary": "Democrats are projected to win all five seats on New Hampshire's Executive Council and appear to have gained large majorities in both legislative chambers, though many races remain uncalled and recounts are likely."
+          }
+        ]
+      }
     }
   ]
 }

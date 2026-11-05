@@ -2,29 +2,24 @@
   "date": "2026-11-04",
   "items": [
     {
-      "text": "Massachusetts voters approve Election Day voter registration",
-      "url": "https://www.wbur.org/news/2026/11/04/massachusetts-ballot-question-results",
-      "abbr": "MA"
+      "text": "New Hampshire Democrats sweep both U.S. House seats",
+      "url": "https://www.nhpr.org/nh-news/2026-11-03/democrats-sweep-nh-congressional-seats-goodlander-shaheen-win",
+      "abbr": "NH"
     },
     {
-      "text": "California voters reject Prop. 39 voter ID requirement",
-      "url": "https://calmatters.org/newsletter/california-election-overnight-results/",
-      "abbr": "CA"
+      "text": "Pappas flips New Hampshire's open U.S. Senate seat for Democrats",
+      "url": "https://www.nhpr.org/live-updates/election-day-live-blog-newhampshire-voting-2026",
+      "abbr": "NH"
     },
     {
-      "text": "South Dakota and West Virginia add noncitizen voting bans to state constitutions",
-      "url": "https://southdakotasearchlight.com/2026/11/04/south-dakotans-approve-a-state-constitutional-ban-on-noncitizens-voting/",
-      "abbr": "SD"
+      "text": "Ayotte bucks the Democratic wave, wins reelection as NH governor",
+      "url": "https://www.nhpr.org/nh-news/2026-11-04/governor-nh-newhampshire-election-ayotte",
+      "abbr": "NH"
     },
     {
-      "text": "Repeal of Alaska's ranked choice voting narrowly trails in early count",
-      "url": "https://www.ktoo.org/2026/11/04/early-results-show-alaskans-narrowly-rejecting-repeal-of-ranked-choice-voting/",
-      "abbr": "AK"
-    },
-    {
-      "text": "Maryland voters approve Question 3 on congressional redistricting",
-      "url": "https://marylandmatters.org/2026/11/03/months-of-congressional-redistricting-fights-end-with-apparent-question-3-win/",
-      "abbr": "MD"
+      "text": "Democrats appear to sweep NH's Executive Council and gain big legislative majorities",
+      "url": "https://www.nhpr.org/nh-news/2026-11-04/democrats-sweep-nh-newhampshire-state-house-executive-council-majorities-legislature-election",
+      "abbr": "NH"
     }
   ]
 }
