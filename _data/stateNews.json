@@ -38437,6 +38437,21 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-05",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Arizona Democrats could sweep statewide races with eyes on reshaping policy",
+            "source": "Arizona Capitol Times",
+            "url": "https://azcapitoltimes.com/news/2026/11/04/arizona-democrats-could-sweep-statewide-races-with-eyes-on-reshaping-policy/",
+            "date": "2026-11-04",
+            "summary": "With the AP having called Democratic wins for governor, attorney general and secretary of state and Democrats leading in several other statewide races, Arizona Democrats are eyeing ambitious policy changes, including to the state's Empowerment Scholarship Account program."
+          }
+        ]
+      }
     }
   ]
 }
