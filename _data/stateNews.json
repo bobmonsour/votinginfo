@@ -38452,6 +38452,165 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Alabama governor's race by the numbers: How Tuberville, Jones' votes broke down",
+            "source": "WBRC",
+            "url": "https://www.wbrc.com/2026/11/04/alabama-governors-race-by-numbers-how-tuberville-jones-votes-broke-down/",
+            "date": "2026-11-04",
+            "summary": "Republican Tommy Tuberville defeated Democrat Doug Jones in Alabama's governor's race by the narrowest margin since 2002, according to unofficial county-level returns."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Lamont wins third term as Democrats expand majority in Connecticut legislature",
+            "source": "WFSB",
+            "url": "https://www.wfsb.com/2026/11/04/lamont-wins-historic-third-term-connecticut-governor/",
+            "date": "2026-11-04",
+            "summary": "Gov. Ned Lamont won a third term over Republican state Sen. Ryan Fazio, and Democrats expanded their majority in the Connecticut legislature."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Bottoms defeats Jackson in Georgia governor's race",
+            "source": "Axios",
+            "url": "https://www.axios.com/2026/11/04/georgia-governor-election-results-bottoms-jackson",
+            "date": "2026-11-04",
+            "summary": "Democrat Keisha Lance Bottoms was elected Georgia's governor, becoming the first Black woman to serve as a U.S. governor, after Republican Rick Jackson conceded."
+          }
+        ],
+        "HI": [
+          {
+            "title": "5 takeaways from Hawaiʻi's midterm election",
+            "source": "Hawaiʻi Public Radio",
+            "url": "https://www.hawaiipublicradio.org/local-news/2026-11-04/5-takeaways-from-hawai%CA%BBis-midterm-election",
+            "date": "2026-11-04",
+            "summary": "Gov. Josh Green won reelection and Democratic congressional incumbents held their seats, while a close West Maui state House race could send the first third-party lawmaker to Hawaiʻi's legislature in over a century."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Iowa midterm elections: Our 4 takeaways",
+            "source": "Axios Des Moines",
+            "url": "https://www.axios.com/local/des-moines/2026/11/04/iowa-election-takeaways-midterm",
+            "date": "2026-11-04",
+            "summary": "Democrat Rob Sand won the Iowa governor's race over Republican Zach Lahn, becoming the state's first Democratic governor since 2006, while Republicans retained legislative majorities with smaller margins."
+          }
+        ],
+        "IL": [
+          {
+            "title": "2026 Illinois congressional election results",
+            "source": "Axios Chicago",
+            "url": "https://www.axios.com/local/chicago/2026/11/04/election-2026-illinois-chicago-us-house-results",
+            "date": "2026-11-04",
+            "summary": "Illinois Democrats held all but a handful of the state's U.S. House seats as part of a broader statewide Democratic sweep that included Gov. JB Pritzker's third-term win."
+          }
+        ],
+        "MD": [
+          {
+            "title": "6 takeaways from Maryland's 2026 midterm election",
+            "source": "The Baltimore Sun",
+            "url": "https://www.baltimoresun.com/2026/11/05/maryland-midterm-election-takeaways/",
+            "date": "2026-11-05",
+            "summary": "Gov. Wes Moore won reelection and voters approved Question 3, a constitutional amendment easing congressional redistricting, amid a closer-than-expected 1st District House race."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Troy Jackson unseats Susan Collins in Maine Senate race",
+            "source": "Maine Public",
+            "url": "https://www.mainepublic.org/politics/2026-11-04/susan-collins-concedes-to-troy-jackson-in-maine-senate-race",
+            "date": "2026-11-04",
+            "summary": "Democrat Troy Jackson defeated longtime Republican Sen. Susan Collins, who conceded before the AP called the race, ending her three-decade Senate career."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Jocelyn Benson defeats John James in Michigan governor's race",
+            "source": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-11-04/who-won-michigan-governors-race",
+            "date": "2026-11-04",
+            "summary": "Democratic Secretary of State Jocelyn Benson won Michigan's governor's race over Republican John James, keeping the office in Democratic hands as Gov. Gretchen Whitmer's successor."
+          }
+        ],
+        "MO": [
+          {
+            "title": "7 takeaways from the blue wave that Missouri Democrats rode to best election of 21st century",
+            "source": "St. Louis Public Radio",
+            "url": "https://www.stlpr.org/government-politics-issues/2026-11-04/7-takeaways-from-the-blue-wave-that-missouri-democrats-rode-to-best-election-of-21st-century",
+            "date": "2026-11-04",
+            "summary": "Missouri Democrats made major state legislative gains and voters rejected both a proposed abortion ban and the Republican-drawn congressional map, in the party's best showing of the century."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Colom leads Senate race against Hyde-Smith on day 3 of ballot counting",
+            "source": "WDAM",
+            "url": "https://www.wdam.com/2026/11/05/colom-leads-senate-race-against-hyde-smith-day-3-ballot-counting/",
+            "date": "2026-11-05",
+            "summary": "Democrat Scott Colom held a narrow, uncalled lead over incumbent Republican Sen. Cindy Hyde-Smith three days after the election, with thousands of mail ballots still outstanding."
+          }
+        ],
+        "OR": [
+          {
+            "title": "What to know about Oregon's 2026 election results",
+            "source": "Oregon Capital Chronicle",
+            "url": "https://oregoncapitalchronicle.com/2026/11/04/election-2026-what-we-know-and-what-were-waiting-on/",
+            "date": "2026-11-04",
+            "summary": "Gov. Tina Kotek won a second term and Sen. Jeff Merkley was reelected, as Democrats held their legislative supermajority in partial returns."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Rhode Island 2026 election results: Winners, ballot questions and what happens next",
+            "source": "Ocean State Media",
+            "url": "https://www.oceanstatemedia.org/elections/2026-11-04/rhode-island-2026-election-results-winners-ballot-questions-and-what-happens-next",
+            "date": "2026-11-04",
+            "summary": "Democrat Helena Foulkes was elected governor as Democrats swept Rhode Island's statewide offices, with several bond ballot questions still too close to call."
+          }
+        ],
+        "UT": [
+          {
+            "title": "'Blue tsunami' hits Utah: House Republicans on pace to lose 17 seats, breaking supermajority",
+            "source": "Utah News Dispatch",
+            "url": "https://utahnewsdispatch.com/2026/11/04/blue-tsunami-utah-house-republicans-could-lose-17-seats-breaking-supermajority/",
+            "date": "2026-11-04",
+            "summary": "Preliminary results show Utah Democrats and unaffiliated candidates picking up enough state legislative seats to break the Republican supermajority in the state House."
+          }
+        ],
+        "VT": [
+          {
+            "title": "5 takeaways from the Vermont General Election",
+            "source": "Valley News",
+            "url": "https://vnews.com/2026/11/04/2026-vermont-election-takeaways/",
+            "date": "2026-11-04",
+            "summary": "Republican Gov. Phil Scott won reelection by his narrowest margin since 2016, while Democrats swept down-ballot statewide offices and voters approved two constitutional amendments."
+          }
+        ],
+        "WA": [
+          {
+            "title": "4 takeaways from Washington's election tsunami",
+            "source": "Washington State Standard",
+            "url": "https://washingtonstatestandard.com/2026/11/04/4-takeaways-from-washingtons-election-tsunami/",
+            "date": "2026-11-04",
+            "summary": "Washington voters appear to have endorsed a new state income tax on high earners, while Democrats were positioned to expand their state House majority."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Four things we learned from Tuesday's Democratic tsunami in Wisconsin",
+            "source": "Wisconsin Watch",
+            "url": "https://wisconsinwatch.org/2026/11/wisconsin-election-democratic-government-tsunami-four-things-we-learned/",
+            "date": "2026-11-04",
+            "summary": "Democrat David Crowley won Wisconsin's governor's race and Democrats flipped the state Senate, ending the Walker-era Republican hold on state government."
+          }
+        ]
+      }
     }
   ]
 }
