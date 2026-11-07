@@ -1,4 +1,30 @@
 {
   "date": "2026-11-06",
-  "items": []
+  "items": [
+    {
+      "text": "Delaware Democrats win legislative supermajorities for first time since 1992",
+      "url": "https://www.inquirer.com/politics/election/delaware-2026-election-results-supermajority-voter-turnout-20261105.html",
+      "abbr": "DE"
+    },
+    {
+      "text": "Kansas governor's race remains uncalled as close-race audit gets underway",
+      "url": "https://www.yahoo.com/news/politics/articles/returns-expand-holscher-lead-kansas-183643890.html",
+      "abbr": "KS"
+    },
+    {
+      "text": "Alaska Senate and governor races still too close to call three days after election",
+      "url": "https://www.durangoherald.com/articles/associated-press/the-latest-alaskans-wait-for-more-votes-in-us-senate-and-governors-races/",
+      "abbr": "AK"
+    },
+    {
+      "text": "Nebraska Sen. von Gillern concedes, setting off jockeying for Legislature speaker",
+      "url": "https://www.yahoo.com/news/politics/articles/von-gillern-concedes-jockeying-begins-220422670.html",
+      "abbr": "NE"
+    },
+    {
+      "text": "Virginia voters restore voting rights for people with felony convictions upon release",
+      "url": "https://reason.com/2026/11/04/virginia-votes-to-overturn-lifetime-voting-ban-for-felony-offenders/",
+      "abbr": "VA"
+    }
+  ]
 }

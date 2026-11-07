@@ -38616,6 +38616,57 @@
       "date": "2026-11-06",
       "time": "06:00",
       "states": {}
+    },
+    {
+      "date": "2026-11-06",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "The Latest: Races in Alaska and Mississippi will determine strength of Democratic Senate majority",
+            "source": "Associated Press",
+            "url": "https://www.durangoherald.com/articles/associated-press/the-latest-alaskans-wait-for-more-votes-in-us-senate-and-governors-races/",
+            "date": "2026-11-05",
+            "summary": "Three days after Alaska's election, the state's U.S. Senate race, open governor's seat, and a ballot measure to repeal ranked-choice voting all remained too close to call, with more ballots still being counted."
+          }
+        ],
+        "DE": [
+          {
+            "title": "High turnout in Delaware leads to a Democratic supermajority in the state legislature",
+            "source": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com/politics/election/delaware-2026-election-results-supermajority-voter-turnout-20261105.html",
+            "date": "2026-11-05",
+            "summary": "Democrats swept all five Delaware statewide races and flipped legislative seats in all three counties, winning supermajorities in both chambers of the state legislature for the first time since 1992."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Late returns expand Holscher's lead in Kansas governor race as audit commences",
+            "source": "The Kansas City Star",
+            "url": "https://www.yahoo.com/news/politics/articles/returns-expand-holscher-lead-kansas-183643890.html",
+            "date": "2026-11-05",
+            "summary": "Kansas's governor's race remained too close to call three days after Election Day, with Democrat Cindy Holscher's lead over Republican Ty Masterson growing to about 7,045 votes as counties began a mandatory close-race audit."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Von Gillern concedes; jockeying begins for speakership of Nebraska Legislature",
+            "source": "Nebraska Examiner",
+            "url": "https://www.yahoo.com/news/politics/articles/von-gillern-concedes-jockeying-begins-220422670.html",
+            "date": "2026-11-06",
+            "summary": "State Sen. Brad von Gillern conceded his Legislative District 4 race to Cindy Maxwell-Ostdiek after updated Douglas County vote counts, ending his bid to become the next Legislature speaker and setting off jockeying for the post among other senators."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Virginia Votes To Overturn Lifetime Voting Ban for Felony Offenders",
+            "source": "Reason",
+            "url": "https://reason.com/2026/11/04/virginia-votes-to-overturn-lifetime-voting-ban-for-felony-offenders/",
+            "date": "2026-11-04",
+            "summary": "Virginia voters approved a constitutional amendment repealing the state's 1902 lifetime voting ban for people with felony convictions, automatically restoring voting rights upon release from prison."
+          }
+        ]
+      }
     }
   ]
 }
