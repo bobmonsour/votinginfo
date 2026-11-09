@@ -38667,6 +38667,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-09",
+      "time": "06:00",
+      "states": {
+        "MT": [
+          {
+            "title": "Republican Kurt Alme declares victory, independent Seth Bodnar concedes",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/?p=40012",
+            "date": "2026-11-04",
+            "summary": "Republican Kurt Alme declared victory in Montana's U.S. Senate race with about 47% of the vote to independent Seth Bodnar's 39%, and Bodnar conceded, clearing the way for Alme to succeed retiring Sen. Steve Daines."
+          }
+        ],
+        "NM": [
+          {
+            "title": "Democrats win key Sandoval County races",
+            "source": "Albuquerque Journal",
+            "url": "https://www.abqjournal.com/news/democrats-win-key-sandoval-county-races/3155679",
+            "date": "2026-11-04",
+            "summary": "Preliminary returns show Democratic candidates prevailing in Sandoval County's sheriff, assessor, probate judge, and county commission races, while voters also approved state constitutional amendments and local bonds, pending canvass."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Unofficial results for 2026 General Election in Southeastern North Carolina",
+            "source": "WECT",
+            "url": "https://www.wect.com/2026/11/04/unofficial-results-2026-general-election-southeastern-north-carolina/",
+            "date": "2026-11-04",
+            "summary": "Unofficial results showed Democrat Roy Cooper leading Republican Michael Whatley in North Carolina's U.S. Senate race, with Democrats also winning several New Hanover County and state Senate races in the southeastern part of the state."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Little changes as vote counting wraps up",
+            "source": "The Garden Island",
+            "url": "https://www.thegardenisland.com/?p=427068",
+            "date": "2026-11-05",
+            "summary": "After the third and final tally of Hawaii's general election votes, Mel Rapozo's lead over Bernard Carvalho Jr. held in the Kauai mayoral race, 13,927 votes to 9,208, according to the Hawai'i Office of Elections."
+          }
+        ]
+      }
     }
   ]
 }
