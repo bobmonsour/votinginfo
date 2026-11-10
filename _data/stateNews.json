@@ -38796,6 +38796,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-10",
+      "time": "06:00",
+      "states": {
+        "NJ": [
+          {
+            "title": "Democrat Cory Booker wins reelection to U.S. Senate from New Jersey",
+            "source": "ABC7 New York (WABC-TV)",
+            "url": "https://abc7ny.com/post/democrat-cory-booker-wins-reelection-us-senate-new-jersey/20014807/",
+            "date": "2026-11-04",
+            "summary": "Incumbent Democrat Cory Booker won a third full U.S. Senate term, defeating Republican Justin Murphy in New Jersey's Nov. 3 general election, which the AP called for Booker that evening."
+          }
+        ],
+        "SC": [
+          {
+            "title": "South Carolina voting trends: What led to Annie Andrews winning the U.S. Senate seat?",
+            "source": "ABC News 4 (Charleston)",
+            "url": "https://abcnews4.com/news/state/gallery/south-carolina-voting-trends-what-led-to-annie-andrews-winning-the-us-senate-seat-alan-wilson-blue-fritz-hollings-democrats-republicans-president-donald-trump-lyndon-johnson-tim-scott-straight-ticket-voters-election-results-11052026",
+            "date": "2026-11-05",
+            "summary": "An analysis of the voting trends behind Democrat Annie Andrews's win in South Carolina's U.S. Senate race, flipping a seat long held by Republicans."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Votes continue to be counted in Mississippi's Senate race",
+            "source": "WLOX",
+            "url": "https://www.wlox.com/2026/11/06/votes-continue-be-counted-mississippis-senate-race/",
+            "date": "2026-11-06",
+            "summary": "Democrat Scott Colom holds a roughly 2,500-vote lead over incumbent Sen. Cindy Hyde-Smith as Mississippi continues counting provisional and late-arriving mail ballots ahead of the state's Nov. 13 certification deadline."
+          }
+        ],
+        "VA": [
+          {
+            "title": "Virginia voters approve amendment restoring voting rights after felony convictions",
+            "source": "WWBT (12 On Your Side)",
+            "url": "https://www.12onyourside.com/2026/11/06/virginia-voters-approve-amendment-restoring-voting-rights-after-felony-convictions/",
+            "date": "2026-11-06",
+            "summary": "More than 56% of Virginia voters approved a constitutional amendment that automatically restores voting rights to people with felony convictions upon release, effective Jan. 1, ending the prior requirement to petition the governor."
+          }
+        ]
+      }
     }
   ]
 }

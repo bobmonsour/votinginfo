@@ -1,40 +1,25 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
     {
-      "text": "Alaska Senate race still undecided, ranked-choice tally looms Nov. 18",
-      "url": "https://www.alaskasnewssource.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/",
-      "abbr": "AK"
+      "text": "Virginia voters approve automatic restoration of felony voting rights",
+      "url": "https://www.12onyourside.com/2026/11/06/virginia-voters-approve-amendment-restoring-voting-rights-after-felony-convictions/",
+      "abbr": "VA"
     },
     {
-      "text": "Ohio elects first woman governor, flips congressional delegation blue",
-      "url": "https://www.statenews.org/government-politics/2026-11-05/2026-election-in-ohio-delivered-close-races-surprise-endings-and-historic-results",
-      "abbr": "OH"
+      "text": "Mississippi Senate race still uncalled as Colom holds narrow lead over Hyde-Smith",
+      "url": "https://www.wlox.com/2026/11/06/votes-continue-be-counted-mississippis-senate-race/",
+      "abbr": "MS"
     },
     {
-      "text": "Montana Democrat Sam Forstag flips western U.S. House seat",
-      "url": "https://nbcmontana.com/news/local/ap-forstag-wins-election-to-us-house-in-montanas-1st-congressional-district",
-      "abbr": "MT"
+      "text": "Annie Andrews flips South Carolina's U.S. Senate seat for Democrats",
+      "url": "https://abcnews4.com/news/state/gallery/south-carolina-voting-trends-what-led-to-annie-andrews-winning-the-us-senate-seat-alan-wilson-blue-fritz-hollings-democrats-republicans-president-donald-trump-lyndon-johnson-tim-scott-straight-ticket-voters-election-results-11052026",
+      "abbr": "SC"
     },
     {
-      "text": "Florida orders machine recount in close 27th District House race",
-      "url": "https://www.nbcmiami.com/news/local/recount-of-u-s-congressional-district-27-race-set-for-monday-supervisor-of-elections-says/3885356/",
-      "abbr": "FL"
-    },
-    {
-      "text": "Minnesota's 1st District race heads toward a recount after certification",
-      "url": "https://www.kttc.com/2026/11/06/vote-spread-shifts-slightly-minnesotas-1st-district-race-ap-call-remains-pending/",
-      "abbr": "MN"
-    },
-    {
-      "text": "Kansas and Connecticut governor's and legislative races still being finalized",
-      "url": "https://www.kctv5.com/2026/11/06/mail-in-ballots-set-arrive-kansas-governors-race-remains-uncalled/",
-      "abbr": "KS"
-    },
-    {
-      "text": "Wyoming voters swing toward Democrats despite statewide Republican sweep",
-      "url": "https://county17.com/2026/11/09/republicans-swept-wyoming-but-voters-here-swung-left-compared-to-2024/",
-      "abbr": "WY"
+      "text": "Cory Booker wins third full Senate term in New Jersey",
+      "url": "https://abc7ny.com/post/democrat-cory-booker-wins-reelection-us-senate-new-jersey/20014807/",
+      "abbr": "NJ"
     }
   ]
 }
