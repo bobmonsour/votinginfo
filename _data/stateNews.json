@@ -38709,6 +38709,93 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-09",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska Senate race remains undecided days after Election Day",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/",
+            "date": "2026-11-07",
+            "summary": "Alaska's U.S. Senate race remained too close to call days after Election Day, with Democrat Mary Peltola leading Republican Sen. Dan Sullivan by fewer than 700 votes and a ranked-choice tabulation set for Nov. 18 likely to decide the outcome."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Maps: See How The Connecticut General Assembly Changed In 2026",
+            "source": "CT News Junkie",
+            "url": "https://ctnewsjunkie.com/2026/11/05/maps-see-how-connecticut-general-assembly-changed-in-2026/",
+            "date": "2026-11-05",
+            "summary": "Connecticut Democrats expanded their legislative majorities in the Nov. 3 election, with Senate Republicans reduced to just three seats—their smallest share since 1857—and Democrats projected to hold a 116-35 state House majority."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Recount of U.S. Congressional District 27 race set for Monday, supervisor of elections says",
+            "source": "NBC6 South Florida",
+            "url": "https://www.nbcmiami.com/news/local/recount-of-u-s-congressional-district-27-race-set-for-monday-supervisor-of-elections-says/3885356/",
+            "date": "2026-11-08",
+            "summary": "A machine recount in Florida's 27th Congressional District began Nov. 9 after Republican Rep. Maria Salazar's lead over Democrat Elliott Rodriguez narrowed to about 0.46%, with no official winner yet declared."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Mail-in ballots set to arrive as Kansas governor's race remains uncalled",
+            "source": "KCTV5",
+            "url": "https://www.kctv5.com/2026/11/06/mail-in-ballots-set-arrive-kansas-governors-race-remains-uncalled/",
+            "date": "2026-11-06",
+            "summary": "Kansas's governor's race remained uncalled as of Nov. 6, with Democrat Cindy Holscher holding a roughly 7,000-vote lead over Republican Ty Masterson while final mail-in ballots were still being received."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Question 7: Mass. voters reject measure to allow single-family homes on small lots",
+            "source": "WBUR",
+            "url": "https://www.wbur.org/news/2026/11/06/massachusetts-ballot-question-7-rejected",
+            "date": "2026-11-06",
+            "summary": "Massachusetts voters narrowly rejected Question 7, which would have overridden local zoning to allow single-family homes on smaller lots, with the \"no\" side leading 50.6% to 49.4% in near-final returns."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Vote spread shifts slightly in Minnesota's 1st District race as AP call remains pending",
+            "source": "KTTC",
+            "url": "https://www.kttc.com/2026/11/06/vote-spread-shifts-slightly-minnesotas-1st-district-race-ap-call-remains-pending/",
+            "date": "2026-11-05",
+            "summary": "The margin in Minnesota's 1st Congressional District race narrowed slightly to 321 votes between DFL challenger Jake Johnson and Republican Rep. Brad Finstad, with the Associated Press still withholding a call and a recount expected after Nov. 19 certification."
+          }
+        ],
+        "MT": [
+          {
+            "title": "AP calls Montana's western House race for Democrat Sam Forstag, flipping seat",
+            "source": "NBC Montana",
+            "url": "https://nbcmontana.com/news/local/ap-forstag-wins-election-to-us-house-in-montanas-1st-congressional-district",
+            "date": "2026-11-05",
+            "summary": "The Associated Press called Montana's western U.S. House seat for Democrat Sam Forstag on Nov. 5, flipping the district and making him the first Montana Democrat elected to the U.S. House in more than three decades."
+          }
+        ],
+        "OH": [
+          {
+            "title": "2026 election in Ohio delivered close races, surprise endings and historic results",
+            "source": "State News (Ohio)",
+            "url": "https://www.statenews.org/government-politics/2026-11-05/2026-election-in-ohio-delivered-close-races-surprise-endings-and-historic-results",
+            "date": "2026-11-05",
+            "summary": "Ohio's 2026 election delivered a wave of historic results, with Democrat Amy Acton becoming the state's first woman elected governor and Democrats also winning a majority of the state's congressional delegation for the first time since 2011."
+          }
+        ],
+        "WY": [
+          {
+            "title": "Republicans swept Wyoming, but voters here swung left compared to 2024",
+            "source": "County 17",
+            "url": "https://county17.com/2026/11/09/republicans-swept-wyoming-but-voters-here-swung-left-compared-to-2024/",
+            "date": "2026-11-09",
+            "summary": "Despite a statewide Republican sweep in Wyoming's 2026 election, an analysis found voters shifted toward Democrats by about 15 points compared with 2024, roughly matching the national trend."
+          }
+        ]
+      }
     }
   ]
 }

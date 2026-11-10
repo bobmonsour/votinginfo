@@ -2,24 +2,39 @@
   "date": "2026-11-09",
   "items": [
     {
-      "text": "Montana's Kurt Alme declares Senate win as independent Bodnar concedes",
-      "url": "https://dailymontanan.com/?p=40012",
+      "text": "Alaska Senate race still undecided, ranked-choice tally looms Nov. 18",
+      "url": "https://www.alaskasnewssource.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/",
+      "abbr": "AK"
+    },
+    {
+      "text": "Ohio elects first woman governor, flips congressional delegation blue",
+      "url": "https://www.statenews.org/government-politics/2026-11-05/2026-election-in-ohio-delivered-close-races-surprise-endings-and-historic-results",
+      "abbr": "OH"
+    },
+    {
+      "text": "Montana Democrat Sam Forstag flips western U.S. House seat",
+      "url": "https://nbcmontana.com/news/local/ap-forstag-wins-election-to-us-house-in-montanas-1st-congressional-district",
       "abbr": "MT"
     },
     {
-      "text": "North Carolina's Roy Cooper leads Whatley in unofficial Senate tally",
-      "url": "https://www.wect.com/2026/11/04/unofficial-results-2026-general-election-southeastern-north-carolina/",
-      "abbr": "NC"
+      "text": "Florida orders machine recount in close 27th District House race",
+      "url": "https://www.nbcmiami.com/news/local/recount-of-u-s-congressional-district-27-race-set-for-monday-supervisor-of-elections-says/3885356/",
+      "abbr": "FL"
     },
     {
-      "text": "Democrats sweep Sandoval County, New Mexico races in preliminary returns",
-      "url": "https://www.abqjournal.com/news/democrats-win-key-sandoval-county-races/3155679",
-      "abbr": "NM"
+      "text": "Minnesota's 1st District race heads toward a recount after certification",
+      "url": "https://www.kttc.com/2026/11/06/vote-spread-shifts-slightly-minnesotas-1st-district-race-ap-call-remains-pending/",
+      "abbr": "MN"
     },
     {
-      "text": "Kauai mayoral race holds after Hawaii's final vote tally",
-      "url": "https://www.thegardenisland.com/?p=427068",
-      "abbr": "HI"
+      "text": "Kansas and Connecticut governor's and legislative races still being finalized",
+      "url": "https://www.kctv5.com/2026/11/06/mail-in-ballots-set-arrive-kansas-governors-race-remains-uncalled/",
+      "abbr": "KS"
+    },
+    {
+      "text": "Wyoming voters swing toward Democrats despite statewide Republican sweep",
+      "url": "https://county17.com/2026/11/09/republicans-swept-wyoming-but-voters-here-swung-left-compared-to-2024/",
+      "abbr": "WY"
     }
   ]
 }
