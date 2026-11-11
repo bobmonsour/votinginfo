@@ -38838,6 +38838,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-10",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Peltola inches further ahead of Sullivan in Alaska's tight Senate race",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/11/09/mary-peltola-inches-further-ahead-of-sen-sullivan-in-alaskas-senate-race/",
+            "date": "2026-11-09",
+            "summary": "Democrat Mary Peltola widened her first-choice vote lead over Republican Sen. Dan Sullivan to about 2,500 votes as ballot counting continues in Alaska's still-uncalled U.S. Senate race, with a winner not expected until the Nov. 18 ranked-choice tabulation."
+          }
+        ],
+        "SD": [
+          {
+            "title": "General election: SD voter turnout hits historic low, sales tax increases fail",
+            "source": "South Dakota News Watch",
+            "url": "https://www.dakotanewsnow.com/2026/11/08/general-election-sd-voter-turnout-hits-historic-low-sales-tax-increases-fail/",
+            "date": "2026-11-07",
+            "summary": "Just under half of registered South Dakota voters cast ballots in the general election, a possible all-time low, as Republicans swept statewide races, Democrats gained four legislative seats, and local sales-tax increases in Brown and Codington counties were defeated."
+          }
+        ]
+      }
     }
   ]
 }
