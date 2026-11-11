@@ -38862,6 +38862,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-11",
+      "time": "06:00",
+      "states": {
+        "AR": [
+          {
+            "title": "Cotton, Sanders and Rutledge win reelection in Arkansas",
+            "source": "KY3",
+            "url": "https://www.ky3.com/2026/11/04/cotton-sanders-rutledge-win-reelection-arkansas/",
+            "date": "2026-11-04",
+            "summary": "Republicans swept Arkansas's top statewide races on election night, with Tom Cotton winning a third U.S. Senate term, Sarah Huckabee Sanders winning reelection as governor, and Leslie Rutledge reelected lieutenant governor."
+          }
+        ],
+        "FL": [
+          {
+            "title": "Machine recounts set this week for one Florida congressional race and one state House contest",
+            "source": "Florida Phoenix",
+            "url": "https://www.wlrn.org/government-politics/2026-11-09/machine-recounts-set-this-week-for-one-florida-congressional-race-and-one-state-house-contest",
+            "date": "2026-11-09",
+            "summary": "Florida ordered automatic machine recounts in two razor-thin races: the 27th Congressional District, where Republican Maria Salazar leads Democrat Eliot Rodriguez by 1,090 votes, and state House District 33, where Democrat Daniel McDow leads Republican Monique Miller by 289 votes."
+          }
+        ],
+        "MT": [
+          {
+            "title": "Visualizing Montana's midterm election",
+            "source": "Daily Montanan",
+            "url": "https://dailymontanan.com/?p=40087",
+            "date": "2026-11-06",
+            "summary": "Montana's midterm turnout reached 486,746 votes, the second-highest for a midterm after 2018, as the state topped 800,000 registered voters for the first time and Democrats flipped the western U.S. House seat and several legislative seats."
+          }
+        ]
+      }
     }
   ]
 }

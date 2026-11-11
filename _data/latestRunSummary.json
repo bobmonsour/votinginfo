@@ -1,15 +1,20 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "items": [
     {
-      "text": "Alaska's uncalled Senate race tightens as Peltola widens lead over Sullivan",
-      "url": "https://www.adn.com/politics/2026/11/09/mary-peltola-inches-further-ahead-of-sen-sullivan-in-alaskas-senate-race/",
-      "abbr": "AK"
+      "text": "Republicans sweep Arkansas statewide races as Cotton, Sanders, Rutledge win reelection",
+      "url": "https://www.ky3.com/2026/11/04/cotton-sanders-rutledge-win-reelection-arkansas/",
+      "abbr": "AR"
     },
     {
-      "text": "South Dakota general election turnout hits a historic low",
-      "url": "https://www.dakotanewsnow.com/2026/11/08/general-election-sd-voter-turnout-hits-historic-low-sales-tax-increases-fail/",
-      "abbr": "SD"
+      "text": "Florida orders machine recounts in a tied congressional race and a state House contest",
+      "url": "https://www.wlrn.org/government-politics/2026-11-09/machine-recounts-set-this-week-for-one-florida-congressional-race-and-one-state-house-contest",
+      "abbr": "FL"
+    },
+    {
+      "text": "Montana hits second-highest midterm turnout ever as Democrats flip a U.S. House seat",
+      "url": "https://dailymontanan.com/?p=40087",
+      "abbr": "MT"
     }
   ]
 }
