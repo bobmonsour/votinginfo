@@ -2,19 +2,29 @@
   "date": "2026-11-11",
   "items": [
     {
-      "text": "Republicans sweep Arkansas statewide races as Cotton, Sanders, Rutledge win reelection",
-      "url": "https://www.ky3.com/2026/11/04/cotton-sanders-rutledge-win-reelection-arkansas/",
-      "abbr": "AR"
+      "text": "Delaware wins Democrats a legislative supermajority for the first time since 1992",
+      "url": "https://www.inquirer.com/politics/election/delaware-2026-election-results-supermajority-voter-turnout-20261105.html",
+      "abbr": "DE"
     },
     {
-      "text": "Florida orders machine recounts in a tied congressional race and a state House contest",
-      "url": "https://www.wlrn.org/government-politics/2026-11-09/machine-recounts-set-this-week-for-one-florida-congressional-race-and-one-state-house-contest",
-      "abbr": "FL"
+      "text": "Fulton County certifies its 2026 midterm results with no fraud disputes this cycle",
+      "url": "https://www.atlantanewsfirst.com/2026/11/09/fulton-county-officials-set-certify-election-results/",
+      "abbr": "GA"
     },
     {
-      "text": "Montana hits second-highest midterm turnout ever as Democrats flip a U.S. House seat",
-      "url": "https://dailymontanan.com/?p=40087",
-      "abbr": "MT"
+      "text": "Marsha Blackburn narrowly becomes Tennessee's first elected female governor",
+      "url": "https://www.wsmv.com/2026/11/04/im-not-going-anywhere-jerri-green-falls-marsha-blackburn-tennessee-governors-race-heres-what-it-means-democrats/",
+      "abbr": "TN"
+    },
+    {
+      "text": "Texas Democrats flip the U.S. Senate seat and make gains in Bexar County races",
+      "url": "https://www.ksat.com/news/local/2026/11/04/what-happened-in-the-nov-3-2026-historic-midterm-election-in-texas/",
+      "abbr": "TX"
+    },
+    {
+      "text": "Utah Republicans' veto-proof House supermajority is at risk after Democratic gains",
+      "url": "https://www.kuer.org/politics-government/2026-11-05/utah-democrats-midterm-pickups-republican-supermajority",
+      "abbr": "UT"
     }
   ]
 }

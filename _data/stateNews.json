@@ -38895,6 +38895,84 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-11",
+      "time": "17:00",
+      "states": {
+        "AL": [
+          {
+            "title": "52-vote margin leaves Alabama Senate District 10 race unresolved",
+            "source": "ABC 3340 News",
+            "url": "https://abc3340.com/news/alabama-news/provisional-ballots-could-lead-to-recount-in-alabama-senate-district-10-race",
+            "date": "2026-11-05",
+            "summary": "Jesse Battles leads incumbent Andrew Jones by 52 votes in Alabama's Senate District 10 race, with 181 to 204 provisional ballots still under review and an automatic recount expected once the margin is certified."
+          }
+        ],
+        "CO": [
+          {
+            "title": "A pink undertow beneath Colorado's 'blue tsunami'?",
+            "source": "Colorado Politics",
+            "url": "https://www.coloradopolitics.com/2026/11/09/a-pink-undertow-beneath-colorados-blue-tsunami/",
+            "date": "2026-11-09",
+            "summary": "Despite a decisive Democratic sweep in Colorado's 2026 midterms, several conservative-backed ballot measures also passed, a split analysts attribute to the GOP's image problems and opposition to President Trump rather than support for progressive policies."
+          }
+        ],
+        "CT": [
+          {
+            "title": "Democrats' wins confirmed in Wallingford following recount",
+            "source": "WFSB",
+            "url": "https://www.wfsb.com/2026/11/06/wallingford-recount-ballots-friday-after-running-out/",
+            "date": "2026-11-06",
+            "summary": "A discrepancy recount of roughly 18,000 Wallingford ballots, ordered after the town ran out of ballots on Election Day, confirmed Democratic wins including Rep. Rosa DeLauro's race and several state legislative seats."
+          }
+        ],
+        "DE": [
+          {
+            "title": "High turnout in Delaware leads to a Democratic supermajority in the state legislature",
+            "source": "The Philadelphia Inquirer",
+            "url": "https://www.inquirer.com/politics/election/delaware-2026-election-results-supermajority-voter-turnout-20261105.html",
+            "date": "2026-11-05",
+            "summary": "Democrats won every statewide contest in Delaware and gained supermajorities in both legislative chambers for the first time since 1992, amid the highest midterm turnout since 2018."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Fulton County certifies election results from 2026 midterms",
+            "source": "Atlanta News First",
+            "url": "https://www.atlantanewsfirst.com/2026/11/09/fulton-county-officials-set-certify-election-results/",
+            "date": "2026-11-09",
+            "summary": "Fulton County's election board certified its 2026 midterm results by the state's county deadline with no prominent fraud disputes this cycle; Democrats won the governor's race and House control while Republicans held a narrow Senate majority."
+          }
+        ],
+        "TN": [
+          {
+            "title": "'I'm not going anywhere': Jerri Green falls to Marsha Blackburn in Tennessee governor's race",
+            "source": "WSMV",
+            "url": "https://www.wsmv.com/2026/11/04/im-not-going-anywhere-jerri-green-falls-marsha-blackburn-tennessee-governors-race-heres-what-it-means-democrats/",
+            "date": "2026-11-04",
+            "summary": "Republican Sen. Marsha Blackburn narrowly defeated Democrat Jerri Green to become Tennessee's first elected female governor, keeping the governorship in Republican hands."
+          }
+        ],
+        "TX": [
+          {
+            "title": "What happened in the Nov. 3, 2026, historic midterm election in Texas",
+            "source": "KSAT",
+            "url": "https://www.ksat.com/news/local/2026/11/04/what-happened-in-the-nov-3-2026-historic-midterm-election-in-texas/",
+            "date": "2026-11-04",
+            "summary": "Democrats had a strong election night in Texas, with James Talarico unseating Ken Paxton for U.S. Senate and Gina Hinojosa positioned to become governor, alongside several congressional and Bexar County flips."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Utah Republicans confront a new political reality after Election Day",
+            "source": "KUER",
+            "url": "https://www.kuer.org/politics-government/2026-11-05/utah-democrats-midterm-pickups-republican-supermajority",
+            "date": "2026-11-05",
+            "summary": "Democrats and unaffiliated candidates were leading in more than a dozen Utah legislative seats held by Republicans, threatening the GOP's veto-proof two-thirds majority in the state House."
+          }
+        ]
+      }
     }
   ]
 }
