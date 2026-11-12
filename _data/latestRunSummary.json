@@ -1,30 +1,43 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
-      "text": "Delaware wins Democrats a legislative supermajority for the first time since 1992",
-      "url": "https://www.inquirer.com/politics/election/delaware-2026-election-results-supermajority-voter-turnout-20261105.html",
-      "abbr": "DE"
+      "text": "Arizona voters reject GOP-backed Proposition 144 to add mail-ballot ID rules",
+      "url": "https://www.kjzz.org/elections/2026-11-05/arizona-voters-reject-prop-144-republican-backed-election-overhaul-elex",
+      "abbr": "AZ"
     },
     {
-      "text": "Fulton County certifies its 2026 midterm results with no fraud disputes this cycle",
-      "url": "https://www.atlantanewsfirst.com/2026/11/09/fulton-county-officials-set-certify-election-results/",
-      "abbr": "GA"
+      "text": "Arizona Democrats win the governorship, House, and Senate for first trifecta since 1966",
+      "url": "https://news.ballotpedia.org/2026/11/08/incumbent-katie-hobbs-d-defeated-andy-biggs-r-risa-lombardo-g-and-teri-hourihan-no-labels-party-in-the-general-election-for-governor-of-arizona/",
+      "abbr": "AZ"
     },
     {
-      "text": "Marsha Blackburn narrowly becomes Tennessee's first elected female governor",
-      "url": "https://www.wsmv.com/2026/11/04/im-not-going-anywhere-jerri-green-falls-marsha-blackburn-tennessee-governors-race-heres-what-it-means-democrats/",
-      "abbr": "TN"
+      "text": "Wisconsin Democrats end 15-year GOP control of both legislative chambers",
+      "url": "https://news.ballotpedia.org/2026/11/08/democrats-gained-a-majority-in-the-general-elections-for-the-wisconsin-state-senate-on-nov-3/",
+      "abbr": "WI"
     },
     {
-      "text": "Texas Democrats flip the U.S. Senate seat and make gains in Bexar County races",
-      "url": "https://www.ksat.com/news/local/2026/11/04/what-happened-in-the-nov-3-2026-historic-midterm-election-in-texas/",
-      "abbr": "TX"
+      "text": "Pennsylvania Democrats flip the state Senate, GOP-held since 1994",
+      "url": "https://news.ballotpedia.org/2026/11/08/democrats-gained-a-majority-in-the-general-elections-for-the-pennsylvania-state-senate-on-nov-3/",
+      "abbr": "PA"
     },
     {
-      "text": "Utah Republicans' veto-proof House supermajority is at risk after Democratic gains",
-      "url": "https://www.kuer.org/politics-government/2026-11-05/utah-democrats-midterm-pickups-republican-supermajority",
-      "abbr": "UT"
+      "text": "Michigan and Minnesota Democrats complete legislative trifectas"
+    },
+    {
+      "text": "Ohio elects a Democratic governor and senator for the first time in decades",
+      "url": "https://news.ballotpedia.org/2026/11/08/amy-acton-d-defeated-vivek-ramaswamy-r-and-don-kissick-l-in-the-general-election-for-governor-of-ohio/",
+      "abbr": "OH"
+    },
+    {
+      "text": "Susan Collins becomes first senator since 2000 to lose a sixth-term bid",
+      "url": "https://news.ballotpedia.org/2026/11/09/troy-jackson-defeated-incumbent-sen-susan-collins-and-six-other-candidates-in-the-general-election-for-the-u-s-senate-in-maine/",
+      "abbr": "ME"
+    },
+    {
+      "text": "Los Angeles ousts Mayor Karen Bass in first incumbent mayoral runoff since 2005",
+      "url": "https://news.ballotpedia.org/2026/11/10/nithya-raman-defeats-incumbent-karen-bass-in-los-angeles-mayoral-election-on-nov-3/",
+      "abbr": "CA"
     }
   ]
 }

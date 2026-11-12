@@ -38973,6 +38973,261 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-12",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Arizona voters reject Prop. 144, Republican-backed election overhaul",
+            "source": "KJZZ",
+            "url": "https://www.kjzz.org/elections/2026-11-05/arizona-voters-reject-prop-144-republican-backed-election-overhaul-elex",
+            "date": "2026-11-05",
+            "summary": "Arizona voters rejected Proposition 144, a Republican-backed measure that would have added a mail-ballot ID requirement and other new election rules, with about 53% voting no."
+          },
+          {
+            "title": "Incumbent Katie Hobbs (D) defeated Andy Biggs (R), Risa Lombardo (G), and Teri Hourihan (No Labels Party) in the general election for governor of Arizona",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/incumbent-katie-hobbs-d-defeated-andy-biggs-r-risa-lombardo-g-and-teri-hourihan-no-labels-party-in-the-general-election-for-governor-of-arizona/",
+            "date": "2026-11-08",
+            "summary": "Democratic incumbent Katie Hobbs won reelection as Arizona's governor, defeating Republican Andy Biggs and two third-party candidates in the Nov. 3 general election."
+          },
+          {
+            "title": "Democrats won a majority in the Arizona House of Representatives on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/democrats-won-a-majority-in-the-arizona-house-of-representatives-on-nov-3/",
+            "date": "2026-11-08",
+            "summary": "Democrats took control of the Arizona House, ending a 33-27 Republican majority and, combined with the governor's race and Senate, giving Democrats full control of state government for the first time since 1966."
+          }
+        ],
+        "CA": [
+          {
+            "title": "Xavier Becerra (D) defeated Steve Hilton (R) in the general election for governor of California",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/xavier-becerra-d-defeated-steve-hilton-r-in-the-general-election-for-governor-of-california/",
+            "date": "2026-11-08",
+            "summary": "Democrat Xavier Becerra won California's governor's race over Republican Steve Hilton in the Nov. 3 general election, succeeding term-limited Gov. Gavin Newsom."
+          },
+          {
+            "title": "Nithya Raman defeats incumbent Karen Bass in Los Angeles mayoral election on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/10/nithya-raman-defeats-incumbent-karen-bass-in-los-angeles-mayoral-election-on-nov-3/",
+            "date": "2026-11-10",
+            "summary": "Los Angeles council member Nithya Raman defeated Mayor Karen Bass in the city's first mayoral runoff for an incumbent since 2005, with the race turning on housing, safety, and infrastructure."
+          },
+          {
+            "title": "Ken Calvert defeats Young Kim in incumbent v. incumbent matchup in California's 40th Congressional District",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/11/ken-calvert-defeats-young-kim-in-incumbent-v-incumbent-matchup-in-californias-40th-congressional-district/",
+            "date": "2026-11-11",
+            "summary": "Republican incumbent Ken Calvert defeated fellow Republican incumbent Young Kim after Proposition 50 redistricting placed both of their seats in the same district."
+          },
+          {
+            "title": "Jane Kim defeats Ben Allen in first Democrat v. Democrat election for California insurance commissioner",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/11/jane-kim-defeats-ben-allen-in-first-democrat-v-democrat-election-for-california-insurance-commissioner/",
+            "date": "2026-11-11",
+            "summary": "Democrat Jane Kim won California's first general election for insurance commissioner contested by two Democrats, beating Ben Allen in a race centered on home insurance costs and wildfire recovery."
+          }
+        ],
+        "IA": [
+          {
+            "title": "Nate Willems defeated incumbent Brenna Bird in the general election for attorney general of Iowa",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/06/nate-willems-defeated-incumbent-brenna-bird-in-the-general-election-for-attorney-general-of-iowa/",
+            "date": "2026-11-06",
+            "summary": "Democrat Nate Willems unseated Republican Attorney General Brenna Bird on Nov. 3, an upset in a state that has trended Republican in recent cycles."
+          }
+        ],
+        "IL": [
+          {
+            "title": "Patty Garcia (D) defeated Lupe Castillo (R), Ed Hershey (Working Class Party), and Chris Getty (a Democrat who ran as an independent) in the general election to represent Illinois' 4th Congressional District",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/patty-garcia-d-defeated-lupe-castillo-r-ed-hershey-working-class-party-and-chris-getty-a-democrat-who-ran-as-an-independent-in-the-general-election-to-represent-illinois-4th-congressional/",
+            "date": "2026-11-08",
+            "summary": "Democrat Patty Garcia won Illinois' 4th Congressional District after incumbent Jesus Garcia (no relation) declined to seek re-election, defeating a Republican and two other candidates."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Adam Hamilton (D) defeated incumbent Roger Marshall (R) and David Graham (L) to win the general election for U.S. Senate in Kansas",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/adam-hamilton-d-defeated-incumbent-roger-marshall-r-and-david-graham-l-to-win-the-general-election-for-u-s-senate-in-kansas/",
+            "date": "2026-11-08",
+            "summary": "Democrat Adam Hamilton won Kansas's U.S. Senate race, defeating Republican incumbent Roger Marshall in a contest Cook Political Report had rated a toss-up."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Troy Jackson defeated incumbent Sen. Susan Collins and six other candidates in the general election for the U.S. Senate in Maine",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/09/troy-jackson-defeated-incumbent-sen-susan-collins-and-six-other-candidates-in-the-general-election-for-the-u-s-senate-in-maine/",
+            "date": "2026-11-09",
+            "summary": "Democrat Troy Jackson defeated Republican incumbent Susan Collins in Maine's U.S. Senate race, making her the first senator since 2000 to lose a bid for a sixth term."
+          }
+        ],
+        "MI": [
+          {
+            "title": "Abdul El-Sayed (D) defeated Mike Rogers (R) and three other candidates in the general election for U.S. Senate in Michigan",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/abdul-el-sayed-d-defeated-mike-rogers-r-douglas-p-marsh-g-lydia-christensen-l-walter-kristy-natural-law-party-in-michigan-and-timothy-long-u-s-taxpayers-party-in-the-general-election/",
+            "date": "2026-11-08",
+            "summary": "Democrat Abdul El-Sayed won Michigan's open U.S. Senate seat over Republican Mike Rogers, in a race that helped determine Senate control after Gary Peters chose not to seek re-election."
+          },
+          {
+            "title": "Democrats won a majority in the Michigan House of Representatives on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/democrats-won-a-majority-in-the-michigan-house-of-representatives-on-nov-3/",
+            "date": "2026-11-08",
+            "summary": "Democrats flipped the Michigan House, taking 63 of 110 seats and, combined with the governorship and Senate, giving the party full control of state government."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Democrats gained a majority in the general election for the Minnesota House of Representatives on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/09/democrats-gained-a-majority-in-the-general-election-for-the-minnesota-house-of-representatives-on-nov-3/",
+            "date": "2026-11-09",
+            "summary": "Democrats won majority control of the Minnesota House, ending a 67-67 split and giving the party a trifecta alongside their existing Senate majority and the governor's office."
+          },
+          {
+            "title": "Democrats maintained their majority in the general election for the Minnesota Senate on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/09/democrats-maintained-their-majority-in-the-general-election-for-the-minnesota-senate-on-nov-3/",
+            "date": "2026-11-09",
+            "summary": "Democrats kept control of the Minnesota Senate, where all 67 seats were up, preserving the trifecta they secured with their House and governor's office wins."
+          }
+        ],
+        "MT": [
+          {
+            "title": "How the 2026 elections affected state supreme courts: Montana",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/11/how-the-2026-elections-affected-state-supreme-courts-montana/",
+            "date": "2026-11-11",
+            "summary": "Liberal-leaning judge Amy Eddy won a nonpartisan Montana Supreme Court seat over conservative Dan Wilson by about 18 points, preserving the court's 4-3 liberal majority."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Democrats gained a majority in the general election for the North Carolina House of Representatives on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/10/democrats-gained-a-majority-in-the-general-election-for-the-north-carolina-house-of-representatives-on-nov-3/",
+            "date": "2026-11-10",
+            "summary": "Democrats flipped control of the North Carolina House, ending a 71-47 Republican majority by winning 15 of 20 Republican-held battleground districts."
+          }
+        ],
+        "NH": [
+          {
+            "title": "Chris Pappas (D) defeated John Sununu (R) and Edmond Laplante (Constitution Party) to win the general election for U.S. Senate in New Hampshire",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/chris-pappas-d-defeated-john-sununu-r-and-edmond-laplante-constitution-party-to-win-the-general-election-for-u-s-senate-in-new-hampshire/",
+            "date": "2026-11-08",
+            "summary": "Democrat Chris Pappas won the New Hampshire U.S. Senate seat vacated by Jeanne Shaheen, defeating Republican John Sununu in a race that helped determine Senate control."
+          }
+        ],
+        "NJ": [
+          {
+            "title": "Rebecca Bennett (D) defeated incumbent Thomas Kean Jr. (R) and Seamus O'Toole (Stop Israel's Genocide Party) in the general election to represent New Jersey's 7th Congressional District",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/rebecca-bennett-d-defeated-incumbent-thomas-kean-jr-r-and-seamus-otoole-stop-israels-genocide-party-in-the-general-election-to-represent-new-jerseys-7th-congressional-district/",
+            "date": "2026-11-08",
+            "summary": "Democrat Rebecca Bennett unseated Republican incumbent Thomas Kean Jr. in one of the country's most competitive U.S. House races, in a contest that could affect House control."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Nicole Cannizzaro (D) defeated Adriana Guzmán Fralick (R) in the general election for attorney general of Nevada",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/nicole-cannizzaro-d-defeated-adriana-guzman-fralick-r-in-the-general-election-for-attorney-general-of-nevada/",
+            "date": "2026-11-08",
+            "summary": "Democrat Nicole Cannizzaro won Nevada's attorney general race, giving Democrats their first state government triplex in Nevada alongside wins for governor and secretary of state."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Incumbent Laura Gillen (D) defeated Jeanine Driscoll (R, Conservative Party) and Blay Tarnoff (L) in the general election to represent New York's 4th Congressional District",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/incumbent-laura-gillen-d-defeated-jeanine-driscoll-r-conservative-party-and-blay-tarnoff-l-in-the-general-election-to-represent-new-yorks-4th-congressional-district/",
+            "date": "2026-11-08",
+            "summary": "Democratic incumbent Laura Gillen won re-election in New York's 4th Congressional District, a seat that has flipped between parties in recent cycles, over Republican Jeanine Driscoll."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Sherrod Brown (D) defeated incumbent Jon Husted (R), Bill Redpath (L), and Gregory Levy (I) in the special election for U.S. Senate in Ohio",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/sherrod-brown-d-defeated-incumbent-jon-husted-r-bill-redpath-l-and-gregory-levy-i-in-the-special-election-for-u-s-senate-in-ohio/",
+            "date": "2026-11-08",
+            "summary": "Democrat Sherrod Brown won Ohio's U.S. Senate special election, defeating appointed Republican incumbent Jon Husted to serve the remainder of J.D. Vance's term."
+          },
+          {
+            "title": "Amy Acton (D) defeated Vivek Ramaswamy (R) and Don Kissick (L) in the general election for governor of Ohio",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/amy-acton-d-defeated-vivek-ramaswamy-r-and-don-kissick-l-in-the-general-election-for-governor-of-ohio/",
+            "date": "2026-11-08",
+            "summary": "Democrat Amy Acton won Ohio's gubernatorial race over Republican Vivek Ramaswamy, ending two decades without a Democratic governor in a state that has voted for Donald Trump three times."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Democrats maintained a majority in the general elections for the Pennsylvania House of Representatives on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/democrats-maintained-a-majority-in-the-general-elections-for-the-pennsylvania-house-of-representatives-on-nov-3/",
+            "date": "2026-11-08",
+            "summary": "Democrats kept their narrow majority in the Pennsylvania House after all 203 seats were up, fending off a Republican bid to retake the chamber."
+          },
+          {
+            "title": "Democrats gained a majority in the general elections for the Pennsylvania State Senate on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/democrats-gained-a-majority-in-the-general-elections-for-the-pennsylvania-state-senate-on-nov-3/",
+            "date": "2026-11-08",
+            "summary": "Democrats won control of the Pennsylvania State Senate, which Republicans had held since 1994, in elections covering 25 of the chamber's 50 seats."
+          }
+        ],
+        "TN": [
+          {
+            "title": "Tennessee becomes the 15th state where voters approved adding Marsy's Law to the state constitution",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/09/tennessee-becomes-the-15th-state-where-voters-approved-adding-marsys-law-to-the-state-constitution/",
+            "date": "2026-11-09",
+            "summary": "Tennessee voters approved a constitutional amendment adding Marsy's Law crime-victims' rights provisions, passing with about 76% support."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Incumbent Vicente Gonzalez Jr. (D) defeated Eric Flores (R), Eddie Espinoza (G), and Chris Royal (L) to win the general election for Texas' 34th Congressional District",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/10/incumbent-vicente-gonzalez-jr-d-defeated-eric-flores-r-eddie-espinoza-g-and-chris-royal-l-to-win-the-general-election-for-texas-34th-congressional-district/",
+            "date": "2026-11-10",
+            "summary": "Democratic incumbent Vicente Gonzalez Jr. won re-election in Texas's 34th Congressional District, a seat redrawn mid-decade to favor Republicans and rated a toss-up."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Democrats gained a majority in the general elections for the Wisconsin State Senate on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/democrats-gained-a-majority-in-the-general-elections-for-the-wisconsin-state-senate-on-nov-3/",
+            "date": "2026-11-08",
+            "summary": "Democrats won the Wisconsin State Senate, ending Republican control the chamber had held since 2011 and helping give Democrats a trifecta with the Assembly and governorship."
+          },
+          {
+            "title": "Democrats gained a majority in the general election for Wisconsin State Assembly on Nov. 3",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/democrats-gained-a-majority-in-the-general-election-for-wisconsin-state-assembly-on-nov-3/",
+            "date": "2026-11-08",
+            "summary": "Democrats flipped the Wisconsin State Assembly, winning 53 of 99 seats after Republicans had held the chamber since 2011."
+          },
+          {
+            "title": "JoCasta Zamarripa (D) defeated Jay Schroeder (R) and Pete Karas (G) in the general election for Wisconsin secretary of state",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/08/jocasta-zamarripa-d-defeated-jay-schroeder-r-and-pete-karas-g-in-the-general-election-for-wisconsin-secretary-of-state/",
+            "date": "2026-11-08",
+            "summary": "Democrat JoCasta Zamarripa won Wisconsin's secretary of state race, helping Democrats keep control of the governor's office, attorney general, and secretary of state."
+          }
+        ]
+      }
     }
+
   ]
 }
