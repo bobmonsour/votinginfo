@@ -39227,7 +39227,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-12",
+      "time": "17:00",
+      "states": {
+        "KY": [
+          {
+            "title": "Republican Andy Barr wins election to U.S. Senate from Kentucky",
+            "source": "OPB (AP)",
+            "url": "https://www.opb.org/article/2026/11/03/republican-andy-barr-wins-election-to-u-s-senate-from-kentucky/",
+            "date": "2026-11-04",
+            "summary": "Republican Andy Barr won Kentucky's open U.S. Senate seat over Democrat Charles Booker, succeeding retiring Sen. Mitch McConnell."
+          }
+        ],
+        "OK": [
+          {
+            "title": "Oklahoma stayed red, but Democrats still grabbed wins in a national blue wave",
+            "source": "The Frontier / KOSU (via HPPR)",
+            "url": "https://www.hppr.org/hppr-news/2026-11-05/oklahoma-stayed-red-but-democrats-still-grabbed-wins-in-a-national-blue-wave",
+            "date": "2026-11-05",
+            "summary": "Republicans swept Oklahoma's statewide offices in the midterms, but Democrats flipped at least five GOP-held state House seats and narrowed margins in the state's largest counties."
+          }
+        ]
+      }
     }
-
   ]
 }
