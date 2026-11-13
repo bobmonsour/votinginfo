@@ -39251,6 +39251,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-13",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "Democrats have taken control of the Arizona Capitol. Here’s what we know about their election agenda.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/11/10/democrats-flip-legislature-2026-election-agenda-mail-voting-tribal-registration/",
+            "date": "2026-11-10",
+            "summary": "With Democrats now controlling both legislative chambers and the governor's office, lawmakers and advocates are discussing restoring the Permanent Early Voting List and expanding voter registration access."
+          }
+        ],
+        "DC": [
+          {
+            "title": "Janeese Lewis George wins D.C. mayoral race, marking a major political shift",
+            "source": "TheGrio",
+            "url": "https://thegrio.com/2026/11/04/janeese-lewis-george-wins-dc-mayor-race/",
+            "date": "2026-11-04",
+            "summary": "Ward 4 Councilmember Janeese Lewis George won the race to succeed Muriel Bowser as mayor, becoming the District's first democratic socialist mayor amid tensions over federal intervention."
+          }
+        ]
+      }
     }
   ]
 }
