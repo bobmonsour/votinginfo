@@ -39275,6 +39275,21 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-13",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Peltola's lead over Sullivan grows, but Alaska's Senate race is still tight",
+            "source": "Anchorage Daily News",
+            "url": "https://www.adn.com/politics/2026/11/10/peltola-adds-to-lead-over-sullivan-after-large-batch-of-ballots-drop-but-alaskas-senate-race-is-still-tight/",
+            "date": "2026-11-11",
+            "summary": "Democrat Mary Peltola's lead over Republican Sen. Dan Sullivan widened to about 4,250 first-choice votes as counting continued, with many early and absentee ballots still uncounted and the race potentially headed to ranked-choice tabulation."
+          }
+        ]
+      }
     }
   ]
 }
