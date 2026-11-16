@@ -1,10 +1,20 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "items": [
     {
-      "text": "Alaska's Senate race stays tight as Peltola's lead over Sullivan widens",
-      "url": "https://www.adn.com/politics/2026/11/10/peltola-adds-to-lead-over-sullivan-after-large-batch-of-ballots-drop-but-alaskas-senate-race-is-still-tight/",
-      "abbr": "AK"
+      "text": "Alabama independent Jesse Battles sworn in despite pending Senate recount",
+      "url": "https://www.alreporter.com/2026/11/11/battles-sworn-in-for-state-senate-district-10-despite-upcoming-recount",
+      "abbr": "AL"
+    },
+    {
+      "text": "DC swears in interim at-large councilmember as search for permanent pick continues",
+      "url": "https://wjla.com/news/instagram/dc-swears-in-new-councilmember-as-democrats-already-seek-another-replacement",
+      "abbr": "DC"
+    },
+    {
+      "text": "Indiana Gov. Braun calls Democrats' election sweep a GOP 'wake-up call'",
+      "url": "https://www.insideindianabusiness.com/articles/braun-election-results-a-wake-up-call-for-gop",
+      "abbr": "IN"
     }
   ]
 }

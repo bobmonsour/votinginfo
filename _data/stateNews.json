@@ -39290,6 +39290,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-16",
+      "time": "06:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Jesse Battles sworn in for Senate District 10 despite upcoming recount",
+            "source": "Alabama Political Reporter",
+            "url": "https://www.alreporter.com/2026/11/11/battles-sworn-in-for-state-senate-district-10-despite-upcoming-recount",
+            "date": "2026-11-11",
+            "summary": "Independent Jesse Battles was sworn in to Alabama's Senate District 10 ahead of an automatic recount against incumbent Sen. Andrew Jones, whose certified margin trails by less than half a percent."
+          }
+        ],
+        "DC": [
+          {
+            "title": "DC swears in new councilmember as Democrats already seek another replacement",
+            "source": "WJLA",
+            "url": "https://wjla.com/news/instagram/dc-swears-in-new-councilmember-as-democrats-already-seek-another-replacement",
+            "date": "2026-11-09",
+            "summary": "Jamal Holtz was sworn in as interim D.C. at-large councilmember to fill the vacancy left by Robert White's resignation, with the D.C. Democratic Party already seeking a longer-term replacement."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Braun: Election results a 'wake-up call' for GOP",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://www.insideindianabusiness.com/articles/braun-election-results-a-wake-up-call-for-gop",
+            "date": "2026-11-05",
+            "summary": "Indiana Gov. Mike Braun called Democrats' sweeping statehouse and congressional gains a \"wake-up call\" for Republicans, attributing the losses to voter frustration over affordability."
+          }
+        ]
+      }
     }
   ]
 }
