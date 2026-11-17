@@ -1,20 +1,30 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
-      "text": "DeSoto County, Mississippi purged more voters than any other county before Election Day",
-      "url": "https://www.votebeat.org/national/2026/11/12/desoto-county-mississippi-senate-experian-data-inactive-voters/",
-      "abbr": "MS"
+      "text": "Alaska's governor race flips blue as JKT defeats Dunleavy's would-be successors",
+      "url": "https://www.alaskasnewssource.com/2026/11/14/jkt-flips-governors-seat-blue-dunleavy-referendum/",
+      "abbr": "AK"
     },
     {
-      "text": "Pennsylvania Democrats weigh early voting and same-day registration with trifecta control",
-      "url": "https://www.votebeat.org/pennsylvania/2026/11/13/election-law-legislature-priorities-democrats-trifecta/",
-      "abbr": "PA"
+      "text": "Arizona legislative race down to 311 votes, triggering an automatic recount",
+      "url": "https://www.azfamily.com/2026/11/12/311-votes-separate-arizona-house-candidates-recount-looms/",
+      "abbr": "AZ"
     },
     {
-      "text": "Wisconsin Rapids mourns election clerk who died running the polls on Election Day",
-      "url": "https://www.votebeat.org/wisconsin/2026/11/11/wisconsin-rapids-election-clerk-jennifer-gossick-died-election-day/",
-      "abbr": "WI"
+      "text": "Idaho audits two counties after both underreported ballots on election night",
+      "url": "https://www.eastidahonews.com/?p=883720",
+      "abbr": "ID"
+    },
+    {
+      "text": "North Carolina House District 20 canvass confirms a 77-vote win",
+      "url": "https://www.wect.com/2026/11/13/merrick-wins-nc-house-district-20-race-by-77-votes-after-new-hanover-county-canvass/",
+      "abbr": "NC"
+    },
+    {
+      "text": "Clark County, Nevada certifies its 2026 general election results",
+      "url": "https://news3lv.com/news/local/clark-county-commissioners-certify-2026-general-election-results",
+      "abbr": "NV"
     }
   ]
 }

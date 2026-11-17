@@ -39356,6 +39356,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-17",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "JKT wins governor's race, flipping seat blue in Dunleavy referendum",
+            "source": "Alaska's News Source",
+            "url": "https://www.alaskasnewssource.com/2026/11/14/jkt-flips-governors-seat-blue-dunleavy-referendum/",
+            "date": "2026-11-13",
+            "summary": "The Associated Press called Alaska's governor's race for Democrat Jonathan Kreiss-Tomkins, who defeated three Republican challengers to succeed term-limited Gov. Mike Dunleavy."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "311 votes separate Arizona House candidates as recount looms",
+            "source": "AZFamily",
+            "url": "https://www.azfamily.com/2026/11/12/311-votes-separate-arizona-house-candidates-recount-looms/",
+            "date": "2026-11-11",
+            "summary": "Maricopa County finished tallying ballots from the Nov. 3 election, triggering an automatic recount in Legislative District 27's second House seat after just 311 votes separated Republican incumbents Lisa Fink and Tony Rivero."
+          }
+        ],
+        "ID": [
+          {
+            "title": "Bannock among 2 counties to be audited by Idaho election officials after underreported votes",
+            "source": "East Idaho News",
+            "url": "https://www.eastidahonews.com/?p=883720",
+            "date": "2026-11-14",
+            "summary": "State officials randomly selected Bannock and Latah counties, both of which initially underreported ballots last week, along with six others, for post-election audits to verify results, though the late-found ballots didn't change any race's outcome."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Merrick wins NC House District 20 race by 77 votes after New Hanover County canvass",
+            "source": "WECT",
+            "url": "https://www.wect.com/2026/11/13/merrick-wins-nc-house-district-20-race-by-77-votes-after-new-hanover-county-canvass/",
+            "date": "2026-11-13",
+            "summary": "New Hanover County's canvass confirmed Tim Merrick defeated Dane Scalise by 77 votes, 22,156 to 22,079, in the North Carolina House District 20 race; Scalise declined to say whether he'd seek a recount."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Clark County commissioners certify 2026 General Election results",
+            "source": "News 3 Las Vegas",
+            "url": "https://news3lv.com/news/local/clark-county-commissioners-certify-2026-general-election-results",
+            "date": "2026-11-13",
+            "summary": "Clark County commissioners unanimously certified the county's 2026 General Election results, including newly counted provisional ballots, about ten days after the Nov. 3 vote, sending the totals on to the Nevada Secretary of State's office."
+          }
+        ]
+      }
     }
   ]
 }
