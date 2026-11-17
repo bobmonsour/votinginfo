@@ -39323,6 +39323,39 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-16",
+      "time": "17:00",
+      "states": {
+        "MS": [
+          {
+            "title": "A Mississippi county moved more voters to inactive in the leadup to Election Day than any other. Here's what happened.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/11/12/desoto-county-mississippi-senate-experian-data-inactive-voters/",
+            "date": "2026-11-12",
+            "summary": "DeSoto County inactivated more voters than any other Mississippi county ahead of the midterms using unverified Experian credit-bureau data supplied by the secretary of state's office, producing long lines and a surge in affidavit ballots."
+          }
+        ],
+        "PA": [
+          {
+            "title": "How election laws could change now that Democrats are in power in Pennsylvania",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/pennsylvania/2026/11/13/election-law-legislature-priorities-democrats-trifecta/",
+            "date": "2026-11-13",
+            "summary": "With Democrats now controlling Pennsylvania's governorship and legislature, long-stalled proposals such as early in-person voting, same-day registration, and more time to precanvass mail ballots could advance, though county officials want clear, well-funded rules."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin Rapids clerk devoted her life to running elections. She died on Election Day.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/11/11/wisconsin-rapids-election-clerk-jennifer-gossick-died-election-day/",
+            "date": "2026-11-11",
+            "summary": "Wisconsin Rapids City Clerk Jennifer Gossick died on Election Day, Nov. 3; colleagues and Wood County officials describe how the city ran the election without her and raise concerns about the toll election administration jobs take."
+          }
+        ]
+      }
     }
   ]
 }
