@@ -2,29 +2,24 @@
   "date": "2026-11-17",
   "items": [
     {
-      "text": "Alaska's governor race flips blue as JKT defeats Dunleavy's would-be successors",
-      "url": "https://www.alaskasnewssource.com/2026/11/14/jkt-flips-governors-seat-blue-dunleavy-referendum/",
-      "abbr": "AK"
+      "text": "Salazar wins Florida's 27th District after a mandatory recount",
+      "url": "https://www.wlrn.org/government-politics/2026-11-10/associated-press-republican-rep-maria-elvira-salazar-wins-fl-27-congressional-race",
+      "abbr": "FL"
     },
     {
-      "text": "Arizona legislative race down to 311 votes, triggering an automatic recount",
-      "url": "https://www.azfamily.com/2026/11/12/311-votes-separate-arizona-house-candidates-recount-looms/",
-      "abbr": "AZ"
+      "text": "Georgia runs risk-limiting audits on 14 congressional and 6 statewide races",
+      "url": "https://www.wtoc.com/2026/11/12/georgia-election-officials-audit-midterm-results/",
+      "abbr": "GA"
     },
     {
-      "text": "Idaho audits two counties after both underreported ballots on election night",
-      "url": "https://www.eastidahonews.com/?p=883720",
-      "abbr": "ID"
+      "text": "Hawaii's final count confirms a Green Party legislator elected for the first time",
+      "url": "https://www.hawaiinewsnow.com/2026/11/12/historic-wins-confirmed-final-election-results/",
+      "abbr": "HI"
     },
     {
-      "text": "North Carolina House District 20 canvass confirms a 77-vote win",
-      "url": "https://www.wect.com/2026/11/13/merrick-wins-nc-house-district-20-race-by-77-votes-after-new-hanover-county-canvass/",
-      "abbr": "NC"
-    },
-    {
-      "text": "Clark County, Nevada certifies its 2026 general election results",
-      "url": "https://news3lv.com/news/local/clark-county-commissioners-certify-2026-general-election-results",
-      "abbr": "NV"
+      "text": "South Carolina recounts a congressional race and a state House seat",
+      "url": "https://www.wtoc.com/2026/11/11/recounts-progress-south-carolina-election-races/",
+      "abbr": "SC"
     }
   ]
 }

@@ -39407,6 +39407,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-17",
+      "time": "17:00",
+      "states": {
+        "FL": [
+          {
+            "title": "Associated Press: Republican Rep. Maria Elvira Salazar wins FL-27 congressional race",
+            "source": "WLRN Public Media",
+            "url": "https://www.wlrn.org/government-politics/2026-11-10/associated-press-republican-rep-maria-elvira-salazar-wins-fl-27-congressional-race",
+            "date": "2026-11-10",
+            "summary": "The Associated Press called Florida's 27th Congressional District for incumbent Republican Maria Elvira Salazar after a mandatory recount in her razor-thin race against Democrat Eliott Rodriguez."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia election officials to audit midterm results",
+            "source": "WTOC (Atlanta News First)",
+            "url": "https://www.wtoc.com/2026/11/12/georgia-election-officials-audit-midterm-results/",
+            "date": "2026-11-12",
+            "summary": "Georgia's Secretary of State's Office ran risk-limiting audits on 14 congressional races and six statewide offices from the Nov. 3 midterms, hand-counting randomly selected ballot batches to confirm the scanner results."
+          }
+        ],
+        "HI": [
+          {
+            "title": "Historic wins confirmed in final election results",
+            "source": "Hawaii News Now",
+            "url": "https://www.hawaiinewsnow.com/2026/11/12/historic-wins-confirmed-final-election-results/",
+            "date": "2026-11-11",
+            "summary": "Hawaii's final election tallies confirmed two historic state House outcomes: Republican incumbent Kanani Souza held her West Oahu seat by 103 votes, and Green Party candidate Paele Kiakona became the first Green Party member elected to the Hawaii Legislature."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Recounts progress in South Carolina election races",
+            "source": "WIS News 10",
+            "url": "https://www.wtoc.com/2026/11/11/recounts-progress-south-carolina-election-races/",
+            "date": "2026-11-10",
+            "summary": "After certifying results from the Nov. 3 statewide election, South Carolina officials began recounts in two close races: the 2nd Congressional District contest between Rep. Joe Wilson and Zyon Khalifa, and a state House District 89 race in Lexington County."
+          }
+        ]
+      }
     }
   ]
 }
