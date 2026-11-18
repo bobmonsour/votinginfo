@@ -1,25 +1,31 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "items": [
     {
-      "text": "Salazar wins Florida's 27th District after a mandatory recount",
-      "url": "https://www.wlrn.org/government-politics/2026-11-10/associated-press-republican-rep-maria-elvira-salazar-wins-fl-27-congressional-race",
-      "abbr": "FL"
+      "text": "Maine Senate Democrats reach a 24-seat supermajority after a recount confirms Bosworth's win",
+      "url": "https://www.bangordailynews.com/2026/11/16/politics/elections/recount-maine-senate-district-18-elizabeth-bosworth/",
+      "abbr": "ME"
     },
     {
-      "text": "Georgia runs risk-limiting audits on 14 congressional and 6 statewide races",
-      "url": "https://www.wtoc.com/2026/11/12/georgia-election-officials-audit-midterm-results/",
-      "abbr": "GA"
+      "text": "Kansas settles its governor's race as Holscher outlasts Masterson after an audit",
+      "url": "https://www.hppr.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor",
+      "abbr": "KS"
     },
     {
-      "text": "Hawaii's final count confirms a Green Party legislator elected for the first time",
-      "url": "https://www.hawaiinewsnow.com/2026/11/12/historic-wins-confirmed-final-election-results/",
-      "abbr": "HI"
-    },
-    {
-      "text": "South Carolina recounts a congressional race and a state House seat",
-      "url": "https://www.wtoc.com/2026/11/11/recounts-progress-south-carolina-election-races/",
+      "text": "A South Carolina recount ousts incoming House Majority Leader Micah Caskey",
+      "url": "https://www.wtoc.com/2026/11/11/democrat-joe-madge-defeats-incoming-sc-house-majority-leader-micah-caskey/",
       "abbr": "SC"
+    },
+    {
+      "text": "DesJarlais concedes Tennessee's 4th District, the cycle's largest congressional flip",
+      "url": "https://tennesseelookout.com/2026/11/16/desjarlais-concedes-tennessee-4th-congressional-district-to-democrat-victoria-broderick/",
+      "abbr": "TN"
+    },
+    {
+      "text": "Close legislative races in Indiana, Kentucky, Minnesota, and New York head to recounts"
+    },
+    {
+      "text": "Hawaii and Michigan wrap up certification with no changes to any race outcomes"
     }
   ]
 }

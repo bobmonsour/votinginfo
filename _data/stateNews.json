@@ -39449,6 +39449,102 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-18",
+      "time": "06:00",
+      "states": {
+        "HI": [
+          {
+            "title": "Hawaii election tally is finalized",
+            "source": "Honolulu Star-Advertiser",
+            "url": "https://www.staradvertiser.com/2026/11/12/hawaii-news/hawaii-election-tally-is-finalized/",
+            "date": "2026-11-12",
+            "summary": "Hawaii's official vote count for the Nov. 3 general election is complete, with the final results confirming no changes to race outcomes after several close contests gained a handful of votes from signature-cured mail ballots."
+          }
+        ],
+        "IN": [
+          {
+            "title": "Ballot review set in southern Indiana county amid tight race for state Senate's top Republican",
+            "source": "Indiana Capital Chronicle",
+            "url": "https://indianacapitalchronicle.com/2026/11/09/ballot-review-set-in-southern-indiana-county-amid-tight-race-for-state-senates-top-republican/",
+            "date": "2026-11-09",
+            "summary": "Clark County election officials set a ballot review after Senate President Pro Tem Chris Garten's lead over Democrat Nick Marshall narrowed to 297 votes, with Democrats weighing a formal recount request."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Cindy Holscher continues Democrats' winning streak by cinching race for governor",
+            "source": "High Plains Public Radio",
+            "url": "https://www.hppr.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor",
+            "date": "2026-11-12",
+            "summary": "Democrat Cindy Holscher won Kansas's governor's race after a lengthy count of absentee and provisional ballots, with Republican Ty Masterson conceding once a mandatory close-race audit confirmed her narrow lead."
+          }
+        ],
+        "KY": [
+          {
+            "title": "Jefferson County ballots to be recounted in close state House race",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/ky/louisville/news/2026/11/10/state-house-race-recount-announced",
+            "date": "2026-11-10",
+            "summary": "A Kentucky House District 36 race in eastern Jefferson County is headed to an automatic recount after unofficial results showed Republican incumbent John Hodgson leading Democrat William Zorn by about 100 votes."
+          }
+        ],
+        "ME": [
+          {
+            "title": "Recount upholds Democratic win in dramatic flip of Maine Senate seat",
+            "source": "Bangor Daily News",
+            "url": "https://www.bangordailynews.com/2026/11/16/politics/elections/recount-maine-senate-district-18-elizabeth-bosworth/",
+            "date": "2026-11-16",
+            "summary": "A recount confirmed Democrat Elizabeth Bosworth's 53-vote win over Republican John Andrews in Maine's Senate District 18, a result that helps give Senate Democrats their largest majority since 1985."
+          }
+        ],
+        "MI": [
+          {
+            "title": "The Mids: How the Michigan election results certification process works",
+            "source": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-11-16/michigan-election-results-certification-2026",
+            "date": "2026-11-16",
+            "summary": "Michigan's county and state certification process and post-election paper-ballot audit were still underway more than a week after the election, with officials saying the 2026 count had gone unusually smoothly."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Clay County officials outline recount plans for closely contested Minnesota Senate race",
+            "source": "Valley News Live",
+            "url": "https://www.valleynewslive.com/2026/11/10/clay-county-officials-outline-recount-plans-closely-contested-minnesota-senate-race/",
+            "date": "2026-11-10",
+            "summary": "Clay County election officials are preparing to hand-count roughly 27,000 ballots in a potential recount of a tight state Senate race, a process that cannot formally begin until the state completes its canvass on November 19."
+          }
+        ],
+        "NY": [
+          {
+            "title": "Eastern New York State Senate race headed for recount",
+            "source": "WAMC Northeast Public Radio",
+            "url": "https://www.wamc.org/news/2026-11-13/election-2026-new-york-state-senate-43-race-recount",
+            "date": "2026-11-13",
+            "summary": "New York's 43rd State Senate District race is close enough to trigger an automatic recount, with Democrat Devin Lander claiming a roughly 335-vote lead that Republican incumbent Jake Ashby has not conceded."
+          }
+        ],
+        "SC": [
+          {
+            "title": "Democrat Joe Madge defeats incoming SC House Majority Leader Micah Caskey",
+            "source": "WTOC",
+            "url": "https://www.wtoc.com/2026/11/11/democrat-joe-madge-defeats-incoming-sc-house-majority-leader-micah-caskey/",
+            "date": "2026-11-11",
+            "summary": "A state-mandated recount confirmed Democrat Joe Madge's 106-vote win over Republican incumbent Micah Caskey in South Carolina House District 89, unseating the lawmaker who had been slated to become House majority leader."
+          }
+        ],
+        "TN": [
+          {
+            "title": "DesJarlais concedes Tennessee 4th Congressional District to Democrat Victoria Broderick",
+            "source": "Tennessee Lookout",
+            "url": "https://tennesseelookout.com/2026/11/16/desjarlais-concedes-tennessee-4th-congressional-district-to-democrat-victoria-broderick/",
+            "date": "2026-11-16",
+            "summary": "Republican Rep. Scott DesJarlais conceded Tennessee's 4th Congressional District race to Democrat Victoria Broderick after Nashville's provisional ballots expanded her narrow lead, marking the cycle's largest congressional district flip."
+          }
+        ]
+      }
     }
   ]
 }
