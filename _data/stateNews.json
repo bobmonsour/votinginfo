@@ -39545,6 +39545,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-18",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+            "source": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307",
+            "date": "2026-11-17",
+            "summary": "NBC News projected that Democrat Mary Peltola unseated Republican Sen. Dan Sullivan in Alaska, winning a majority on the first-choice vote so the race did not require a ranked-choice tabulation."
+          }
+        ],
+        "ND": [
+          {
+            "title": "North Dakota canvassing board certifies 2026 election results; one House race qualifies for recount",
+            "source": "Valley News Live",
+            "url": "https://www.valleynewslive.com/2026/11/18/north-dakota-canvassing-board-certifies-2026-election-results-one-house-race-qualifies-recount/",
+            "date": "2026-11-18",
+            "summary": "North Dakota's State Canvassing Board certified the 2026 general election results, making them official for state, judicial, and legislative races, while a state House race in Legislative District 41 qualifies for a demand recount."
+          }
+        ]
+      }
     }
   ]
 }
