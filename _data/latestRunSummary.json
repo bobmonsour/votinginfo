@@ -1,15 +1,35 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "items": [
     {
-      "text": "Democrat Mary Peltola flips Alaska's U.S. Senate seat, ousting GOP Sen. Dan Sullivan",
-      "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307",
-      "abbr": "AK"
+      "text": "North Carolina's Virginia Foxx requests recount in tight 5th District race",
+      "url": "https://www.wbtv.com/2026/11/17/republican-rep-requests-recount-tight-us-house-race-north-carolina/?outputType=amp",
+      "abbr": "NC"
     },
     {
-      "text": "North Dakota certifies its 2026 election; one House race heads to a recount",
-      "url": "https://www.valleynewslive.com/2026/11/18/north-dakota-canvassing-board-certifies-2026-election-results-one-house-race-qualifies-recount/",
-      "abbr": "ND"
+      "text": "Colorado's Lauren Boebert loses reelection after unsubstantiated vote-count claims",
+      "url": "https://www.democracydocket.com/news-alerts/election-denier-lauren-boebert-loses-reelection-bid-after-her-campaign-questioned-colorado-vote-count/",
+      "abbr": "CO"
+    },
+    {
+      "text": "Maine recount flips a Lewiston House seat to the GOP by 24 votes",
+      "url": "https://www.yahoo.com/news/politics/articles/recount-confirms-republican-clement-flipped-182953217.html",
+      "abbr": "ME"
+    },
+    {
+      "text": "Judge blocks seating of Indiana state senator after voting-machine discrepancy",
+      "url": "https://www.fox19.com/2026/11/17/judge-blocks-southern-indiana-state-senator-being-seated/",
+      "abbr": "IN"
+    },
+    {
+      "text": "Kansas declares a secretary of state winner two weeks after the midterm",
+      "url": "https://www.kctv5.com/2026/11/17/pat-proctor-declared-winner-kansas-secretary-states-race-2-weeks-after-midterm-election/",
+      "abbr": "KS"
+    },
+    {
+      "text": "Delaware Republicans brace for life under new Democratic supermajorities",
+      "url": "https://spotlightdelaware.org/2026/11/13/delaware-gop-expresses-fear-toward-democratic-supermajorities/",
+      "abbr": "DE"
     }
   ]
 }
