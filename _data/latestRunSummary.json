@@ -1,25 +1,15 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
-      "text": "Oregon shatters its midterm turnout record with more than 2 million ballots cast",
-      "url": "https://www.opb.org/article/2026/11/17/oregon-midterm-election-record-turnout/",
-      "abbr": "OR"
+      "text": "Kentucky House District 36 race heads to automatic recount after 100-vote margin",
+      "url": "https://spectrumnews1.com/ky/lexington/news/2026/11/16/house-district-36-recount-begins",
+      "abbr": "KY"
     },
     {
-      "text": "Washington House Democrats, fresh off a supermajority win, duel over who leads them",
-      "url": "https://www.kuow.org/governing/2026-11-16/after-big-wins-wa-house-democrats-face-an-internal-duel-for-speaker",
-      "abbr": "WA"
-    },
-    {
-      "text": "South Carolina House leaders pitch affordability focus after GOP loses its supermajority",
-      "url": "https://www.wtoc.com/2026/11/16/sc-house-leaders-see-election-results-mandate-focus-affordability-cooperation/",
-      "abbr": "SC"
-    },
-    {
-      "text": "Maryland's shrunken GOP caucus weighs its options heading into the 2027 session",
-      "url": "https://wjla.com/news/local/a-smaller-gop-voice-heads-into-marylands-next-legislative-session",
-      "abbr": "MD"
+      "text": "Five North Carolina counties recount ballots in tight 10th Congressional District race",
+      "url": "https://www.wbtv.com/2026/11/18/catawba-county-recounts-ballots-tight-10th-congressional-district-race/",
+      "abbr": "NC"
     }
   ]
 }

@@ -39723,6 +39723,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-20",
+      "time": "06:00",
+      "states": {
+        "KY": [
+          {
+            "title": "House District 36 recount begins",
+            "source": "Spectrum News 1",
+            "url": "https://spectrumnews1.com/ky/lexington/news/2026/11/16/house-district-36-recount-begins",
+            "date": "2026-11-16",
+            "summary": "Jefferson County began an automatic recount in the Kentucky House District 36 race after Republican incumbent John Hodgson led Democrat Woody Zorn by just 100 votes."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Catawba County recounts ballots in tight 10th Congressional District race",
+            "source": "WBTV",
+            "url": "https://www.wbtv.com/2026/11/18/catawba-county-recounts-ballots-tight-10th-congressional-district-race/",
+            "date": "2026-11-18",
+            "summary": "Catawba County is one of five North Carolina counties recounting ballots in the 10th Congressional District race, where Republican Pat Harrigan holds a lead of under one point over Democrat Ashley Bell."
+          }
+        ]
+      }
     }
   ]
 }
