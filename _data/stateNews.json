@@ -39681,6 +39681,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-19",
+      "time": "17:00",
+      "states": {
+        "MD": [
+          {
+            "title": "A smaller GOP voice heads into Maryland's next legislative session",
+            "source": "FOX45 News (WBFF)",
+            "url": "https://wjla.com/news/local/a-smaller-gop-voice-heads-into-marylands-next-legislative-session",
+            "date": "2026-11-16",
+            "summary": "Maryland Republicans will hold fewer seats in the General Assembly after the 2026 elections, with the GOP minority leader saying the party will rely on committee work and floor debate to shape legislation."
+          }
+        ],
+        "OR": [
+          {
+            "title": "More than 2M Oregonians break previous record for midterm election turnout",
+            "source": "Oregon Public Broadcasting",
+            "url": "https://www.opb.org/article/2026/11/17/oregon-midterm-election-record-turnout/",
+            "date": "2026-11-17",
+            "summary": "Oregon's Secretary of State reported more than 2 million ballots cast in the 2026 midterm, breaking the 2022 record of 1.99 million."
+          }
+        ],
+        "SC": [
+          {
+            "title": "SC House leaders see election results as mandate to focus on affordability, cooperation",
+            "source": "WIS-TV (WTOC)",
+            "url": "https://www.wtoc.com/2026/11/16/sc-house-leaders-see-election-results-mandate-focus-affordability-cooperation/",
+            "date": "2026-11-16",
+            "summary": "South Carolina House leaders from both parties said voters want lawmakers focused on affordability after Republicans kept the House majority but lost their supermajority."
+          }
+        ],
+        "WA": [
+          {
+            "title": "After big wins, Washington House Democrats face internal duel for speaker",
+            "source": "KUOW / Washington State Standard",
+            "url": "https://www.kuow.org/governing/2026-11-16/after-big-wins-wa-house-democrats-face-an-internal-duel-for-speaker",
+            "date": "2026-11-16",
+            "summary": "Washington House Democrats, who gained seats and a supermajority in the 2026 midterms, faced a leadership contest between Speaker Laurie Jinkins and Rep. April Berg."
+          }
+        ]
+      }
     }
   ]
 }

@@ -2,34 +2,24 @@
   "date": "2026-11-19",
   "items": [
     {
-      "text": "North Carolina's Virginia Foxx requests recount in tight 5th District race",
-      "url": "https://www.wbtv.com/2026/11/17/republican-rep-requests-recount-tight-us-house-race-north-carolina/?outputType=amp",
-      "abbr": "NC"
+      "text": "Oregon shatters its midterm turnout record with more than 2 million ballots cast",
+      "url": "https://www.opb.org/article/2026/11/17/oregon-midterm-election-record-turnout/",
+      "abbr": "OR"
     },
     {
-      "text": "Colorado's Lauren Boebert loses reelection after unsubstantiated vote-count claims",
-      "url": "https://www.democracydocket.com/news-alerts/election-denier-lauren-boebert-loses-reelection-bid-after-her-campaign-questioned-colorado-vote-count/",
-      "abbr": "CO"
+      "text": "Washington House Democrats, fresh off a supermajority win, duel over who leads them",
+      "url": "https://www.kuow.org/governing/2026-11-16/after-big-wins-wa-house-democrats-face-an-internal-duel-for-speaker",
+      "abbr": "WA"
     },
     {
-      "text": "Maine recount flips a Lewiston House seat to the GOP by 24 votes",
-      "url": "https://www.yahoo.com/news/politics/articles/recount-confirms-republican-clement-flipped-182953217.html",
-      "abbr": "ME"
+      "text": "South Carolina House leaders pitch affordability focus after GOP loses its supermajority",
+      "url": "https://www.wtoc.com/2026/11/16/sc-house-leaders-see-election-results-mandate-focus-affordability-cooperation/",
+      "abbr": "SC"
     },
     {
-      "text": "Judge blocks seating of Indiana state senator after voting-machine discrepancy",
-      "url": "https://www.fox19.com/2026/11/17/judge-blocks-southern-indiana-state-senator-being-seated/",
-      "abbr": "IN"
-    },
-    {
-      "text": "Kansas declares a secretary of state winner two weeks after the midterm",
-      "url": "https://www.kctv5.com/2026/11/17/pat-proctor-declared-winner-kansas-secretary-states-race-2-weeks-after-midterm-election/",
-      "abbr": "KS"
-    },
-    {
-      "text": "Delaware Republicans brace for life under new Democratic supermajorities",
-      "url": "https://spotlightdelaware.org/2026/11/13/delaware-gop-expresses-fear-toward-democratic-supermajorities/",
-      "abbr": "DE"
+      "text": "Maryland's shrunken GOP caucus weighs its options heading into the 2027 session",
+      "url": "https://wjla.com/news/local/a-smaller-gop-voice-heads-into-marylands-next-legislative-session",
+      "abbr": "MD"
     }
   ]
 }
