@@ -39752,6 +39752,57 @@
       "date": "2026-11-20",
       "time": "17:00",
       "states": {}
+    },
+    {
+      "date": "2026-11-23",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Some Alaska legislative races could go to recount after ranked choice tabulation",
+            "source": "Anchorage Daily News",
+            "url": "https://adn.com/politics/2026/11/18/alaska-is-set-to-complete-ranked-choice-tabulation-on-wednesday-heres-what-to-know/",
+            "date": "2026-11-18",
+            "summary": "Alaska completed ranked choice tabulation for more than a dozen races with no first-choice majority, including the lone U.S. House seat, and three close legislative races qualified for state-funded recounts."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Maricopa County Board of Supervisors certifies 2026 election results",
+            "source": "KJZZ",
+            "url": "https://www.kjzz.org/elections/2026-11-18/maricopa-county-board-of-supervisors-certifies-2026-election-results",
+            "date": "2026-11-18",
+            "summary": "Maricopa County certified its 2026 general election results with turnout at 60.2%, and a recount will be held in Legislative District 27 where a House seat was decided by a 0.29% margin."
+          }
+        ],
+        "GA": [
+          {
+            "title": "Georgia finishes record-setting audit of election, confirms results",
+            "source": "WRDW",
+            "url": "https://www.wrdw.com/2026/11/19/georgia-completes-record-setting-audit-2026-election-confirms-results/",
+            "date": "2026-11-19",
+            "summary": "Georgia election officials completed a record risk-limiting audit of the 2026 general election, hand-tallying 600 ballot batches and confirming results in every race checked, including governor and U.S. Senate."
+          }
+        ],
+        "MN": [
+          {
+            "title": "Brad Finstad files for recount in 1st Congressional District race",
+            "source": "KTTC",
+            "url": "https://www.kttc.com/2026/11/19/brad-finstad-files-recount-1st-congressional-district-race/",
+            "date": "2026-11-19",
+            "summary": "Incumbent Rep. Brad Finstad formally requested a taxpayer-funded recount after trailing Democrat Jake Johnson by 322 votes in Minnesota's 1st Congressional District, which he could request only after state canvassing certified results."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Pennsylvania's 41st House District may be going to a historic recount",
+            "source": "Votebeat / Spotlight PA",
+            "url": "https://www.spotlightpa.org/news/2026/11/41st-pennsylvania-house-district-lancaster-recount-petition-chambers-miller-elections/",
+            "date": "2026-11-19",
+            "summary": "Voters in all 32 precincts of Lancaster County's 41st House District petitioned for a recount after Democrat Brad Chambers took a 28-vote lead over Republican incumbent Brett Miller, in what may be the first full legislative recount in Pennsylvania history started by voter petition."
+          }
+        ]
+      }
     }
   ]
 }

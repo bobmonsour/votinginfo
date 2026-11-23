@@ -1,4 +1,30 @@
 {
-  "date": "2026-11-20",
-  "items": []
+  "date": "2026-11-23",
+  "items": [
+    {
+      "text": "Alaska completes ranked choice tabulation; several legislative races head to recount",
+      "url": "https://adn.com/politics/2026/11/18/alaska-is-set-to-complete-ranked-choice-tabulation-on-wednesday-heres-what-to-know/",
+      "abbr": "AK"
+    },
+    {
+      "text": "Maricopa County certifies 2026 results; Legislative District 27 heads to recount",
+      "url": "https://www.kjzz.org/elections/2026-11-18/maricopa-county-board-of-supervisors-certifies-2026-election-results",
+      "abbr": "AZ"
+    },
+    {
+      "text": "Georgia's record risk-limiting audit confirms midterm results statewide",
+      "url": "https://www.wrdw.com/2026/11/19/georgia-completes-record-setting-audit-2026-election-confirms-results/",
+      "abbr": "GA"
+    },
+    {
+      "text": "Rep. Brad Finstad requests recount in razor-thin Minnesota 1st District race",
+      "url": "https://www.kttc.com/2026/11/19/brad-finstad-files-recount-1st-congressional-district-race/",
+      "abbr": "MN"
+    },
+    {
+      "text": "Pennsylvania's 41st House District may see first voter-petitioned full recount",
+      "url": "https://www.spotlightpa.org/news/2026/11/41st-pennsylvania-house-district-lancaster-recount-petition-chambers-miller-elections/",
+      "abbr": "PA"
+    }
+  ]
 }
