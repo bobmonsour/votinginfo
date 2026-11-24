@@ -39803,6 +39803,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-23",
+      "time": "17:00",
+      "states": {
+        "MI": [
+          {
+            "title": "The Michigan Voting Rights Act could finally become law in 2027. Here's everything you need to know.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/michigan/2026/11/19/state-voting-rights-act-jocelyn-benson-democrats-trifecta-legislature/",
+            "date": "2026-11-19",
+            "summary": "Now that Democrats control Michigan's governorship and both legislative chambers, they are expected to reintroduce the Michigan Voting Rights Act in 2027, addressing language access, voter notification, and discrimination claims."
+          }
+        ],
+        "VT": [
+          {
+            "title": "Vermont sets midterm turnout record as election results certified",
+            "source": "WCAX",
+            "url": "https://wcax.com/2026/11/10/vermont-sets-midterm-turnout-record-election-results-certified/",
+            "date": "2026-11-10",
+            "summary": "Vermont recorded its highest-ever midterm voter turnout, with about 311,510 ballots cast, and party representatives certified the state's statewide and federal election results."
+          }
+        ]
+      }
     }
   ]
 }
