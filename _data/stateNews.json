@@ -39832,6 +39832,21 @@
       "date": "2026-11-24",
       "time": "06:00",
       "states": {}
+    },
+    {
+      "date": "2026-11-24",
+      "time": "17:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Alaska will certify results of U.S. Senate race, election director confirms",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/?p=82246",
+            "date": "2026-11-19",
+            "summary": "Alaska's Division of Elections director confirmed the state will certify all 2026 race results, including the U.S. Senate race won by Democrat Mary Peltola, despite a Trump-backed Justice Department lawsuit seeking to block certification."
+          }
+        ]
+      }
     }
   ]
 }
