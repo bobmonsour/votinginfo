@@ -1,10 +1,33 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "items": [
     {
-      "text": "Alaska to certify Peltola's Senate win despite Trump-backed DOJ suit",
-      "url": "https://www.democracydocket.com/?p=82246",
+      "text": "Sullivan concedes Alaska Senate race after certification, DOJ drops suit",
+      "url": "https://www.democracydocket.com/news-alerts/gops-sullivan-concedes-senate-race-after-alaska-certifies-peltolas-win/",
       "abbr": "AK"
+    },
+    {
+      "text": "Ohio courts side with counting contested provisional ballots in razor-thin races",
+      "url": "https://www.democracydocket.com/news-alerts/ohio-supreme-court-dismisses-republican-bid-to-throw-out-provisional-ballots/",
+      "abbr": "OH"
+    },
+    {
+      "text": "Missouri voters pass supermajority shield for citizen-initiated ballot measures",
+      "url": "https://www.democracydocket.com/news-alerts/missouri-voters-enact-landmark-direct-democracy-protections-after-gop-crackdown/",
+      "abbr": "MO"
+    },
+    {
+      "text": "Texas Democrats push to expand voting access after winning governor's office and House",
+      "url": "https://www.votebeat.org/texas/2026/11/18/democrats-elections-voting-legislation-online-voter-registration/",
+      "abbr": "TX"
+    },
+    {
+      "text": "Mississippi's inactive-voter rules draw scrutiny after tight Senate race",
+      "url": "https://www.votebeat.org/national/2026/11/24/mississippi-experian-data-inactive-voters-discrimination/",
+      "abbr": "MS"
+    },
+    {
+      "text": "Kansas and New Hampshire courts weigh fresh fights over mail ballot rules"
     }
   ]
 }

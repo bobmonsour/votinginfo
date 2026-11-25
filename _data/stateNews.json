@@ -39847,6 +39847,132 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-25",
+      "time": "06:00",
+      "states": {
+        "AK": [
+          {
+            "title": "Sullivan concedes Senate race after Alaska certifies Peltola's win",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/gops-sullivan-concedes-senate-race-after-alaska-certifies-peltolas-win/",
+            "date": "2026-11-24",
+            "summary": "Republican Sen. Dan Sullivan conceded to Democrat Mary Peltola after Alaska certified her outright Senate win with more than 50% of the vote, and the Justice Department dropped its lawsuit seeking to block certification."
+          },
+          {
+            "title": "Alaska terminates controversial deal to share voter data with Trump DOJ",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/alaska-terminates-controversial-deal-to-share-voter-data-with-trump-doj/",
+            "date": "2026-11-24",
+            "summary": "Alaska ended its agreement to give the Justice Department unredacted voter registration lists after the League of Women Voters of Alaska and the Alaska Black Caucus sued over the arrangement; officials said no voters were removed as a result."
+          }
+        ],
+        "AZ": [
+          {
+            "title": "Secretary of State Adrian Fontes pitches big changes to Arizona voting laws ahead of 2028",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/arizona/2026/11/19/adrian-fontes-democrat-legislative-election-voting-agenda/",
+            "date": "2026-11-19",
+            "summary": "Arizona Secretary of State Adrian Fontes plans to push the incoming Democratic legislative majority to mandate vote centers statewide, mail ballots to all registered voters, and repeal recent GOP-backed voting restrictions."
+          }
+        ],
+        "KS": [
+          {
+            "title": "Kansas nonprofits dispute GOP's latest bid to exclude late-arriving mail ballots",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/kansas-nonprofits-dispute-gops-latest-bid-to-exclude-late-arriving-mail-ballots/",
+            "date": "2026-11-24",
+            "summary": "Kansas officials and pro-voting groups argued before the Court of Appeals over a law that would bar counting mail ballots received after Election Day, which a district court has blocked since July pending further proceedings."
+          }
+        ],
+        "MO": [
+          {
+            "title": "Missouri voters enact landmark direct democracy protections after GOP crackdown",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/missouri-voters-enact-landmark-direct-democracy-protections-after-gop-crackdown/",
+            "date": "2026-11-20",
+            "summary": "Missouri voters approved Amendment 6, requiring supermajority legislative approval plus voter ratification to change citizen-initiated laws, while rejecting a GOP-backed measure that would have required ballot initiatives to win in all eight congressional districts."
+          }
+        ],
+        "MS": [
+          {
+            "title": "Mississippi's outlier election laws face new scrutiny after tight U.S. Senate race",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/11/24/mississippi-experian-data-inactive-voters-discrimination/",
+            "date": "2026-11-24",
+            "summary": "Scrutiny of Mississippi's voter-roll law intensified after Scott Colom's close U.S. Senate win, as advocates say the state's practice of marking voters inactive using unverified credit-bureau data has led to wrongful removals."
+          }
+        ],
+        "NE": [
+          {
+            "title": "Every state needs poll workers. Only Nebraska drafts them.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/national/2026/11/24/nebraska-drafts-poll-workers-like-jurors-staffing-shortages/",
+            "date": "2026-11-24",
+            "summary": "Nebraska remains the only state that drafts registered voters for poll-worker duty like jury duty, and counties are using the century-old system to address staffing shortages as other states take notice."
+          }
+        ],
+        "NH": [
+          {
+            "title": "New Hampshire argues voters have no right to cast mail ballots",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/new-hampshire-argues-voters-have-no-right-to-cast-mail-ballots/",
+            "date": "2026-11-23",
+            "summary": "State lawyers told New Hampshire's Supreme Court that voters, including those with disabilities, have no constitutional right to mail voting without added identity-verification burdens, in a challenge to a law enacted last year."
+          }
+        ],
+        "OH": [
+          {
+            "title": "Ohio Supreme Court dismisses Republican bid to throw out provisional ballots",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/ohio-supreme-court-dismisses-republican-bid-to-throw-out-provisional-ballots/",
+            "date": "2026-11-24",
+            "summary": "Ohio's Supreme Court ruled 5-1 to dismiss a Republican candidate's suit seeking to bar Lucas County from counting provisional ballots cast by recently relocated voters, in a state House race that remains extremely close."
+          },
+          {
+            "title": "Ohio county counts over 700 contested ballots after Democratic lawsuit",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/ohio-county-counts-over-700-contested-ballots-after-democratic-lawsuit/",
+            "date": "2026-11-24",
+            "summary": "Hamilton County reversed course and agreed to count 739 provisional ballots from recent movers after an emergency lawsuit from the Ohio Democratic Party, allowing a state House race to be called for the Democratic candidate."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Texas Democrats have a chance to expand voting access. They still need Republicans' support.",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/texas/2026/11/18/democrats-elections-voting-legislation-online-voter-registration/",
+            "date": "2026-11-18",
+            "summary": "With Democrats now controlling the governor's office and the Texas House, lawmakers have filed bills for online voter registration, expanded accepted voter ID, and an independent redistricting commission, though Republicans still control the Senate."
+          },
+          {
+            "title": "Trump-appointed judge tosses Texas GOP lawsuit seeking to block election certification",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/trump-appointed-judge-tosses-texas-gop-lawsuit-seeking-to-block-election-certification/",
+            "date": "2026-11-24",
+            "summary": "A federal judge dismissed a Potter County Republican Party lawsuit that sought to block Texas from certifying its November 3 results without a full hand count of paper ballots, finding the plaintiffs failed to show concrete injury."
+          }
+        ],
+        "UT": [
+          {
+            "title": "Is the future of voting electronic? For some voters with disabilities, it's the only way",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/is-the-future-of-voting-electronic-for-some-voters-with-disabilities-its-the-only-way/",
+            "date": "2026-11-24",
+            "summary": "After flooding washed out roads in Utah's San Juan County, 244 voters cast ballots through an emergency electronic voting system authorized by the lieutenant governor, highlighting electronic return as an accessibility option."
+          }
+        ],
+        "WI": [
+          {
+            "title": "Wisconsin students again face long lines to vote as officials grapple with campus wait times",
+            "source": "Votebeat",
+            "url": "https://www.votebeat.org/wisconsin/2026/11/19/university-polling-place-lines-long-strategies-work-nationwide/",
+            "date": "2026-11-19",
+            "summary": "Polling places near University of Wisconsin campuses in Stevens Point and Whitewater saw hours-long waits this November, driven by same-day registrations and limited staffing, while other cities have shortened lines with different strategies."
+          }
+        ]
+      }
     }
   ]
 }
