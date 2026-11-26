@@ -39997,6 +39997,57 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-26",
+      "time": "06:00",
+      "states": {
+        "GA": [
+          {
+            "title": "'Not a side quest': Empowered Georgia Democrats have chance to repeal state's draconian voting laws",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/not-a-side-quest-empowered-georgia-democrats-have-chance-to-repeal-states-draconian-voting-laws/",
+            "date": "2026-11-26",
+            "summary": "After Democrats flipped statewide offices in Georgia, voting rights advocates see a chance to roll back restrictions enacted since 2020, with Governor-elect Keisha Lance Bottoms pledging reforms to the State Election Board."
+          }
+        ],
+        "AK": [
+          {
+            "title": "Peltola's path to Senate seat clearer after Sullivan concedes, but GOP probes linger",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/peltolas-path-to-senate-seat-clearer-after-sullivan-concedes-but-gop-probes-linger/",
+            "date": "2026-11-25",
+            "summary": "Republican Sen. Dan Sullivan conceded Alaska's Senate race to Democrat Mary Peltola after the state certified her win, though GOP-led investigations into her campaign over a same-named spoiler candidate continue."
+          }
+        ],
+        "RI": [
+          {
+            "title": "Rhode Island voters reject bond measures for the first time in 20 years",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/25/rhode-island-voters-reject-bond-measures-for-the-first-time-in-20-years/",
+            "date": "2026-11-25",
+            "summary": "Rhode Island voters defeated two of five statewide bond measures on the November 2026 ballot, the state's first bond rejection since 2006."
+          }
+        ],
+        "CA": [
+          {
+            "title": "By less than a percentage vote, California rejects proposal to allow public financing of state and local campaigns",
+            "source": "Ballotpedia",
+            "url": "https://news.ballotpedia.org/2026/11/22/by-less-than-a-percentage-vote-california-rejects-proposal-to-allow-public-financing-of-state-and-local-campaigns/",
+            "date": "2026-11-22",
+            "summary": "California voters narrowly defeated Proposition 4, which would have lifted the state's 1988 ban on public financing of state and local campaigns, by about 50.2% to 49.8%."
+          }
+        ],
+        "MA": [
+          {
+            "title": "Mass. voters to decide fate of new abortion law on 2028 ballot",
+            "source": "Boston Globe",
+            "url": "https://www.bostonglobe.com/2026/11/17/metro/massachusetts-abortion-law-ballot-repeal-2028/",
+            "date": "2026-11-17",
+            "summary": "The Secretary of the Commonwealth's office certified 80,412 signatures backing a referendum to repeal a new law easing access to later-pregnancy abortions, sending the question to the November 2028 ballot."
+          }
+        ]
+      }
     }
   ]
 }
