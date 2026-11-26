@@ -39973,6 +39973,30 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-25",
+      "time": "17:00",
+      "states": {
+        "GA": [
+          {
+            "title": "Trump's FBI is still probing Fulton County's 2020 election results",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/trumps-fbi-is-still-probing-fulton-countys-2020-election-results/",
+            "date": "2026-11-22",
+            "summary": "FBI agents, reportedly including a U.S. Attorney with past ties to 2020 election-denial claims, questioned former Fulton County elections director Richard Barron about the county's 2020 election results."
+          }
+        ],
+        "TX": [
+          {
+            "title": "Democrats cracked Texas Supreme Court's red wall, ushering in new era for voting rights",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/democrats-cracked-texas-supreme-courts-red-wall-ushering-in-new-era-for-voting-rights/",
+            "date": "2026-11-25",
+            "summary": "Texas Democrats won four state Supreme Court seats in November's elections, though Republicans retain a narrow 5-4 majority, a shift that could affect how the court rules on future voting-rights disputes."
+          }
+        ]
+      }
     }
   ]
 }
