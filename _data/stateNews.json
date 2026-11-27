@@ -40053,6 +40053,48 @@
       "date": "2026-11-26",
       "time": "17:00",
       "states": {}
+    },
+    {
+      "date": "2026-11-27",
+      "time": "06:00",
+      "states": {
+        "AZ": [
+          {
+            "title": "After winning historic trifecta, Arizona Democrats could enact sweeping pro-voting agenda",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/after-winning-historic-trifecta-arizona-democrats-could-enact-sweeping-pro-voting-agenda/",
+            "date": "2026-11-20",
+            "summary": "Arizona Democrats now control the governor's office and both legislative chambers for the first time in six decades, giving them a chance to pass election proposals like the Voters First Act, though voter-approved laws, state constitutional provisions, and federal law limit how far they can go."
+          }
+        ],
+        "NV": [
+          {
+            "title": "Nevada Democrats have a chance to ease voter ID requirement after taking legislature",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/nevada-democrats-have-a-chance-to-ease-voter-id-requirement-after-taking-legislature/",
+            "date": "2026-11-19",
+            "summary": "Nevada voters approved a constitutional amendment requiring voter ID, but with Democrats set to control the legislature and governorship, lawmakers may be able to reduce its burden, such as by creating a free government-issued photo ID, though they cannot repeal the amendment itself."
+          }
+        ],
+        "OK": [
+          {
+            "title": "In win for voters, Oklahoma Supreme Court overturns restrictions on ballot measures",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/in-win-for-voters-oklahoma-supreme-court-overturns-restrictions-on-ballot-measures/",
+            "date": "2026-11-10",
+            "summary": "The Oklahoma Supreme Court struck down a state law restricting the citizen initiative and referendum process, including signature-distribution caps and ballot-summary language rules, finding the provisions violated free speech and assembly rights."
+          }
+        ],
+        "PA": [
+          {
+            "title": "Newly empowered Pennsylvania Democrats seek to revive stalled voting package",
+            "source": "Democracy Docket",
+            "url": "https://www.democracydocket.com/news-alerts/newly-empowered-pennsylvania-democrats-seek-to-revive-stalled-voting-package/",
+            "date": "2026-11-27",
+            "summary": "Having won full control of Pennsylvania's state government for the first time since 1993, Democrats plan to revive a voting rights package that passed the House last year but stalled in the Senate, which would allow pre-canvassing of mail ballots, add grace periods and drop boxes, and overhaul early voting."
+          }
+        ]
+      }
     }
   ]
 }

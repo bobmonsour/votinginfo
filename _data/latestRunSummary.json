@@ -1,4 +1,25 @@
 {
-  "date": "2026-11-26",
-  "items": []
+  "date": "2026-11-27",
+  "items": [
+    {
+      "text": "Pennsylvania Democrats, now in full control of state government, move to revive stalled voting package",
+      "url": "https://www.democracydocket.com/news-alerts/newly-empowered-pennsylvania-democrats-seek-to-revive-stalled-voting-package/",
+      "abbr": "PA"
+    },
+    {
+      "text": "Arizona Democrats weigh sweeping pro-voting agenda after winning historic trifecta",
+      "url": "https://www.democracydocket.com/news-alerts/after-winning-historic-trifecta-arizona-democrats-could-enact-sweeping-pro-voting-agenda/",
+      "abbr": "AZ"
+    },
+    {
+      "text": "Nevada Democrats look to ease new voter ID requirement after taking the legislature",
+      "url": "https://www.democracydocket.com/news-alerts/nevada-democrats-have-a-chance-to-ease-voter-id-requirement-after-taking-legislature/",
+      "abbr": "NV"
+    },
+    {
+      "text": "Oklahoma Supreme Court strikes down restrictions on citizen ballot measures",
+      "url": "https://www.democracydocket.com/news-alerts/in-win-for-voters-oklahoma-supreme-court-overturns-restrictions-on-ballot-measures/",
+      "abbr": "OK"
+    }
+  ]
 }
