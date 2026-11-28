@@ -40095,6 +40095,48 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-27",
+      "time": "17:00",
+      "states": {
+        "AL": [
+          {
+            "title": "Recount set in northeast Alabama Senate district",
+            "source": "Chattanooga Times Free Press",
+            "url": "https://www.timesfreepress.com/news/2026/nov/27/recount-set-in-northeast-alabama-senate-district/",
+            "date": "2026-11-27",
+            "summary": "A recount was scheduled in Alabama's Senate District 10 after the state certified the Nov. 3 general election, with independent Jesse Battles holding a 72-vote lead over incumbent Republican Sen. Andrew Jones."
+          }
+        ],
+        "AK": [
+          {
+            "title": "Group of Homer-area voters seek recount after 59-vote difference in election",
+            "source": "Peninsula Clarion",
+            "url": "https://www.peninsulaclarion.com/2026/11/27/group-of-homer-area-voters-seek-recount-after-59-vote-difference-in-election/",
+            "date": "2026-11-27",
+            "summary": "Ten qualified voters in Alaska's House District 6 filed a recount application after Brent Johnson defeated incumbent Rep. Sarah Vance by just 59 votes, asking for the ballots to be counted by hand."
+          }
+        ],
+        "NC": [
+          {
+            "title": "Election 2026: Sans 2 recounts, all North Carolina elections certified",
+            "source": "The Center Square",
+            "url": "https://www.yahoo.com/news/articles/election-2026-sans-2-recounts-151600347.html",
+            "date": "2026-11-25",
+            "summary": "North Carolina's State Board of Elections certified all 2026 election results except two races still under recount: a Guilford County state House seat and a District 21 district attorney race."
+          }
+        ],
+        "NY": [
+          {
+            "title": "New York State Senate District 43 race headed for manual recount",
+            "source": "WAMC",
+            "url": "https://www.wamc.org/news/2026-11-18/new-york-state-senate-district-43-race-headed-for-manual-recount",
+            "date": "2026-11-18",
+            "summary": "Albany County will manually recount ballots in State Senate District 43 after Democrat Devin Lander's 336-vote lead over Republican incumbent Jake Ashby triggered an automatic recount under New York law."
+          }
+        ]
+      }
     }
   ]
 }
